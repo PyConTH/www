@@ -1,0 +1,4 @@
+Sitemap: https://th.pycon.org/sitemapindex.xml
+
+User-Agent: *
+Host: th.pycon.org
