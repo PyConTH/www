@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://th.pycon.org/</loc>
-  <lastmod>2017-12-11T08:41:00Z</lastmod>
+  <lastmod>2017-12-11T08:55:00Z</lastmod>
  </url>
  <url>
   <loc>https://th.pycon.org/2017/</loc>
@@ -28,6 +28,10 @@
  <url>
   <loc>https://th.pycon.org/listings/</loc>
   <lastmod>2017-12-11T08:41:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://th.pycon.org/pages/pycon-thailand/</loc>
+  <lastmod>2017-12-11T08:55:00Z</lastmod>
  </url>
  <url>
   <loc>https://th.pycon.org/posts/pycon-thailand/</loc>
