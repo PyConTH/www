@@ -7,4 +7,30 @@
 .. description: 
 .. type: text
 
-Homepage
+Conference
+==========
+
+It's time Thailand got its own Python Conference.
+
+- Date
+- Venue
+- Attendees
+- Talks
+
+Call for Papers
+---------------
+
+We accept a broad range of Python-related proposals, from academic
+reports to commercial projects and case studies. See Call For Proposals
+page for detailed information.
+
+- February ?st, 2017: Call For Papers opens
+- March ?st, 2017: Call For Papers closes
+- March ?st, 2017: Announcement of accepted papers
+
+Sponsors
+========
+
+- Proteus Technologies
+- Pretaweb
+- You?
