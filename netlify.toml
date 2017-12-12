@@ -7,7 +7,7 @@
 
 [build]
   base    = "site"
-  publish = "output"
+  publish = "site/output"
   command = "nikola build"
 
 # # Production context: All deploys to the main
