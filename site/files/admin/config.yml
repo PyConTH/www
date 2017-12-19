@@ -9,7 +9,7 @@ collections:
     label: "Posts" # Used in the UI
     description: >
       Posts (blog entries), visible in indexes and RSS feeds.
-    folder: "posts" # The path to the folder where the documents are stored
+    folder: "site/posts" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
@@ -25,7 +25,7 @@ collections:
     description: >
       Pages (stories), used to display information outside of indexes/feeds.
       Great for an “About me” page, for example.
-    folder: "pages" # The path to the folder where the documents are stored
+    folder: "site/pages" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
