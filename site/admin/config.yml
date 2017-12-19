@@ -1,7 +1,7 @@
 backend:
   name: git-gateway
   branch: master
-display_url: https://example.com
+display_url: https://serene-mestorf-5c91d0.netlify.com
 media_folder: "images/uploads"
 public_folder: "/images/uploads"
 collections:
