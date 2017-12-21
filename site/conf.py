@@ -1158,20 +1158,20 @@ MARKDOWN_EXTENSIONS = ['markdown.extensions.fenced_code', 'markdown.extensions.c
 # This search form works for any site and looks good in the "site" theme where
 # it appears on the navigation bar:
 #
-# SEARCH_FORM = """
-# <!-- DuckDuckGo custom search -->
-# <form method="get" id="search" action="https://duckduckgo.com/"
-#  class="navbar-form pull-left">
-# <input type="hidden" name="sites" value="%s">
-# <input type="hidden" name="k8" value="#444444">
-# <input type="hidden" name="k9" value="#D51920">
-# <input type="hidden" name="kt" value="h">
-# <input type="text" name="q" maxlength="255"
-#  placeholder="Search&hellip;" class="span2" style="margin-top: 4px;">
-# <input type="submit" value="DuckDuckGo Search" style="visibility: hidden;">
-# </form>
-# <!-- End of custom search -->
-# """ % SITE_URL
+SEARCH_FORM = """
+<!-- DuckDuckGo custom search -->
+<form method="get" id="search" action="https://duckduckgo.com/"
+ class="navbar-form pull-left">
+<input type="hidden" name="sites" value="%s">
+<input type="hidden" name="k8" value="#444444">
+<input type="hidden" name="k9" value="#D51920">
+<input type="hidden" name="kt" value="h">
+<input type="text" name="q" maxlength="255"
+ placeholder="Search&hellip;" class="span2" style="margin-top: 4px;">
+<input type="submit" value="DuckDuckGo Search" style="visibility: hidden;">
+</form>
+<!-- End of custom search -->
+""" % SITE_URL
 #
 # If you prefer a Google search form, here's an example that should just work:
 # SEARCH_FORM = """
