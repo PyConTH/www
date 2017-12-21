@@ -12,10 +12,19 @@ Conference
 
 It's time Thailand got its own Python Conference.
 
-- Date
-- Venue
-- Attendees
-- Talks
+PyCon is a network of non-commercial conferences, hosted by Python programming
+communities all over the world. This year, the Thai Python community is
+organizing the first PyCon in Bangkok, with local and international
+participation.
+
+Date:
+    TBA
+Venue:
+    TBA
+Attendees:
+    150-200
+Talks:
+    25 minutes or 40 minutes
 
 Call for Papers
 ---------------
