@@ -11,4 +11,5 @@ Keynotes
 ========
 
 .. post-list::
+   :type: pages
    :tags: keynote

@@ -11,4 +11,5 @@ Talks
 =====
 
 .. post-list::
+   :type: pages
    :tags: talk
