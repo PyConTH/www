@@ -137,15 +137,38 @@ NAVIGATION_LINKS = {
             (
                 ("/about/", "About"),
                 ("/code-of-conduct/", "Code of Conduct"),
+                ("/sponsorship/", "Sponsorship"),
+                ("/staff/", "Staff"),
+                ("/contact/", "Contact"),
                 ),
             "About"
             ),
         (
             (
-                ("/programme/", "Programme"),
-                ("/venue/", "Venue"),
+                ("/schedule/", "Schedule"),
+                ("/keynotes/", "Keynotes"),
+                ("/talks/", "Talks"),
                 ),
             "Programme"
+            ),
+        (
+            (
+                ("/venue/", "Venue"),
+                ("/transportation/", "Transportation"),
+                ),
+            "Venue"
+            ),
+        (
+            (
+                ("/how-to-propose/", "How to propose"),
+                ),
+            "Proposal"
+            ),
+        (
+            (
+                ("/registration/", "Registration"),
+                ),
+            "Registration"
             ),
         ("/archive.html", "Archive"),
         ("/categories/", "Tags"),
