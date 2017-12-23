@@ -1,0 +1,14 @@
+.. title: Talks
+.. slug: talks
+.. date: 2017-12-23 23:39:32 UTC+07:00
+.. tags: 
+.. category: 
+.. link: 
+.. description: All talks
+.. type: text
+
+Talks
+=====
+
+.. post-list::
+   :tags: talk
