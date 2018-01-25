@@ -1,6 +1,7 @@
 # Nikola stuff
 .doit.db
 site/cache
+site/output
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
