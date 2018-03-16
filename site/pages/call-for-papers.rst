@@ -33,13 +33,13 @@ In no way does that imply that your presentation should be any less awesome than
 Important Dates
 ~~~~~~~~~~~~~~~
 
-.. class:: table table-bordered table-striped col-1-6
+.. class:: table table-bordered table-striped
 
-===================================== ==============
-Deadline for submission:              April 20th 2018
-Notification of acceptance:           May 10th 2018
-Deadline for final paper submission:  June 1st 2018
-===================================== ==============
+=============== ===================================== 
+April 20th 2018 Deadline for submission:              
+May 10th 2018   Notification of acceptance:           
+June 1st 2018   Deadline for final paper submission
+=============== ===================================== 
 
 For any enquiries regarding the programme, please contact: program@th.pycon.org
 For all general enquiries, please contact: ask@th.pycon.org
