@@ -18,9 +18,9 @@ organizing the first PyCon in Bangkok, with local and international
 participation.
 
 Date:
-    TBA
+    16/17 June 2018
 Venue:
-    TBA
+    `KMUTT Knowledge eXchange <https://m.facebook.com/kxkmutt>`_
 Attendees:
     150-200
 Talks:
@@ -30,12 +30,12 @@ Call for Papers
 ---------------
 
 We accept a broad range of Python-related proposals, from academic
-reports to commercial projects and case studies. See Call For Proposals
-page for detailed information.
+reports to commercial projects and case studies. 
+See the `Call for Papers <call-for-papers>`_ page for detailed information.
 
-- February ?st, 2017: Call For Papers opens
-- March ?st, 2017: Call For Papers closes
-- March ?st, 2017: Announcement of accepted papers
+- April 20th, 2018: Deadline for submission
+- May 10th, 2018: Notification of acceptance
+- June 1st, 2018: Deadline for final submission of accepted papers
 
 Sponsors
 ========

@@ -15,8 +15,8 @@ Accordingly, all attendees are expected to show respect and courtesy to other at
 To make clear what is expected, all delegates/attendees, speakers, exhibitors, organizers and volunteers at any PyCon event are required to conform to the following Code of Conduct.
 Organizers will enforce this code throughout the event.
 
-The Short Version
------------------
+In Short
+--------
 
 PyCon is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion.
 We do not tolerate harassment of conference participants in any form.
@@ -32,8 +32,8 @@ Attendees violating these rules may be asked to leave the conference without a r
 
 Thank you for helping make this a welcoming, friendly event for all.
 
-The Longer Version
-------------------
+In Some More Detail
+-------------------
 
 Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
 
@@ -46,34 +46,16 @@ Remember that sexist, racist, and other exclusionary jokes can be offensive to t
 
 If a participant engages in behavior that violates this code of conduct, the conference organizers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund.
 
-Contact Information
--------------------
+Procedure for Handling Harassment
+---------------------------------
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff.
-Conference staff will be wearing "PyCon Staff" t-shirts.
-You may also contact hotel staff and ask to be put in touch with the conference chair &mdash; Mike Amy.
-
-If the matter is especially urgent, please call/contact any of these individuals:
-
-.. TODO: fill in details
-
-- Mike Amy at +66 ...
-- Narumol Hankrotha (Molly) at +66 ...
-- Dylan Jay (program chair) at +66 ...
-- Benjamin Scherrey at +66 ...
-
-Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference.
-
-Anonymous Report
-~~~~~~~~~~~~~~~~
-
-You can make an anonymous report here [Wufoo form or similar that DOES NOT require an email address to submit.
-We can't follow up an anonymous report with you directly, but we will fully investigate it and take whatever action is necessary to prevent a recurrence.
+- `Attendee Procedure for Incident Handling <attendee-procedure-for-incident-handling>`_.
+- `Staff Procedure for incident handling <staff-procedure-for-incident-handling>`_.
 
 License
 -------
 
-This Code of Conduct was created with reference to the example policy from the [Geek Feminism wiki, created by the Ada Initiative and other volunteers](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy) which is under a Creative Commons Zero license, and the https://github.com/python/pycon-code-of-conduct.
+This Code of Conduct was created with reference to the example policy from the `Geek Feminism wiki, created by the Ada Initiative and other volunteers <http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy>`_ which is under a Creative Commons Zero license, and the `PyCon Code of Conduct <https://github.com/python/pycon-code-of-conduct>`_.
 
 .. raw:: html
 
