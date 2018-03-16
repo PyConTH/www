@@ -163,7 +163,7 @@ NAVIGATION_LINKS = {
                 ("/call-for-papers/", "Call for Papers"),
                 ("/how-to-propose/", "How to propose"),
                 ),
-            "Proposal"
+            "Call for Papers"
             ),
         (
             (
