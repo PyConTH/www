@@ -19,8 +19,7 @@ Sponsors
 
 .. class:: jumbotron
 
-Proteus Technologies
-https://proteus-tech.com/
+`Proteus Technologies <https://proteus-tech.com/>`_
 
 .. class:: jumbotron
 

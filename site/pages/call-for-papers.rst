@@ -25,7 +25,7 @@ Guide for authors
 -----------------
 
 The deadline to submit abstracts is April 20th.
-To submit your abstract, please click on the following link: .
+To submit your abstract, please click on the following link: https://www.papercall.io/pyconth 
 We know the schedule is a bit tight, so we'll make sure we answer you as quickly as possible.
 Because of the time constraints, all talks will be accepted based on the abstract only. 
 In no way does that imply that your presentation should be any less awesome than your abstract.
