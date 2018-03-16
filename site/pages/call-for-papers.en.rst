@@ -12,7 +12,7 @@ It is a pleasure to invite you to PyCon Thailand.
 The conference is organized by a group of Python afficionados and will take place in Bangkok on June 16-17 2018.
 This is the very first PyCon Thailand and we hope this will increase the visibility of Python in Thailand.
 
-The theme of PyCon Thailand is everythng Python.
+The theme of PyCon Thailand is everything Python.
 
 Topics of interest
 
@@ -25,7 +25,11 @@ Guide for authors
 -----------------
 
 The deadline to submit abstracts is April 20th.
-To submit your abstract, please click on the following link: https://www.papercall.io/pyconth 
+
+.. raw:: html
+
+    <a class="btn btn-default" href="https://www.papercall.io/pyconth" role="button">Submit Your Abstract Now!</a>
+
 We know the schedule is a bit tight, so we'll make sure we answer you as quickly as possible.
 Because of the time constraints, all talks will be accepted based on the abstract only. 
 In no way does that imply that your presentation should be any less awesome than your abstract.
