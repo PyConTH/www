@@ -36,12 +36,12 @@ Important Dates
 .. class:: table table-bordered table-striped
 
 =============== ===================================== 
-April 20th 2018 Deadline for submission:              
-May 10th 2018   Notification of acceptance:           
+April 20th 2018 Deadline for submission
+May 10th 2018   Notification of acceptance
 June 1st 2018   Deadline for final paper submission
 =============== ===================================== 
 
 For any enquiries regarding the programme, please contact: program@th.pycon.org
 For all general enquiries, please contact: ask@th.pycon.org
 
-We look forward to seeing you at PyCon Thailand
+We look forward to seeing you at PyCon Thailand!
