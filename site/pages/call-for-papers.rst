@@ -33,7 +33,7 @@ In no way does that imply that your presentation should be any less awesome than
 Important Dates
 ~~~~~~~~~~~~~~~
 
-.. class:: table table-bordered table-striped 
+.. class:: table table-bordered table-striped col-1-6
 
 ===================================== ==============
 Deadline for submission:              April 20th 2018
