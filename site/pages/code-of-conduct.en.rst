@@ -15,6 +15,11 @@ Accordingly, all attendees are expected to show respect and courtesy to other at
 To make clear what is expected, all delegates/attendees, speakers, exhibitors, organizers and volunteers at any PyCon event are required to conform to the following Code of Conduct.
 Organizers will enforce this code throughout the event.
 
+In Very Short
+-------------
+
+Be nice. Be Professional. Management reserves the right to eject you. See us immediately if you are have a problem.
+
 In Short
 --------
 
