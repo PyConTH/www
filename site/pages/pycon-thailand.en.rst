@@ -10,14 +10,16 @@
 
 .. container:: jumbotron
 
+    .. rubric:: PyCon Thailand 2018
+
     June 16-17
     Bangkok
 
 
-.. container:: jumbotron
+Call for Papers
+===============
 
-    Call for Papers
-    ===============
+.. container:: jumbotron
 
     2018 is first PyCon in Thailand and we need your help.
     PyCon's happen all over the world, hosted by python programmers for python
@@ -26,15 +28,16 @@
 
     .. class:: btn btn-primary btn-lg active
 
-    `Submit Your Talk Proposal <submit-talk>`_
+        `Submit Your Talk Proposal <submit-talk>`_
 
     Quick! The deadline for proposals is May 1st.
 
 
+Meet Our Keynote Speakers!
+==========================
+
 .. container:: jumbotron
 
-    Meet Our Keynote Speakers!
-    ==========================
 
     .. class:: img-circle img-responsive
 
@@ -44,8 +47,7 @@
        :width: 200px
 
 
-    Wes McKinney
-    ------------
+    .. rubric:: Wes McKinney
 
     http://wesmckinney.com
 
@@ -54,13 +56,13 @@
     He is also a contributor to the Arrow, Kudu (incubating), and Parquet projects within the Apache Software Foundation.
 
 
-.. container:: jumbotron clearfix
+Sponsors
+========
 
-    Sponsors
-    ========
+.. container:: jumbotron clearfix
 
     Our Sponsorship prospectus will be available soon.
 
     .. class:: btn btn-primary btn-lg active
 
-    `Register your interest <sponsorship>`_
+        `Register your interest <sponsorship>`_
