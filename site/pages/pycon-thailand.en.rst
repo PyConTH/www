@@ -1,4 +1,4 @@
-.. title: PyCon Thailand
+.. title: PyCon Thailand 2018
 .. slug: index
 .. date: 2017-12-11 15:41:41 UTC+07:00
 .. tags: 
@@ -10,9 +10,6 @@
 .. raw:: html
 
     <div class="jumbotron">
-
-PyCon Thailand 2018
-===================
 
 June 16-17
 Bangkok
