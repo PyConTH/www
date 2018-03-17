@@ -1,5 +1,5 @@
-.. title: Call for Papers
-.. slug: call-for-papers
+.. title: Submit Talk Proposal
+.. slug: submit-talk-proposal
 .. date: 2018-03-16 19:22:54 UTC+07:00
 .. tags: 
 .. category: 
@@ -33,6 +33,8 @@ The deadline to submit abstracts is April 20th.
 We know the schedule is a bit tight, so we'll make sure we answer you as quickly as possible.
 Because of the time constraints, all talks will be accepted based on the abstract only. 
 In no way does that imply that your presentation should be any less awesome than your abstract.
+
+For some more information, see `How to propose <how-to-propose>`_.
 
 Important Dates
 ~~~~~~~~~~~~~~~
