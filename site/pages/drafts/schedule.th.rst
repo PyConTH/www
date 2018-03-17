@@ -1,7 +1,7 @@
 .. title: Schedule
 .. slug: schedule-th
 .. date: 2017-12-23 20:20:09 UTC+07:00
-.. tags: 
+.. tags: draft
 .. category: 
 .. link: 
 .. description: 
