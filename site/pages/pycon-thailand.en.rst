@@ -38,6 +38,7 @@ Quick! The deadline for proposals is May 1st.
 .. raw:: html
 
     </div>
+    <p></p>
 
 .. raw:: html
 
@@ -63,6 +64,7 @@ He is also a contributor to the Arrow, Kudu (incubating), and Parquet projects w
 .. raw:: html
 
     </div>
+    <p></p>
 
 .. raw:: html
 
