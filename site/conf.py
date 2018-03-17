@@ -1103,6 +1103,7 @@ Email
 </tr></tbody>
 </table>
 """
+}
 
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
 # for translatability, as dicts are not formattable.  Nikola will
