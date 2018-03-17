@@ -9,9 +9,10 @@
 
 
 
-.. container:: jumbotron jumbotron-fluid col-md-6 col-centered
+.. container:: jumbotron jumbotron-fluid col-centered
 
     .. admonition:: PyCon Thailand 2018
+        :class: col-md-6
 
         June 16-17
 
@@ -30,7 +31,7 @@ Call for Papers
 
    .. raw:: html
 
-       <div style="align: center">
+       <div style="text-align: center">
         <a class="btn btn-primary btn-lg active" href="submit-talk">Submit Your Talk Proposal</a>
        </div>
 
@@ -69,6 +70,6 @@ Sponsors
 
    .. raw:: html
 
-       <div style="align: center">
+       <div style="text-align: center">
           <a class="btn btn-primary btn-lg active" href="sponsorship">Register your interest</a>
        </div>
