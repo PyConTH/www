@@ -85,7 +85,7 @@ Suitable topics include, but are not limited to:
       - Network Programming
       - Testing and Development Tool Chains
     * - Project Best Practices
-      - Python Implementations: IronPython, Jython, PyPy and Stackless
+      - Python Implementations: IronPython, Jython, PyPy, Stackless and MicroPython
       - Internet of Things
 
 You are probably doing something more interesting to others than you know. Submit a proposal.
@@ -127,7 +127,7 @@ If you would be interested in advice, tips or suggestions for writing a great pr
 articles::
 
   - `PyConAU Talk proposal Tips <https://2017.pycon-au.org/program/proposal-tips/tips-writing-great-proposal/>`
-  - `PyConAU Detailed propsal help <https://2017.pycon-au.org/program/proposal-tips/proposal-tips-part-two/>`
+  - `PyConAU Detailed proposal help <https://2017.pycon-au.org/program/proposal-tips/proposal-tips-part-two/>`
 
 If you would like feedback on your proposal
 -------------------------------------------
