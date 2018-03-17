@@ -10,9 +10,11 @@
 PyCon Thailand
 ==============
 
-PyCon is a non-commercial conference held by Python Programming Communities all over the world.
+PyCon_ is a non-commercial conference held by Python Programming Communities all over the world.
 
 This is the first year that we're organizing a PyCon in Bangkok. 
+
+.. _PyCon: https://www.pycon.org/
 
 Sponsors
 --------
