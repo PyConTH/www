@@ -96,7 +96,7 @@ DEFAULT_LANG = "en"
 TRANSLATIONS = {
     DEFAULT_LANG: "",
     #TBD "th": "./th",
-    "de": "./th",
+    "de": "th",
     # Example for another language:
     # "es": "./es",
 }
@@ -138,7 +138,25 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
+        (
+            (
+               ("/about/", "About"),
+               ("/code-of-conduct/", "Code of Conduct"),
+               ("/staff/", "Staff"),
+               ("/contact/", "Contact"),),
+           "About"
+           ),
     ),
+    "de": (
+        (
+            (
+               ("/about/", "About TBD"),
+               ("/code-of-conduct/", "Code of Conduct TBD"),
+               ("/staff/", "Staff TBD"),
+               ("/contact/", "Contact TBD"),),
+           "About TBD"
+           ),
+        ),
 }
 
 #xxx    DEFAULT_LANG: (

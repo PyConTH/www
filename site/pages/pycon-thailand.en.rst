@@ -32,7 +32,7 @@ Quick! The deadline for proposals is May 1st.
 Meet Our Keynote Speakers!
 ==========================
 
-.. image:: wes-2017-01-12-small.png
+.. image:: /wes-2017-01-12-small.png
    :alt: Wes McKinney (portrait)
    :align: left
 
