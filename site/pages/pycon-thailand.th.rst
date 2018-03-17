@@ -55,7 +55,7 @@ See the `Call for Papers <call-for-papers>`_ page for detailed information.
 Meet Our Keynote Speakers!
 ==========================
 
-.. image:: wes-2017-01-12-small.png
+.. image:: /wes-2017-01-12-small.png
    :alt: Wes McKinney (portrait)
    :align: left
 
