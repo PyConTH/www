@@ -1,5 +1,5 @@
 .. title: Keynotes
-.. slug: keynotes
+.. slug: keynotes-th
 .. date: 2017-12-23 23:38:03 UTC+07:00
 .. tags: 
 .. category: 

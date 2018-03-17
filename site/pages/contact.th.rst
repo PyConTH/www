@@ -1,5 +1,5 @@
 .. title: Contacts
-.. slug: contact
+.. slug: contact-th
 .. date: 2017-12-23 19:47:46 UTC+07:00
 .. tags: 
 .. category: 

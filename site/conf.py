@@ -96,7 +96,7 @@ DEFAULT_LANG = "en"
 TRANSLATIONS = {
     DEFAULT_LANG: "",
     #TBD "th": "./th",
-    "de": "./th",
+    "de": "th",
     # Example for another language:
     # "es": "./es",
 }

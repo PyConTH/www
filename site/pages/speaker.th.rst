@@ -1,5 +1,5 @@
 .. title: Speaker
-.. slug: speaker
+.. slug: speaker-th
 .. date: 2017-12-23 23:07:54 UTC+07:00
 .. tags: 
 .. category: 

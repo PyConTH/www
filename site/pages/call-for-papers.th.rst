@@ -1,5 +1,5 @@
 .. title: Call for Papers
-.. slug: call-for-papers
+.. slug: call-for-papers-th
 .. date: 2018-03-16 19:22:54 UTC+07:00
 .. tags: 
 .. category: 

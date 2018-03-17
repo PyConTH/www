@@ -1,5 +1,5 @@
 .. title: How to propose
-.. slug: how-to-propose
+.. slug: how-to-propose-th
 .. date: 2017-12-23 20:05:24 UTC+07:00
 .. tags: 
 .. category: 

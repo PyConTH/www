@@ -1,5 +1,5 @@
 .. title: Transportation
-.. slug: transportation
+.. slug: transportation-th
 .. date: 2017-12-23 20:00:53 UTC+07:00
 .. tags: 
 .. category: 

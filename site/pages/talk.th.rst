@@ -1,5 +1,5 @@
 .. title: Talk (stub)
-.. slug: talk
+.. slug: talk-th
 .. date: 2017-12-23 23:10:24 UTC+07:00
 .. tags: talk
 .. category: talk
