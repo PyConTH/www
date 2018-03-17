@@ -15,11 +15,9 @@ First-time visitors may be a little taken aback by the concrete canyons and futu
 but take a few steps away from the main roads into one of the city’s countless alleys and traditional
 Thai culture is everywhere – an urban cornucopia of smells, tastes, sounds and sights that one is unlikely to forget.
 
-.. raw:: html
-
-    <div style="float: left;">
-        <img src="https://ismade.org/wp-content/uploads/2016/11/kx-building6-compressor.jpg" alt="KX Building"/>
-    </div>
+.. image:: /kx-building.jpg
+    :alt: KX Building
+    :align: left
 
 Knowledge Exchange Center – KX
 ==============================
