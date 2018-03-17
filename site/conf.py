@@ -140,21 +140,44 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         (
             (
-               ("/about/", "About"),
+               ("/submit-talk/", "Submit Talk Proposal"),
+               ("/buy-tickets/", "Buy Tickets"),
+               ("/speakers/", "Speakers"),
+#              ("/schedule/", "Talk Schedule"),
+#              ("/keynotes/", "Keynotes"),
+#              ("/about/", "About"),
+#              ("/staff/", "Staff"),
                ("/code-of-conduct/", "Code of Conduct"),
-               ("/staff/", "Staff"),
                ("/contact/", "Contact"),),
-           "About"
+           "Event"
            ),
+        (
+            (
+#              ("/sponsors/", "Sponsors"),
+               ("/prospectus/", "Sponsorship Prospectus"),),
+           "Sponsorship"
+           ),
+        ('/venue/', 'Venue')
     ),
     "de": (
         (
             (
-               ("/about/", "About TBD"),
-               ("/code-of-conduct/", "Code of Conduct TBD"),
-               ("/staff/", "Staff TBD"),
-               ("/contact/", "Contact TBD"),),
-           "About TBD"
+               ("/submit-talk/", "Submit Talk Proposal"),
+               ("/buy-tickets/", "Buy Tickets"),
+               ("/speakers/", "Speakers"),
+#              ("/schedule/", "Talk Schedule"),
+#              ("/keynotes/", "Keynotes"),
+#              ("/about/", "About"),
+#              ("/staff/", "Staff"),
+               ("/code-of-conduct/", "Code of Conduct"),
+               ("/contact/", "Contact"),),
+           "Event TBD"
+           ),
+        (
+            (
+#              ("/sponsors/", "Sponsors"),
+               ("/prospectus/", "Sponsorship Prospectus"),),
+           "Sponsorship"
            ),
         ),
 }
