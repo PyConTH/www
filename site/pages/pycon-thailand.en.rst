@@ -27,7 +27,8 @@ Call for Papers
     programmers. PyCon Thailand will be a two day weekend conference with talks
     in both Thai and English. We want your proposal for talks, lightning talks and workshops.
 
-   .. raw::
+   .. raw:: html
+
        <div class="center">
         <a class="btn btn-primary btn-lg active" href="submit-talk">Submit Your Talk Proposal</a>
        </div>
@@ -65,7 +66,8 @@ Sponsors
 
     Our Sponsorship prospectus will be available soon.
 
-   .. raw::
+   .. raw:: html
+
        <div class="center">
        <a class="btn btn-primary btn-lg active" href="sponsorship">Register your interest</a>
        </div>
