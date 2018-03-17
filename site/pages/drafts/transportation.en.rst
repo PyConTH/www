@@ -1,7 +1,7 @@
 .. title: Transportation
 .. slug: transportation
 .. date: 2017-12-23 20:00:53 UTC+07:00
-.. tags: 
+.. tags: draft
 .. category: 
 .. link: 
 .. description: Transportation

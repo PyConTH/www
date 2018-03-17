@@ -1,7 +1,7 @@
 .. title: Keynotes
 .. slug: keynotes-th
 .. date: 2017-12-23 23:38:03 UTC+07:00
-.. tags: 
+.. tags: draft
 .. category: 
 .. link: 
 .. description: All keynotes
@@ -12,4 +12,4 @@ Keynotes
 
 .. post-list::
    :type: pages
-   :tags: keynote
+   :tags: keynote, draft
