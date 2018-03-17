@@ -29,3 +29,23 @@ Two
 
 Three
 
++------------------------------------------------------------------------------------+-------------------------+--------------+
+| About                                                                              | When & Where            | Get Social   |
++====================================================================================+=========================+==============+
+| PyCon Thailand is a conference about the programming language Python.              | When:                   | Twitter      |
+| It is a community effort driven by the members of the Python Community in Bangkok. | May 31st - June 2nd 2018| Facebook     |
+|                                                                                    | Where:                  | Mailing List |
+|                                                                                    | National University of  | Email        |
+|                                                                                    | Singapore Computing 1   |              |
++------------------------------------------------------------------------------------+-------------------------+--------------+
+
+
+
+
+
+
+
+
+
+
+

@@ -1041,7 +1041,68 @@ LICENSE = ""
 
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
-CONTENT_FOOTER = 'Contents &copy; {date}         <a href="mailto:{email}">{author}</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         {license}'
+# CONTENT_FOOTER = 'Contents &copy; {date}         <a href="mailto:{email}">{author}</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         {license}'
+
+CONTENT_FOOTER = {
+	DEFAULT_LANG: """
+<table border="1" class="table table-bordered table-striped docutils">
+<thead valign="bottom"><tr>
+<th class="head">About</th>
+<th class="head">When &amp; Where</th>
+<th class="head">Get Social</th>
+</tr></thead>
+<tbody valign="top"><tr>
+<td>PyCon Thailand is a conference about the programming language Python.
+It is a community effort driven by the members of the Python Community in Bangkok.</td>
+<td><h4>When:</h4>
+June 16-17 2018
+<h4>Where:</h4>
+Knowledge Exchange Center – KX <br/>
+10/1 Krung Thonburi Road <br/>
+Khwaeng Bang Lamphu Lang <br/>
+Thon Buri <br/>
+Bangkok <br/>
+10600
+</td>
+<td>
+Twitter
+Facebook
+Mailing List
+Email
+</td>
+</tr></tbody>
+</table>
+""",
+#TBD "th": 
+"de": """
+<table border="1" class="table table-bordered table-striped docutils">
+<thead valign="bottom"><tr>
+<th class="head">About</th>
+<th class="head">When &amp; Where</th>
+<th class="head">Get Social</th>
+</tr></thead>
+<tbody valign="top"><tr>
+<td>PyCon Thailand is a conference about the programming language Python.
+It is a community effort driven by the members of the Python Community in Bangkok.</td>
+<td><h4>When:</h4>
+June 16-17 2018
+<h4>Where:</h4>
+Knowledge Exchange Center – KX <br/>
+10/1 Krung Thonburi Road <br/>
+Khwaeng Bang Lamphu Lang <br/>
+Thon Buri <br/>
+Bangkok <br/>
+10600
+</td>
+<td>
+Twitter
+Facebook
+Mailing List
+Email
+</td>
+</tr></tbody>
+</table>
+"""
 
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
 # for translatability, as dicts are not formattable.  Nikola will
