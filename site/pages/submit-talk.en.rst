@@ -7,10 +7,14 @@
 .. description: 
 .. type: text
 
+It is a pleasure to invite you to PyCon Thailand!
 
-It is a pleasure to invite you to PyCon Thailand. 
-The conference is organized by a group of Python afficionados and will take place in Bangkok on June 16-17 2018.
-This is the very first PyCon Thailand and we hope this will increase the visibility of Python in Thailand.
+PyCon_ is a network of non-commercial conferences, hosted by Python programming communities all over the world. This year, the Thai Python community is organizing the first PyCon in Bangkok, with local and international participation.
+
+The conference is organized by a group of Python afficionados and will take place in Bangkok at `Knowledge Exchange for Innovation`_. We hope this will increase the visibility of Python in Thailand.
+
+.. _PyCon: https://www.pycon.org/
+.. _Knowledge Exchange for Innovation: https://ismade.org/
 
 The theme of PyCon Thailand is everything Python.
 
@@ -34,7 +38,6 @@ We know the schedule is a bit tight, so we'll make sure we answer you as quickly
 Because of the time constraints, all talks will be accepted based on the abstract only. 
 In no way does that imply that your presentation should be any less awesome than your abstract.
 
-For some more information, see `How to propose <how-to-propose>`_.
 
 Important Dates
 ~~~~~~~~~~~~~~~
@@ -47,7 +50,8 @@ May 10th 2018   Notification of acceptance
 June 1st 2018   Deadline for final paper submission
 =============== ===================================== 
 
-For any enquiries regarding the programme, please contact: program@th.pycon.org
-For all general enquiries, please contact: ask@th.pycon.org
+For more information, please look consult the `Call for paper`_
+
+.. _Call for paper: https://www.papercall.io/pyconth
 
 We look forward to seeing you at PyCon Thailand!
