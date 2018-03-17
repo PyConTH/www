@@ -1,5 +1,5 @@
 .. title: Submit Talk Proposal
-.. slug: submit-talk-proposal
+.. slug: submit-talk
 .. date: 2018-03-16 19:22:54 UTC+07:00
 .. tags: 
 .. category: 
