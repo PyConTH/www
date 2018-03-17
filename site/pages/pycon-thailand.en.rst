@@ -8,6 +8,9 @@
 .. type: text
 
 
+.. role:: raw_html
+    :format: html
+
 .. container:: jumbotron
 
     .. rubric:: PyCon Thailand 2018
@@ -26,9 +29,9 @@ Call for Papers
     programmers. PyCon Thailand will be a two day weekend conference with talks
     in both Thai and English. We want your proposal for talks, lightning talks and workshops.
 
-    .. class:: btn btn-primary btn-lg active
+   .. class:: center
 
-        `Submit Your Talk Proposal <submit-talk>`_
+        :raw_html:`<a class="btn btn-primary btn-lg active" href="submit-talk">Submit Your Talk Proposal</a>`
 
     Quick! The deadline for proposals is May 1st.
 
@@ -63,6 +66,6 @@ Sponsors
 
     Our Sponsorship prospectus will be available soon.
 
-    .. class:: btn btn-primary btn-lg active
+   .. class:: center
 
-        `Register your interest <sponsorship>`_
+      :raw_html:`<a class="btn btn-primary btn-lg active" href="sponsorship">Register your interest</a>`
