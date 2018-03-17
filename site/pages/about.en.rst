@@ -17,9 +17,15 @@ This is the first year that we're organizing a PyCon in Bangkok.
 Sponsors
 --------
 
-One
+.. class:: jumbotron
+
+`Proteus Technologies <https://proteus-tech.com/>`_
+
+.. class:: jumbotron
 
 Two
+
+.. class:: jumbotron
 
 Three
 

@@ -16,8 +16,10 @@ import time
 
 
 # Data about this site
-BLOG_AUTHOR = "PyCon Thailand team"  # (translatable)
-BLOG_TITLE = "PyCon Thailand"  # (translatable)
+#TDB BLOG_AUTHOR = {"en": "PyCon Thailand team", "th": "TBD"}  # (translatable)
+BLOG_AUTHOR = {"en": "PyCon Thailand team", "de": "TBD"}  # (translatable)
+#TDB BLOG_TITLE = {"en":"PyCon Thailand", "th": "TBD"}  # (translatable)
+BLOG_TITLE = {"en":"PyCon Thailand", "de": "TBD"}  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
 SITE_URL = "https://th.pycon.org/"
@@ -25,7 +27,8 @@ SITE_URL = "https://th.pycon.org/"
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://th.pycon.org/"
 BLOG_EMAIL = "jean.jordaan@gmail.com"
-BLOG_DESCRIPTION = "Conference website for PyCon Thailand"  # (translatable)
+#TBD BLOG_DESCRIPTION = {"en": "Conference website for PyCon Thailand", "th": "TDB"}  # (translatable)
+BLOG_DESCRIPTION = {"en": "Conference website for PyCon Thailand", "de": "TDB"}  # (translatable)
 
 # Nikola is multilingual!
 #
@@ -92,6 +95,8 @@ DEFAULT_LANG = "en"
 # the path will be used as a prefix for the generated pages location
 TRANSLATIONS = {
     DEFAULT_LANG: "",
+    #TBD "th": "./th",
+    "de": "./th",
     # Example for another language:
     # "es": "./es",
 }
@@ -133,48 +138,77 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        (
-            (
-                ("/about/", "About"),
-                ("/code-of-conduct/", "Code of Conduct"),
-                ("/sponsorship/", "Sponsorship"),
-                ("/staff/", "Staff"),
-                ("/contact/", "Contact"),
-                ),
-            "About"
-            ),
-        (
-            (
-                ("/schedule/", "Schedule"),
-                ("/keynotes/", "Keynotes"),
-                ("/talks/", "Talks"),
-                ),
-            "Programme"
-            ),
-        (
-            (
-                ("/venue/", "Venue"),
-                ("/transportation/", "Transportation"),
-                ),
-            "Venue"
-            ),
-        (
-            (
-                ("/how-to-propose/", "How to propose"),
-                ),
-            "Proposal"
-            ),
-        (
-            (
-                ("/registration/", "Registration"),
-                ),
-            "Registration"
-            ),
-        ("/archive.html", "Archive"),
-        ("/categories/", "Tags"),
-        ("/rss.xml", "RSS feed"),
     ),
 }
+
+#xxx    DEFAULT_LANG: (
+#xxx            (
+#xxx                (
+#xxx                ("/about/", "About"),
+#xxx                ("/code-of-conduct/", "Code of Conduct"),
+#xxx                ("/staff/", "Staff"),
+#xxx                ("/contact/", "Contact"),),
+#xxx            "About"
+#xxx            ),
+#xxx            (
+#xxx                ("/sponsorship/", "Sponsorship"),
+#xxx            "Sponsorship"
+#xxx            ),
+#xxx            (
+#xxx                (("/venue/", "Venue"),
+#xxx                ("/transportation/", "Transportation"),),
+#xxx            "Venue"
+#xxx            ),
+#xxx            (
+#xxx                (("/call-for-papers/", "Call for Papers"),
+#xxx                ("/how-to-propose/", "How to propose"),),
+#xxx            "Call for Papers"
+#xxx            ),
+#xxx            (
+#xxx                ("/registration/", "Registration"),
+#xxx            "Registration"
+#xxx            ),
+#xxx            ("/rss.xml", "RSS feed"),
+#xxx        ),
+#xxx    #TDB "th": (
+#xxx    "de": (
+#xxx            (
+#xxx                (
+#xxx                ("/about/", "TBD About"),
+#xxx                ("/code-of-conduct/", "TBD Code of Conduct"),
+#xxx                ("/staff/", "TBD Staff"),
+#xxx                ("/contact/", "TBD Contact"),),
+#xxx            "About"
+#xxx            ),
+#xxx            (
+#xxx                ("/sponsorship/", "TBD Sponsorship"),
+#xxx            "Sponsorship"
+#xxx            ),
+#xxx            (
+#xxx                (("/venue/", "TBD Venue"),
+#xxx                ("/transportation/", "TBD Transportation"),),
+#xxx            "Venue"
+#xxx            ),
+#xxx            (
+#xxx                (("/call-for-papers/", "TBD Call for Papers"),
+#xxx                ("/how-to-propose/", "TBD How to propose"),),
+#xxx            "Call for Papers"
+#xxx            ),
+#xxx            (
+#xxx                ("/registration/", "TBD Registration"),
+#xxx            "Registration"
+#xxx            ),
+#xxx    ),
+
+#       (
+#           (
+#               ("/schedule/", "Schedule"),
+#               ("/keynotes/", "Keynotes"),
+#               ("/talks/", "Talks"),
+#           "Programme"
+#           ),
+#       ("/archive.html", "Archive"),
+#       ("/categories/", "Tags"),
 
 # Name of the theme to use.
 # THEME = "bootstrap3"
