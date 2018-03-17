@@ -47,9 +47,10 @@ He is also a contributor to the Arrow, Kudu (incubating), and Parquet projects w
 
 
 .. class:: jumbotron
-Sponsors
-========
 
-Our Sponsorship prospectus will be available soon.
+    Sponsors
+    ========
 
-`Register your interest <sponsorship>`_
+    Our Sponsorship prospectus will be available soon.
+
+    `Register your interest <sponsorship>`_
