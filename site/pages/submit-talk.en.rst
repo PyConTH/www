@@ -27,29 +27,41 @@ Whether you got started with Python last month or you’ve been around for 20 ye
 share. The Python community is stronger than ever and we’re still reaching new areas, new industries, and new users.
 Be a part of growing Python by helping us change the future.
 
+Speaker Benefits
+----------------
+PyCon_ has a strong tradition of being a conference of peers and as such, everyone pays, even speakers.
+However all speakers will only have to pay the early bird price. If you are able to pay for a full registration,
+then please consider doing so. This is a volunteer led conference and all funds going back into the event.
+
+
 
 Which Topics Are Suitable?
 --------------------------
 
 Suitable topics include, but are not limited to:
 
-- Machine Learning / Artificial Intelligence
-- Big Data / Pandas / Jupyther
-- Fintech / Quantitative Finance
-- eEnergy / Social Impact
-- Blockchain
-- Web Development
-- System Administration / DevOps / Deployment
-- Python Libraries and Extensions
-- Python in Education, Science and Maths
-- Business and Scientific Applications
-- Embedding and Extending Python
-- Game Programming
-- GUI Programming
-- Network Programming
-- Testing and Development Tool Chains
-- Project Best Practices
-- Python Implementations: IronPython, Jython, PyPy and Stackless
+
+.. list-table:: Suggested Topics
+   :widths: 15 10 30
+   :header-rows: 0
+
+    * - Machine Learning / Artificial Intelligence
+      - Big Data / Pandas / Jupyther
+      - Fintech / Quantitative Finance
+    * - eEnergy / Social Impact
+      - Blockchain
+      - Web Development
+    * - System Administration / DevOps / Deployment
+      - Python Libraries and Extensions
+      - Python in Education, Science and Maths
+    * - Business and Scientific Applications
+      - Embedding and Extending Python
+      - Game Programming
+    * - GUI Programming
+      - Network Programming
+      - Testing and Development Tool Chains
+    * - Project Best Practices
+      - Python Implementations: IronPython, Jython, PyPy and Stackless-
 
 You are probably doing something more interesting to others than you know. Submit a proposal.
 
