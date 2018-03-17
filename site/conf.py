@@ -141,20 +141,21 @@ NAVIGATION_LINKS = {
         (
             (
                ("/submit-talk/", "Submit Talk Proposal"),
-               ("/buy-tickets/", "Buy Tickets"),
-               ("/speakers/", "Speakers"),
+#               ("/buy-tickets/", "Buy Tickets"),
+#               ("/speakers/", "Speakers"),
 #              ("/schedule/", "Talk Schedule"),
 #              ("/keynotes/", "Keynotes"),
 #              ("/about/", "About"),
 #              ("/staff/", "Staff"),
                ("/code-of-conduct/", "Code of Conduct"),
-               ("/contact/", "Contact"),),
+#               ("/contact/", "Contact"),
+            ),
            "Event"
            ),
         (
             (
 #              ("/sponsors/", "Sponsors"),
-               ("/prospectus/", "Sponsorship Prospectus"),),
+               ("/sponsorship/", "Sponsorship"),),
            "Sponsorship"
            ),
         ('/venue/', 'Venue')
@@ -163,22 +164,24 @@ NAVIGATION_LINKS = {
         (
             (
                ("/submit-talk/", "Submit Talk Proposal"),
-               ("/buy-tickets/", "Buy Tickets"),
-               ("/speakers/", "Speakers"),
+#               ("/buy-tickets/", "Buy Tickets"),
+#               ("/speakers/", "Speakers"),
 #              ("/schedule/", "Talk Schedule"),
 #              ("/keynotes/", "Keynotes"),
 #              ("/about/", "About"),
 #              ("/staff/", "Staff"),
                ("/code-of-conduct/", "Code of Conduct"),
-               ("/contact/", "Contact"),),
+#               ("/contact/", "Contact"),
+            ),
            "Event TBD"
            ),
         (
             (
 #              ("/sponsors/", "Sponsors"),
-               ("/prospectus/", "Sponsorship Prospectus"),),
+               ("/sponsorship/", "Sponsorship"),),
            "Sponsorship"
            ),
+        ('/venue/', 'Venue')
         ),
 }
 
