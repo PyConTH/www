@@ -7,12 +7,19 @@
 .. description: 
 .. type: text
 
+.. raw:: html
+
+    <div class="jumbotron">
+
 PyCon Thailand 2018
 ===================
 
 June 16-17
 Bangkok
 
+.. raw:: html
+
+    </div>
 
 Call for Papers
 ===============
