@@ -17,6 +17,33 @@ We want your proposal for talks, lightning talks and workshops.
 
 .. _PyCon: https://www.pycon.org/
 
+
+
+Important Dates
+---------------
+
+The deadline to submit abstracts is April 20th.
+
+.. class:: table table-bordered table-striped
+
+=============== =====================================
+April 20th 2018 Deadline for submission
+=============== =====================================
+
+
+.. raw:: html
+
+    <a class="btn btn-default" href="https://www.papercall.io/pyconth" role="button">Submit Your Abstract Now!</a>
+
+We know the schedule is a bit tight, so we'll make sure we answer you as quickly as possible.
+Because of the time constraints, all talks will be accepted based on the abstract only.
+In no way does that imply that your presentation should be any less awesome than your abstract.
+
+For more information, please look consult the `Call for paper`_
+
+.. _Call for paper: https://www.papercall.io/pyconth
+
+
 Who Should Submit a Proposal?
 -----------------------------
 You. Your friends. Your friends’ friends. Anyone with any level of Python knowledge is a candidate for a great
@@ -34,7 +61,6 @@ However all speakers will only have to pay the early bird price. If you are able
 then please consider doing so. This is a volunteer led conference and all funds going back into the event.
 
 
-
 Which Topics Are Suitable?
 --------------------------
 
@@ -42,7 +68,6 @@ Suitable topics include, but are not limited to:
 
 
 .. list-table:: Suggested Topics
-    :header-rows: 0
 
     * - Machine Learning / Artificial Intelligence
       - Big Data / Pandas / Jupyther
@@ -61,38 +86,10 @@ Suitable topics include, but are not limited to:
       - Testing and Development Tool Chains
     * - Project Best Practices
       - Python Implementations: IronPython, Jython, PyPy and Stackless
-      -
+      - Internet of Things
 
 You are probably doing something more interesting to others than you know. Submit a proposal.
 
-Guide for authors
------------------
-
-The deadline to submit abstracts is April 20th.
-
-.. raw:: html
-
-    <a class="btn btn-default" href="https://www.papercall.io/pyconth" role="button">Submit Your Abstract Now!</a>
-
-We know the schedule is a bit tight, so we'll make sure we answer you as quickly as possible.
-Because of the time constraints, all talks will be accepted based on the abstract only. 
-In no way does that imply that your presentation should be any less awesome than your abstract.
-
-
-Important Dates
-~~~~~~~~~~~~~~~
-
-.. class:: table table-bordered table-striped
-
-=============== ===================================== 
-April 20th 2018 Deadline for submission
-=============== =====================================
-
-For more information, please look consult the `Call for paper`_
-
-.. _Call for paper: https://www.papercall.io/pyconth
-
-We look forward to seeing you at PyCon Thailand!
 
 What Talk Types Are Needed?
 ---------------------------
@@ -113,3 +110,26 @@ Workshops
 If want to do a more in depth tutorial or training as part of this conference send us your proposal. Workshops
 are free for attendees so paid workshops are not appropriate this year. Workshops are between 1-3 hours.
 We will work the schedule around including workshops if we feel its valuable.
+
+Proposal Selection Process
+--------------------------
+
+
+Selecting the proposals to include in the conference is complex, involving a selection committee, and several meetings.
+We take the process very seriously, and respect and value the effort that every submitter has taken in preparing their
+proposal. We will be annoucing the date of the talk schedule and who as been accepted at a later date.
+
+
+How to write a great proposal
+-----------------------------
+
+If you would be interested in advice, tips or suggestions for writing a great proposal, PyCon AU have two great
+articles::
+
+  - `PyConAU Talk proposal Tips <https://2017.pycon-au.org/program/proposal-tips/tips-writing-great-proposal/>`
+  - `PyConAU Detailed propsal help <https://2017.pycon-au.org/program/proposal-tips/proposal-tips-part-two/>`
+
+If you would like feedback on your proposal
+-------------------------------------------
+
+Please submit questions in your abstract and we will follow up with you.
