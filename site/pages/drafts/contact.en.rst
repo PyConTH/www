@@ -17,7 +17,7 @@ Contacts
 
 Conference chair:
   `Mike Amy <mikeamycoder@gmail.com>`_
-Co-chair and Progamme Manager:
+Co-chair and Programme Manager:
   `Dylan Jay <djay@pretaweb.com>`_
 
 Social accounts
