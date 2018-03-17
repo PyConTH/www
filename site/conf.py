@@ -163,14 +163,14 @@ NAVIGATION_LINKS = {
     "de": (
         (
             (
-               ("/submit-talk/", "Submit Talk Proposal"),
+               ("/submit-talk-th/", "Submit Talk Proposal"),
 #               ("/buy-tickets/", "Buy Tickets"),
 #               ("/speakers/", "Speakers"),
 #              ("/schedule/", "Talk Schedule"),
 #              ("/keynotes/", "Keynotes"),
 #              ("/about/", "About"),
 #              ("/staff/", "Staff"),
-               ("/code-of-conduct/", "Code of Conduct"),
+               ("/code-of-conduct-th/", "Code of Conduct"),
 #               ("/contact/", "Contact"),
             ),
            "Event TBD"
@@ -178,10 +178,10 @@ NAVIGATION_LINKS = {
         (
             (
 #              ("/sponsors/", "Sponsors"),
-               ("/sponsorship/", "Sponsorship"),),
+               ("/sponsorship-th/", "Sponsorship"),),
            "Sponsorship"
            ),
-        ('/venue/', 'Venue')
+        ('/venue-th/', 'Venue')
         ),
 }
 
