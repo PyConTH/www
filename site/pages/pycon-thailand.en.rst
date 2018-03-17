@@ -7,79 +7,60 @@
 .. description: 
 .. type: text
 
-.. raw:: html
 
-    <div class="jumbotron">
+.. container:: jumbotron
 
-June 16-17
-Bangkok
-
-.. raw:: html
-
-    </div>
-
-.. raw:: html
-
-    <div class="jumbotron">
-
-Call for Papers
-===============
-
-2018 is first PyCon in Thailand and we need your help.
-PyCon's happen all over the world, hosted by python programmers for python
-programmers. PyCon Thailand will be a two day weekend conference with talks
-in both Thai and English. We want your proposal for talks, lightning talks and workshops.
-
-.. class:: btn btn-primary btn-lg active
-`Submit Your Talk Proposal <submit-talk>`_
-
-Quick! The deadline for proposals is May 1st.
+    June 16-17
+    Bangkok
 
 
-.. raw:: html
+.. container:: jumbotron
 
-    </div>
+    Call for Papers
+    ===============
 
-.. raw:: html
+    2018 is first PyCon in Thailand and we need your help.
+    PyCon's happen all over the world, hosted by python programmers for python
+    programmers. PyCon Thailand will be a two day weekend conference with talks
+    in both Thai and English. We want your proposal for talks, lightning talks and workshops.
 
-    <div class="jumbotron">
+    .. class:: btn btn-primary btn-lg active
 
-Meet Our Keynote Speakers!
-==========================
+    `Submit Your Talk Proposal <submit-talk>`_
 
-.. class:: img-circle img-responsive
-.. image:: /wes-2017-01-12-small.png
-   :alt: Wes McKinney (portrait)
-   :align: left
-   :width: 200px
-
-
-Wes McKinney
-------------
-
-http://wesmckinney.com
-
-Wes McKinney has been creating fast, easy-to-use data wrangling and statistical computing tools, mostly in the Python programming language, since 2007.
-He is best known for creating the pandas project and writing the book Python for Data Analysis.
-He is also a contributor to the Arrow, Kudu (incubating), and Parquet projects within the Apache Software Foundation.
+    Quick! The deadline for proposals is May 1st.
 
 
-.. raw:: html
+.. container:: jumbotron
 
-    </div>
+    Meet Our Keynote Speakers!
+    ==========================
 
-.. raw:: html
+    .. class:: img-circle img-responsive
 
-    <div class="jumbotron clearfix">
+    .. image:: /wes-2017-01-12-small.png
+       :alt: Wes McKinney (portrait)
+       :align: left
+       :width: 200px
 
-Sponsors
-========
 
-Our Sponsorship prospectus will be available soon.
+    Wes McKinney
+    ------------
 
-.. class:: btn btn-primary btn-lg active
-`Register your interest <sponsorship>`_
+    http://wesmckinney.com
 
-.. raw:: html
+    Wes McKinney has been creating fast, easy-to-use data wrangling and statistical computing tools, mostly in the Python programming language, since 2007.
+    He is best known for creating the pandas project and writing the book Python for Data Analysis.
+    He is also a contributor to the Arrow, Kudu (incubating), and Parquet projects within the Apache Software Foundation.
 
-    </div>
+
+.. container:: jumbotron clearfix
+
+    Sponsors
+    ========
+
+    Our Sponsorship prospectus will be available soon.
+
+    .. class:: btn btn-primary btn-lg active
+
+    `Register your interest <sponsorship>`_
