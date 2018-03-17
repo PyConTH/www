@@ -30,6 +30,7 @@ PyCon's happen all over the world, hosted by python programmers for python
 programmers. PyCon Thailand will be a two day weekend conference with talks
 in both Thai and English. We want your proposal for talks, lightning talks and workshops.
 
+.. class:: btn btn-primary btn-lg active
 `Submit Your Talk Proposal <submit-talk>`_
 
 Quick! The deadline for proposals is May 1st.
@@ -46,9 +47,12 @@ Quick! The deadline for proposals is May 1st.
 Meet Our Keynote Speakers!
 ==========================
 
+.. class:: img-circle img-responsive
 .. image:: /wes-2017-01-12-small.png
    :alt: Wes McKinney (portrait)
    :align: left
+   :width: 200px
+
 
 Wes McKinney
 ------------
@@ -73,6 +77,7 @@ Sponsors
 
 Our Sponsorship prospectus will be available soon.
 
+.. class:: btn btn-primary btn-lg active
 `Register your interest <sponsorship>`_
 
 .. raw:: html
