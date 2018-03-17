@@ -48,11 +48,11 @@ Contact
         <input type="email" name="email" class="form-control" placeholder="Email" >
       </div>
       <div class="form-group">
-        <label>Phon</label><input type="phone" name="phone" class="form-control" placeholder="Phone Number">
+        <label>Phone</label><input type="phone" name="phone" class="form-control" placeholder="Phone Number">
       </div>
       <div class="form-group">
         <label>Message</label>
-        <textarea name="message" class="form-control" placeholder="Talk to us."></textarea>
+        <textarea name="message" rows="5" class="form-control" placeholder="Talk to us."></textarea>
       </div>
       <div class="form-group">
         <button type="submit" class="btn btn-primary">Submit</button>
