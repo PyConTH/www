@@ -15,6 +15,10 @@ First-time visitors may be a little taken aback by the concrete canyons and futu
 but take a few steps away from the main roads into one of the city’s countless alleys and traditional
 Thai culture is everywhere – an urban cornucopia of smells, tastes, sounds and sights that one is unlikely to forget.
 
+.. raw:: html
+    <div style="float: left;">
+        <img src="https://ismade.org/wp-content/uploads/2016/11/kx-building6-compressor.jpg" alt="KX Building"/>
+    </div>
 
 Knowledge Exchange Center – KX
 ==============================
@@ -35,5 +39,5 @@ just across the Chao Phaya river from the Sathorn road via the Taksin bridge.
 
 .. raw:: html
 
-    <iframe style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3875.9649445861965!2d100.49623631518517!3d13.720572201712177!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30e298ee5eeafbf3%3A0x7c41c281b7717f32!2sBig+Data+Experience+Center+(BX)!5e0!3m2!1sth!2sth!4v1471337263203" width="300" height="350" frameborder="0" allowfullscreen="allowfullscreen"></iframe>		</div>
+    <iframe style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3875.9649445861965!2d100.49623631518517!3d13.720572201712177!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30e298ee5eeafbf3%3A0x7c41c281b7717f32!2sBig+Data+Experience+Center+(BX)!5e0!3m2!1sth!2sth!4v1471337263203" width="100%" height="350" frameborder="0" allowfullscreen="allowfullscreen"></iframe>		</div>
 
