@@ -11,10 +11,11 @@
 
 .. container:: jumbotron jumbotron-fluid col-md-6 col-centered
 
-.. admonition:: PyCon Thailand 2018
+    .. admonition:: PyCon Thailand 2018
 
-    June 16-17
-    Bangkok
+        June 16-17
+
+        Bangkok
 
 
 Call for Papers
