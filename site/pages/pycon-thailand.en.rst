@@ -32,7 +32,7 @@ in both Thai and English. We want your proposal for talks, lightning talks and w
 
 `Submit Your Talk Proposal <submit-talk>`_
 
-Quick! The deadline for proposals is May 1st.
+Quick! The deadline for proposals is 20th April 2018.
 
 
 .. raw:: html
