@@ -42,8 +42,7 @@ Suitable topics include, but are not limited to:
 
 
 .. list-table:: Suggested Topics
-   :widths: 15 10 30
-   :header-rows: 0
+    :header-rows: 0
 
     * - Machine Learning / Artificial Intelligence
       - Big Data / Pandas / Jupyther
@@ -61,7 +60,8 @@ Suitable topics include, but are not limited to:
       - Network Programming
       - Testing and Development Tool Chains
     * - Project Best Practices
-      - Python Implementations: IronPython, Jython, PyPy and Stackless-
+      - Python Implementations: IronPython, Jython, PyPy and Stackless
+      -
 
 You are probably doing something more interesting to others than you know. Submit a proposal.
 
