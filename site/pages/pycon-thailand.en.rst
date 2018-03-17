@@ -7,51 +7,28 @@
 .. description: 
 .. type: text
 
-Conference
-==========
+.. class:: page-header
+PyCon Thailand 2018
+===================
+June 16-17
+Bangkok
 
-It's time Thailand got its own Python Conference.
 
-PyCon is a network of non-commercial conferences, hosted by Python programming
-communities all over the world. This year, the Thai Python community is
-organizing the first PyCon in Bangkok, with local and international
-participation.
-
-Date:
-    16/17 June 2018
-Venue:
-    `KMUTT Knowledge eXchange <https://m.facebook.com/kxkmutt>`_
-Attendees:
-    150-200
-Talks:
-    25 minutes or 40 minutes
-
-Early Bird tickets now open
----------------------------
-
-Book tickets at eventpop.com:
-
-.. raw:: html
-
-    <a class="btn btn-default" href="https://eventpop.com" role="button">Get Your Ticket Now!</a>
-
-Early Bird rates are available until April 15 or as long as stocks last.
-
+.. class:: jumbotron
 Call for Papers
----------------
+===============
 
-We accept a broad range of Python-related proposals, from academic
-reports to commercial projects and case studies. 
-See the `Call for Papers <call-for-papers>`_ page for detailed information.
+2018 is first PyCon in Thailand and we need your help.
+PyCon's happen all over the world, hosted by python programmers for python
+programmers. PyCon Thailand will be a two day weekend conference with talks
+in both Thai and English. We want your proposal for talks, lightning talks and workshops.
 
-.. raw:: html
+`Submit Your Talk Proposal <call-for-papers>`_
 
-    <a class="btn btn-default" href="https://eventpop.com" role="button">Get Your Ticket Now!</a>
+Quick! The deadline for proposals is May 1st.
 
-- April 20th, 2018: Deadline for submission
-- May 10th, 2018: Notification of acceptance
-- June 1st, 2018: Deadline for final submission of accepted papers
 
+.. class:: jumbotron
 Meet Our Keynote Speakers!
 ==========================
 
@@ -69,9 +46,10 @@ He is best known for creating the pandas project and writing the book Python for
 He is also a contributor to the Arrow, Kudu (incubating), and Parquet projects within the Apache Software Foundation.
 
 
+.. class:: jumbotron
 Sponsors
 ========
 
-- Proteus Technologies
-- Pretaweb
-- You?
+Our Sponsorship prospectus will be available soon.
+
+`Register your interest <sponsorship>`_
