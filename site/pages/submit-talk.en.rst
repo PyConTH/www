@@ -33,7 +33,7 @@ April 20th 2018 Deadline for submission
 
 .. raw:: html
 
-    <a class="btn btn-default" href="https://www.papercall.io/pyconth" role="button">Submit Your Abstract Now!</a>
+    <a class="btn btn-primary btn-lg active" href="https://www.papercall.io/pyconth" role="button">Submit Your Talk Now!</a>
 
 We know the schedule is a bit tight, so we'll make sure we answer you as quickly as possible.
 Because of the time constraints, all talks will be accepted based on the abstract only.
