@@ -33,7 +33,7 @@ April 20th 2018 Deadline for submission
 
 .. raw:: html
 
-    <a class="btn btn-default" href="https://www.papercall.io/pyconth" role="button">Submit Your Abstract Now!</a>
+    <a class="btn btn-primary btn-lg active" href="https://www.papercall.io/pyconth" role="button">Submit Your Talk Now!</a>
 
 We know the schedule is a bit tight, so we'll make sure we answer you as quickly as possible.
 Because of the time constraints, all talks will be accepted based on the abstract only.
@@ -126,8 +126,8 @@ How to write a great proposal
 If you would be interested in advice, tips or suggestions for writing a great proposal, PyCon AU have two great
 articles::
 
-  - `PyConAU Talk proposal Tips <https://2017.pycon-au.org/program/proposal-tips/tips-writing-great-proposal/>`
-  - `PyConAU Detailed propsal help <https://2017.pycon-au.org/program/proposal-tips/proposal-tips-part-two/>`
+  - `PyConAU Talk proposal Tips <https://2017.pycon-au.org/program/proposal-tips/tips-writing-great-proposal/>`_
+  - `PyConAU Detailed propsal help <https://2017.pycon-au.org/program/proposal-tips/proposal-tips-part-two/>`_
 
 If you would like feedback on your proposal
 -------------------------------------------

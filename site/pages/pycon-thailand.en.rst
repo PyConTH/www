@@ -30,7 +30,9 @@ PyCon's happen all over the world, hosted by python programmers for python
 programmers. PyCon Thailand will be a two day weekend conference with talks
 in both Thai and English. We want your proposal for talks, lightning talks and workshops.
 
-`Submit Your Talk Proposal <submit-talk>`_
+.. raw:: html
+
+    <a class="btn btn-primary btn-lg active" href="https://www.papercall.io/pyconth" role="button">Submit Your Talk!</a>
 
 Quick! The deadline for proposals is 20th April 2018.
 
