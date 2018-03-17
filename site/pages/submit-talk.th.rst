@@ -7,14 +7,12 @@
 .. description: 
 .. type: text
 
+พวกเรามีความยินดีเป็นอย่างยิ่งที่จะเชิญคุณเข้าร่วม “PyCon Thailand” การประชุมนี้ถูกจัดขึ้นโดยกลุ่มคนที่มีความหลงใหลใน Python โดยจะจัดขึ้นที่กรุงเทพระหว่างวันที่ 16-17 มิถุนายน 2561 งานนี้จะเป็นกิจกรรมที่จัดขึ้นเป็นครั้งแรก และพวกเราหวังว่ากิจกรรมนี้จะช่วยเพิ่มความเข้าใจของ Python ได้ในประเทศไทย
 
-It is a pleasure to invite you to PyCon Thailand. 
-The conference is organized by a group of Python afficionados and will take place in Bangkok on June 16-17 2018.
-This is the very first PyCon Thailand and we hope this will increase the visibility of Python in Thailand.
+ธมงานของ PyCon Thailand ครั้งนี้ก็คือทุกอย่างที่เกี่ยวข้องกับ Python 
 
-The theme of PyCon Thailand is everything Python.
 
-Topics of interest
+หัวข้อที่น่าสนใจ
 
 - Python libraries
 - Python-centric software
