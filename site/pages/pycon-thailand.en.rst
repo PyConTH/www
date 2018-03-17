@@ -9,14 +9,15 @@
 
 
 
-.. container:: jumbotron jumbotron-fluid col-centered
+.. raw:: html
 
-    .. admonition:: PyCon Thailand 2018
-        :class: col-md-6
-
-        June 16-17
-
-        Bangkok
+   <div class="jumbotron jumbotron-fluid" style="background: url(https://images.unsplash.com/photo-1489160145564-d036c88e34b1?ixlib=rb-0.3.5&s=d2a8a61caaae136cf61b52295d557bc1&auto=format&fit=crop&w=1651&q=80);">
+    <div class="col-md-offset-4 admonition col-md-4 admonition-pycon-thailand-2018" style="text-align: center">
+        <h1 class="first admonition-title">PyCon Thailand 2018</h1>
+        <p>June 16 & June 17</p>
+        <p class="last">Bangkok</p>
+    </div>
+   </div>
 
 
 Call for Papers
