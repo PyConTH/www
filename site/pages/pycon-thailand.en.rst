@@ -18,6 +18,10 @@ Bangkok
 
     </div>
 
+.. raw:: html
+
+    <div class="jumbotron">
+
 Call for Papers
 ===============
 
@@ -30,6 +34,14 @@ in both Thai and English. We want your proposal for talks, lightning talks and w
 
 Quick! The deadline for proposals is May 1st.
 
+
+.. raw:: html
+
+    </div>
+
+.. raw:: html
+
+    <div class="jumbotron">
 
 Meet Our Keynote Speakers!
 ==========================
@@ -48,9 +60,21 @@ He is best known for creating the pandas project and writing the book Python for
 He is also a contributor to the Arrow, Kudu (incubating), and Parquet projects within the Apache Software Foundation.
 
 
+.. raw:: html
+
+    </div>
+
+.. raw:: html
+
+    <div class="jumbotron">
+
 Sponsors
 ========
 
 Our Sponsorship prospectus will be available soon.
 
 `Register your interest <sponsorship>`_
+
+.. raw:: html
+
+    </div>
