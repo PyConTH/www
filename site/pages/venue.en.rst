@@ -32,6 +32,15 @@ Location
 KX is a 20 floor building on Krung Thonburi road near the BTS Skytrain “Wong Wian Yai” station,
 just across the Chao Phaya river from the Sathorn road via the Taksin bridge.
 
+Address
+~~~~~~~
+
+10/1 Krung Thonburi Road
+Khwaeng Bang Lamphu Lang,
+Thon Buri,
+Bangkok
+10600
+
 .. image:: /kxmap.jpg
    :alt: KX is near Wong Wen Yai BTS station a short ride from the Bangkok center
    :align: center

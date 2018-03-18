@@ -17,9 +17,9 @@ import time
 
 # Data about this site
 #TDB BLOG_AUTHOR = {"en": "PyCon Thailand team", "th": "TBD"}  # (translatable)
-BLOG_AUTHOR = {"en": "PyCon Thailand team", "de": "TBD"}  # (translatable)
+BLOG_AUTHOR = {"en": "PyCon Thailand team", "th": "TBD"}  # (translatable)
 #TDB BLOG_TITLE = {"en":"PyCon Thailand", "th": "TBD"}  # (translatable)
-BLOG_TITLE = {"en":"PyCon Thailand", "de": "TBD"}  # (translatable)
+BLOG_TITLE = {"en":"PyCon Thailand", "th": "TBD"}  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
 SITE_URL = "https://th.pycon.org/"
@@ -28,7 +28,7 @@ SITE_URL = "https://th.pycon.org/"
 # BASE_URL = "https://th.pycon.org/"
 BLOG_EMAIL = "jean.jordaan@gmail.com"
 #TBD BLOG_DESCRIPTION = {"en": "Conference website for PyCon Thailand", "th": "TDB"}  # (translatable)
-BLOG_DESCRIPTION = {"en": "Conference website for PyCon Thailand", "de": "TDB"}  # (translatable)
+BLOG_DESCRIPTION = {"en": "Conference website for PyCon Thailand", "th": "TDB"}  # (translatable)
 
 # Nikola is multilingual!
 #
@@ -95,8 +95,7 @@ DEFAULT_LANG = "en"
 # the path will be used as a prefix for the generated pages location
 TRANSLATIONS = {
     DEFAULT_LANG: "",
-    #TBD "th": "./th",
-    "de": "th",
+    "th": "th",
     # Example for another language:
     # "es": "./es",
 }
@@ -160,7 +159,7 @@ NAVIGATION_LINKS = {
            ),
         ('/venue/', 'Venue')
     ),
-    "de": (
+    "th": (
         (
             (
                ("/submit-talk-th/", "Submit Talk Proposal"),
@@ -214,8 +213,7 @@ NAVIGATION_LINKS = {
 #xxx            ),
 #xxx            ("/rss.xml", "RSS feed"),
 #xxx        ),
-#xxx    #TDB "th": (
-#xxx    "de": (
+#xxx    "th": (
 #xxx            (
 #xxx                (
 #xxx                ("/about/", "TBD About"),
@@ -1041,7 +1039,68 @@ LICENSE = ""
 
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
-CONTENT_FOOTER = 'Contents &copy; {date}         <a href="mailto:{email}">{author}</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         {license}'
+# CONTENT_FOOTER = 'Contents &copy; {date}         <a href="mailto:{email}">{author}</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         {license}'
+
+CONTENT_FOOTER = {
+	DEFAULT_LANG: """
+<table border="1" class="table table-bordered table-striped docutils">
+<thead valign="bottom"><tr>
+<th class="head">About</th>
+<th class="head">When &amp; Where</th>
+<th class="head">Get Social</th>
+</tr></thead>
+<tbody valign="top"><tr>
+<td>PyCon Thailand is a conference about the programming language Python.
+It is a community effort driven by the members of the Python Community in Bangkok.</td>
+<td><h4>When:</h4>
+June 16-17 2018
+<h4>Where:</h4>
+Knowledge Exchange Center – KX <br/>
+10/1 Krung Thonburi Road <br/>
+Khwaeng Bang Lamphu Lang <br/>
+Thon Buri <br/>
+Bangkok <br/>
+10600
+</td>
+<td>
+Twitter
+Facebook
+Mailing List
+Email
+</td>
+</tr></tbody>
+</table>
+""",
+"th": """
+<table border="1" class="table table-bordered table-striped docutils">
+<thead valign="bottom"><tr>
+<th class="head">About</th>
+<th class="head">When &amp; Where</th>
+<th class="head">Get Social</th>
+</tr></thead>
+<tbody valign="top"><tr>
+<td>PyCon Thailand is a conference about the programming language Python.
+It is a community effort driven by the members of the Python Community in Bangkok.</td>
+<td><h4>When:</h4>
+June 16-17 2018
+<h4>Where:</h4>
+Knowledge Exchange Center – KX <br/>
+10/1 Krung Thonburi Road <br/>
+Khwaeng Bang Lamphu Lang <br/>
+Thon Buri <br/>
+Bangkok <br/>
+10600
+</td>
+<td>
+Twitter
+Facebook
+Mailing List
+Email
+</td>
+</tr></tbody>
+</table>
+"""
+}
 
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
 # for translatability, as dicts are not formattable.  Nikola will
