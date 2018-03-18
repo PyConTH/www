@@ -124,7 +124,7 @@ How to write a great proposal
 -----------------------------
 
 If you would be interested in advice, tips or suggestions for writing a great proposal, PyCon AU have two great
-articles::
+articles:
 
   - `PyConAU Talk proposal Tips`_
   - `PyConAU Detailed proposal help`_
