@@ -1046,12 +1046,13 @@ CONTENT_FOOTER = {
 <div class="navbar-inverse row" style="
     color: white;
 ">
-    <div class="col-md-4">
+  <div class="container">
+    <div class="col-md-3">
         <h3>About</h3>
         PyCon Thailand is a conference about the programming language Python.
         It is a community effort driven by the members of the Python Community in Bangkok.
     </div>
-    <div class="col-md-4">
+    <div class="col-md-3">
         <h3>When &amp; Where</h3>
         <h4>When:</h4>
         June 16-17 2018
@@ -1063,27 +1064,30 @@ CONTENT_FOOTER = {
         Bangkok <br>
         10600    
     </div>
-
-    <div class="col-md-4">
+    <div class="col-md-3">
+        <h3>Gold Sponsors</h3>
+    </div>
+    <div class="col-md-3">
         <h3>Get Social</h3>
-        <a href="">Twitter</a><br>
-        <a href="">Facebook</a><br>
+        <a href="https://twitter.com/pyconthailand">Twitter</a><br>
+        <a href="https://www.facebook.com/pyconthailand/">Facebook</a><br>
         <a href="">Contact</a><br>
     </div>
-
+  </div>
 </div>
-Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a> 
+<!--Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a> -->
 """,
 "th": """
 <div class="navbar-inverse row" style="
     color: white;
 ">
-    <div class="col-md-4">
+  <div class="container">
+    <div class="col-md-3">
         <h3>About</h3>
         PyCon Thailand is a conference about the programming language Python.
         It is a community effort driven by the members of the Python Community in Bangkok.
     </div>
-    <div class="col-md-4">
+    <div class="col-md-3">
         <h3>When &amp; Where</h3>
         <h4>When:</h4>
         June 16-17 2018
@@ -1095,16 +1099,18 @@ Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>
         Bangkok <br>
         10600    
     </div>
-
-    <div class="col-md-4">
+    <div class="col-md-3">
+        <h3>Gold Sponsors</h3>
+    </div>
+    <div class="col-md-3">
         <h3>Get Social</h3>
-        <a href="">Twitter</a><br>
-        <a href="">Facebook</a><br>
+        <a href="https://twitter.com/pyconthailand">Twitter</a><br>
+        <a href="https://www.facebook.com/pyconthailand/">Facebook</a><br>
         <a href="">Contact</a><br>
     </div>
-
+  </div>
 </div>
-Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a> 
+<!--Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a> -->
 """
 }
 

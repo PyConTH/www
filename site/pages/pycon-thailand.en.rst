@@ -18,11 +18,19 @@
 
     <div class="col-md-6"> </div>
     <div class="col-md-6">
-    <div class="admonition admonition-pycon-thailand-2018" style="text-align: center">
+    <div class="admonition admonition-pycon-thailand-2018 text-center">
         <h1 class="admonition-title">PyCon Thailand 2018</h1>
          <hr>
         <p>June 16 & June 17</p>
         <p class="last">Bangkok</p>
+        <ul class="list-inline banner-social-buttons">
+            <li>
+                <a href="https://twitter.com/pyconthailand" class="btn btn-default btn-lg" target="_blank"><i class="fa fa-twitter fa-fw"></i></a>
+            </li>
+            <li>
+                <a href="https://www.facebook.com/pyconthailand/" class="btn btn-default btn-lg" target="_blank"><i class="fa fa-facebook fa-fw"></i></a>
+            </li>
+        </ul>
     </div>
     </div>
     <div class="col-md-2"> </div>
@@ -42,10 +50,9 @@ Call for Papers
 
     .. raw:: html
 
-              <div style="text-align: center">
+              <div class="text-center">
                <a class="btn btn-primary btn-lg active" href="submit-talk">Submit Your Talk Proposal</a>
                <br>Quick! The deadline for proposals is May 1st.
-
               </div>
 
 
@@ -85,6 +92,4 @@ Sponsors
 
    .. raw:: html
 
-       <div style="text-align: center">
           <a class="btn btn-primary btn-lg active" href="sponsorship">Register your interest</a>
-       </div>
