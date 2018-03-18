@@ -12,7 +12,7 @@
 .. raw:: html
 
    <div class="jumbotron jumbotron-fluid container-fluid"
-         style="background: url(https://cdn.pixabay.com/photo/2014/09/22/21/36/tut-tuk-456876_1280.jpg);
+         style="background: url(/tut-tuk-456876_1280.jpg);
     background-position-y: -160px;
     background-position-x: -142px;">
 
