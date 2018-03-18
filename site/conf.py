@@ -1381,6 +1381,7 @@ SHOW_SOURCELINK = False
 # Set this to False if you want to host your site without requiring access to
 # external resources.
 # USE_CDN = False
+USE_CDN = True
 
 # Check for USE_CDN compatibility.
 # If you are using custom themes, have configured the CSS properly and are
