@@ -17,15 +17,15 @@
     background-position-x: -142px;">
 
     <div class="col-md-6"> </div>
-    <div class="col-md-4">
+    <div class="col-md-6">
     <div class="admonition admonition-pycon-thailand-2018" style="text-align: center">
-        <h1 class="first admonition-title">PyCon Thailand 2018</h1>
+        <h1 class="admonition-title">PyCon Thailand 2018</h1>
          <hr>
         <p>June 16 & June 17</p>
         <p class="last">Bangkok</p>
     </div>
     </div>
-    <div class="col-md-4"> </div>
+    <div class="col-md-2"> </div>
    </div>
 
 

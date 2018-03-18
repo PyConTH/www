@@ -1047,12 +1047,12 @@ CONTENT_FOOTER = {
     color: white;
 ">
     <div class="col-md-4">
-        <h2>About</h2>
+        <h3>About</h3>
         PyCon Thailand is a conference about the programming language Python.
         It is a community effort driven by the members of the Python Community in Bangkok.
     </div>
     <div class="col-md-4">
-        <h2>When &amp; Where</h2>
+        <h3>When &amp; Where</h3>
         <h4>When:</h4>
         June 16-17 2018
         <h4>Where:</h4>
@@ -1065,42 +1065,46 @@ CONTENT_FOOTER = {
     </div>
 
     <div class="col-md-4">
-        <h2>Get Social</h2>
-        Twitter
-        Facebook
-        Contact
+        <h3>Get Social</h3>
+        <a href="">Twitter</a><br>
+        <a href="">Facebook</a><br>
+        <a href="">Contact</a><br>
     </div>
 
 </div>
+Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a> 
 """,
 "th": """
-<table border="1" class="table table-bordered table-striped docutils">
-<thead valign="bottom"><tr>
-<th class="head">About</th>
-<th class="head">When &amp; Where</th>
-<th class="head">Get Social</th>
-</tr></thead>
-<tbody valign="top"><tr>
-<td>PyCon Thailand is a conference about the programming language Python.
-It is a community effort driven by the members of the Python Community in Bangkok.</td>
-<td><h4>When:</h4>
-June 16-17 2018
-<h4>Where:</h4>
-Knowledge Exchange Center – KX <br/>
-10/1 Krung Thonburi Road <br/>
-Khwaeng Bang Lamphu Lang <br/>
-Thon Buri <br/>
-Bangkok <br/>
-10600
-</td>
-<td>
-Twitter
-Facebook
-Mailing List
-Email
-</td>
-</tr></tbody>
-</table>
+<div class="navbar-inverse row" style="
+    color: white;
+">
+    <div class="col-md-4">
+        <h3>About</h3>
+        PyCon Thailand is a conference about the programming language Python.
+        It is a community effort driven by the members of the Python Community in Bangkok.
+    </div>
+    <div class="col-md-4">
+        <h3>When &amp; Where</h3>
+        <h4>When:</h4>
+        June 16-17 2018
+        <h4>Where:</h4>
+        <a href="/venue">Knowledge Exchange Center – KX</a> <br>
+        10/1 Krung Thonburi Road <br>
+        Khwaeng Bang Lamphu Lang <br>
+        Thon Buri <br>
+        Bangkok <br>
+        10600    
+    </div>
+
+    <div class="col-md-4">
+        <h3>Get Social</h3>
+        <a href="">Twitter</a><br>
+        <a href="">Facebook</a><br>
+        <a href="">Contact</a><br>
+    </div>
+
+</div>
+Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a> 
 """
 }
 
@@ -1281,7 +1285,7 @@ MARKDOWN_EXTENSIONS = ['markdown.extensions.fenced_code', 'markdown.extensions.c
 # """
 
 # Show link to source for the posts?
-# SHOW_SOURCELINK = True
+SHOW_SOURCELINK = False
 # Copy the source files for your pages?
 # Setting it to False implies SHOW_SOURCELINK = False
 # COPY_SOURCES = True
@@ -1334,20 +1338,20 @@ MARKDOWN_EXTENSIONS = ['markdown.extensions.fenced_code', 'markdown.extensions.c
 # This search form works for any site and looks good in the "site" theme where
 # it appears on the navigation bar:
 #
-SEARCH_FORM = """
-<!-- DuckDuckGo custom search -->
-<form method="get" id="search" action="https://duckduckgo.com/"
- class="navbar-form pull-left">
-<input type="hidden" name="sites" value="%s">
-<input type="hidden" name="k8" value="#444444">
-<input type="hidden" name="k9" value="#D51920">
-<input type="hidden" name="kt" value="h">
-<input type="text" name="q" maxlength="255"
- placeholder="Search&hellip;" class="span2" style="margin-top: 4px;">
-<input type="submit" value="DuckDuckGo Search" style="visibility: hidden;">
-</form>
-<!-- End of custom search -->
-""" % SITE_URL
+# SEARCH_FORM = """
+# <!-- DuckDuckGo custom search -->
+# <form method="get" id="search" action="https://duckduckgo.com/"
+#  class="navbar-form pull-left">
+# <input type="hidden" name="sites" value="%s">
+# <input type="hidden" name="k8" value="#444444">
+# <input type="hidden" name="k9" value="#D51920">
+# <input type="hidden" name="kt" value="h">
+# <input type="text" name="q" maxlength="255"
+#  placeholder="Search&hellip;" class="span2" style="margin-top: 4px;">
+# <input type="submit" value="DuckDuckGo Search" style="visibility: hidden;">
+# </form>
+# <!-- End of custom search -->
+# """ % SITE_URL
 #
 # If you prefer a Google search form, here's an example that should just work:
 # SEARCH_FORM = """
