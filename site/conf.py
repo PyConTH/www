@@ -162,25 +162,25 @@ NAVIGATION_LINKS = {
     "th": (
         (
             (
-               ("/submit-talk/", "Submit Talk Proposal"),
-#               ("/buy-tickets/", "Buy Tickets"),
-#               ("/speakers/", "Speakers"),
-#              ("/schedule/", "Talk Schedule"),
-#              ("/keynotes/", "Keynotes"),
-#              ("/about/", "About"),
-#              ("/staff/", "Staff"),
-               ("/code-of-conduct/", "Code of Conduct"),
-#               ("/contact/", "Contact"),
+               ("/th/submit-talk/", "Submit Talk Proposal"),
+#               ("/th/buy-tickets/", "Buy Tickets"),
+#               ("/th/speakers/", "Speakers"),
+#              ("/th/schedule/", "Talk Schedule"),
+#              ("/th/keynotes/", "Keynotes"),
+#              ("/th/about/", "About"),
+#              ("/th/staff/", "Staff"),
+               ("/th/code-of-conduct/", "Code of Conduct"),
+#               ("/th/contact/", "Contact"),
             ),
            "Event TBD"
            ),
         (
             (
-#              ("/sponsors/", "Sponsors"),
-               ("/sponsorship/", "Sponsorship"),),
+#              ("/th/sponsors/", "Sponsors"),
+               ("/th/sponsorship/", "Sponsorship"),),
            "Sponsorship"
            ),
-        ('/venue/', 'Venue')
+        ('/th/venue/', 'Venue')
         ),
 }
 
