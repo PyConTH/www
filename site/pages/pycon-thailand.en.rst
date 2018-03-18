@@ -88,7 +88,7 @@ Sponsors
 
 .. container:: jumbotron clearfix
 
-    Our Sponsorship prospectus will be available soon.
+   Our Sponsorship prospectus will be available soon.
 
    .. raw:: html
 
