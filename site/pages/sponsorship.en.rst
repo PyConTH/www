@@ -32,6 +32,7 @@ Contact
 
 
 .. raw:: html
+
     <div class="jumbotron">
     <form name="sponsorship" method="POST" netlify>
       <div class="form-group">
