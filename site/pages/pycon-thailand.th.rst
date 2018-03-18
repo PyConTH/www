@@ -1,5 +1,5 @@
 .. title: PyCon Thailand
-.. slug: index-th
+.. slug: index
 .. date: 2017-12-11 15:41:41 UTC+07:00
 .. tags: 
 .. category: 
@@ -7,71 +7,83 @@
 .. description: 
 .. type: text
 
-Conference
-==========
-
-It's time Thailand got its own Python Conference.
-
-PyCon is a network of non-commercial conferences, hosted by Python programming
-communities all over the world. This year, the Thai Python community is
-organizing the first PyCon in Bangkok, with local and international
-participation.
-
-Date:
-    16/17 June 2018
-Venue:
-    `KMUTT Knowledge eXchange <https://m.facebook.com/kxkmutt>`_
-Attendees:
-    150-200
-Talks:
-    25 minutes or 40 minutes
-
-Early Bird tickets now open
----------------------------
-
-Book tickets at eventpop.com:
 
 .. raw:: html
 
-    <a class="btn btn-default" href="https://eventpop.com" role="button">Get Your Ticket Now!</a>
+   <div class="jumbotron jumbotron-fluid container-fluid"
+         style="background: url(/tut-tuk-456876_1280.jpg);
+    background-position-y: -160px;
+    background-position-x: -142px;">
 
-Early Bird rates are available until April 15 or as long as stocks last.
+    <div class="col-md-6"> </div>
+    <div class="col-md-4">
+    <div class="admonition admonition-pycon-thailand-2018" style="text-align: center">
+        <h1 class="first admonition-title">PyCon Thailand 2018</h1>
+         <hr>
+        <p>June 16 & June 17</p>
+        <p class="last">Bangkok</p>
+    </div>
+    </div>
+    <div class="col-md-4"> </div>
+   </div>
+
 
 Call for Papers
----------------
+===============
 
-We accept a broad range of Python-related proposals, from academic
-reports to commercial projects and case studies. 
-See the `Call for Papers <call-for-papers>`_ page for detailed information.
+.. container:: jumbotron
 
-.. raw:: html
+    2018 is first PyCon in Thailand and we need your help.
+    PyCons happen all over the world, hosted by python programmers for python
+    programmers. PyCon Thailand will be a two day weekend conference with talks
+    in both Thai and English. We want your proposal for talks, lightning talks and workshops.
 
-    <a class="btn btn-default" href="https://eventpop.com" role="button">Get Your Ticket Now!</a>
 
-- April 20th, 2018: Deadline for submission
-- May 10th, 2018: Notification of acceptance
-- June 1st, 2018: Deadline for final submission of accepted papers
+    .. raw:: html
+
+              <div style="text-align: center">
+               <a class="btn btn-primary btn-lg active" href="submit-talk">Submit Your Talk Proposal</a>
+               <br>Quick! The deadline for proposals is May 1st.
+
+              </div>
+
+
 
 Meet Our Keynote Speakers!
 ==========================
 
-.. image:: /wes-2017-01-12-small.png
-   :alt: Wes McKinney (portrait)
-   :align: left
+.. container:: jumbotron
 
-Wes McKinney
-------------
 
-http://wesmckinney.com
+    .. class:: img-circle img-responsive col-md-4
 
-Wes McKinney has been creating fast, easy-to-use data wrangling and statistical computing tools, mostly in the Python programming language, since 2007.
-He is best known for creating the pandas project and writing the book Python for Data Analysis.
-He is also a contributor to the Arrow, Kudu (incubating), and Parquet projects within the Apache Software Foundation.
+              .. image:: /wes-2017-01-12-small.png
+                     :alt: Wes McKinney (portrait)
+                     :align: left
+                     :width: 200px
+
+    .. class:: col-md-8
+
+       .. raw:: html
+
+            <h1>Wes McKinney</h1>
+
+       http://wesmckinney.com
+
+       Wes McKinney has been creating fast, easy-to-use data wrangling and statistical computing tools, mostly in the Python programming language, since 2007.
+       He is best known for creating the pandas project and writing the book Python for Data Analysis.
+       He is also a contributor to the Arrow, Kudu (incubating), and Parquet projects within the Apache Software Foundation.
 
 
 Sponsors
 ========
 
-- Proteus Technologies
-- Pretaweb
-- You?
+.. container:: jumbotron clearfix
+
+    Our Sponsorship prospectus will be available soon.
+
+   .. raw:: html
+
+       <div style="text-align: center">
+          <a class="btn btn-primary btn-lg active" href="sponsorship">Register your interest</a>
+       </div>

@@ -1,5 +1,5 @@
 .. title: Venue
-.. slug: venue-th
+.. slug: venue
 .. date: 2017-12-23 19:51:51 UTC+07:00
 .. tags: 
 .. category: 

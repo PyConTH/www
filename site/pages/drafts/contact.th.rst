@@ -1,5 +1,5 @@
 .. title: Contacts
-.. slug: contact-th
+.. slug: contact
 .. date: 2017-12-23 19:47:46 UTC+07:00
 .. tags: draft
 .. category: 

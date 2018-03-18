@@ -1,5 +1,5 @@
 .. title: Registration
-.. slug: registration-th
+.. slug: registration
 .. date: 2017-12-23 20:17:22 UTC+07:00
 .. tags: draft
 .. category: 

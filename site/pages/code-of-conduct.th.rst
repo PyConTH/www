@@ -1,5 +1,5 @@
 .. title: Code of Conduct
-.. slug: code-of-conduct-th
+.. slug: code-of-conduct
 .. date: 2017-12-21 18:33:48 UTC+07:00
 .. tags: 
 .. category: 
