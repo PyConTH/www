@@ -21,7 +21,6 @@
     <div class="admonition admonition-pycon-thailand-2018 text-center"
     style="    background-color: rgba(255,255,255,0.55);">
         <h1 class="admonition-title"><a href="/">PyCon Thailand 2018</a></h1>
-         <hr>
         <p>June 16 & June 17<br>
         Bangkok</p>
         <ul class="list-inline banner-social-buttons last">
