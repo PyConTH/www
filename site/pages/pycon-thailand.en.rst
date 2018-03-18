@@ -26,11 +26,18 @@ Call for Papers
 .. container:: jumbotron
 
     2018 is first PyCon in Thailand and we need your help.
-    PyCon's happen all over the world, hosted by python programmers for python
+    PyCons happen all over the world, hosted by python programmers for python
     programmers. PyCon Thailand will be a two day weekend conference with talks
     in both Thai and English. We want your proposal for talks, lightning talks and workshops.
 
-   .. raw:: html
+.. raw:: html
+
+    <a class="btn btn-primary btn-lg active" href="https://www.papercall.io/pyconth" role="button">Submit Your Talk!</a>
+
+Quick! The deadline for proposals is 20th April 2018.
+
+
+.. raw:: html
 
        <div style="text-align: center">
         <a class="btn btn-primary btn-lg active" href="submit-talk">Submit Your Talk Proposal</a>
