@@ -7,8 +7,6 @@
 .. description: 
 .. type: text
 
-Venue
-=====
 
 Thailand’s capital is south-east Asia’s most enigmatic city, a head-on clash between tradition and modernity.
 First-time visitors may be a little taken aback by the concrete canyons and futuristic, billboard-covered skyscrapers,
@@ -40,12 +38,16 @@ Khwaeng Bang Lamphu Lang,
 Thon Buri,
 Bangkok
 10600
+https://www.facebook.com/pg/kxkmutt
 
-.. image:: /kxmap.jpg
-   :alt: KX is near Wong Wen Yai BTS station a short ride from the Bangkok center
-   :align: center
+.. container:: jumbotron
 
-.. raw:: html
+    .. image:: /kxmap.jpg
+       :alt: KX is near Wong Wen Yai BTS station a short ride from the Bangkok center
+       :align: center
 
-    <iframe style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3875.9649445861965!2d100.49623631518517!3d13.720572201712177!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30e298ee5eeafbf3%3A0x7c41c281b7717f32!2sBig+Data+Experience+Center+(BX)!5e0!3m2!1sth!2sth!4v1471337263203" width="100%" height="350" frameborder="0" allowfullscreen="allowfullscreen"></iframe>		</div>
+.. container:: jumbotron
 
+    .. raw:: html
+
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31006.76025310981!2d100.52294440402027!3d13.727830454920062!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30e298ee5d02d0a3%3A0xe2511ae461733d57!2sThe+Knowledge+Exchange%3A+KX!5e0!3m2!1sen!2sth!4v1521363934950" width="800" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
