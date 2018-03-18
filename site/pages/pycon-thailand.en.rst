@@ -12,14 +12,18 @@
 .. raw:: html
 
    <div class="jumbotron jumbotron-fluid container-fluid"
-         style="background: url(https://images.unsplash.com/photo-1489160145564-d036c88e34b1?ixlib=rb-0.3.5&s=d2a8a61caaae136cf61b52295d557bc1&auto=format&fit=crop&w=1651&q=80);
-                position:absolute;
-                left:0px;">
-    <div class="col-md-4"> </div>
-    <div class="cadmonition col-md-4 admonition-pycon-thailand-2018" style="text-align: center">
+         style="background: url(https://cdn.pixabay.com/photo/2014/09/22/21/36/tut-tuk-456876_1280.jpg);
+    background-position-y: -160px;
+    background-position-x: -142px;">
+
+    <div class="col-md-6"> </div>
+    <div class="col-md-4">
+    <div class="admonition admonition-pycon-thailand-2018" style="text-align: center">
         <h1 class="first admonition-title">PyCon Thailand 2018</h1>
+         <hr>
         <p>June 16 & June 17</p>
         <p class="last">Bangkok</p>
+    </div>
     </div>
     <div class="col-md-4"> </div>
    </div>
@@ -36,13 +40,14 @@ Call for Papers
     in both Thai and English. We want your proposal for talks, lightning talks and workshops.
 
 
-.. raw:: html
+    .. raw:: html
 
-       <div style="text-align: center">
-        <a class="btn btn-primary btn-lg active" href="submit-talk">Submit Your Talk Proposal</a>
-       </div>
+              <div style="text-align: center">
+               <a class="btn btn-primary btn-lg active" href="submit-talk">Submit Your Talk Proposal</a>
+               <br>Quick! The deadline for proposals is May 1st.
 
-    Quick! The deadline for proposals is May 1st.
+              </div>
+
 
 
 Meet Our Keynote Speakers!
@@ -62,7 +67,7 @@ Meet Our Keynote Speakers!
 
        .. raw:: html
 
-            <h4>Wes McKinney</h4>
+            <h1>Wes McKinney</h1>
 
        http://wesmckinney.com
 
