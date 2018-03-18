@@ -30,12 +30,6 @@ Call for Papers
     programmers. PyCon Thailand will be a two day weekend conference with talks
     in both Thai and English. We want your proposal for talks, lightning talks and workshops.
 
-.. raw:: html
-
-    <a class="btn btn-primary btn-lg active" href="https://www.papercall.io/pyconth" role="button">Submit Your Talk!</a>
-
-Quick! The deadline for proposals is 20th April 2018.
-
 
 .. raw:: html
 
@@ -52,21 +46,23 @@ Meet Our Keynote Speakers!
 .. container:: jumbotron
 
 
-    .. class:: img-circle img-responsive
+    .. class:: img-circle img-responsive col-md-4
 
     .. image:: /wes-2017-01-12-small.png
        :alt: Wes McKinney (portrait)
        :align: left
        :width: 200px
 
+    ..class:: col-md-8
 
-    .. rubric:: Wes McKinney
+       ..raw:: html
+            <h4>Wes McKinney</h4>
 
-    http://wesmckinney.com
+       http://wesmckinney.com
 
-    Wes McKinney has been creating fast, easy-to-use data wrangling and statistical computing tools, mostly in the Python programming language, since 2007.
-    He is best known for creating the pandas project and writing the book Python for Data Analysis.
-    He is also a contributor to the Arrow, Kudu (incubating), and Parquet projects within the Apache Software Foundation.
+       Wes McKinney has been creating fast, easy-to-use data wrangling and statistical computing tools, mostly in the Python programming language, since 2007.
+       He is best known for creating the pandas project and writing the book Python for Data Analysis.
+       He is also a contributor to the Arrow, Kudu (incubating), and Parquet projects within the Apache Software Foundation.
 
 
 Sponsors
