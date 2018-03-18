@@ -7,8 +7,6 @@
 .. description: Available sponsorship levels
 .. type: text
 
-Sponsorship
-===========
 
 Sponsors
 --------
@@ -32,8 +30,9 @@ banners at the venue, as well as sessions, swag and bag inserts.
 Contact
 -------
 
-.. raw:: html
 
+.. raw:: html
+    <div class="jumbotron">
     <form name="sponsorship" method="POST" netlify>
       <div class="form-group">
         <label>Your Name</label>
@@ -58,6 +57,7 @@ Contact
         <button type="submit" class="btn btn-primary">Submit</button>
       </div>
     </form>
+    </div>
 
 
 
