@@ -1,10 +1,10 @@
 .. title: Submit Talk Proposal
 .. slug: submit-talk
 .. date: 2018-03-16 19:22:54 UTC+07:00
-.. tags: 
-.. category: 
-.. link: 
-.. description: 
+.. tags:
+.. category:
+.. link:
+.. description:
 .. type: text
 
 It is a pleasure to invite you to PyCon Thailand!
@@ -124,10 +124,13 @@ How to write a great proposal
 -----------------------------
 
 If you would be interested in advice, tips or suggestions for writing a great proposal, PyCon AU have two great
-articles::
+articles:
 
-  - `PyConAU Talk proposal Tips <https://2017.pycon-au.org/program/proposal-tips/tips-writing-great-proposal/>`
-  - `PyConAU Detailed proposal help <https://2017.pycon-au.org/program/proposal-tips/proposal-tips-part-two/>`
+  - `PyConAU Talk proposal Tips`_
+  - `PyConAU Detailed proposal help`_
+
+.. _PyConAU Talk proposal Tips: https://2017.pycon-au.org/program/proposal-tips/tips-writing-great-proposal/
+.. _PyConAU Detailed proposal help: https://2017.pycon-au.org/program/proposal-tips/proposal-tips-part-two/
 
 If you would like feedback on your proposal
 -------------------------------------------
