@@ -11,12 +11,17 @@
 
 .. raw:: html
 
-   <div class="jumbotron jumbotron-fluid" style="background: url(https://images.unsplash.com/photo-1489160145564-d036c88e34b1?ixlib=rb-0.3.5&s=d2a8a61caaae136cf61b52295d557bc1&auto=format&fit=crop&w=1651&q=80);">
-    <div class="col-md-offset-4 admonition col-md-4 admonition-pycon-thailand-2018" style="text-align: center">
+   <div class="jumbotron jumbotron-fluid container-fluid"
+         style="background: url(https://images.unsplash.com/photo-1489160145564-d036c88e34b1?ixlib=rb-0.3.5&s=d2a8a61caaae136cf61b52295d557bc1&auto=format&fit=crop&w=1651&q=80);
+                position:absolute;
+                left:0px;">
+    <div class="col-md-4"> </div>
+    <div class="cadmonition col-md-4 admonition-pycon-thailand-2018" style="text-align: center">
         <h1 class="first admonition-title">PyCon Thailand 2018</h1>
         <p>June 16 & June 17</p>
         <p class="last">Bangkok</p>
     </div>
+    <div class="col-md-4"> </div>
    </div>
 
 
@@ -48,14 +53,15 @@ Meet Our Keynote Speakers!
 
     .. class:: img-circle img-responsive col-md-4
 
-    .. image:: /wes-2017-01-12-small.png
-       :alt: Wes McKinney (portrait)
-       :align: left
-       :width: 200px
+              .. image:: /wes-2017-01-12-small.png
+                     :alt: Wes McKinney (portrait)
+                     :align: left
+                     :width: 200px
 
-    ..class:: col-md-8
+    .. class:: col-md-8
 
-       ..raw:: html
+       .. raw:: html
+
             <h4>Wes McKinney</h4>
 
        http://wesmckinney.com
