@@ -9,37 +9,54 @@
 
 
 
-.. class:: col-md-4
+.. class:: col-md-3
 .. image:: /kx-building.jpg
     :alt: KX Building
 
-Thailand’s capital is south-east Asia’s most enigmatic city, a head-on clash between tradition and modernity.
-First-time visitors may be a little taken aback by the concrete canyons and futuristic, billboard-covered skyscrapers,
-but take a few steps away from the main roads into one of the city’s countless alleys and traditional
-Thai culture is everywhere – an urban cornucopia of smells, tastes, sounds and sights that one is unlikely to forget.
+.. container:: col-md-3
 
-Knowledge Exchange Center – KX
-------------------------------
-`Knowledge Exchange KX <https://www.facebook.com/pg/kxkmutt>`_ is facility dedicated to stimulating knowledge exchange, entrepreneurship, partnerships and innovation alliances.
-A space for creating a vibrant community of forward-looking industry, businesses, technology and knowledge providers,
-public sector facilitators, and venture capital providers.
+    Thailand’s capital is south-east Asia’s most enigmatic city, a head-on clash between tradition and modernity.
+    First-time visitors may be a little taken aback by the concrete canyons and futuristic, billboard-covered skyscrapers,
+    but take a few steps away from the main roads into one of the city’s countless alleys and traditional
+    Thai culture is everywhere – an urban cornucopia of smells, tastes, sounds and sights that one is unlikely to forget.
 
 
-Location
---------
+.. container:: col-md-3
 
-KX is a 20 floor building on Krung Thonburi road near the BTS Skytrain “Wong Wian Yai” station,
-just across the Chao Phaya river from the Sathorn road via the Taksin bridge.
+    .. raw:: html
 
-Address
--------
+       <h1>Knowledge Exchange Center – KX</h1>
 
-10/1 Krung Thonburi Road
-Khwaeng Bang Lamphu Lang,
-Thon Buri,
-Bangkok
-10600
-https://www.facebook.com/pg/kxkmutt
+    `Knowledge Exchange KX <https://www.facebook.com/pg/kxkmutt>`_ is facility dedicated to stimulating knowledge exchange, entrepreneurship, partnerships and innovation alliances.
+    A space for creating a vibrant community of forward-looking industry, businesses, technology and knowledge providers,
+    public sector facilitators, and venture capital providers.
+
+
+.. container:: col-md-3
+
+    .. raw:: html
+
+       <h1>Location</h1>
+
+
+    KX is a 20 floor building on Krung Thonburi road near the BTS Skytrain “Wong Wian Yai” station,
+    just across the Chao Phaya river from the Sathorn road via the Taksin bridge.
+
+
+.. container:: col-md-3
+
+    .. raw:: html
+
+       <h1>Address</h1>
+
+
+    10/1 Krung Thonburi Road
+    Khwaeng Bang Lamphu Lang,
+    Thon Buri,
+    Bangkok
+    10600
+    https://www.facebook.com/pg/kxkmutt
+
 
 .. container:: jumbotron clearfix
 
