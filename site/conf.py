@@ -1043,33 +1043,35 @@ LICENSE = ""
 
 CONTENT_FOOTER = {
 	DEFAULT_LANG: """
-<table border="1" class="table table-bordered table-striped docutils">
-<thead valign="bottom"><tr>
-<th class="head">About</th>
-<th class="head">When &amp; Where</th>
-<th class="head">Get Social</th>
-</tr></thead>
-<tbody valign="top"><tr>
-<td>PyCon Thailand is a conference about the programming language Python.
-It is a community effort driven by the members of the Python Community in Bangkok.</td>
-<td><h4>When:</h4>
-June 16-17 2018
-<h4>Where:</h4>
-Knowledge Exchange Center – KX <br/>
-10/1 Krung Thonburi Road <br/>
-Khwaeng Bang Lamphu Lang <br/>
-Thon Buri <br/>
-Bangkok <br/>
-10600
-</td>
-<td>
-Twitter
-Facebook
-Mailing List
-Email
-</td>
-</tr></tbody>
-</table>
+<div class="navbar-inverse row" style="
+    color: white;
+">
+    <div class="col-md-4">
+        <h2>About</h2>
+        PyCon Thailand is a conference about the programming language Python.
+        It is a community effort driven by the members of the Python Community in Bangkok.
+    </div>
+    <div class="col-md-4">
+        <h2>When &amp; Where</h2>
+        <h4>When:</h4>
+        June 16-17 2018
+        <h4>Where:</h4>
+        <a href="/venue">Knowledge Exchange Center – KX</a> <br>
+        10/1 Krung Thonburi Road <br>
+        Khwaeng Bang Lamphu Lang <br>
+        Thon Buri <br>
+        Bangkok <br>
+        10600    
+    </div>
+
+    <div class="col-md-4">
+        <h2>Get Social</h2>
+        Twitter
+        Facebook
+        Contact
+    </div>
+
+</div>
 """,
 "th": """
 <table border="1" class="table table-bordered table-striped docutils">
