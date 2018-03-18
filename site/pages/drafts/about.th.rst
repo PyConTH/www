@@ -1,5 +1,5 @@
 .. title: About
-.. slug: about-th
+.. slug: about
 .. date: 2017-12-23 17:11:44 UTC+07:00
 .. tags: draft
 .. category: 

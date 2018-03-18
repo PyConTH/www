@@ -1,5 +1,5 @@
 .. title: Keynote (stub)
-.. slug: keynote-th
+.. slug: keynote
 .. date: 2017-12-23 23:07:03 UTC+07:00
 .. tags: keynote, draft
 .. category: keynote

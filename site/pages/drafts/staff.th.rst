@@ -1,5 +1,5 @@
 .. title: Staff and Volunteers
-.. slug: staff-th
+.. slug: staff
 .. date: 2017-12-23 19:36:48 UTC+07:00
 .. tags: draft
 .. category: 

@@ -1,5 +1,5 @@
 .. title: Sponsorship
-.. slug: sponsorship-th
+.. slug: sponsorship
 .. date: 2017-12-23 17:17:13 UTC+07:00
 .. tags: 
 .. category: 
