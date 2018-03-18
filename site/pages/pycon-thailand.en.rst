@@ -7,76 +7,84 @@
 .. description: 
 .. type: text
 
-.. raw:: html
 
-    <div class="jumbotron">
-
-June 16-17
-Bangkok
 
 .. raw:: html
 
+   <div class="jumbotron jumbotron-fluid container-fluid"
+         style="background: url(https://cdn.pixabay.com/photo/2014/09/22/21/36/tut-tuk-456876_1280.jpg);
+    background-position-y: -160px;
+    background-position-x: -142px;">
+
+    <div class="col-md-6"> </div>
+    <div class="col-md-4">
+    <div class="admonition admonition-pycon-thailand-2018" style="text-align: center">
+        <h1 class="first admonition-title">PyCon Thailand 2018</h1>
+         <hr>
+        <p>June 16 & June 17</p>
+        <p class="last">Bangkok</p>
     </div>
+    </div>
+    <div class="col-md-4"> </div>
+   </div>
 
-.. raw:: html
-
-    <div class="jumbotron">
 
 Call for Papers
 ===============
 
-2018 is first PyCon in Thailand and we need your help.
-PyCon's happen all over the world, hosted by python programmers for python
-programmers. PyCon Thailand will be a two day weekend conference with talks
-in both Thai and English. We want your proposal for talks, lightning talks and workshops.
+.. container:: jumbotron
 
-.. raw:: html
-
-    <a class="btn btn-primary btn-lg active" href="https://www.papercall.io/pyconth" role="button">Submit Your Talk!</a>
-
-Quick! The deadline for proposals is 20th April 2018.
+    2018 is first PyCon in Thailand and we need your help.
+    PyCons happen all over the world, hosted by python programmers for python
+    programmers. PyCon Thailand will be a two day weekend conference with talks
+    in both Thai and English. We want your proposal for talks, lightning talks and workshops.
 
 
-.. raw:: html
+    .. raw:: html
 
-    </div>
+              <div style="text-align: center">
+               <a class="btn btn-primary btn-lg active" href="submit-talk">Submit Your Talk Proposal</a>
+               <br>Quick! The deadline for proposals is May 1st.
 
-.. raw:: html
+              </div>
 
-    <div class="jumbotron">
+
 
 Meet Our Keynote Speakers!
 ==========================
 
-.. image:: /wes-2017-01-12-small.png
-   :alt: Wes McKinney (portrait)
-   :align: left
-
-Wes McKinney
-------------
-
-http://wesmckinney.com
-
-Wes McKinney has been creating fast, easy-to-use data wrangling and statistical computing tools, mostly in the Python programming language, since 2007.
-He is best known for creating the pandas project and writing the book Python for Data Analysis.
-He is also a contributor to the Arrow, Kudu (incubating), and Parquet projects within the Apache Software Foundation.
+.. container:: jumbotron
 
 
-.. raw:: html
+    .. class:: img-circle img-responsive col-md-4
 
-    </div>
+              .. image:: /wes-2017-01-12-small.png
+                     :alt: Wes McKinney (portrait)
+                     :align: left
+                     :width: 200px
 
-.. raw:: html
+    .. class:: col-md-8
 
-    <div class="jumbotron clearfix">
+       .. raw:: html
+
+            <h1>Wes McKinney</h1>
+
+       http://wesmckinney.com
+
+       Wes McKinney has been creating fast, easy-to-use data wrangling and statistical computing tools, mostly in the Python programming language, since 2007.
+       He is best known for creating the pandas project and writing the book Python for Data Analysis.
+       He is also a contributor to the Arrow, Kudu (incubating), and Parquet projects within the Apache Software Foundation.
+
 
 Sponsors
 ========
 
-Our Sponsorship prospectus will be available soon.
+.. container:: jumbotron clearfix
 
-`Register your interest <sponsorship>`_
+    Our Sponsorship prospectus will be available soon.
 
-.. raw:: html
+   .. raw:: html
 
-    </div>
+       <div style="text-align: center">
+          <a class="btn btn-primary btn-lg active" href="sponsorship">Register your interest</a>
+       </div>
