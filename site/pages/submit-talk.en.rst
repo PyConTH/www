@@ -66,6 +66,7 @@ Which Topics Are Suitable?
 
 Suitable topics include, but are not limited to:
 
+.. class:: table table-bordered table-striped
 
 .. list-table:: Suggested Topics
 
