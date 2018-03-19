@@ -60,7 +60,7 @@ Call for Papers
 
 
 
-Meet Our Keynote Speakers!
+พบกับผู้พูดจาก keynote
 ==========================
 
 .. container:: jumbotron
@@ -88,7 +88,7 @@ Meet Our Keynote Speakers!
 
 
 ผู้ให้การสนับสนุน
-============
+===============
 
 .. container:: jumbotron clearfix
 
