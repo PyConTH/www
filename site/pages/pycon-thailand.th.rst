@@ -42,10 +42,13 @@ Call for Papers
 
 .. container:: jumbotron
 
-    2018 is first PyCon in Thailand and we need your help.
-    PyCons happen all over the world, hosted by python programmers for python
-    programmers. PyCon Thailand will be a two day weekend conference with talks
-    in both Thai and English. We want your proposal for talks, lightning talks and workshops.
+    ขอเชิญทุกคนเข้าร่วมงาน Python Conference Thailand
+    โดยงานจะจัดขึ้นในวันที่ 16-17 มิถุนายน 2561 ซึ่งเป็นครั้งแรกของงาน
+    PyCon ในประเทศไทยและพวกเราต้องการความช่วยเหลือจากคุณ งาน PyCon
+    จัดขึ้นทั่วโลกโดย Python Programmers เพื่อ Python Programmers
+    งานจะจัดขึ้นในวันหยุดสุดสัปดาห์เป็นเวลา 2 วัน โดยจะมีการพูดคุยทั้งภาษาไทยและภาษาอังกฤษ เราต้องการข้อเสนอของคุณที่จะใช้พูดในงานสัมนา
+    การพูดสั้นๆ และการฝึกอบรม (work shop)
+
 
 
     .. raw:: html
@@ -78,17 +81,18 @@ Meet Our Keynote Speakers!
 
        http://wesmckinney.com
 
-       Wes McKinney has been creating fast, easy-to-use data wrangling and statistical computing tools, mostly in the Python programming language, since 2007.
-       He is best known for creating the pandas project and writing the book Python for Data Analysis.
-       He is also a contributor to the Arrow, Kudu (incubating), and Parquet projects within the Apache Software Foundation.
+       Wes McKinney ได้สร้างซอฟท์แวร์เพื่อการจัดการข้อมูลและการคำนวณสถิติที่ใช้งานง่ายและมีความเร็วสูง
+       โดยระบบส่วนมากถูกพัฒนาในภาษา Python ตั้งแต่ปีพ.ศ.2550 เขาเป็นที่รู้กจักจากการเริ่มพัฒนาโปรเจค Pandas
+       และเขียนหนังสือชื่อ Python for Data Analysis และยังเป็นผู้สนับสนุน Arrow, Kudu (ช่วงเริ่มต้น)
+       และโปรเจค Parquet ภายใต้มูลนิธิ Apache Software
 
 
-Sponsors
-========
+ผู้ให้การสนับสนุน
+============
 
 .. container:: jumbotron clearfix
 
-   Our Sponsorship prospectus will be available soon.
+   พบกับหนังสือแจ้งรายละเอียดโครงการสำหรับผู้สนับสนุนเร็วๆ นี้
 
    .. raw:: html
 

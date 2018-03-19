@@ -169,16 +169,16 @@ NAVIGATION_LINKS = {
 #              ("/th/keynotes/", "Keynotes"),
 #              ("/th/about/", "About"),
 #              ("/th/staff/", "Staff"),
-               ("/th/code-of-conduct/", "Code of Conduct"),
+               ("/th/code-of-conduct/", "หลักจริยธรรม"),
 #               ("/th/contact/", "Contact"),
             ),
-           "Event"
+           "งาน"
            ),
         (
             (
 #              ("/th/sponsors/", "Sponsors"),
-               ("/th/sponsorship/", "Sponsorship"),),
-           "Sponsorship"
+               ("/th/sponsorship/", "ผู้สนับสนุน"),),
+           "ผู้สนับสนุน"
            ),
         ('/th/venue/', 'สถานที่')
         ),
