@@ -46,7 +46,7 @@
 
 
         KX is a 20 floor building on Krung Thonburi road near the BTS Skytrain “Wong Wian Yai” station,
-        just across the Chao Phaya river from the Sathorn road via the Taksin bridge.
+        just across the Chao Phraya river from the Sathorn road via the Taksin bridge.
 
         .. raw:: html
 

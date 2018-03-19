@@ -1,144 +1,120 @@
 .. title: Submit Talk Proposal
 .. slug: submit-talk
 .. date: 2018-03-16 19:22:54 UTC+07:00
-.. tags: 
-.. category: 
-.. link: 
-.. description: 
+.. tags:
+.. category:
+.. link:
+.. description:
 .. type: text
 
+
+ขอเชิญทุกคนเข้าร่วมงาน Python Conference Thailand
+
+โดยงานจะจัดขึ้นในวันที่ 16-17 มิถุนายน 2561 ซึ่งเป็นครั้งแรกของงาน PyCon_ ในประเทศไทยและพวกเราต้องการความช่วยเหลือจากคุณ งาน PyCon จัดขึ้นทั่วโลกโดยโปรแกรมเมอร์ที่เขียน Python เพื่อโปรแกรมเมอร์ที่เขียน Python งานจะจัดขึ้นในวันหยุดสุดสัปดาห์เป็นเวลา 2 วัน โดยจะมีการพูดคุยทั้งภาษาไทยและภาษาอังกฤษ เราต้องการข้อเสนอของคุณที่จะใช้พูดในงานสัมนา การพูดสั้นๆ และการฝึกอบรม (work shop)
+
 พวกเรามีความยินดีเป็นอย่างยิ่งที่จะเชิญคุณเข้าร่วม “PyCon Thailand” การประชุมนี้ถูกจัดขึ้นโดยกลุ่มคนที่มีความหลงใหลใน Python โดยจะจัดขึ้นที่กรุงเทพระหว่างวันที่ 16-17 มิถุนายน 2561 งานนี้จะเป็นกิจกรรมที่จัดขึ้นเป็นครั้งแรก และพวกเราหวังว่ากิจกรรมนี้จะช่วยเพิ่มความเข้าใจของ Python ได้ในประเทศไทย
-
-ธมงานของ PyCon Thailand ครั้งนี้ก็คือทุกอย่างที่เกี่ยวข้องกับ Python 
-
-
-หัวข้อที่น่าสนใจ
-
-- Python libraries
-- Python-centric software
-- New PEPs
-- Tutorials
-
-
-It is a pleasure to invite you to PyCon Thailand!
-
-June 16-17 2018 will be the first PyCon in Thailand and we need your help.
-PyCon_'s happen all over the world, hosted by python programmers for python programmers.
-PyCon_ Thailand will be a two day weekend conference with talks in both Thai and English.
-We want your proposal for talks, lightning talks and workshops.
-
 
 .. _PyCon: https://www.pycon.org/
 
 
+วันสำคัญ
+-----------
 
-Important Dates
----------------
+กำหนดส่งบทคัดย่อก่อนวันที่ 20 เมษายน 2561
 
-The deadline to submit abstracts is April 20th.
 
 .. class:: table table-bordered table-striped
 
 =============== =====================================
-April 20th 2018 Deadline for submission
+20 เมษายน 2561   วันสุดท้ายในการส่งบทคัดย่อ
 =============== =====================================
 
 
 .. raw:: html
 
-    <a class="btn btn-primary btn-lg active" href="https://www.papercall.io/pyconth" role="button">Submit Your Talk Now!</a>
 
-We know the schedule is a bit tight, so we'll make sure we answer you as quickly as possible.
-Because of the time constraints, all talks will be accepted based on the abstract only.
-In no way does that imply that your presentation should be any less awesome than your abstract.
+   <a class="btn btn-primary btn-lg active" href="https://www.papercall.io/pyconth" role="button">ส่งข้อเสนอการพูดของคุณตอนนี้!</a>
 
-For more information, please look consult the `Call for paper`_
+เราทราบดีว่าตารางเวลาของเรานั้นค่อนข้างแน่น ดังนั้นเราจะพยายามตอบกลับคุณอย่างเร็วที่สุดเท่าที่จะเป็นไปได้ เนื่องจากข้อจำกัดด้านเวลา การอภิปรายทั้งหมดจะได้รับการยอมรับโดยอิงจากบทคัดย่อเท่านั้น
+ซึ่งไม่ได้หมายความว่าการนำเสนอของคุณควรจะยอดเยี่ยมน้อยกว่าบทคัดย่อของคุณ
+
+สำหรับข้อมูลเพิ่มเติมโปรดดูคำแนะนำใน `Call for paper`_
 
 .. _Call for paper: https://www.papercall.io/pyconth
 
+ใครควรนำส่งข้อเสนอ
+--------------------
+คุณ เพื่อนของคุณ เพื่อนของเพื่อนของคุณ ทุกคนที่มีความรู้เกี่ยวกับ Python ไม่ว่าจะระดับไหนก็เป็นผู้สมัครที่ยอดเยี่ยมสำหรับหัวข้อการอภิปรายในการประชุมครั้งนี้ เราต้องการการการอภิปรายทั้งภาษาไทยและภาษาอังกฤษ เราต้องการคนที่อาศัยอยู่ในประเทศไทย, เอเชียตะวันออกเฉียงใต้และจากทั่วโลก เราต้องการที่จะนำเสนอการประชุมที่น่าสนใจที่สุด ที่เราสามารถทำได้และเราจะสามารถทำได้ก็ด้วยความช่วยเหลือของคุณ
 
-Who Should Submit a Proposal?
------------------------------
-You. Your friends. Your friends’ friends. Anyone with any level of Python knowledge is a candidate for a great
-topic at this conference. We want talks in Thai and English. We want who live in Thailand, Southeast Asia and
-from around the world. We want to put on the most interesting conference we can and we do that with your help.
+ไม่ว่าคุณได้เริ่มต้นใช้งาน Python ในเดือนที่ผ่านมาหรือประมาณ 20 ปีแล้ว เราคิดว่าคุณมีอะไรที่จะแบ่งปันได้ ชุมชน Python นั้นเข้มแข็งขึ้นมากกว่าแต่ก่อนและเรายังคงเข้าถึงพื้นที่ใหม่ ๆ, อุตสาหกรรมใหม่ ๆ และผู้ใช้ใหม่
 
-Whether you got started with Python last month or you’ve been around for 20 years, we think you’ve got something to
-share. The Python community is stronger than ever and we’re still reaching new areas, new industries, and new users.
-Be a part of growing Python by helping us change the future.
-
-Speaker Benefits
-----------------
-PyCon_ has a strong tradition of being a conference of peers and as such, everyone pays, even speakers.
-However all speakers will only have to pay the early bird price. If you are able to pay for a full registration,
-then please consider doing so. This is a volunteer led conference and all funds going back into the event.
+มาเป็นส่วนหนึ่งของการพัฒนา Python โดยการช่วยให้เราเปลี่ยนอนาคตกันเถอะ
 
 
-Which Topics Are Suitable?
---------------------------
+ผลประโยชน์ของผู้พูด
+-------------------
+PyCon_ มีวัฒนธรรมของงานอย่างชัดเจนที่จะเป็นงานประชุมของกลุ่มเพื่อนซึ่งทุกคนต้องจ่ายค่าเข้างานรวมไปถึงผู้ที่เป็นผู้พูดในงานด้วยเช่นกัน อย่างไรก็ตามผู้พูดทุกคนจะจ่ายเพียงแค่ราคาประเภท Early Bird แต่ถ้าหากคุณสามารถจ่ายค่าสมัครได้เต็มจำนวน ได้โปรดพิจารณาด้วย นี่เป็นการประเดิมงานอาสาสมัครและเงินสมทบทุนจะกลับเข้าสู่กิจกรรม
 
-Suitable topics include, but are not limited to:
+
+หัวข้อใดที่เหมาะสม
+-------------------
+
+หัวข้อที่เหมาะสมจะรวมถึงแต่ไม่จำกัดอยู่แค่
 
 .. class:: table table-bordered table-striped
 
-.. list-table:: Suggested Topics
+.. list-table:: ตารางตามรายการ : หัวข้อที่ได้รับการแนะนำ
 
-    * - Machine Learning / Artificial Intelligence
-      - Big Data / Pandas / Jupyther
-      - Fintech / Quantitative Finance
-    * - eEnergy / Social Impact
+    * - การเรียนรู้ของเครื่องจักร / ปัญญาประดิษฐ์
+      - ข้อมูลขนาดใหญ่ / Pandas / Jupyter
+      - เทคโนโลยีทางด้านการเงิน / การเงินเชิงปริมาณ
+    * - พลังงานอิเล็กทรอนิกส์ / ผลกระทบทางสังคม
       - Blockchain
-      - Web Development
-    * - System Administration / DevOps / Deployment
-      - Python Libraries and Extensions
-      - Python in Education, Science and Maths
-    * - Business and Scientific Applications
-      - Embedding and Extending Python
-      - Game Programming
-    * - GUI Programming
-      - Network Programming
-      - Testing and Development Tool Chains
-    * - Project Best Practices
-      - Python Implementations: IronPython, Jython, PyPy, Stackless and MicroPython
-      - Internet of Things
+      - การพัฒนาเว็บไซต์
+    * - การบริหารระบบ / DevOps / การปรับใช้
+      - คลังและส่วนขยายของ Python
+      - Python สำหรับการศึกษา, วิทยาศาสตร์ และคณิตศาสตร์
+    * - การประยุกต์ใช้ทางธุรกิจและวิทยาศาสตร์
+      - การฝังตัวและการขยาย Python
+      - การเขียนโปรแกรมเกม
+    * - การเขียนโปรแกรม GUI
+      - การเขียนโปรแกรมเครือข่าย
+      - การทดสอบและการพัฒนาเครื่องมือแบบลูกโซ่
+    * - แนวทางปฏิบัติที่ดีที่สุดของโครงการ
+      - การใช้ Python : IronPython, Jython, PyPy, Stackless and MicroPython
+      - อินเตอร์เน็ตของสรรพสิ่ง
 
-You are probably doing something more interesting to others than you know. Submit a proposal.
+คุณน่าจะกำลังทำอะไรบางอย่างที่น่าสนใจกว่าที่คุณคิด ส่ง
 
+ประเภทการอภิปรายใดที่เป็นที่ต้องการ
+---------------------------------
 
-What Talk Types Are Needed?
----------------------------
-
-Conference Talks
-~~~~~~~~~~~~~~~~
-This is the most important talk type! We are aiming at a two track conference, but the venue could support even a three
-track conference! Your talk should be either 30 minutes or 45 minutes and leave some room for questions at the end.
-
-Lightning Talks
-~~~~~~~~~~~~~~~
-Lightning talks are a great PyCon_ tradition. They are 5 minutes only talks (we do count down).
-This would be a great opportunity for first-time speakers to step up and give a short talk about a useful Python
-library they recently discovered or about interesting Python events that will happen in the near future.
-
-Workshops
-~~~~~~~~~
-If want to do a more in depth tutorial or training as part of this conference send us your proposal. Workshops
-are free for attendees so paid workshops are not appropriate this year. Workshops are between 1-3 hours.
-We will work the schedule around including workshops if we feel its valuable.
-
-Proposal Selection Process
---------------------------
+การพูดคุยในการประชุม
+~~~~~~~~~~~~~~~~~~
+ นี่คือประเภทการพูดคุยที่สำคัญที่สุด! เรากำลังมุ่งไปที่การประชุมสองทาง แต่สถานที่อาจสนับสนุนได้แม้แต่การประชุมสามทาง! การพูดคุยของคุณควรใช้เวลา 30 นาทีหรือ 45 นาทีและปล่อยให้มีคำถามในตอนท้าย
 
 
-Selecting the proposals to include in the conference is complex, involving a selection committee, and several meetings.
-We take the process very seriously, and respect and value the effort that every submitter has taken in preparing their
-proposal. We will be annoucing the date of the talk schedule and who as been accepted at a later date.
+การพูดคุยสั้นๆ
+~~~~~~~~~~~~
+การอภิปรายสั้นๆ เป็นประเพณีที่ยิ่งใหญ่ PyCon ซึ่งใช้เวลาพูดคุยเพียง 5 นาทีเท่านั้น (เราจะทำการนับถอยหลัง)
+นี่เป็นโอกาสอันยอดเยี่ยมสำหรับผู้ที่พูดเป็นครั้งแรกที่จะก้าวขึ้นมาและพูดคุยสั้นๆ เกี่ยวกับไลบรารี่ที่มีประโยชน์ของ Python ที่เป็นประโยชน์ซึ่งพวกเขาเพิ่งค้นพบเมื่อเร็วๆ นี้หรือเกี่ยวกับเหตุการณ์เรื่อง Python ที่น่าสนใจซึ่งจะเกิดขึ้นในอนาคตอันใกล้นี้
 
+เวิร์คช็อป
+~~~~~~~~~~~~
+หากต้องการทำแบบฝึกหัดหรือการฝึกอบรมเชิงลึกในส่วนของการประชุมครั้งนี้ กรุณาส่งข้อเสนอของคุณมาให้เรา เวิร์คช็อปจะไม่มีค่าใช้จ่ายสำหรับผู้เข้าร่วมดังนั้นเวิร์คช็อปที่ต้องจ่ายเงินจึงไม่เหมาะสมในปีนี้ เวิร์คช็อปจะใช้เวลาระหว่าง 1-3 ชั่วโมง
 
-How to write a great proposal
+เราจะทำตารางเวลาให้ครอบคลุมเวิร์คช็อปด้วยหากเรารู้สึกว่ามันมีคุณค่า
+
+กระบวนการคัดเลือกข้อเสนอ
 -----------------------------
+การเลือกข้อเสนอเพื่อรวมไว้ในการประชุมมีความซับซ้อนโดยเกี่ยวข้องกับคณะกรรมการคัดเลือกและการประชุมหลายครั้ง
 
-If you would be interested in advice, tips or suggestions for writing a great proposal, PyCon AU have two great
-articles:
+เราดำเนินการอย่างจริงจังมาก เคารพและให้ความสำคัญกับความพยายามที่ผู้ยื่นคำขอทุกคนที่ได้ดำเนินการในการจัดเตรียมข้อเสนอของตน เราจะประกาศวันที่กำหนดการพูดคุยและผู้ที่ได้รับการยอมรับในภายหลัง
+
+
+วิธีการเขียนข้อเสนอที่ดีเยี่ยม
+-------------------------------
+หากคุณสนใจคำแนะนำ, เคล็ดลับ หรือข้อเสนอแนะในเรื่องการเขียนข้อเสนอที่ดีเยี่ยม ทาง PyCon AU มีบทความที่ดีเยี่ยมสองบทความคือ:
 
 - `PyConAU Talk proposal Tips`_
 - `PyConAU Detailed proposal help`_
@@ -146,7 +122,6 @@ articles:
 .. _PyConAU Talk proposal Tips: https://2017.pycon-au.org/program/proposal-tips/tips-writing-great-proposal/
 .. _PyConAU Detailed proposal help: https://2017.pycon-au.org/program/proposal-tips/proposal-tips-part-two/
 
-If you would like feedback on your proposal
--------------------------------------------
-
-Please submit questions in your abstract and we will follow up with you.
+ถ้าคุณต้องการ feedback ในข้อเสนอของคุณ
+-----------------------------------
+กรุณาส่งคำถามในบทคัดย่อของคุณแล้วเราจะติดต่อกลับไป
