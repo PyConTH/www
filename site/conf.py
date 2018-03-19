@@ -17,9 +17,9 @@ import time
 
 # Data about this site
 #TDB BLOG_AUTHOR = {"en": "PyCon Thailand team", "th": "TBD"}  # (translatable)
-BLOG_AUTHOR = {"en": "PyCon Thailand team", "th": "TBD"}  # (translatable)
+BLOG_AUTHOR = {"en": "PyCon Thailand team", "th": "PyCon Thailand team"}  # (translatable)
 #TDB BLOG_TITLE = {"en":"PyCon Thailand", "th": "TBD"}  # (translatable)
-BLOG_TITLE = {"en":"PyCon Thailand", "th": "TBD"}  # (translatable)
+BLOG_TITLE = {"en":"PyCon Thailand", "th": "PyCon Thailand"}  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
 SITE_URL = "https://th.pycon.org/"
@@ -28,7 +28,7 @@ SITE_URL = "https://th.pycon.org/"
 # BASE_URL = "https://th.pycon.org/"
 BLOG_EMAIL = "jean.jordaan@gmail.com"
 #TBD BLOG_DESCRIPTION = {"en": "Conference website for PyCon Thailand", "th": "TDB"}  # (translatable)
-BLOG_DESCRIPTION = {"en": "Conference website for PyCon Thailand", "th": "TDB"}  # (translatable)
+BLOG_DESCRIPTION = {"en": "Conference website for PyCon Thailand", "th": "เว็บไซต์ทางการของการสัมมนา PyCon Thailand"}  # (translatable)
 
 # Nikola is multilingual!
 #
