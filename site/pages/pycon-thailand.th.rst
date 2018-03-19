@@ -1,11 +1,12 @@
-.. title: PyCon Thailand
+.. title: PyCon Thailand 2018
 .. slug: index
 .. date: 2017-12-11 15:41:41 UTC+07:00
-.. tags: 
-.. category: 
-.. link: 
-.. description: 
+.. tags:
+.. category:
+.. link:
+.. description:
 .. type: text
+
 
 
 .. raw:: html
@@ -16,15 +17,23 @@
     background-position-x: -142px;">
 
     <div class="col-md-6"> </div>
-    <div class="col-md-4">
-    <div class="admonition admonition-pycon-thailand-2018" style="text-align: center">
-        <h1 class="first admonition-title">PyCon Thailand 2018</h1>
-         <hr>
-        <p>June 16 & June 17</p>
-        <p class="last">Bangkok</p>
+    <div class="col-md-6">
+    <div class="admonition admonition-pycon-thailand-2018 text-center"
+    style="    background-color: rgba(255,255,255,0.55);">
+        <h1 class="admonition-title"><a href="/">PyCon Thailand 2018</a></h1>
+        <p>16-17 มิถุนายน<br>
+        กรุงเทพมหานคร</p>
+        <ul class="list-inline banner-social-buttons last">
+            <li>
+                <a href="https://twitter.com/pyconthailand" class="btn btn-default btn-lg" target="_blank"><i class="fa fa-twitter fa-fw"></i></a>
+            </li>
+            <li>
+                <a href="https://www.facebook.com/pyconthailand/" class="btn btn-default btn-lg" target="_blank"><i class="fa fa-facebook fa-fw"></i></a>
+            </li>
+        </ul>
     </div>
     </div>
-    <div class="col-md-4"> </div>
+    <div class="col-md-2"> </div>
    </div>
 
 
@@ -33,23 +42,25 @@ Call for Papers
 
 .. container:: jumbotron
 
-    2018 is first PyCon in Thailand and we need your help.
-    PyCons happen all over the world, hosted by python programmers for python
-    programmers. PyCon Thailand will be a two day weekend conference with talks
-    in both Thai and English. We want your proposal for talks, lightning talks and workshops.
+    ขอเชิญทุกคนเข้าร่วมงาน Python Conference Thailand
+    โดยงานจะจัดขึ้นในวันที่ 16-17 มิถุนายน 2561 ซึ่งเป็นครั้งแรกของงาน
+    PyCon ในประเทศไทยและพวกเราต้องการความช่วยเหลือจากคุณ งาน PyCon
+    จัดขึ้นทั่วโลกโดย Python Programmers เพื่อ Python Programmers
+    งานจะจัดขึ้นในวันหยุดสุดสัปดาห์เป็นเวลา 2 วัน โดยจะมีการพูดคุยทั้งภาษาไทยและภาษาอังกฤษ เราต้องการข้อเสนอของคุณที่จะใช้พูดในงานสัมนา
+    การพูดสั้นๆ และการฝึกอบรม (work shop)
+
 
 
     .. raw:: html
 
-              <div style="text-align: center">
-               <a class="btn btn-primary btn-lg active" href="submit-talk">Submit Your Talk Proposal</a>
-               <br>Quick! The deadline for proposals is May 1st.
-
+              <div class="text-center">
+               <a class="btn btn-primary btn-lg active" href="submit-talk">ส่งข้อเสนอการพูดของคุณตอนนี้!</a>
+               <br>ด่วน! หมดเขตส่งข้อเสนอวันที่ 20 เมษายน
               </div>
 
 
 
-Meet Our Keynote Speakers!
+meet our keynote speaker
 ==========================
 
 .. container:: jumbotron
@@ -70,20 +81,19 @@ Meet Our Keynote Speakers!
 
        http://wesmckinney.com
 
-       Wes McKinney has been creating fast, easy-to-use data wrangling and statistical computing tools, mostly in the Python programming language, since 2007.
-       He is best known for creating the pandas project and writing the book Python for Data Analysis.
-       He is also a contributor to the Arrow, Kudu (incubating), and Parquet projects within the Apache Software Foundation.
+       Wes McKinney ได้สร้างซอฟท์แวร์เพื่อการจัดการข้อมูลและการคำนวณสถิติที่ใช้งานง่ายและมีความเร็วสูง
+       โดยระบบส่วนมากถูกพัฒนาในภาษา Python ตั้งแต่ปีพ.ศ.2550 เขาเป็นที่รู้กจักจากการเริ่มพัฒนาโปรเจค Pandas
+       และเขียนหนังสือชื่อ Python for Data Analysis และยังเป็นผู้สนับสนุน Arrow, Kudu (ช่วงเริ่มต้น)
+       และโปรเจค Parquet ภายใต้มูลนิธิ Apache Software
 
 
-Sponsors
-========
+ผู้ให้การสนับสนุน
+===============
 
 .. container:: jumbotron clearfix
 
-    Our Sponsorship prospectus will be available soon.
+   พบกับหนังสือแจ้งรายละเอียดโครงการสำหรับผู้สนับสนุนเร็วๆ นี้
 
    .. raw:: html
 
-       <div style="text-align: center">
-          <a class="btn btn-primary btn-lg active" href="sponsorship">Register your interest</a>
-       </div>
+          <a class="btn btn-primary btn-lg active" href="sponsorship">ลงทะเบียนสิ่งที่คุณสนใจ</a>

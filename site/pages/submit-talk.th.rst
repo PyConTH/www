@@ -116,8 +116,8 @@ PyCon_ มีวัฒนธรรมของงานอย่างชัด�
 -------------------------------
 หากคุณสนใจคำแนะนำ, เคล็ดลับ หรือข้อเสนอแนะในเรื่องการเขียนข้อเสนอที่ดีเยี่ยม ทาง PyCon AU มีบทความที่ดีเยี่ยมสองบทความคือ:
 
-  - `PyConAU Talk proposal Tips`_
-  - `PyConAU Detailed proposal help`_
+- `PyConAU Talk proposal Tips`_
+- `PyConAU Detailed proposal help`_
 
 .. _PyConAU Talk proposal Tips: https://2017.pycon-au.org/program/proposal-tips/tips-writing-great-proposal/
 .. _PyConAU Detailed proposal help: https://2017.pycon-au.org/program/proposal-tips/proposal-tips-part-two/
