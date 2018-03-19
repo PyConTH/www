@@ -1090,7 +1090,7 @@ CONTENT_FOOTER = {
     <div class="col-md-3">
         <h3>เมื่อไหร่และที่ไหน</h3>
         <h4>เมื่อ:</h4>
-        มิถุนายน 2561
+        16-17 มิถุนายน 2561
         <h4>สถานที่:</h4>
         <a href="/venue">อาคารเคเอกซ์ (Knowledge Exchange Center – KX)</a> <br>
         ถนนกรุงธนบุรี<br>
