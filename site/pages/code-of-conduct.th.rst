@@ -1,29 +1,28 @@
-.. title: Code of Conduct
+.. title: หลักจริยธรรม
 .. slug: code-of-conduct
 .. date: 2017-12-21 18:33:48 UTC+07:00
 .. tags: 
 .. category: 
 .. link: 
-.. description: Code of Conduct
+.. description: หลักจริยธรรม
 .. type: text
 
 
 
 .. container:: jumbotron
 
-    - Be nice.
-    - Be Professional.
-    - Management reserves the right to eject you.
-    - See us immediately if you are have a problem.
+    - เป็นมิตร
+    - เป็นมืออาชีพ
+    - ทีมจัดงานมีสิทธิ์ที่จะขอปฏิเสธคุณ 
+    - สามารถพบเราได้ทันทีหากคุณมีปัญหา
 
 
-PyCon Thailand is a community conference intended for networking and collaboration in the developer community.
+เป็นกลุ่มคนที่มีการพบปะพูดคุย มีจุดมุ่งหมายเพื่อให้เกิดเครือข่ายและการร่วมมือกันในการพัฒนาสังคมกลุ่มนี้
 
-We value the participation of each member of the Python community and want all attendees to have an enjoyable and fulfilling experience.
-Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the conference and at all conference events, whether officially sponsored by PyCon or not.
+เราเห็นความสำคัญของสมาชิกทุกคนในกลุ่ม Python และต้องการให้ผู้เข้าร่วมงานทุกคนได้รับความสนุกและเติมเต็มประสบการณ์ ดังนั้นผู้เข้าร่วมงานทุกคนควรให้ความเคารพและแสดงออกถึงมารยาทที่ดีแต่ผู้เข้าร่วมท่านอื่น ตลอดทั้งการประชุมและกิจกรรมต่างๆ ที่ได้รับการสนับสนุนอย่างเป็นทางการจาก PyCon หรือไม่ก็ตาม
 
-To make clear what is expected, all delegates/attendees, speakers, exhibitors, organizers and volunteers at any PyCon event are required to conform to the following Code of Conduct.
-Organizers will enforce this code throughout the event.
+เพื่อให้เข้าใจถึงความคาดหวังของงาน ตัวแทนและผู้เข้าร่วมทุกคน รวมไปถึงผู้บรรยาย ผู้จัดงาน และอาสาสมัครทุกกิจกรรมของ PyCon ควรทำตามกฎและระเบียบ
+ซึ่งคณะผู้จัดงานจะใช้กฎและระเบียบนี้ตลอดการจัดกิจกรรม
 
 
 In Short
