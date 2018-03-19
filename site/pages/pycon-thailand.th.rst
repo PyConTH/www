@@ -54,8 +54,8 @@ Call for Papers
     .. raw:: html
 
               <div class="text-center">
-               <a class="btn btn-primary btn-lg active" href="submit-talk">Submit Your Talk Proposal</a>
-               <br>Quick! The deadline for proposals is 20th April.
+               <a class="btn btn-primary btn-lg active" href="submit-talk">ส่งข้อเสนอการพูดของคุณตอนนี้!</a>
+               <br>ด่วน! หมดเขตส่งข้อเสนอวันที่ 20 เมษายน
               </div>
 
 
