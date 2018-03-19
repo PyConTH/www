@@ -60,7 +60,7 @@ Call for Papers
 
 
 
-พบกับผู้พูดจาก keynote
+meet our keynote speaker
 ==========================
 
 .. container:: jumbotron
