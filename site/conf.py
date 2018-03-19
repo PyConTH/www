@@ -1062,7 +1062,7 @@ CONTENT_FOOTER = {
         Khwaeng Bang Lamphu Lang <br>
         Thon Buri <br>
         Bangkok <br>
-        10600    
+        10600
     </div>
     <div class="col-md-3">
         <h3>Gold Sponsors</h3>
@@ -1084,12 +1084,12 @@ CONTENT_FOOTER = {
   <div class="container">
     <div class="col-md-3">
         <h3>About</h3>
-        PyCon Thailand คือ งานสัมนาเกี่ยวกับภาษาที่ใช้เขียนโปรแกรม (Python programming language)เป็นสังคมที่ขับเคลื่อนโดยสมาชิกของกลุ่ม 
+        PyCon Thailand คือ งานสัมนาเกี่ยวกับภาษาที่ใช้เขียนโปรแกรม (Python programming language)เป็นสังคมที่ขับเคลื่อนโดยสมาชิกของกลุ่ม
         Python ในกรุงเทพมหานคร
     </div>
     <div class="col-md-3">
-        <h3>เมื่อไหร่และที่ไหน</h3>
-        <h4>เมื่อ:</h4>
+        <h3>เวลาและสถานที่่</h3>
+        <h4>เวลา:</h4>
         16-17 มิถุนายน 2561
         <h4>สถานที่:</h4>
         <a href="/venue">อาคารเคเอกซ์ (Knowledge Exchange Center – KX)</a> <br>
@@ -1097,10 +1097,10 @@ CONTENT_FOOTER = {
         แขวงบางลำภูล่าง <br>
         ธนบุรี<br>
         กรุงเทพมหานคร<br>
-        10600    
+        10600
     </div>
     <div class="col-md-3">
-        <h3>Sponsors</h3>
+        <h3>ผู้สนับสนุน</h3>
     </div>
     <div class="col-md-3">
         <h3>ติดต่อเรา</h3>
