@@ -96,4 +96,4 @@ Meet Our Keynote Speakers!
 
    .. raw:: html
 
-          <a class="btn btn-primary btn-lg active" href="sponsorship">Register your interest</a>
+          <a class="btn btn-primary btn-lg active" href="sponsorship">ลงทะเบียนสิ่งที่คุณสนใจ</a>
