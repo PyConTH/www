@@ -1,4 +1,4 @@
-.. title: Venue
+.. title: สถานที่
 .. slug: venue
 .. date: 2017-12-23 19:51:51 UTC+07:00
 .. tags: 
@@ -15,12 +15,13 @@
 
         .. raw:: html
 
-           <h2>Bangkok</h2>
+           <h2>กรุงเทพมหานคร</h2>
 
-        Thailand’s capital is south-east Asia’s most enigmatic city, a head-on clash between tradition and modernity.
-        First-time visitors may be a little taken aback by the concrete canyons and futuristic, billboard-covered skyscrapers,
-        but take a few steps away from the main roads into one of the city’s countless alleys and traditional
-        Thai culture is everywhere – an urban cornucopia of smells, tastes, sounds and sights that one is unlikely to forget.
+        เมืองหลวงของประเทศไทยตั้งอยู่ที่ทวีปเอเชียตะวันออกเฉียงใต้ เป็นเมืองที่มีความซับซ้อนแห่งหนึ่งระหว่างสมัยเก่าและสมัยใหม่ 
+        ผู้ที่มาครั้งแรกอาจจะรู้สึกฉงนกับตึกคอนกรีตและป้ายโฆษณาบนตึกสูงระฟ้าอีกมากมาย 
+        แต่หากก้าวออกไปจากถนนหลักก็จะเข้าสู่ตรอกซอกซอยนับไม่ถ้วน 
+        รวมไปถึงวัฒนธรรมไทยที่มีอยู่แทบทุกที่ กลิ่นของเมือนที่มีความอุดมสมบูรณ์ รสชาติอาหาร แสงสีที่ยากจะลืม
+
 
     .. class:: col-md-3
     .. image:: /kx-building.jpg
@@ -33,31 +34,33 @@
 
            <h2>Knowledge Exchange Center – KX</h2>
 
-        `Knowledge Exchange KX <https://www.facebook.com/pg/kxkmutt>`_ is facility dedicated to stimulating knowledge exchange, entrepreneurship, partnerships and innovation alliances.
-        A space for creating a vibrant community of forward-looking industry, businesses, technology and knowledge providers,
-        public sector facilitators, and venture capital providers.
+        `Knowledge Exchange KX <https://www.facebook.com/pg/kxkmutt>`_ 
+        คือสถานที่ที่มีไว้เพื่อกระตุ้นให้เกิดการแลกเปลี่ยนความรู้, ความเป็นผู้ประกอบการ, หุ้นส่วน และพันธมิตรด้านนวัตกรรม 
+        เป็นพื้นที่สำหรับสร้างสังคมที่เจิดจ้าทั้งด้านอุตสาหกรรม, ธุรกิจ, เทคโนโลยีและผู้ให้ความรู้, ผู้ให้บริการภาครัฐและผู้ให้บริการเงินร่วมลงทุน
+
 
 
     .. container:: col-md-3
 
         .. raw:: html
 
-           <h2>Location</h2>
+           <h2>ที่ตั้ง</h2>
 
 
-        KX is a 20 floor building on Krung Thonburi road near the BTS Skytrain “Wong Wian Yai” station,
-        just across the Chao Phaya river from the Sathorn road via the Taksin bridge.
+        ตึก KX ซึ่งเป็นอาคารสูง 20ชั้นบนถนนกรุงธนบุรี ใกล้สถานีรถไฟฟ้าบีทีเอสวงเวียนใหญ่ 
+        ตรงข้ามแม่น้ำเจ้าพระยาจากถนนสาธรโดยสะพานตากสิน
 
         .. raw:: html
 
-           <h2>Address</h2>
+           <h2>ที่อยู่</h2>
 
 
-        10/1 Krung Thonburi Road
-        Khwaeng Bang Lamphu Lang,
-        Thon Buri,
-        Bangkok
+        10/1 ถนนกรุงธนบุรี 
+        แขวงบางลำภูล่าง,
+        ธนบุรี,
+        กรุงเทพ
         10600
+
         https://www.facebook.com/pg/kxkmutt
 
 .. container:: row
