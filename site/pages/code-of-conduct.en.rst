@@ -60,8 +60,8 @@ If a participant engages in behavior that violates this code of conduct, the con
 Procedure for Handling Harassment
 ---------------------------------
 
-- `Attendee Procedure for Incident Handling <attendee-procedure-for-incident-handling>`_.
-- `Staff Procedure for incident handling <staff-procedure-for-incident-handling>`_.
+- `Attendee Procedure for Incident Handling <../attendee-procedure-for-incident-handling>`_.
+- `Staff Procedure for incident handling <../staff-procedure-for-incident-handling>`_.
 
 License
 -------
