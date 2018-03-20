@@ -1,30 +1,26 @@
 .. title: Sponsorship
 .. slug: sponsorship
 .. date: 2017-12-23 17:17:13 UTC+07:00
-.. tags: 
-.. category: 
-.. link: 
+.. tags:
+.. category:
+.. link:
 .. description: Available sponsorship levels
 .. type: text
 
 
-Sponsors
+ผู้สนับสนุน
 --------
 
-Pycon Thailand is organised by a community of passionate Pythonistas on a volunteer-basis.
-We can't put on a great show without some great sponsors.
+Pycon Thailand ถูกจัดขึ้นโดนกลุ่มคนที่รักภาษา Python โดยทุกคนขัดในฐานะอาสาสมัครทั้งหมด เราไม่สามารถจัดงานเจ๋งๆได้ถ้าขาดผู้ใหญ่ใจดี
 
-Here is your chance to reach the decision makers and developers from hundreds of top companies.
-Pycon Thailand has a capacity of up to 250 attendees and there are sponsorship opportunities to
-fit any budget. Be part of the first ever Python conference in Thailand and help us make history.
+นี่เป็นโอกาสของคุณที่จะเข้าถึงคนที่มีอำนาจตัดสินใจและนักพัฒนาจากบริษัทชั้นนำต่างๆ Pycon Thailand สามารถรองรับผู้เข้าร่วมงานได้ถึง 250 คน นั่นหมายความว่าผู้สนับสนุนสามารถช่วยสนับสนุนงานได้ไม่ว่างบจะมากจะน้อยแค่ไหน มาร่วมเป็นส่วนหนึ่งของการจัดการสัมมนาเกี่ยวกับ Python ครั้งแรกในประเทศไทยและร่วมสร้างประวัติศาสตร์ไปกับเรา
 
 
-Sponsorship packages
+Package ของการสนับสนุน
 --------------------
 
-Contact the organizers for the available sponsorship opportunities.
-Opportunities include representation the website, booths at the venue,
-banners at the venue, as well as sessions, swag and bag inserts.
+ติดต่อผู้จัดสำหรับข้อมูลเพิ่มเติมสำหรับการช่วยสนับสนุนงาน
+การช่วยเหลือสามารถทำได้หลากหลายรูปแบบไม่ว่าจะเป็น กระจายข่าวเกี่ยวกับเว็บไซต์ ตั้งบูธในงาน ติด banner ในงาน รวมไปถึงการจัด session และของชำร่วยต่างๆ
 
 
 Contact
@@ -59,6 +55,3 @@ Contact
       </div>
     </form>
     </div>
-
-
-
