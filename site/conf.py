@@ -1042,7 +1042,7 @@ LICENSE = ""
 # CONTENT_FOOTER = 'Contents &copy; {date}         <a href="mailto:{email}">{author}</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         {license}'
 
 CONTENT_FOOTER = {
-	DEFAULT_LANG: """
+	"en": """
 <div class="navbar-inverse row" style="
     color: white;
 ">
@@ -1069,8 +1069,9 @@ CONTENT_FOOTER = {
     </div>
     <div class="col-md-3">
         <h3>Get Social</h3>
-        <a href="https://twitter.com/pyconthailand">Twitter</a><br>
-        <a href="https://www.facebook.com/pyconthailand/">Facebook</a><br>
+        <a href="https://twitter.com/pyconthailand"><i class="fa fa-twitter fa-fw"></i> Twitter</a><br>
+        <a href="https://www.facebook.com/pyconthailand/"><i class="fa fa-facebook fa-fw"></i> Facebook</a><br>
+        <a href="https://www.meetup.com/ThaiPy-Bangkok-Python-Meetup/"><i class="fa fa-meetup fa-fw"></i> Meetup</a>
         <a href="">Contact</a><br>
     </div>
   </div>
@@ -1104,8 +1105,9 @@ CONTENT_FOOTER = {
     </div>
     <div class="col-md-3">
         <h3>ติดต่อเรา</h3>
-        <a href="https://twitter.com/pyconthailand">Twitter</a><br>
-        <a href="https://www.facebook.com/pyconthailand/">Facebook</a><br>
+        <a href="https://twitter.com/pyconthailand"><i class="fa fa-twitter fa-fw"></i> Twitter</a><br>
+        <a href="https://www.facebook.com/pyconthailand/"><i class="fa fa-facebook fa-fw"></i> Facebook</a><br>
+        <a href="https://www.meetup.com/ThaiPy-Bangkok-Python-Meetup/"><i class="fa fa-meetup fa-fw"></i> Meetup</a></br>
         <a href="">Contact</a><br>
     </div>
   </div>
