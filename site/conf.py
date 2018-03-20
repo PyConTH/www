@@ -1078,7 +1078,7 @@ CONTENT_FOOTER = {
 </div>
 <!--Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a> -->
 """,
-"th": """
+DEFAULT_LANG: """
 <div class="navbar-inverse row" style="
     color: white;
 ">
