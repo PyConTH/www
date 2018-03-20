@@ -71,6 +71,6 @@
     .. container:: jumbotron clearfix
 
         .. image:: /kxmap.jpg
-           :alt: KX is near Wong Wen Yai BTS station a short ride from the Bangkok center
+           :alt: KX is near Wong Wian Yai BTS station a short ride from the Bangkok center
            :align: center
 

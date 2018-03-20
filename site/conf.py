@@ -88,14 +88,14 @@ BLOG_DESCRIPTION = {"en": "Conference website for PyCon Thailand", "th": "เว
 # in the default language will be shown instead.
 
 # What is the default language?
-DEFAULT_LANG = "en"
+DEFAULT_LANG = "th"
 
 # What other languages do you have?
 # The format is {"translationcode" : "path/to/translation" }
 # the path will be used as a prefix for the generated pages location
 TRANSLATIONS = {
     DEFAULT_LANG: "",
-    "th": "th",
+    "en": "en",
     # Example for another language:
     # "es": "./es",
 }
@@ -139,14 +139,37 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         (
             (
-               ("/submit-talk/", "Submit Talk Proposal"),
+               ("/submit-talk/", "ส่งข้อเสนอการพูดคุยของคุณ"),
 #               ("/buy-tickets/", "Buy Tickets"),
 #               ("/speakers/", "Speakers"),
 #              ("/schedule/", "Talk Schedule"),
 #              ("/keynotes/", "Keynotes"),
 #              ("/about/", "About"),
 #              ("/staff/", "Staff"),
-               ("/code-of-conduct/", "Code of Conduct"),
+               ("/code-of-conduct/", "หลักจริยธรรม"),
+#               ("/contact/", "Contact"),
+            ),
+           "งาน"
+           ),
+        (
+            (
+#              ("/sponsors/", "Sponsors"),
+               ("/sponsorship/", "ผู้สนับสนุน"),),
+           "ผู้สนับสนุน"
+           ),
+        ('/venue/', 'สถานที่')
+    ),
+    "en": (
+        (
+            (
+               ("/en/submit-talk/", "Submit Talk Proposal"),
+#               ("/buy-tickets/", "Buy Tickets"),
+#               ("/speakers/", "Speakers"),
+#              ("/schedule/", "Talk Schedule"),
+#              ("/keynotes/", "Keynotes"),
+#              ("/about/", "About"),
+#              ("/staff/", "Staff"),
+               ("/en/code-of-conduct/", "Code of Conduct"),
 #               ("/contact/", "Contact"),
             ),
            "Event"
@@ -154,33 +177,10 @@ NAVIGATION_LINKS = {
         (
             (
 #              ("/sponsors/", "Sponsors"),
-               ("/sponsorship/", "Sponsorship"),),
+               ("/en/sponsorship/", "Sponsorship"),),
            "Sponsorship"
            ),
-        ('/venue/', 'Venue')
-    ),
-    "th": (
-        (
-            (
-               ("/th/submit-talk/", "ส่งข้อเสนอการพูดคุยของคุณ"),
-#               ("/th/buy-tickets/", "Buy Tickets"),
-#               ("/th/speakers/", "Speakers"),
-#              ("/th/schedule/", "Talk Schedule"),
-#              ("/th/keynotes/", "Keynotes"),
-#              ("/th/about/", "About"),
-#              ("/th/staff/", "Staff"),
-               ("/th/code-of-conduct/", "หลักจริยธรรม"),
-#               ("/th/contact/", "Contact"),
-            ),
-           "งาน"
-           ),
-        (
-            (
-#              ("/th/sponsors/", "Sponsors"),
-               ("/th/sponsorship/", "ผู้สนับสนุน"),),
-           "ผู้สนับสนุน"
-           ),
-        ('/th/venue/', 'สถานที่')
+        ('/en/venue/', 'Venue')
         ),
 }
 
@@ -1042,7 +1042,7 @@ LICENSE = ""
 # CONTENT_FOOTER = 'Contents &copy; {date}         <a href="mailto:{email}">{author}</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         {license}'
 
 CONTENT_FOOTER = {
-	DEFAULT_LANG: """
+	"en": """
 <div class="navbar-inverse row" style="
     color: white;
 ">
@@ -1069,8 +1069,9 @@ CONTENT_FOOTER = {
     </div>
     <div class="col-md-3">
         <h3>Get Social</h3>
-        <a href="https://twitter.com/pyconthailand">Twitter</a><br>
-        <a href="https://www.facebook.com/pyconthailand/">Facebook</a><br>
+        <a href="https://twitter.com/pyconthailand"><i class="fa fa-twitter fa-fw"></i> Twitter</a><br>
+        <a href="https://www.facebook.com/pyconthailand/"><i class="fa fa-facebook fa-fw"></i> Facebook</a><br>
+        <a href="https://www.meetup.com/ThaiPy-Bangkok-Python-Meetup/"><i class="fa fa-meetup fa-fw"></i> Meetup</a><br>
         <a href="">Contact</a><br>
     </div>
   </div>
@@ -1104,8 +1105,9 @@ CONTENT_FOOTER = {
     </div>
     <div class="col-md-3">
         <h3>ติดต่อเรา</h3>
-        <a href="https://twitter.com/pyconthailand">Twitter</a><br>
-        <a href="https://www.facebook.com/pyconthailand/">Facebook</a><br>
+        <a href="https://twitter.com/pyconthailand"><i class="fa fa-twitter fa-fw"></i> Twitter</a><br>
+        <a href="https://www.facebook.com/pyconthailand/"><i class="fa fa-facebook fa-fw"></i> Facebook</a><br>
+        <a href="https://www.meetup.com/ThaiPy-Bangkok-Python-Meetup/"><i class="fa fa-meetup fa-fw"></i> Meetup</a></br>
         <a href="">Contact</a><br>
     </div>
   </div>
