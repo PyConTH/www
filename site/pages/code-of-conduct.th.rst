@@ -1,9 +1,9 @@
 .. title: หลักจริยธรรม
 .. slug: code-of-conduct
 .. date: 2017-12-21 18:33:48 UTC+07:00
-.. tags: 
-.. category: 
-.. link: 
+.. tags:
+.. category:
+.. link:
 .. description: หลักจริยธรรม
 .. type: text
 
@@ -13,54 +13,50 @@
 
     - เป็นมิตร
     - เป็นมืออาชีพ
-    - ทีมจัดงานมีสิทธิ์ที่จะขอปฏิเสธคุณ 
+    - ทีมจัดงานมีสิทธิ์ที่จะขอปฏิเสธคุณโดยไม่มีข้อแม้
     - สามารถพบเราได้ทันทีหากคุณมีปัญหา
 
 
-เป็นกลุ่มคนที่มีการพบปะพูดคุย มีจุดมุ่งหมายเพื่อให้เกิดเครือข่ายและการร่วมมือกันในการพัฒนาสังคมกลุ่มนี้
+PyCon Thailand เป็นงานสัมมนาขอที่ตั้งขึ้นมาเพื่อการพบปะพูดคุยและกระตุ้นให้เกิดการร่วมมือกันในสังคมของนักพัฒนา
 
-เราเห็นความสำคัญของสมาชิกทุกคนในกลุ่ม Python และต้องการให้ผู้เข้าร่วมงานทุกคนได้รับความสนุกและเติมเต็มประสบการณ์ ดังนั้นผู้เข้าร่วมงานทุกคนควรให้ความเคารพและแสดงออกถึงมารยาทที่ดีแต่ผู้เข้าร่วมท่านอื่น ตลอดทั้งการประชุมและกิจกรรมต่างๆ ที่ได้รับการสนับสนุนอย่างเป็นทางการจาก PyCon หรือไม่ก็ตาม
+เราเห็นความสำคัญของสมาชิกทุกคนในกลุ่ม Python และต้องการให้ผู้เข้าร่วมงานทุกคนได้รับความสนุกและเติมเต็มประสบการณ์ที่ดี ดังนั้นผู้เข้าร่วมงานทุกคนควรให้ความเคารพและแสดงมารยาทที่ดีต่อผู้เข้าร่วมท่านอื่น ตลอดกิจกรรมต่างๆในงาน ไม่ว่าจะเป็นกิจกรรมที่ PyCon จัดหรือกิจกรรมอื่นๆภายในงาน
 
 เพื่อให้เข้าใจถึงความคาดหวังของงาน ตัวแทนและผู้เข้าร่วมทุกคน รวมไปถึงผู้บรรยาย ผู้จัดงาน และอาสาสมัครทุกกิจกรรมของ PyCon ควรทำตามกฎและระเบียบ
-ซึ่งคณะผู้จัดงานจะใช้กฎและระเบียบนี้ตลอดการจัดกิจกรรม
+ซึ่งคณะผู้จัดงานจะบังคับใช้กฎและระเบียบนี้ตลอดการจัดกิจกรรม
 
 
-In Short
+สรุปง่ายๆ
 --------
+PyCon ตั้งใจจะจัดงานสัมมนาที่ไร้การคุกคามสำหรับทุกคน ไม่ว่าจะเป็นเรื่องเพศ ความพิการ รูปลักษณ์ภายนอก ขนาดตัว เชื้อชาติ หรือ ศาสนา
+เราจะไม่ทนต่อการคุกคามต่อผู้เข้าร่วมงานไม่ว่าจะรูปแบบใดก็ตาม
 
-PyCon is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion.
-We do not tolerate harassment of conference participants in any form.
+การสือสารทุกรูปแบบต้องเหมาะสมสำหรับผู้ฟังที่เป็นมืออาชีพจากหลากหลายภูมิหลัง
 
-All communication should be appropriate for a professional audience including people of many different backgrounds.
+- ทำดีกับคนอื่น
+- ไม่ด่าท่อหรือต่อว่าผู้เข้าร่วมงานคนอื่น
+- ทำตัวเป็นมืออาชีพ
 
-- Be kind to others.
-- Do not insult or put down other attendees.
-- Behave professionally.
-- Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate for PyCon.
+ผู้ร่วมงานที่ฝ่าฝืนกฏเหล่านี้จะถูกเชิญออกจากงานโดยไม่มีการคืนเงิน โดยจะพิจารณาตามวิจารณญาณของทีมงานผู้จัดงาน
 
-Attendees violating these rules may be asked to leave the conference without a refund at the sole discretion of the conference organizers.
+ขอบคุณทุกท่านที่ช่วยทำให้งานนี้เป็นงานที่อบอุ่นและเป็นมิตรสำหรับทุกคน
 
-Thank you for helping make this a welcoming, friendly event for all.
-
-In Some More Detail
+ข้อมูลเพิ่มเติม
 -------------------
 
-Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
+การคุกความนั้นรวมถึงการพูดในแง่ลบ ล้อเลียน เรื่องเพศ ความพิการ ขนาดตัว เชื้อชาติ ศาสนา รูปอนาจารในที่สาธารณะ การข่มขู่ การแอบตาม การแอบถ่ายภาพและวิดีโอ การพูดก่อกวน การแตะเนื้อต้องตัวที่ไม่เหมาะสมและการทำอนาจาร
 
-Participants asked to stop any harassing behavior are expected to comply immediately.
+ผู้เข้าร่วมงานที่ถูกเตือนให้หยุดพฤติกรรมคุกคามต้องหยุดการกระทำเหล่านั้นทันที
+ผู้จัดแสดง ผู้สนับสนุน ผู้ขาย และ กิจกรรมอื่นๆก็บังคับใช้กฏป้องกันการคุกคามเช่นเดียวกัน
 
-Exhibitors, sponsors, and vendors, or similar activities are also subject to the anti-harassment policy.
+เลือกคำที่จะใช้พูดให้ดี
+จำเอาไว้ว่ามุกตลกเหยียดเพศ เหยียดเชื้อชาติหรือมุกอื่นๆอาจสามารถทำให้ผู้อื่นไม่พอใจได้
 
-Be careful in the words that you choose.
-Remember that sexist, racist, and other exclusionary jokes can be offensive to those around you.
+ถ้าผู้เข้าร่วมงานมีพฤติกรรมฝ่าฝืนกฏของเรา ทางผู้จัดงานสามารถเข้าไปจัดการได้ตามความเหมาะสม การจัดการรวมการเข้าไปตักเตือน ตลอดจนการเชิญออกจากงานโดยไม่คืนเงิน
 
-If a participant engages in behavior that violates this code of conduct, the conference organizers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund.
-
-Procedure for Handling Harassment
+กระบวนการจัดการการคุกคาม
 ---------------------------------
-
-- `Attendee Procedure for Incident Handling <../attendee-procedure-for-incident-handling>`_.
-- `Staff Procedure for incident handling <../staff-procedure-for-incident-handling>`_.
+- `กระบวรการการจัดการเหตุการณ์คุกคามของผู้เข้าร่วมงาน <../attendee-procedure-for-incident-handling>`_.
+- `กระบวรการการจัดการเหตุการณ์คุกคามของผู้จัดงานและสตาฟ <../staff-procedure-for-incident-handling>`_.
 
 License
 -------
@@ -70,4 +66,3 @@ This Code of Conduct was created with reference to the example policy from the `
 .. raw:: html
 
         <a rel="license" href="http://creativecommons.org/licenses/by/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by/3.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Conference Code of Conduct</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://us.pycon.org/2013/about/code-of-conduct/" property="cc:attributionName" rel="cc:attributionURL">https://us.pycon.org/2013/about/code-of-conduct/</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</a>.
-
