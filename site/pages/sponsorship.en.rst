@@ -34,30 +34,7 @@ Contact
 .. raw:: html
 
     <div class="jumbotron">
-    <form name="sponsorship" method="POST" netlify>
-      <div class="form-group">
-        <label>Your Name</label>
-        <input type="text" name="name" class="form-control" placeholder="Full  Name">
-      </div>
-      <div class="form-group">
-        <label>Organisation</label>
-        <input type="text" name="org" class="form-control" placeholder="Your Organisation">
-      </div>
-      <div class="form-group">
-        <label>Your Email</label>
-        <input type="email" name="email" class="form-control" placeholder="Email" >
-      </div>
-      <div class="form-group">
-        <label>Phone</label><input type="phone" name="phone" class="form-control" placeholder="Phone Number">
-      </div>
-      <div class="form-group">
-        <label>Message</label>
-        <textarea name="message" rows="5" class="form-control" placeholder="Talk to us."></textarea>
-      </div>
-      <div class="form-group">
-        <button type="submit" class="btn btn-primary">Submit</button>
-      </div>
-    </form>
+    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdHT9YKmvSq4evM0EbrN3Ut0hpJ_gOz7VtmHg_QrFVPZ0BNUw/viewform?embedded=true" width="760" height="1000" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
     </div>
 
 
