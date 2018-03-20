@@ -17,9 +17,9 @@ import time
 
 # Data about this site
 #TDB BLOG_AUTHOR = {"en": "PyCon Thailand team", "th": "TBD"}  # (translatable)
-BLOG_AUTHOR = {"en": "PyCon Thailand team", "th": "TBD"}  # (translatable)
+BLOG_AUTHOR = {"en": "PyCon Thailand team", "th": "PyCon Thailand team"}  # (translatable)
 #TDB BLOG_TITLE = {"en":"PyCon Thailand", "th": "TBD"}  # (translatable)
-BLOG_TITLE = {"en":"PyCon Thailand", "th": "TBD"}  # (translatable)
+BLOG_TITLE = {"en":"PyCon Thailand", "th": "PyCon Thailand"}  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
 SITE_URL = "https://th.pycon.org/"
@@ -28,7 +28,7 @@ SITE_URL = "https://th.pycon.org/"
 # BASE_URL = "https://th.pycon.org/"
 BLOG_EMAIL = "jean.jordaan@gmail.com"
 #TBD BLOG_DESCRIPTION = {"en": "Conference website for PyCon Thailand", "th": "TDB"}  # (translatable)
-BLOG_DESCRIPTION = {"en": "Conference website for PyCon Thailand", "th": "TDB"}  # (translatable)
+BLOG_DESCRIPTION = {"en": "Conference website for PyCon Thailand", "th": "เว็บไซต์ทางการของการสัมมนา PyCon Thailand"}  # (translatable)
 
 # Nikola is multilingual!
 #
@@ -162,25 +162,25 @@ NAVIGATION_LINKS = {
     "th": (
         (
             (
-               ("/th/submit-talk/", "Submit Talk Proposal"),
+               ("/th/submit-talk/", "ส่งข้อเสนอการพูดคุยของคุณ"),
 #               ("/th/buy-tickets/", "Buy Tickets"),
 #               ("/th/speakers/", "Speakers"),
 #              ("/th/schedule/", "Talk Schedule"),
 #              ("/th/keynotes/", "Keynotes"),
 #              ("/th/about/", "About"),
 #              ("/th/staff/", "Staff"),
-               ("/th/code-of-conduct/", "Code of Conduct"),
+               ("/th/code-of-conduct/", "หลักจริยธรรม"),
 #               ("/th/contact/", "Contact"),
             ),
-           "Event TBD"
+           "งาน"
            ),
         (
             (
 #              ("/th/sponsors/", "Sponsors"),
-               ("/th/sponsorship/", "Sponsorship"),),
-           "Sponsorship"
+               ("/th/sponsorship/", "ผู้สนับสนุน"),),
+           "ผู้สนับสนุน"
            ),
-        ('/th/venue/', 'Venue')
+        ('/th/venue/', 'สถานที่')
         ),
 }
 
@@ -1084,26 +1084,26 @@ CONTENT_FOOTER = {
   <div class="container">
     <div class="col-md-3">
         <h3>About</h3>
-        PyCon Thailand is a conference about the programming language Python.
-        It is a community effort driven by the members of the Python Community in Bangkok.
+        PyCon Thailand คือ งานสัมนาเกี่ยวกับภาษาที่ใช้เขียนโปรแกรม (Python programming language)เป็นสังคมที่ขับเคลื่อนโดยสมาชิกของกลุ่ม 
+        Python ในกรุงเทพมหานคร
     </div>
     <div class="col-md-3">
-        <h3>When &amp; Where</h3>
-        <h4>When:</h4>
-        June 16-17 2018
-        <h4>Where:</h4>
-        <a href="/venue">Knowledge Exchange Center – KX</a> <br>
-        10/1 Krung Thonburi Road <br>
-        Khwaeng Bang Lamphu Lang <br>
-        Thon Buri <br>
-        Bangkok <br>
+        <h3>เมื่อไหร่และที่ไหน</h3>
+        <h4>เมื่อ:</h4>
+        16-17 มิถุนายน 2561
+        <h4>สถานที่:</h4>
+        <a href="/venue">อาคารเคเอกซ์ (Knowledge Exchange Center – KX)</a> <br>
+        ถนนกรุงธนบุรี<br>
+        แขวงบางลำภูล่าง <br>
+        ธนบุรี<br>
+        กรุงเทพมหานคร<br>
         10600    
     </div>
     <div class="col-md-3">
-        <h3>Gold Sponsors</h3>
+        <h3>Sponsors</h3>
     </div>
     <div class="col-md-3">
-        <h3>Get Social</h3>
+        <h3>ติดต่อเรา</h3>
         <a href="https://twitter.com/pyconthailand">Twitter</a><br>
         <a href="https://www.facebook.com/pyconthailand/">Facebook</a><br>
         <a href="">Contact</a><br>

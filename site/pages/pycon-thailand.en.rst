@@ -42,7 +42,7 @@ Call for Papers
 
 .. container:: jumbotron
 
-    2018 is first PyCon in Thailand and we need your help.
+    2018 is the first PyCon in Thailand and we need your help.
     PyCons happen all over the world, hosted by python programmers for python
     programmers. PyCon Thailand will be a two day weekend conference with talks
     in both Thai and English. We want your proposal for talks, lightning talks and workshops.
