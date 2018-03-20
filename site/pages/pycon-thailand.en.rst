@@ -78,9 +78,12 @@ Meet Our Keynote Speakers!
 
        http://wesmckinney.com
 
-       Wes McKinney has been creating fast, easy-to-use data wrangling and statistical computing tools, mostly in the Python programming language, since 2007.
-       He is best known for creating the pandas project and writing the book Python for Data Analysis.
-       He is also a contributor to the Arrow, Kudu (incubating), and Parquet projects within the Apache Software Foundation.
+       Wes McKinney has been creating fast, easy-to-use data wrangling and
+       statistical computing tools, mostly in the Python programming
+       language, since 2007. He is best known for creating the pandas project
+       and writing the book Python for Data Analysis.
+       He is a PMC member of the Apache Arrow and Parquet projects in The
+       Apache Software Foundation.
 
 
 Sponsors
