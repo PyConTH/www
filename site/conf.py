@@ -1071,14 +1071,14 @@ CONTENT_FOOTER = {
         <h3>Get Social</h3>
         <a href="https://twitter.com/pyconthailand"><i class="fa fa-twitter fa-fw"></i> Twitter</a><br>
         <a href="https://www.facebook.com/pyconthailand/"><i class="fa fa-facebook fa-fw"></i> Facebook</a><br>
-        <a href="https://www.meetup.com/ThaiPy-Bangkok-Python-Meetup/"><i class="fa fa-meetup fa-fw"></i> Meetup</a>
+        <a href="https://www.meetup.com/ThaiPy-Bangkok-Python-Meetup/"><i class="fa fa-meetup fa-fw"></i> Meetup</a><br>
         <a href="">Contact</a><br>
     </div>
   </div>
 </div>
 <!--Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a> -->
 """,
-DEFAULT_LANG: """
+"th": """
 <div class="navbar-inverse row" style="
     color: white;
 ">
