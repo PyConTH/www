@@ -83,6 +83,32 @@ Meet Our Keynote Speakers!
        He is also a contributor to the Arrow, Kudu (incubating), and Parquet projects within the Apache Software Foundation.
 
 
+.. container:: jumbotron
+
+
+    .. class:: img-circle img-responsive col-md-4
+
+              .. image:: /wes-2017-01-12-small.png
+                     :alt: Russell Keith-Magee (portrait)
+                     :align: left
+                     :width: 200px
+
+    .. class:: col-md-8
+
+       .. raw:: html
+
+            <h1>Russell Keith-Magee</h1>
+
+       https://pybee.org
+
+       Dr Russell Keith-Magee is a 10 year veteran of the Django core team, and for 5 years, was President of the
+       Django Software Foundation. He's also the founder of the BeeWare project, developing GUI tools to
+       support the development of Python software. When he's not contributing to open source, he's an engineer at Zapier.
+
+
+
+
+
 Sponsors
 ========
 
