@@ -109,4 +109,4 @@ Tickets
 
    .. raw:: html
 
-        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScbbXx1wdahM90LX6GQQyHIC3hdjdQs714SJ0rkSxRcVammAQ/viewform?embedded=true" width="760" height="700" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScbbXx1wdahM90LX6GQQyHIC3hdjdQs714SJ0rkSxRcVammAQ/viewform?embedded=true&hl=en" width="760" height="700" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
