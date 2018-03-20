@@ -109,9 +109,4 @@ Tickets
 
    .. raw:: html
 
-        <form name="ticketnotify" class="form-inline " method="POST" netlify>
-          <div class="form-group">
-            <input type="email" name="email" class="form-control" placeholder="Email" >&nbsp;
-            <button type="submit" class="btn btn-primary">Notify Me</button>
-          </div>
-        </form>
+        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScbbXx1wdahM90LX6GQQyHIC3hdjdQs714SJ0rkSxRcVammAQ/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
