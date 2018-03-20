@@ -99,3 +99,19 @@ Sponsors
    .. raw:: html
 
           <a class="btn btn-primary btn-lg active" href="sponsorship">Register your interest</a>
+
+Tickets
+=======
+
+.. container:: jumbotron
+
+   Tickets are not yet available to buy. Please enter your email below to be notified.
+
+   .. raw:: html
+
+        <form name="ticketnotify" class="form-inline " method="POST" netlify>
+          <div class="form-group">
+            <input type="email" name="email" class="form-control" placeholder="Email" >&nbsp;
+            <button type="submit" class="btn btn-primary">Notify Me</button>
+          </div>
+        </form>
