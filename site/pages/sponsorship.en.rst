@@ -37,7 +37,7 @@ Contact
           <form name="sponsorship" method="POST" action="https://formspree.io/jeanjordaan+8lfnzvzb0kmlivlrxyvu@boards.trello.com>
             <div class="form-group">
               <label>Your Name</label>
-              <input type="text" name="name" class="form-control" placeholder="Full  Name">
+              <input type="text" name="name" class="form-control" placeholder="Full Name">
             </div>
             <div class="form-group">
               <label>Organisation</label>
@@ -55,9 +55,9 @@ Contact
               <textarea name="message" rows="5" class="form-control" placeholder="Talk to us."></textarea>
             </div>
             <div class="form-group">
+             <input type="hidden" name="_format" value="plain" />
               <button type="submit" class="btn btn-primary">Submit</button>
             </div>
-             <input type="hidden" name="_format" value="plain" />
           </form>
         </div>
 

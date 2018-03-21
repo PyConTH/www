@@ -51,9 +51,9 @@ Contact
               <textarea name="message" rows="5" class="form-control" placeholder="Talk to us."></textarea>
             </div>
             <div class="form-group">
+              <input type="hidden" name="_format" value="plain" />
+              <input type="hidden" name="_language" value="th" />
               <button type="submit" class="btn btn-primary">Submit</button>
             </div>
-             <input type="hidden" name="_format" value="plain" />
-             <input type="hidden" name="_language" value="th" />
           </form>
         </div>
