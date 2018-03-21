@@ -99,7 +99,7 @@ meet our keynote speaker
 
    .. raw:: html
 
-          <a class="btn btn-primary btn-lg active" href="sponsorship">ลงทะเบียนสิ่งที่คุณสนใจ</a>
+          <a class="btn btn-primary btn-lg active" href="sponsorship">ลงทะเบียนสิ่งเป็นผู้สนับสนุน</a>
 
 Tickets
 =======
