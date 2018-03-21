@@ -30,7 +30,7 @@ Contact
 .. raw:: html
 
         <div class="jumbotron">
-          <form name="sponsorship" method="POST" action="https://formspree.io/jeanjordaan+8lfnzvzb0kmlivlrxyvu@boards.trello.com>
+          <form name="sponsorship" method="POST" action="https://formspree.io/jeanjordaan+8lfnzvzb0kmlivlrxyvu@boards.trello.com">
             <div class="form-group">
               <label>Your Name</label>
               <input type="text" name="name" class="form-control" placeholder="Full Name">
