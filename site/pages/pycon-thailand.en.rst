@@ -109,11 +109,11 @@ Tickets
 
    .. raw:: html
 
-+        <form name="ticketnotify" class="form-inline " method="POST" action="jeanjordaan+ic16dhddb4jpxvmzghpi@boards.trello.com">
-+          <div class="form-group">
-+            <input type="email" name="email" class="form-control" placeholder="Email" >&nbsp;
-+            <button type="submit" class="btn btn-primary">Notify Me</button>
-+          </div>
-           <input type="hidden" name="_format" value="plain" />
-+        </form>
+        <form name="ticketnotify" class="form-inline " method="POST" action="jeanjordaan+ic16dhddb4jpxvmzghpi@boards.trello.com">
+          <div class="form-group">
+            <input type="email" name="email" class="form-control" placeholder="Email" >&nbsp;
+            <button type="submit" class="btn btn-primary">Notify Me</button>
+          </div>
+          <input type="hidden" name="_format" value="plain" />
+        </form>
 
