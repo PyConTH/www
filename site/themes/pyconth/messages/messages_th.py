@@ -4,7 +4,7 @@
 MESSAGES = {
     "%d min remaining to read": "%d อย่างน้อยการอ่านคงเหลือ",
     "(active)": "(ใช้งาน)",
-    "Also available in:": "อีกทั้งยังมี:",
+    "Also available in:": "ภาษาอื่นๆ:",
     "Archive": "คลังโพสต์",
     "Atom feed": "ฟีด Atom",
     "Authors": "ผู้เขียน",
