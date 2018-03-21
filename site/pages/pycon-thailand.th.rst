@@ -99,7 +99,7 @@ meet our keynote speaker
 
    .. raw:: html
 
-          <a class="btn btn-primary btn-lg active" href="sponsorship">ลงทะเบียนสิ่งที่คุณสนใจ</a>
+          <a class="btn btn-primary btn-lg active" href="sponsorship">ลงทะเบียนสิ่งเป็นผู้สนับสนุน</a>
 
 Tickets
 =======
@@ -111,4 +111,3 @@ Tickets
    .. raw:: html
 
         <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScbbXx1wdahM90LX6GQQyHIC3hdjdQs714SJ0rkSxRcVammAQ/viewform?embedded=true" width="760" height="700" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
-
