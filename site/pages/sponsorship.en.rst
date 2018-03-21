@@ -34,7 +34,7 @@ Contact
 .. raw:: html
 
         <div class="jumbotron">
-          <form name="sponsorship" method="POST" action="https://formspree.io/jeanjordaan+8lfnzvzb0kmlivlrxyvu@boards.trello.com>
+          <form name="sponsorship" method="POST" action="https://formspree.io/jeanjordaan+8lfnzvzb0kmlivlrxyvu@boards.trello.com">
             <div class="form-group">
               <label>Your Name</label>
               <input type="text" name="name" class="form-control" placeholder="Full Name">
@@ -55,7 +55,7 @@ Contact
               <textarea name="message" rows="5" class="form-control" placeholder="Talk to us."></textarea>
             </div>
             <div class="form-group">
-             <input type="hidden" name="_format" value="plain" />
+              <input type="hidden" name="_format" value="plain" />
               <button type="submit" class="btn btn-primary">Submit</button>
             </div>
           </form>
