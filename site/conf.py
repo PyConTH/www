@@ -1394,7 +1394,19 @@ SHOW_SOURCELINK = False
 # before </head>
 # (translatable)
 # EXTRA_HEAD_DATA = ""
-EXTRA_HEAD_DATA = '<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>'
+EXTRA_HEAD_DATA = '''
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-116219382-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-116219382-1');
+</script>
+'''
 # Google Analytics or whatever else you use. Added to the bottom of <body>
 # in the default template (base.tmpl).
 # (translatable)
