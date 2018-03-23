@@ -31,7 +31,7 @@
                 <a href="https://www.facebook.com/pyconthailand/" class="btn btn-default btn-lg" target="_blank"><i class="fa fa-facebook fa-fw"></i></a>
             </li>
             <li>
-                <a href="https://www.meetup.com/ThaiPy-Bangkok-Python-Meetup/" class="btn btn-default btn-lg" target="_blank"><i class="fa fa-meetup fa-fw"></i></a>
+                <a href="https://www.meetup.com/ThaiPy-Bangkok-Python-Meetup/events/248920463/" class="btn btn-default btn-lg" target="_blank"><i class="fa fa-meetup fa-fw"></i></a>
             </li>
         </ul>
     </div>
