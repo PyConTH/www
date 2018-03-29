@@ -94,7 +94,8 @@ Sponsors
 
 .. container:: jumbotron clearfix
 
-   Our Sponsorship prospectus will be available soon.
+   Our Sponsorship prospectus is available for download now:
+   [PyCon Thailand 2018 Sponsorship Prospectus.pdf](/files/PyCon Thailand 2018 Sponsorship Prospectus.pdf)
 
    .. raw:: html
 
