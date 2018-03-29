@@ -101,6 +101,14 @@ Sponsors
 
           <a class="btn btn-primary btn-lg active" href="sponsorship">Register your interest</a>
 
+    .. container:: row
+
+        .. container:: col-md-3
+
+        Gold Sponsor: 
+
+                <h1 class="nav-header-sitename"><a href="http://proteus-tech.com">Proteus Group</a></h1>
+
 Tickets
 =======
 
