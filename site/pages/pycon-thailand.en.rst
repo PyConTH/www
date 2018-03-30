@@ -101,6 +101,9 @@ Sponsors
           <a class="btn btn-primary btn-lg active" href="/files/PyCon Thailand 2018 Sponsorship Prospectus.pdf">Download Prospectus</a>
           <a class="btn btn-primary btn-lg active" href="sponsorship">Register your interest</a>
 
+Gold Sponsors
+-------------
+
 .. container:: row jumbotron clearfix
 
     .. class:: img-responsive col-md-4
@@ -108,7 +111,7 @@ Sponsors
       .. image:: /proteus-logo.svg
              :alt: Proteus Technologies logo
              :align: left
-             :width: 100px
+             :width: 250px
 
 Tickets
 =======

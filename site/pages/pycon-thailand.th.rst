@@ -104,6 +104,9 @@ meet our keynote speaker
           <a class="btn btn-primary btn-lg active" href="/files/PyCon Thailand 2018 Sponsorship Prospectus.pdf">Download Prospectus</a>
           <a class="btn btn-primary btn-lg active" href="sponsorship">ลงทะเบียนสิ่งเป็นผู้สนับสนุน</a>
 
+Gold Sponsors
+-------------
+
 .. container:: row jumbotron clearfix
 
     .. class:: img-responsive col-md-4
@@ -111,7 +114,7 @@ meet our keynote speaker
       .. image:: /proteus-logo.svg
              :alt: Proteus Technologies logo
              :align: left
-             :width: 100px
+             :width: 250px
 
 
 .. Translate TODO
