@@ -96,14 +96,15 @@ meet our keynote speaker
 .. container:: jumbotron clearfix
 
    พบกับหนังสือแจ้งรายละเอียดโครงการสำหรับผู้สนับสนุนเร็วๆ นี้
+   Prospectus ผู้สนับสนุนของเราพร้อมแล้วสำหรับการดาวน์โหลดวันนี้ 
 
    .. raw:: html
 
+          <a class="btn btn-primary btn-lg active" href="/files/PyCon Thailand 2018 Sponsorship Prospectus.pdf">Download Prospectus</a>
           <a class="btn btn-primary btn-lg active" href="sponsorship">ลงทะเบียนสิ่งเป็นผู้สนับสนุน</a>
 
 .. Translate TODO
-..   Our Sponsorship prospectus is available for download now:
-..   `PyCon Thailand 2018 Sponsorship Prospectus.pdf </files/PyCon Thailand 2018 Sponsorship Prospectus.pdf>`_
+..        Download Prospectus
 
 Tickets
 =======
