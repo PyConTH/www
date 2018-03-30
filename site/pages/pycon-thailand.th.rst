@@ -104,7 +104,18 @@ meet our keynote speaker
           <a class="btn btn-primary btn-lg active" href="/files/PyCon Thailand 2018 Sponsorship Prospectus.pdf">Download Prospectus</a>
           <a class="btn btn-primary btn-lg active" href="sponsorship">ลงทะเบียนสิ่งเป็นผู้สนับสนุน</a>
 
+.. container:: row jumbotron clearfix
+
+    .. container:: col-md-3
+
+       .. raw:: html
+
+            <h2>Gold Sponsor</h3>
+            <h1 class="nav-header-sitename"><a href="http://proteus-tech.com">Proteus Group</a></h1>
+
+
 .. Translate TODO
+..        Gold Sponsor
 ..        Download Prospectus
 
 Tickets
