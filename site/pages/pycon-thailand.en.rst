@@ -103,13 +103,12 @@ Sponsors
 
 .. container:: row jumbotron clearfix
 
+    .. class:: img-responsive col-md-4
 
-    .. container:: col-md-3
-
-       .. raw:: html
-
-            <h2>Gold Sponsor</h3>
-            <h1 class="nav-header-sitename"><a href="http://proteus-tech.com">Proteus Group</a></h1>
+      .. image:: /proteus-logo.svg
+             :alt: Proteus Technologies logo
+             :align: left
+             :width: 100px
 
 Tickets
 =======
