@@ -96,6 +96,7 @@ meet our keynote speaker
 .. container:: jumbotron clearfix
 
    พบกับหนังสือแจ้งรายละเอียดโครงการสำหรับผู้สนับสนุนเร็วๆ นี้
+
    Prospectus ผู้สนับสนุนของเราพร้อมแล้วสำหรับการดาวน์โหลดวันนี้ 
 
    .. raw:: html
