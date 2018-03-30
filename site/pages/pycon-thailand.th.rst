@@ -97,13 +97,13 @@ meet our keynote speaker
 
    พบกับหนังสือแจ้งรายละเอียดโครงการสำหรับผู้สนับสนุนเร็วๆ นี้
 
-.. Translate TODO
-..   Our Sponsorship prospectus is available for download now:
-..   [PyCon Thailand 2018 Sponsorship Prospectus.pdf](/files/PyCon Thailand 2018 Sponsorship Prospectus.pdf)
-
    .. raw:: html
 
           <a class="btn btn-primary btn-lg active" href="sponsorship">ลงทะเบียนสิ่งเป็นผู้สนับสนุน</a>
+
+.. Translate TODO
+..   Our Sponsorship prospectus is available for download now:
+..   `PyCon Thailand 2018 Sponsorship Prospectus.pdf </files/PyCon Thailand 2018 Sponsorship Prospectus.pdf>`_
 
 Tickets
 =======

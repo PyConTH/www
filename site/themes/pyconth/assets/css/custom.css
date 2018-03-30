@@ -11,14 +11,13 @@
 
 .nav-header-sitename {
     margin: 0;
-    font-weight: 400;
+    font-weight: 800;
     font-size: 1rem;
     text-transform: uppercase;
     letter-spacing: .3em;
     line-height: 1.2rem;
     font-family: 'Josefin Sans', Arial, sans-serif;
-    font-size: 14px;
-    font-weight: 400;
+    font-size: 22px;
     line-height: 1.3em;
 }
 
