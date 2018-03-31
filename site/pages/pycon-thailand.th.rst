@@ -97,19 +97,13 @@ meet our keynote speaker
 
    พบกับหนังสือแจ้งรายละเอียดโครงการสำหรับผู้สนับสนุนเร็วๆ นี้
 
-   Prospectus ผู้สนับสนุนของเราพร้อมแล้วสำหรับการดาวน์โหลดวันนี้ 
-
    .. raw:: html
 
-          <a class="btn btn-primary btn-lg active" href="/files/PyCon Thailand 2018 Sponsorship Prospectus.pdf">Download Prospectus</a>
-          <a class="btn btn-primary btn-lg active" href="sponsorship">ลงทะเบียนสิ่งเป็นผู้สนับสนุน</a>
+        <a class="btn btn-primary btn-lg active" href="sponsorship">ลงทะเบียนสิ่งเป็นผู้สนับสนุน</a>
 
-Gold Sponsors
--------------
+        <h2>ผู้สนับสนุนหลัก</h2>
 
-.. container:: row jumbotron clearfix
-
-    .. class:: img-responsive col-md-4
+   .. class:: img-responsive col-md-4
 
       .. image:: /proteus-logo.svg
              :alt: Proteus Technologies logo
@@ -117,9 +111,8 @@ Gold Sponsors
              :width: 250px
 
 
-.. Translate TODO
-..        Gold Sponsor
-..        Download Prospectus
+.. Translate
+..        Gold Sponsor: ผู้สนับสนุนหลัก
 
 Tickets
 =======

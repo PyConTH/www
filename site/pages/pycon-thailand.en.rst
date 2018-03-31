@@ -94,23 +94,18 @@ Sponsors
 
 .. container:: jumbotron clearfix
 
-   Our Sponsorship prospectus is available for download now.
+   Visit the sponsorship page to download the prospectus and register your interest:
 
    .. raw:: html
 
-          <a class="btn btn-primary btn-lg active" href="/files/PyCon Thailand 2018 Sponsorship Prospectus.pdf">Download Prospectus</a>
           <a class="btn btn-primary btn-lg active" href="sponsorship">Register your interest</a>
 
-Gold Sponsors
--------------
+          <h2>Gold Sponsors</h2>
 
-.. container:: row jumbotron clearfix
-
-    .. class:: img-responsive col-md-4
+   .. class:: img-responsive col-md-4
 
       .. image:: /proteus-logo.svg
              :alt: Proteus Technologies logo
-             :align: left
              :width: 250px
 
 Tickets
