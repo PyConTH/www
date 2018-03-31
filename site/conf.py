@@ -1066,6 +1066,7 @@ CONTENT_FOOTER = {
     </div>
     <div class="col-md-3">
         <h3>Gold Sponsors</h3>
+        <p><img src="/proteus-logo.svg" width="70px" alt="Proteus Technologies" /></p>
     </div>
     <div class="col-md-3">
         <h3>Get Social</h3>
@@ -1102,6 +1103,7 @@ CONTENT_FOOTER = {
     </div>
     <div class="col-md-3">
         <h3>ผู้สนับสนุน</h3>
+        <p><img src="/proteus-logo.svg" width="70px" alt="Proteus Technologies" /></p>
     </div>
     <div class="col-md-3">
         <h3>ติดต่อเรา</h3>
