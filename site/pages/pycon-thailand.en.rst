@@ -96,7 +96,9 @@ Sponsors
 
   .. container:: col-md-6
 
-     <h2>Gold Sponsors</h2>
+     .. raw:: html
+
+             <h2>Gold Sponsors</h2>
 
      .. class:: img-responsive col-md-4
 

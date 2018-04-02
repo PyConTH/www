@@ -97,6 +97,8 @@ meet our keynote speaker
 
   .. container:: col-md-6
 
+     .. raw:: html
+
         <h2>ผู้สนับสนุนหลัก</h2>
 
      .. class:: img-responsive col-md-4
