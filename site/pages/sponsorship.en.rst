@@ -32,7 +32,7 @@ banners at the venue, as well as sessions, swag and bag inserts.
 
     .. raw:: html
 
-          <a class="btn btn-primary btn-lg active" href="/files/PyCon Thailand 2018 Sponsorship Prospectus.pdf">Download Prospectus</a>
+          <a class="btn btn-primary btn-lg active" href="/PyCon Thailand 2018 Sponsorship Prospectus.pdf">Download Prospectus</a>
 
 
 Contact
