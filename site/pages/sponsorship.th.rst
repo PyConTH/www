@@ -28,7 +28,7 @@ Package ของการสนับสนุน
 
    .. raw:: html
 
-          <a class="btn btn-primary btn-lg active" href="/files/PyCon Thailand 2018 Sponsorship Prospectus.pdf">ดาวน์โหลด Prospectus</a>
+          <a class="btn btn-primary btn-lg active" href="/PyCon Thailand 2018 Sponsorship Prospectus.pdf">ดาวน์โหลด Prospectus</a>
 
 Contact
 -------
