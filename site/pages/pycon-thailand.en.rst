@@ -94,19 +94,22 @@ Sponsors
 
 .. container:: jumbotron clearfix
 
-   Visit the sponsorship page to download the prospectus and register your interest:
+  .. container:: col-md-6
 
-   .. raw:: html
+     <h2>Gold Sponsors</h2>
 
-          <a class="btn btn-primary btn-lg active" href="sponsorship">Register your interest</a>
+     .. class:: img-responsive col-md-4
 
-          <h2>Gold Sponsors</h2>
-
-   .. class:: img-responsive col-md-4
-
-      .. image:: /proteus-logo.svg
+        .. image:: /proteus-logo.svg
              :alt: Proteus Technologies logo
              :width: 250px
+
+  .. container:: col-md-6
+     Visit the sponsorship page to download the prospectus and register your interest:
+
+     .. raw:: html
+
+          <a class="btn btn-primary btn-lg active" href="sponsorship">Register your interest</a>
 
 Tickets
 =======
