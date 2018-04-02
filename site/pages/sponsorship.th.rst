@@ -22,6 +22,13 @@ Package ของการสนับสนุน
 ติดต่อผู้จัดสำหรับข้อมูลเพิ่มเติมสำหรับการช่วยสนับสนุนงาน
 การช่วยเหลือสามารถทำได้หลากหลายรูปแบบไม่ว่าจะเป็น กระจายข่าวเกี่ยวกับเว็บไซต์ ตั้งบูธในงาน ติด banner ในงาน รวมไปถึงการจัด session และของชำร่วยต่างๆ
 
+.. container:: jumbotron clearfix
+
+   ดาวน์โหลดหนังสือชี้ชวนสำหรับผู้สนับสนุนงานได้แล้ววันนี้
+
+   .. raw:: html
+
+          <a class="btn btn-primary btn-lg active" href="/files/PyCon Thailand 2018 Sponsorship Prospectus.pdf">ดาวน์โหลด Prospectus</a>
 
 Contact
 -------

@@ -26,10 +26,17 @@ Contact the organizers for the available sponsorship opportunities.
 Opportunities include representation the website, booths at the venue,
 banners at the venue, as well as sessions, swag and bag inserts.
 
+.. container:: jumbotron clearfix
+
+    Our Sponsorship prospectus is available for download now.
+
+    .. raw:: html
+
+          <a class="btn btn-primary btn-lg active" href="/files/PyCon Thailand 2018 Sponsorship Prospectus.pdf">Download Prospectus</a>
+
 
 Contact
 -------
-
 
 .. raw:: html
 
