@@ -26,9 +26,9 @@ Contact the organizers for the available sponsorship opportunities.
 Opportunities include representation the website, booths at the venue,
 banners at the venue, as well as sessions, swag and bag inserts.
 
-Our Sponsorship prospectus is available for download now.
-
 .. container:: jumbotron clearfix
+
+    Our Sponsorship prospectus is available for download now.
 
     .. raw:: html
 
