@@ -18,7 +18,6 @@ We want your proposal for talks, lightning talks and workshops.
 .. _PyCon: https://www.pycon.org/
 
 
-
 Important Dates
 ---------------
 
@@ -53,6 +52,25 @@ from around the world. We want to put on the most interesting conference we can 
 Whether you got started with Python last month or you’ve been around for 20 years, we think you’ve got something to
 share. The Python community is stronger than ever and we’re still reaching new areas, new industries, and new users.
 Be a part of growing Python by helping us change the future.
+
+Training day for first-time speakers
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+In order to welcome first-time speakers and improve their conference experience, we'll be having a training day one day before the conference!
+This will allow new speakers to do a run-through to get used to the venue, and to gather some final feedback.
+
+.. To register interest for the training day, please submit your email address here:
+.. 
+..    .. raw:: html
+.. 
+..         <form name="ticketnotify" class="form-inline " method="POST" action="jeanjordaan+6roadappx0sbcadtaz5h@boards.trello.com">
+..           <div class="form-group">
+..             <input type="email" name="email" class="form-control" placeholder="Email" >&nbsp;
+..             <button type="submit" class="btn btn-primary">Notify Me</button>
+..           </div>
+..           <input type="hidden" name="_format" value="plain" />
+..         </form>
+
 
 Speaker Benefits
 ----------------
@@ -114,7 +132,6 @@ We will work the schedule around including workshops if we feel its valuable.
 
 Proposal Selection Process
 --------------------------
-
 
 Selecting the proposals to include in the conference is complex, involving a selection committee, and several meetings.
 We take the process very seriously, and respect and value the effort that every submitter has taken in preparing their
