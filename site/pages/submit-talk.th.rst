@@ -32,8 +32,7 @@
 
 .. raw:: html
 
-
-   <a class="btn btn-primary btn-lg active" href="https://www.papercall.io/pyconth" role="button">ส่ง Proposal การพูดของคุณตอนนี้!</a>
+   <a class="btn btn-primary btn-lg active" href="https://www.papercall.io/pyconth" role="button">ส่ง Proposal การพูดของคุณตอนนี้!</a>
 
 เราทราบดีว่าตารางเวลาของเรานั้นค่อนข้างแน่น ดังนั้นเราจะพยายามตอบคุณกลับอย่างเร็วที่สุดเท่าที่จะทำได้ และเนื่องจากข้อจำกัดด้านเวลา talk ในงานทั้งหมดจะถูกเลือกโดยอิงจากบทคัดย่อเท่านั้น
 ซึ่งนั่นไม่ได้หมายความว่าการนำเสนอของคุณควรจะยอดเยี่ยมน้อยกว่าบทคัดย่อของคุณแต่อย่างใด
