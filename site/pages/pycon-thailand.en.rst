@@ -40,7 +40,7 @@
    </div>
 
 
-Call for Papers
+Call for Talks
 ===============
 
 .. container:: jumbotron
@@ -55,7 +55,7 @@ Call for Papers
 
               <div class="text-center">
                <a class="btn btn-primary btn-lg active" href="submit-talk">Submit Your Talk Proposal</a>
-               <br>Quick! The deadline for proposals is 20th April.
+               <br>Quick! The deadline for proposals has been extended until 27th April.
               </div>
 
 

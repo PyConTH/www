@@ -21,12 +21,12 @@ We want your proposal for talks, lightning talks and workshops.
 Important Dates
 ---------------
 
-The deadline to submit abstracts is April 20th.
+The deadline to submit abstracts is April 27th.
 
 .. class:: table table-bordered table-striped
 
 =============== =====================================
-April 20th 2018 Deadline for submission
+April 27th 2018 Deadline for submission
 =============== =====================================
 
 

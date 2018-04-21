@@ -40,7 +40,7 @@
    </div>
 
 
-Call for Papers
+Call for Talks
 ===============
 
 .. container:: jumbotron
@@ -58,7 +58,7 @@ Call for Papers
 
               <div class="text-center">
                <a class="btn btn-primary btn-lg active" href="submit-talk">ส่งข้อเสนอการพูดของคุณตอนนี้!</a>
-               <br>ด่วน! หมดเขตส่งข้อเสนอวันที่ 20 เมษายน
+               <br>ด่วน! หมดเขตส่งข้อเสนอวันที่ 27 เมษายน
               </div>
 
 
