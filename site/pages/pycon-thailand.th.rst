@@ -116,7 +116,7 @@ meet our keynote speaker
 
         <a class="btn btn-primary btn-lg active" href="sponsorship">ลงทะเบียนเป็นผู้สนับสนุน</a>
 
-Tickets
+﻿บัตร
 =======
 
 .. container:: jumbotron
@@ -134,3 +134,10 @@ Tickets
           <input type="hidden" name="_language" value="th" />
         </form>
 
+﻿ข่าวล่าสุด
+===========
+
+.. container:: jumbotron
+
+    .. post-list::
+       :stop: 5

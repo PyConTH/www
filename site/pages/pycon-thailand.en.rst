@@ -130,3 +130,10 @@ Tickets
           <input type="hidden" name="_format" value="plain" />
         </form>
 
+Latest News
+===========
+
+.. container:: jumbotron
+
+    .. post-list::
+       :stop: 5

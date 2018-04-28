@@ -157,7 +157,8 @@ NAVIGATION_LINKS = {
                ("/sponsorship/", "ผู้สนับสนุน"),),
            "ผู้สนับสนุน"
            ),
-        ('/venue/', 'สถานที่')
+        ('/venue/', 'สถานที่'),
+        ('/posts/', '﻿ข่าว')
     ),
     "en": (
         (
@@ -180,7 +181,8 @@ NAVIGATION_LINKS = {
                ("/en/sponsorship/", "Sponsorship"),),
            "Sponsorship"
            ),
-        ('/en/venue/', 'Venue')
+        ('/en/venue/', 'Venue'),
+        ('/en/posts/', 'News')
         ),
 }
 
@@ -339,7 +341,7 @@ TIMEZONE = "UTC+7"
 # 2 = using a string like “2 days ago”
 #
 # Your theme must support it, bootstrap and bootstrap3 already do.
-# DATE_FANCINESS = 0
+DATE_FANCINESS = 2
 
 # While Nikola can select a sensible locale for each language,
 # sometimes explicit control can come handy.
