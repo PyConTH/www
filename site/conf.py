@@ -139,7 +139,7 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         (
             (
-               ("/submit-talk/", "ส่งข้อเสนอการพูดคุยของคุณ"),
+               ("/submit-talk/", "ส่งข้อเสนอการพูดคุยของคุณ (ปิดรับแล้ว)"),
 #               ("/buy-tickets/", "Buy Tickets"),
 #               ("/speakers/", "Speakers"),
 #              ("/schedule/", "Talk Schedule"),
@@ -163,7 +163,7 @@ NAVIGATION_LINKS = {
     "en": (
         (
             (
-               ("/en/submit-talk/", "Submit Talk Proposal"),
+               ("/en/submit-talk/", "Submit Talk Proposal (closed)"),
 #               ("/buy-tickets/", "Buy Tickets"),
 #               ("/speakers/", "Speakers"),
 #              ("/schedule/", "Talk Schedule"),

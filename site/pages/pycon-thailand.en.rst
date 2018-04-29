@@ -40,23 +40,31 @@
    </div>
 
 
-Call for Talks
-===============
+Latest News
+===========
 
 .. container:: jumbotron
 
-    2018 is the first PyCon in Thailand and we need your help.
-    PyCons happen all over the world, hosted by python programmers for python
-    programmers. PyCon Thailand will be a two day weekend conference with talks
-    in both Thai and English. We want your proposal for talks, lightning talks and workshops.
+    .. post-list::
+       :stop: 3
 
 
-    .. raw:: html
+Tickets
+=======
 
-              <div class="text-center">
-               <a class="btn btn-primary btn-lg active" href="submit-talk">Submit Your Talk Proposal</a>
-               <br>Quick! The deadline for proposals has been extended until 27th April.
-              </div>
+.. container:: jumbotron
+
+   Tickets are not yet available to buy. Please enter your email below to be notified.
+
+   .. raw:: html
+
+        <form name="ticketnotify" class="form-inline " method="POST" action="https://formspree.io/jeanjordaan+ic16dhddb4jpxvmzghpi@boards.trello.com">
+          <div class="form-group">
+            <input type="email" name="email" class="form-control" placeholder="Email" >&nbsp;
+            <button type="submit" class="btn btn-primary">Notify Me</button>
+          </div>
+          <input type="hidden" name="_format" value="plain" />
+        </form>
 
 
 
@@ -89,6 +97,15 @@ Meet Our Keynote Speakers!
        Apache Software Foundation.
 
 
+Schedule
+===============
+
+.. container:: jumbotron
+
+    Wow. Thanks for the heap of submissions. We will publish our final conference schedule in the coming weeks
+
+
+
 Sponsors
 ========
 
@@ -113,27 +130,3 @@ Sponsors
 
           <a class="btn btn-primary btn-lg active" href="sponsorship">Register your interest</a>
 
-Tickets
-=======
-
-.. container:: jumbotron
-
-   Tickets are not yet available to buy. Please enter your email below to be notified.
-
-   .. raw:: html
-
-        <form name="ticketnotify" class="form-inline " method="POST" action="https://formspree.io/jeanjordaan+ic16dhddb4jpxvmzghpi@boards.trello.com">
-          <div class="form-group">
-            <input type="email" name="email" class="form-control" placeholder="Email" >&nbsp;
-            <button type="submit" class="btn btn-primary">Notify Me</button>
-          </div>
-          <input type="hidden" name="_format" value="plain" />
-        </form>
-
-Latest News
-===========
-
-.. container:: jumbotron
-
-    .. post-list::
-       :stop: 5
