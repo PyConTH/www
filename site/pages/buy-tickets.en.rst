@@ -7,7 +7,7 @@
 .. description: 
 .. type: text
 
-The PyCon Thailand Team and the Thai Programming Association are pleased to announce that [tickets are available for purchase on Eventpop](https://www.eventpop.me/e/3271-https-www-eventpop-me-e-3271)
+The PyCon Thailand Team and the Thai Programming Association are pleased to announce that `tickets are available for purchase on Eventpop <https://www.eventpop.me/e/3271-https-www-eventpop-me-e-3271>`_
 
 Buy your ticket soon! Early bird tickets are limited!
 

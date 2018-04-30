@@ -1,10 +1,19 @@
-.. title: Buy Tickets TBD
+.. title: ซื้อตั๋ว
 .. slug: buy-tickets
-.. date: 2018-03-17 13:29:41 UTC+07:00
+.. date: 2018-04-30 15:15:00 UTC+07:00
 .. tags: draft
 .. category: 
 .. link: 
 .. description: 
 .. type: text
 
-Write your page here.
+ทีมงาน PyCon Thailand และสมาคมโปรแกรมเมอร์แห่งประเทศไทย ยินดีที่จะประกาศให้ทุกคนได้ทราบว่า `พวกเราเปิดขายตั๋วเข้าร่วมงานแล้วบน EventPop <https://www.eventpop.me/e/3271-https-www-eventpop-me-e-3271>`_
+อย่ารอช้า ตั๋ว Early bird มีจำนวนจำกัด
+
+ถ้าคุณยังมีกำลังซื้อ เราขอแนะนำให้คุณซื้อตั๋วแบบธรรมดาเพราะมันจะทำให้คนที่มีกำลังซื้อน้อยกว่าสามารถมาเข้าร่วมงานได้
+
+ถ้าบริษัทของคุณมีการจ่ายค่าตั๋วให้คุณ เราจะออกใบกำกับภาษีให้เฉพาะท่านที่ซื้อตั๋วแบบธรรมดาเท่านั้น
+
+ซื้อตั๋วได้ที่ th.pycon.org และ eventpop.
+
+https://www.eventpop.me/e/3271-https-www-eventpop-me-e-3271
