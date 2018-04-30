@@ -53,18 +53,20 @@
 
 .. container:: jumbotron
 
-   Tickets are not yet available to buy. Please enter your email below to be notified.
+    .. raw:: html
 
-   .. raw:: html
+        <h1>ตอนนี้ตั๋วสามารถซื้อได้แล้ว!</h1>
 
-        <form name="ticketnotify" class="form-inline " method="POST" action="https://formspree.io/jeanjordaan+ic16dhddb4jpxvmzghpi@boards.trello.com">
-          <div class="form-group">
-            <input type="email" name="email" class="form-control" placeholder="Email" >&nbsp;
-            <button type="submit" class="btn btn-primary">Notify Me</button>
-          </div>
-          <input type="hidden" name="_format" value="plain" />
-          <input type="hidden" name="_language" value="th" />
-        </form>
+    ทีมงาน PyCon Thailand และสมาคมโปรแกรมเมอร์แห่งประเทศไทย ยินดีที่จะประกาศให้ทุกคนได้ทราบว่า `พวกเราเปิดขายตั๋วเข้าร่วมงานแล้วบน EventPop <https://www.eventpop.me/e/3271-https-www-eventpop-me-e-3271>`_
+    อย่ารอช้า ตั๋ว Early bird มีจำนวนจำกัด
+
+    ถ้าคุณยังมีกำลังซื้อ เราขอแนะนำให้คุณซื้อตั๋วแบบธรรมดาเพราะมันจะทำให้คนที่มีกำลังซื้อน้อยกว่าสามารถมาเข้าร่วมงานได้
+
+    ถ้าบริษัทของคุณมีการจ่ายค่าตั๋วให้คุณ เราจะออกใบกำกับภาษีให้เฉพาะท่านที่ซื้อตั๋วแบบธรรมดาเท่านั้น
+
+    ซื้อตั๋วได้ที่ th.pycon.org และ eventpop.
+
+    https://www.eventpop.me/e/3271-https-www-eventpop-me-e-3271
 
 
 meet our keynote speaker
