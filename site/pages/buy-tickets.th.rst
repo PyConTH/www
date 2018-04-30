@@ -14,6 +14,8 @@
 
 ถ้าบริษัทของคุณมีการจ่ายค่าตั๋วให้คุณ เราจะออกใบกำกับภาษีให้เฉพาะท่านที่ซื้อตั๋วแบบธรรมดาเท่านั้น
 
-ซื้อตั๋วได้ที่ th.pycon.org และ eventpop.
+.. raw:: html
 
-https://www.eventpop.me/e/3271-https-www-eventpop-me-e-3271
+    <a class="btn btn-primary btn-lg active" href="https://www.eventpop.me/e/3271-https-www-eventpop-me-e-3271">ซื้อตั๋วได้ที่ th.pycon.org และ eventpop.</a>
+
+

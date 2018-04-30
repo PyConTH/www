@@ -15,6 +15,7 @@ If you can afford it, we encourage you to purchase a regular ticket as it enable
 
 If your company is paying for you, you can only get a tax invoice with the regular ticket.
 
-Purchase tickets via th.pycon.org and eventpop.
+.. raw:: html
 
-https://www.eventpop.me/e/3271-https-www-eventpop-me-e-3271
+    <a class="btn btn-primary btn-lg active" href="https://www.eventpop.me/e/3271-https-www-eventpop-me-e-3271">Purchase tickets</a>
+
