@@ -54,19 +54,10 @@ Tickets
 
 .. container:: jumbotron
 
-   Tickets are not yet available to buy. Please enter your email below to be notified.
+    .. raw:: html
 
-   .. raw:: html
-
-        <form name="ticketnotify" class="form-inline " method="POST" action="https://formspree.io/jeanjordaan+ic16dhddb4jpxvmzghpi@boards.trello.com">
-          <div class="form-group">
-            <input type="email" name="email" class="form-control" placeholder="Email" >&nbsp;
-            <button type="submit" class="btn btn-primary">Notify Me</button>
-          </div>
-          <input type="hidden" name="_format" value="plain" />
-        </form>
-
-
+        <h1><a href='buy-tickets'>Tickets are now available!</a></h1>
+	       
 
 Meet Our Keynote Speakers!
 ==========================
