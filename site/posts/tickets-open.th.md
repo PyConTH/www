@@ -4,12 +4,11 @@ date: 2018-05-1 00:00:00 UTC+07:00
 type: micro
 ---
 
-Get in quick. Early bird tickets are limited.
+อย่ารอช้า ตั๋ว Early bird มีจำนวนจำกัด
 
-If you can afford it however, we encourage you to purchase a regular ticket
-as it enables others to attend who can't afford a regular ticket. 
+ถ้าคุณยังมีกำลังซื้อ เราขอแนะนำให้คุณซื้อตั๋วแบบธรรมดาเพราะมันจะทำให้คนที่มีกำลังซื้อน้อยกว่าสามารถมาเข้าร่วมงานได้
 
-If your company is paying for you, you can only get a tax
-invoice with the regular ticket.
+ถ้าบริษัทของคุณมีการจ่ายค่าตั๋วให้คุณ เราจะออกใบกำกับภาษีให้เฉพาะท่านที่ซื้อตั๋วแบบธรรมดาเท่านั้น
 
-Purchase tickets via th.pycon.org and eventpop.
+ซื้อตั๋วได้ที่ th.pycon.org และ eventpop.
+
