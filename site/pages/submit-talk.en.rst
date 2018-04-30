@@ -7,6 +7,12 @@
 .. description:
 .. type: text
 
+
+.. class:: alert alert-warning
+
+**Attention** Submissions for talks has now closed
+
+
 It is a pleasure to invite you to PyCon Thailand!
 
 June 16-17 2018 will be the first PyCon in Thailand and we need your help.
@@ -17,22 +23,58 @@ We want your proposal for talks, lightning talks and workshops.
 
 .. _PyCon: https://www.pycon.org/
 
+Proposal Selection Process
+--------------------------
+
+Selecting the proposals to include in the conference is complex, involving a selection committee, and several meetings.
+We take the process very seriously, and respect and value the effort that every submitter has taken in preparing their
+proposal. We will be annoucing the date of the talk schedule and who as been accepted at a later date.
+
+
+How to write a great proposal
+-----------------------------
+
+If you would be interested in advice, tips or suggestions for writing a great proposal, PyCon AU have two great
+articles:
+
+- `PyConAU Talk proposal Tips`_
+- `PyConAU Detailed proposal help`_
+
+.. _PyConAU Talk proposal Tips: https://2017.pycon-au.org/program/proposal-tips/tips-writing-great-proposal/
+.. _PyConAU Detailed proposal help: https://2017.pycon-au.org/program/proposal-tips/proposal-tips-part-two/
+
+
+Training day for first-time speakers
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+In order to welcome first-time speakers and improve their conference experience, we'll be having a training day one day before the conference!
+This will allow new speakers to do a run-through to get used to the venue, and to gather some final feedback.
+
+.. To register interest for the training day, please submit your email address here:
+..
+..    .. raw:: html
+..
+..         <form name="ticketnotify" class="form-inline " method="POST" action="jeanjordaan+6roadappx0sbcadtaz5h@boards.trello.com">
+..           <div class="form-group">
+..             <input type="email" name="email" class="form-control" placeholder="Email" >&nbsp;
+..             <button type="submit" class="btn btn-primary">Notify Me</button>
+..           </div>
+..           <input type="hidden" name="_format" value="plain" />
+..         </form>
+
+
 
 Important Dates
 ---------------
 
-The deadline to submit abstracts is April 27th.
+The deadline to submit abstracts has now passed
 
 .. class:: table table-bordered table-striped
 
 =============== =====================================
-April 27th 2018 Deadline for submission
+April 27th 2018 Deadline for submission (closed)
 =============== =====================================
 
-
-.. raw:: html
-
-    <a class="btn btn-primary btn-lg active" href="https://www.papercall.io/pyconth" role="button">Submit Your Talk Now!</a>
 
 We know the schedule is a bit tight, so we'll make sure we answer you as quickly as possible.
 Because of the time constraints, all talks will be accepted based on the abstract only.
@@ -52,25 +94,6 @@ from around the world. We want to put on the most interesting conference we can 
 Whether you got started with Python last month or you’ve been around for 20 years, we think you’ve got something to
 share. The Python community is stronger than ever and we’re still reaching new areas, new industries, and new users.
 Be a part of growing Python by helping us change the future.
-
-Training day for first-time speakers
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-In order to welcome first-time speakers and improve their conference experience, we'll be having a training day one day before the conference!
-This will allow new speakers to do a run-through to get used to the venue, and to gather some final feedback.
-
-.. To register interest for the training day, please submit your email address here:
-.. 
-..    .. raw:: html
-.. 
-..         <form name="ticketnotify" class="form-inline " method="POST" action="jeanjordaan+6roadappx0sbcadtaz5h@boards.trello.com">
-..           <div class="form-group">
-..             <input type="email" name="email" class="form-control" placeholder="Email" >&nbsp;
-..             <button type="submit" class="btn btn-primary">Notify Me</button>
-..           </div>
-..           <input type="hidden" name="_format" value="plain" />
-..         </form>
-
 
 Speaker Benefits
 ----------------
@@ -130,25 +153,6 @@ If want to do a more in depth tutorial or training as part of this conference se
 are free for attendees so paid workshops are not appropriate this year. Workshops are between 1-3 hours.
 We will work the schedule around including workshops if we feel its valuable.
 
-Proposal Selection Process
---------------------------
-
-Selecting the proposals to include in the conference is complex, involving a selection committee, and several meetings.
-We take the process very seriously, and respect and value the effort that every submitter has taken in preparing their
-proposal. We will be annoucing the date of the talk schedule and who as been accepted at a later date.
-
-
-How to write a great proposal
------------------------------
-
-If you would be interested in advice, tips or suggestions for writing a great proposal, PyCon AU have two great
-articles:
-
-- `PyConAU Talk proposal Tips`_
-- `PyConAU Detailed proposal help`_
-
-.. _PyConAU Talk proposal Tips: https://2017.pycon-au.org/program/proposal-tips/tips-writing-great-proposal/
-.. _PyConAU Detailed proposal help: https://2017.pycon-au.org/program/proposal-tips/proposal-tips-part-two/
 
 If you would like feedback on your proposal
 -------------------------------------------

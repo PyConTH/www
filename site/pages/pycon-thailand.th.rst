@@ -40,27 +40,31 @@
    </div>
 
 
-Call for Talks
-===============
+﻿ข่าวล่าสุด
+===========
 
 .. container:: jumbotron
 
-    ขอเชิญทุกคนเข้าร่วมงาน Python Conference Thailand
-    โดยงานจะจัดขึ้นในวันที่ 16-17 มิถุนายน 2561 ซึ่งเป็นครั้งแรกของงาน
-    PyCon ในประเทศไทยและพวกเราต้องการความช่วยเหลือจากคุณ งาน PyCon
-    จัดขึ้นทั่วโลกโดย Python Programmers เพื่อ Python Programmers
-    งานจะจัดขึ้นในวันหยุดสุดสัปดาห์เป็นเวลา 2 วัน โดยจะมีการพูดคุยทั้งภาษาไทยและภาษาอังกฤษ เราต้องการข้อเสนอของคุณที่จะใช้พูดในงานสัมนา
-    การพูดสั้นๆ และการฝึกอบรม (work shop)
+    .. post-list::
+       :stop: 3
 
+﻿บัตร
+=======
 
+.. container:: jumbotron
 
-    .. raw:: html
+   Tickets are not yet available to buy. Please enter your email below to be notified.
 
-              <div class="text-center">
-               <a class="btn btn-primary btn-lg active" href="submit-talk">ส่งข้อเสนอการพูดของคุณตอนนี้!</a>
-               <br>ด่วน! หมดเขตส่งข้อเสนอวันที่ 27 เมษายน
-              </div>
+   .. raw:: html
 
+        <form name="ticketnotify" class="form-inline " method="POST" action="https://formspree.io/jeanjordaan+ic16dhddb4jpxvmzghpi@boards.trello.com">
+          <div class="form-group">
+            <input type="email" name="email" class="form-control" placeholder="Email" >&nbsp;
+            <button type="submit" class="btn btn-primary">Notify Me</button>
+          </div>
+          <input type="hidden" name="_format" value="plain" />
+          <input type="hidden" name="_language" value="th" />
+        </form>
 
 
 meet our keynote speaker
@@ -90,6 +94,14 @@ meet our keynote speaker
        และโปรเจค Parquet ภายใต้มูลนิธิ Apache Software
 
 
+Schedule
+===============
+
+.. container:: jumbotron
+
+    Wow. Thanks for the heap of submissions. We will publish our final conference schedule in the coming weeks
+
+
 ผู้ให้การสนับสนุน
 ===============
 
@@ -116,28 +128,3 @@ meet our keynote speaker
 
         <a class="btn btn-primary btn-lg active" href="sponsorship">ลงทะเบียนเป็นผู้สนับสนุน</a>
 
-﻿บัตร
-=======
-
-.. container:: jumbotron
-
-   Tickets are not yet available to buy. Please enter your email below to be notified.
-
-   .. raw:: html
-
-        <form name="ticketnotify" class="form-inline " method="POST" action="https://formspree.io/jeanjordaan+ic16dhddb4jpxvmzghpi@boards.trello.com">
-          <div class="form-group">
-            <input type="email" name="email" class="form-control" placeholder="Email" >&nbsp;
-            <button type="submit" class="btn btn-primary">Notify Me</button>
-          </div>
-          <input type="hidden" name="_format" value="plain" />
-          <input type="hidden" name="_language" value="th" />
-        </form>
-
-﻿ข่าวล่าสุด
-===========
-
-.. container:: jumbotron
-
-    .. post-list::
-       :stop: 5
