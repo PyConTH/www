@@ -1,6 +1,6 @@
 ---
-title: Tickets now available to purchase from th.pycon.org
-date: 2018-05-1 00:00:00 UTC+07:00
+title: Tickets are now available to purchase from th.pycon.org
+date: 2018-04-30 00:00:00 UTC+07:00
 type: micro
 ---
 
