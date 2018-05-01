@@ -15,7 +15,7 @@ The ticket will cover food, a social event and a T-Shirt. Plus, of course, you'l
 
 For those of you who are interested, we will organize an event a few days before the conference to give you tips, do's and
 dont's about talking at a conference like {{event.name}}. You may also be able to present a "lightning talk" version of your talk whilst
-networking with fellow speakers.
+networking with fellow speakers. We will let you know the details once our plans are finalized.
 
 Thank you again for you submission and we really hope that you will accept our invitation to speak.
 
