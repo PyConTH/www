@@ -1,0 +1,24 @@
+Congratulations {{speaker.name}}!
+
+Your talk, {{talk.title}}, has been selected for {{event.name}}.
+
+We are really excited to have you speak and we think your talk will really help make {{event.name}} amazing.
+
+Can you please confirm that will still be able to attend by visiting the link below and letting us know whether you can or can not still attend?
+
+[{{confirmation_link}}]({{confirmation_link}})
+
+After you accept we will send a message containing a special code that will allow you to purchase
+a conference ticket at a special price. If you are surprised that, as a speaker, you would still need a conference ticket,
+this is one of the quirks of PyCon. Traditionally at PyCon, everybody buys a ticket, even organisers and speakers.
+The ticket will cover food, a social event and a T-Shirt. Plus, of course, you'll be able to attend other talks.
+
+For those of you who are interested, we will organize an event a few days before the conference to give you tips, do's and
+dont's about talking at a conference like {{event.name}}. You may also be able to present a "lightning talk" version of your talk whilst
+networking with fellow speakers.
+
+Thank you again for you submission and we really hope that you will accept our invitation to speak.
+
+Sincerely,
+
+{{event.name}} Organizers
