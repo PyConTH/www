@@ -9,13 +9,15 @@ Can you please confirm that will still be able to attend by visiting the link be
 [{{confirmation_link}}]({{confirmation_link}})
 
 After you accept we will send a message containing a special code that will allow you to purchase
-a conference ticket at a special price. If you are surprised that, as a speaker, you would still need a conference ticket,
+a conference ticket at the discounted price of 600THB. If you are surprised that, as a speaker, you would still need a conference ticket,
 this is one of the quirks of PyCon. Traditionally at PyCon, everybody buys a ticket, even organisers and speakers.
 The ticket will cover food, a social event and a T-Shirt. Plus, of course, you'll be able to attend other talks.
 
 For those of you who are interested, we will organize an event a few days before the conference to give you tips, do's and
-dont's about talking at a conference like {{event.name}}. You may also be able to present a "lightning talk" version of your talk whilst
+dont's about talking at a conference like {{event.name}}. You may also be able to present a patial/shorter version of your talk whilst
 networking with fellow speakers. We will let you know the details once our plans are finalized.
+
+For those who will not be able to attend that event, tips will be posted on the website.
 
 Thank you again for you submission and we really hope that you will accept our invitation to speak.
 
