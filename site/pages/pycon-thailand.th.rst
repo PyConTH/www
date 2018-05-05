@@ -51,11 +51,18 @@
 ﻿บัตร
 =======
 
+
 .. container:: jumbotron
 
-    .. raw:: html
+  .. class:: col-md-6
 
-        <h1><a href='buy-tickets'>ตอนนี้ตั๋วสามารถซื้อได้แล้ว!</a></h1>
+     ตอนนี้ตั๋วสามารถซื้อได้แล้ว!
+
+  .. container:: col-md-6
+
+     .. raw:: html
+
+          <a class="btn btn-primary btn-lg active" href="buy-tickets">ซื้อตั๋ว</a>
 
 
 
@@ -90,6 +97,8 @@ Schedule
 ===============
 
 .. container:: jumbotron
+
+  .. class:: col-md-8
 
     Wow. Thanks for the heap of submissions. We will publish our final conference schedule in the coming weeks
 

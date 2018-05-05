@@ -54,10 +54,16 @@ Tickets
 
 .. container:: jumbotron
 
-    .. raw:: html
+  .. class:: col-md-8
 
-        <h1><a href='buy-tickets'>Tickets are now available!</a></h1>
-	       
+     Early bird tickets now on sale!
+
+  .. container:: col-md-6
+
+     .. raw:: html
+
+          <a class="btn btn-primary btn-lg active" href="buy-tickets">Buy Tickets</a>
+
 
 Meet Our Keynote Speakers!
 ==========================
@@ -93,7 +99,10 @@ Schedule
 
 .. container:: jumbotron
 
-    Wow. Thanks for the heap of submissions. We will publish our final conference schedule in the coming weeks
+  .. class:: col-md-8
+
+    Wow.
+    Thanks for the heap of submissions. We will publish our final conference schedule in the coming weeks
 
 
 
