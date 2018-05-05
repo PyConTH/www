@@ -14,7 +14,7 @@ this is one of the quirks of PyCon. Traditionally at PyCon, everybody buys a tic
 The ticket will cover food, a social event and a T-Shirt. Plus, of course, you'll be able to attend other talks.
 
 For those of you who are interested, we will organize an event a few days before the conference to give you tips, do's and
-dont's about talking at a conference like {{event.name}}. You may also be able to present a patial/shorter version of your talk whilst
+dont's about talking at a conference like {{event.name}}. You may also be able to present a partial/shorter version of your talk whilst
 networking with fellow speakers. We will let you know the details once our plans are finalized.
 
 For those who will not be able to attend that event, tips will be posted on the website.
