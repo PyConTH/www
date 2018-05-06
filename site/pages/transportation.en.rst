@@ -38,3 +38,17 @@ A taxi to the venue should take around 40 minutes.
 
 .. _Don Mueang International Airport: https://goo.gl/maps/AtkU7142cjq
 .. _Mo Chit: https://goo.gl/maps/WKna4RFhBvt
+
+Taxis in Bangkok
+----------------
+
+Taxis are metered, starting at 35 baht. 100-150 baht should get you anywhere in
+the city center. Language and pronunciation can be an issue, so to avoid any
+hassles, get the address of your destination in writing (e.g. a business card or
+Google Maps).  Drivers are normally good at turning on their meters, unless
+you're in a major tourist nightlife area like lower Sukhumvit or Silom at
+night. Avoid parked taxis.
+
+`Grab`_ also operates in Bangkok, and tends to be around the same price as taxis.
+
+.. _Grab: https://www.grab.com/th/en/
