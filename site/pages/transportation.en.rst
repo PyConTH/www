@@ -23,8 +23,9 @@ Take the train going to *Samrong*,  and change to the *Bang Wa* train at
 
 The whole journey takes about 90 minutes. Trains stop running at midnight.
 
-You can use cash or buy a travel card:
-  http://www.bangkok.com/information-travel-around/bts.htm
+You can use cash or buy a travel card, see 
+`Getting around Bangkok <http://www.bangkok.com/information-travel-around/bts.htm>`_ 
+for details.
 
 An airport taxi from airport shouldn't cost more than around 400 baht including
 airport surcharge and tolls, and take around an hour, depending on traffic. 
@@ -36,7 +37,7 @@ If you're taking a domestic or regional flight, you may be coming from `Don Muea
 There isn't a train from there (yet), though you can take bus A1 to connect to the BTS at `Mo Chit`_.
 A taxi to the venue should take around 40 minutes.
 
-.. _Don Mueang International Airport: https://goo.gl/maps/AtkU7142cjq
+.. _Don Mueang: https://goo.gl/maps/AtkU7142cjq
 .. _Mo Chit: https://goo.gl/maps/WKna4RFhBvt
 
 Taxis in Bangkok
