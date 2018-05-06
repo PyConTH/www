@@ -14,8 +14,8 @@ To get to the venue from `Suvarnabhumi Airport`_, go down to the basement level
 and get the airport link train to `Phaya Thai`_ (45 baht, terminal station).
 The airport link station connects to the `Phaya Thai BTS`_ (skytrain) station.
 Buy a ticket to `Wongwian Yai <(https://goo.gl/maps/mY7HWhpY71E2>`_, about 50 baht).
-Take the train going to _Samrong_,  and change to the _Bang Wa_ train at
-_Siam_ station.
+Take the train going to *Samrong*,  and change to the *Bang Wa* train at
+*Siam* station.
 
 .. _Suvarnabhumi Airport: https://maps.google.com/?cid=1300723721569663495&hl=en&gl=gb
 .. _Phaya Thai BTS: https://goo.gl/maps/V67Yk9AU26x
