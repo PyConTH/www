@@ -14,6 +14,22 @@ Bangkok is a major metropolis, with a vibrant mix of old and new. It is quite
 safe for tourists. For some details about getting around in the city, see the
 page on `transportation <transportation>`_.
 
+Hostels
+-------
+
+There are many hostels and cheap hotels near the venue.
+
+- The closest one is `In My Bed Hostel`_, from door to door about 20 meters.
+- `Yor Yak Hostel`_ is about 200 meters away, `M Gray Hostel`_ is about 350 meters. 
+
+These are all between around 15 USD for a dorm room, up to around 35 USD for a double-occupancy private room.
+
+.. _In My Bed Hostel: https://goo.gl/maps/iZ8jZkvoFyR2 
+.. _Yor Yak Hostel: https://goo.gl/maps/vTp1b6heo7J2
+.. _M Gray Hostel: https://goo.gl/maps/s8mRCAYWacG2
+
+
+
 Hotels
 ------
 
@@ -60,19 +76,3 @@ The `Bangkok Art and Culture Centre`_ always has interesting exhibitions and per
 - `Lub d Bangkok Siam Hostel <https://goo.gl/maps/EsTifyxHiAM2>`_, 30 minutes by BTS.
 
 .. _Bangkok Art and Culture Centre: https://goo.gl/maps/ynWaiasixjp
-
-Hostels
--------
-
-There are many hostels and cheap hotels near the venue.
-
-- The closest one is `In My Bed Hostel`_, from door to door about 20 meters.
-- `Yor Yak Hostel`_ is about 200 meters away, `M Gray Hostel`_ is about 350 meters. 
-
-These are all between around 15 USD for a dorm room, up to around 35 USD for a double-occupancy private room.
-
-.. _In My Bed Hostel: https://goo.gl/maps/iZ8jZkvoFyR2 
-.. _Yor Yak Hostel: https://goo.gl/maps/vTp1b6heo7J2
-.. _M Gray Hostel: https://goo.gl/maps/s8mRCAYWacG2
-
-
