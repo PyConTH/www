@@ -64,18 +64,7 @@ https://www.facebook.com/pg/kxkmutt
 
 .. raw:: html
 
-    </div></div>
-    <div class="container"><div class="row">
-
-.. class:: jumbotron clearfix
-
-    .. raw:: html
-
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31006.76025310981!2d100.52294440402027!3d13.727830454920062!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30e298ee5d02d0a3%3A0xe2511ae461733d57!2sThe+Knowledge+Exchange%3A+KX!5e0!3m2!1sen!2sth!4v1521363934950" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-.. raw:: html
-
-    </div></div>
+    </div><!-- 3 --></div><!-- 4 -->
     <div class="container"><div class="row">
 
 .. class:: col-md-3 
@@ -220,5 +209,8 @@ See the `Prepaid Data SIM Card Wiki <http://prepaid-data-sim-card.wikia.com/wiki
 
 .. raw:: html
 
-    </div></div>
+    </div><!-- 5 --></div><!-- 6 -->
+    <div class="container jumbotron clearfix"><div class="row">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31006.76025310981!2d100.52294440402027!3d13.727830454920062!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30e298ee5d02d0a3%3A0xe2511ae461733d57!2sThe+Knowledge+Exchange%3A+KX!5e0!3m2!1sen!2sth!4v1521363934950" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
+    </div><!-- 7 --></div><!-- 8 -->
 
