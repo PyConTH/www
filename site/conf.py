@@ -185,18 +185,18 @@ NAVIGATION_LINKS = {
            ),
         (
             (
-                ("/en/accommodation/", "Hotels and accommodation",),
-                ("/en/transportation/", "Transportation (trains and taxis)",),
-            ),
-           "Bangkok"
-           ),
-        (
-            (
 #              ("/sponsors/", "Sponsors"),
                ("/en/sponsorship/", "Sponsorship"),),
            "Sponsorship"
            ),
-        ('/en/venue/', 'Venue'),
+        (
+            (
+                ("/en/venue/", "Conference venue",),
+                ("/en/venue/#accommodation", "Hotels and accommodation",),
+                ("/en/venue/#transportation", "Transportation (trains and taxis)",),
+            ),
+           "Venue"
+           ),
         ('/en/posts/', 'News')
         ),
 }
