@@ -193,3 +193,13 @@ night. Avoid parked taxis.
 `Grab`_ also operates in Bangkok, and tends to be around the same price as taxis.
 
 .. _Grab: https://www.grab.com/th/en/
+
+Connectivity
+============
+
+Most restaurants, cafés and bars in Bangkok have free WiFi.
+As long as your phone is not provider-locked, it is also possible to get a
+tourist SIM. (You have to register with passport.) The easiest is to get it at
+the airport, all the major providers have kiosks at Arrivals.
+See the `Prepaid Data SIM Card Wiki <http://prepaid-data-sim-card.wikia.com/wiki/Thailand>`_ for all the details.
+
