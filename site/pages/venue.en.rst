@@ -10,8 +10,7 @@
 
 .. raw:: html
 
-   <div class="container">
-       <div class="row">
+   <div class="container"><div class="row">
 
 .. class:: col-md-3
 
@@ -23,15 +22,19 @@ First-time visitors may be a little taken aback by the concrete canyons and futu
 but take a few steps away from the main roads into one of the city’s countless alleys and traditional
 Thai culture is everywhere – an urban cornucopia of smells, tastes, sounds and sights that one is unlikely to forget.
 
-.. class:: col-md-3
+.. Allow blank top-level headings, in order to split columns
+.. role:: raw-role(raw)
+   :format: html
 
-KX
-==
+.. class:: col-md-3 
+
+:raw-role:`&nbsp;`
+==================
 
 .. image:: /kx-building.jpg
     :alt: KX Building
 
-.. class:: col-md-3
+.. class:: col-md-3 
 
 Knowledge Exchange Center – KX
 ==============================
@@ -41,11 +44,10 @@ is a facility dedicated to stimulating knowledge exchange, entrepreneurship, par
 A space for creating a vibrant community of forward-looking industry, businesses, technology and knowledge providers,
 public sector facilitators, and venture capital providers.
 
-.. class:: col-md-3
+.. class:: col-md-3 
 
 Location
 ========
-
 
 KX is a 20 floor building on Krung Thonburi road near the BTS Skytrain “Wong Wian Yai” station,
 just across the Chao Phraya river from the Sathorn road via the Taksin bridge.
@@ -62,11 +64,10 @@ https://www.facebook.com/pg/kxkmutt
 
 .. raw:: html
 
-        </div>
-    </div>
-    <div class="container">
+    </div></div>
+    <div class="container"><div class="row">
 
-.. class:: row jumbotron clearfix
+.. class:: jumbotron clearfix
 
     .. raw:: html
 
@@ -74,11 +75,10 @@ https://www.facebook.com/pg/kxkmutt
 
 .. raw:: html
 
-    </div>
-    <div class="container">
-        <div class="row">
+    </div></div>
+    <div class="container"><div class="row">
 
-.. class:: col-md-3
+.. class:: col-md-3 
 
 Accommodation
 =============
@@ -100,7 +100,6 @@ These are all between around 15 USD for a dorm room, up to around 35 USD for a d
 .. _In My Bed Hostel: https://goo.gl/maps/iZ8jZkvoFyR2 
 .. _Yor Yak Hostel: https://goo.gl/maps/vTp1b6heo7J2
 .. _M Gray Hostel: https://goo.gl/maps/s8mRCAYWacG2
-
 
 
 Hotels
@@ -126,14 +125,17 @@ Hotels
 
 - `The Peninsula Bangkok <https://goo.gl/maps/foovbwE63Vq>`_, 10 minutes by taxi.
 
-------
+.. class:: col-md-3
+
+:raw-role:`&nbsp;`
+==================
 
 The venue is in a quiet area without much vibrant nightlife in the immediate vicinity. 
 If you would like to venture a bit further for shopping or nightlife, there are
 many options along the BTS.
 
 Sathorn/Silom
-`````````````
+-------------
 
 Sathorn is the financial district of Bangkok, and in the last few years many
 stylish bars and restaurants have been opening in this area. 
@@ -141,7 +143,7 @@ stylish bars and restaurants have been opening in this area.
 - `I Residence Hotel, Silom <https://goo.gl/maps/KaLNPB9tMLF2>`_, 20 minutes by BTS.
 
 Siam
-````
+----
 
 Siam Square is a shopping mecca, with luxury brands at Siam Paragon and clothes and gadgets at MBK.
 The `Bangkok Art and Culture Centre`_ always has interesting exhibitions and performances.
@@ -188,6 +190,11 @@ A taxi to the venue should take around 40 minutes.
 .. _Don Mueang: https://goo.gl/maps/AtkU7142cjq
 .. _Mo Chit: https://goo.gl/maps/WKna4RFhBvt
 
+.. class:: col-md-3
+
+:raw-role:`&nbsp;`
+==================
+
 Taxis in Bangkok
 ----------------
 
@@ -202,10 +209,8 @@ night. Avoid parked taxis.
 
 .. _Grab: https://www.grab.com/th/en/
 
-.. class:: col-md-3
-
 Connectivity
-============
+------------
 
 Most restaurants, cafés and bars in Bangkok have free WiFi.
 As long as your phone is not provider-locked, it is also possible to get a
@@ -215,6 +220,5 @@ See the `Prepaid Data SIM Card Wiki <http://prepaid-data-sim-card.wikia.com/wiki
 
 .. raw:: html
 
-        </div>
-    </div>
+    </div></div>
 
