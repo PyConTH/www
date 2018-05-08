@@ -74,7 +74,7 @@ Accommodation
 
 Bangkok is a major metropolis, with a vibrant mix of old and new. It is quite
 safe for tourists. For some details about getting around in the city, see the
-page on `transportation <transportation>`_.
+section on Transportation_.
 
 Hostels
 -------
@@ -140,6 +140,9 @@ The `Bangkok Art and Culture Centre`_ always has interesting exhibitions and per
 - `Lub d Bangkok Siam Hostel <https://goo.gl/maps/EsTifyxHiAM2>`_, 30 minutes by BTS.
 
 .. _Bangkok Art and Culture Centre: https://goo.gl/maps/ynWaiasixjp
+
+.. note:: All the mentioned places are in this 
+    `Google Maps placelist <https://www.google.com/maps/placelists/list/10AVZ09RRblPyf72xyLPatQghauY?hl=en>`_.
 
 .. class:: col-md-3
 
