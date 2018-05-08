@@ -116,8 +116,8 @@ Hotels
 
 .. class:: col-md-3
 
-:raw-role:`&nbsp;`
-==================
+Further afield
+==============
 
 The venue is in a quiet area without much vibrant nightlife in the immediate vicinity. 
 If you would like to venture a bit further for shopping or nightlife, there are
