@@ -61,9 +61,9 @@ Outline slides
  Never start your talk with an outline slide. (That's boring, and it's too early for the audience to understand the talk structure yet.) Outline slides can be useful, especially in a talk that runs longer than 30 minutes, because they helps the audience to regain its bearings and to keep in mind your argument structure. Present an outline slide (with the current current section indicated via color, font, and/or an arrow) at the beginning of each major section of the talk, other than the introductory, motivational section.
 
 Conclusion
------------
+--------------
 
-The last slide should be a contributions or conclusions slide, reminding the audience of the take-home message of the talk. Do not end the talk with future work, or with a slide that says “questions” or “thank you” or “the end” or merely gives your email address. And, leave your contributions slide up after you finish the talk (while you are answering questions). One way to think about this rule is: What do you want to be the last thing that the audience sees (or that it sees while you field questions)?
+ The last slide should be a contributions or conclusions slide, reminding the audience of the take-home message of the talk. Do not end the talk with future work, or with a slide that says “questions” or “thank you” or “the end” or merely gives your email address. And, leave your contributions slide up after you finish the talk (while you are answering questions). One way to think about this rule is: What do you want to be the last thing that the audience sees (or that it sees while you field questions)?
 
 Builds
 -------
@@ -79,18 +79,18 @@ Keep slides uncluttered
 When presenting the slides
 ---------------------------
 
-Do not read your slides word-for-word. Reading your slides verbatim is very boring and will cause the audience to tune out. You are also guaranteed to go too fast for some audience members and too slow for others, compared to their natural reading speed, thus irritating many people. If you find yourself reading your slides, then there is probably too much text on your slides. The slides should be an outline, not a transcript. That is, your slides should give just the main points, and you can supply more detail verbally. It's fine to use the slides as a crutch to help you remember all the main points and the order in which you want to present them. However, if you need prompting to remember the extra details, then you do not have sufficient command of your material and need to practice your talk more before giving it publicly.
+ Do not read your slides word-for-word. Reading your slides verbatim is very boring and will cause the audience to tune out. You are also guaranteed to go too fast for some audience members and too slow for others, compared to their natural reading speed, thus irritating many people. If you find yourself reading your slides, then there is probably too much text on your slides. The slides should be an outline, not a transcript. That is, your slides should give just the main points, and you can supply more detail verbally. It's fine to use the slides as a crutch to help you remember all the main points and the order in which you want to present them. However, if you need prompting to remember the extra details, then you do not have sufficient command of your material and need to practice your talk more before giving it publicly.
 
-Just as you should not read text verbatim, you should not read diagrams verbatim. When discussing the architecture of a system, don't just read the names of the components or give low-level details about the interfaces between them. Rather, explain whatever is important, interesting, or novel about your decomposition; or discuss how the parts work together to achieve some goal that clients of the system care about; or use other techniques to give high-level understanding of the system rather than merely presenting a mass of low-level details.
+ Just as you should not read text verbatim, you should not read diagrams verbatim. When discussing the architecture of a system, don't just read the names of the components or give low-level details about the interfaces between them. Rather, explain whatever is important, interesting, or novel about your decomposition; or discuss how the parts work together to achieve some goal that clients of the system care about; or use other techniques to give high-level understanding of the system rather than merely presenting a mass of low-level details.
 
-(It's possible to overdo the practice of limiting what information appears on each slide, and you do want to have enough material to support you if there are questions or to show that the simplified model you presented verbally is an accurate generalization. But the mistake of including too much information is far more common.)
+ (It's possible to overdo the practice of limiting what information appears on each slide, and you do want to have enough material to support you if there are questions or to show that the simplified model you presented verbally is an accurate generalization. But the mistake of including too much information is far more common.)
 
 Text
 ------
 
-Keep fonts large and easy to read from the back of the room. If something isn't important enough for your audience to be able to read, then it probably does not belong on your slides.
+ Keep fonts large and easy to read from the back of the room. If something isn't important enough for your audience to be able to read, then it probably does not belong on your slides.
 
-Use a sans-serif font for your slides. (Serifed fonts are best for reading on paper, but sans-serif fonts are easier to read on a screen.) PowerPoint's “Courier New” font is very light (its strokes are very thin). If you use it, always make it bold, then use color or underlining for emphasis where necessary.
+ Use a sans-serif font for your slides. (Serifed fonts are best for reading on paper, but sans-serif fonts are easier to read on a screen.) PowerPoint's “Courier New” font is very light (its strokes are very thin). If you use it, always make it bold, then use color or underlining for emphasis where necessary.
 
  When presenting code snippets, make sure the fonts is big enough to be readeable and only include the relevant bits.
 
@@ -100,11 +100,11 @@ Figures
 
  Make effective use of figures. Avoid a presentation that is just text. Such a presentation misses important opportunities to convey information. It is also is wearying to the audience.
 
-Images and visualizations are extremely helpful to your audience. Include diagrams to show how your system works or is put together. Never include generic images, such as clip art, that don't relate directly to your talk. For example, if you have a slide about security, don't use the image of a padlock. As another example, when describing the problem your presentation solves, don't use an image of a person sitting at a computer looking frustrated. Just as good pictures and text are better than text alone, text alone is better than text plus bad pictures.
+ Images and visualizations are extremely helpful to your audience. Include diagrams to show how your system works or is put together. Never include generic images, such as clip art, that don't relate directly to your talk. For example, if you have a slide about security, don't use the image of a padlock. As another example, when describing the problem your presentation solves, don't use an image of a person sitting at a computer looking frustrated. Just as good pictures and text are better than text alone, text alone is better than text plus bad pictures.
 
-When you include a diagram on a slide, ensure that its background is the same color as that of the slide. For example, if your slides have a black background, then do not paste in a diagram with a white background, which is visually distracting, hard to read, and unattractive. You should invert the diagram so it matches the slide (which may require redrawing the diagram), or invert the slide background (e.g., use a white slide background) to match the diagrams.
+ When you include a diagram on a slide, ensure that its background is the same color as that of the slide. For example, if your slides have a black background, then do not paste in a diagram with a white background, which is visually distracting, hard to read, and unattractive. You should invert the diagram so it matches the slide (which may require redrawing the diagram), or invert the slide background (e.g., use a white slide background) to match the diagrams.
 
-Do not use eye candy such as transition effects, design elements that appear on every slide, or multi-color backgrounds. At best, you will distract the audience from the technical material that you are presenting. At worst, you will alienate the audience by giving them the impression that you are more interested in graphical glitz than in content. Your slides can be attractive and compelling without being fancy. Make sure that each element on the slides contributes to your message; if it does not, then remove it.
+ Do not use eye candy such as transition effects, design elements that appear on every slide, or multi-color backgrounds. At best, you will distract the audience from the technical material that you are presenting. At worst, you will alienate the audience by giving them the impression that you are more interested in graphical glitz than in content. Your slides can be attractive and compelling without being fancy. Make sure that each element on the slides contributes to your message; if it does not, then remove it.
 
 Color
 -------
@@ -112,7 +112,7 @@ Color
  About 5% of American males are color-blind, so augment color with other emphasis where possible.
 
 The presentation
------------------
+==================
 
 Make eye contact with the audience. This draws them in and lets you know whether you are going too fast, too slow, or just right. Do not face the screen, which puts your back to the audience. This is offputting, prevents you from getting feedback from the audience's body language, and can cause difficulty in hearing/understanding you. Do not look down at your computer, either, which shares many of the same problems.
 
@@ -132,7 +132,7 @@ in breach of our `Code of Conduct`_. The most important thing is that you are co
 .. _Code of Conduct: https://th.pycon.org/en/code-of-conduct/
 
 Answering questions
---------------------
+=====================
 
 Answering questions from the audience is very hard! Even after you become very proficient at giving a talk, it will probably take you quite a bit longer to become good at answering questions. So, don't feel bad if that part does not go perfectly, but do work on improving it.
 
