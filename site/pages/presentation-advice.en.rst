@@ -8,7 +8,7 @@
 .. type: text
 
 
-How To Give A PyCon Presentation is based on a document by Prof. 'Michael Ernst'_ . Used with permission. Original at https://homes.cs.washington.edu/~mernst/advice/giving-talk.html
+How To Give A PyCon Presentation is based on a document by Prof. `Michael Ernst`_ . Used with permission. Original at https://homes.cs.washington.edu/~mernst/advice/giving-talk.html
 
 .. _Michael Ernst: https://homes.cs.washington.edu/~mernst/
 
@@ -127,7 +127,7 @@ If you get flustered, don't panic. One approach is to stop and regroup; taking a
 
 
 PyCon conference do not have a dress code. Simply make sure your articles of clothing do not have slogans
-in breach of our 'Code of Conduct'_. The most important thing is that you are comfortable with your clothing; if you are not, your discomfort will lead to a worse presentation.
+in breach of our `Code of Conduct`_. The most important thing is that you are comfortable with your clothing; if you are not, your discomfort will lead to a worse presentation.
 
 .. _Code of Conduct: https://th.pycon.org/en/code-of-conduct/
 
