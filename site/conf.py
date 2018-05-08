@@ -165,6 +165,7 @@ NAVIGATION_LINKS = {
         ("/en/buy-tickets/", "Buy Tickets"),
         (
             (
+	       ("/en/presentation-advice/", "Presentation Advice"),
                ("/en/submit-talk/", "Submit Talk Proposal (closed)"),
 #               ("/speakers/", "Speakers"),
 #              ("/schedule/", "Talk Schedule"),
