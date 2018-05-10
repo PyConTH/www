@@ -153,6 +153,13 @@ NAVIGATION_LINKS = {
             ),
            "งาน"
            ),
+#       ( TODO: translate
+#           ( TODO: translate
+#               ("/en/accommodation/", "Hotels and accommodation",), TODO: translate
+#               ("/en/transportation/", "Transportation (trains and taxis)",), TODO: translate
+#           ), TODO: translate
+#          "Bangkok" TODO: translate
+#          ), TODO: translate
         (
             (
 #              ("/sponsors/", "Sponsors"),
@@ -184,7 +191,14 @@ NAVIGATION_LINKS = {
                ("/en/sponsorship/", "Sponsorship"),),
            "Sponsorship"
            ),
-        ('/en/venue/', 'Venue'),
+        (
+            (
+                ("/en/venue/", "Conference venue",),
+                ("/en/venue/#accommodation", "Hotels and accommodation",),
+                ("/en/venue/#transportation", "Transportation (trains and taxis)",),
+            ),
+           "Venue"
+           ),
         ('/en/posts/', 'News')
         ),
 }
@@ -1072,6 +1086,7 @@ CONTENT_FOOTER = {
     <div class="col-md-3">
         <h3>Gold Sponsors</h3>
         <p><img src="/proteus-logo.svg" width="70px" alt="Proteus Technologies" /></p>
+        <p><img src="/cf-logo-h-rev.svg" alt="Cloudflare" /></p>
     </div>
     <div class="col-md-3">
         <h3>Get Social</h3>
@@ -1109,6 +1124,7 @@ CONTENT_FOOTER = {
     <div class="col-md-3">
         <h3>ผู้สนับสนุน</h3>
         <p><img src="/proteus-logo.svg" width="70px" alt="Proteus Technologies" /></p>
+        <p><img src="/cf-logo-h-rev.svg" alt="Cloudflare" /></p>
     </div>
     <div class="col-md-3">
         <h3>ติดต่อเรา</h3>
