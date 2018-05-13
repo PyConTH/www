@@ -110,19 +110,6 @@ Schedule
 
   .. container:: col-md-6
 
-     .. raw:: html
-
-        <h2>ผู้สนับสนุนหลัก</h2>
-
-     .. class:: img-responsive col-md-4
-
-        .. image:: /proteus-logo.svg
-             :alt: Proteus Technologies logo
-             :align: left
-             :width: 250px
-
-  .. container:: col-md-6
-
      พบกับหนังสือแจ้งรายละเอียดโครงการสำหรับผู้สนับสนุนเร็วๆ นี้
 
      .. raw:: html

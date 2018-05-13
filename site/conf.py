@@ -1061,16 +1061,44 @@ LICENSE = ""
 
 CONTENT_FOOTER = {
 	"en": """
+<div class="container">
+  <div class="text-center">
+    <h1>Gold Sponsors</h1>
+    <hr/>
+    <div class="row">
+      <div class="col col-sm-4">
+        <div style="background-color:#FFFFFF;border:4px solid #DFDFDF;width:280px;height:120px;display:flex;justify-content:center;align-items:center;margin-left:auto;margin-right:auto;padding:10px;">
+          <a href="https://www.proteus-tech.com/" alt="Proteus Technologies" style="width:100%;height:100%;background-image:url(/proteus-logo.svg);background-size:contain;background-repeat:no-repeat;background-position:center;">
+        </div>
+      </div>
+    </div>
+    <h1>Silver Sponsors</h1>
+    <hr/>
+    <div class="row">
+      <div class="col col-sm-4">
+        <div style="background-color:#FFFFFF;border:4px solid #DFDFDF;width:280px;height:120px;display:flex;justify-content:center;align-items:center;margin-left:auto;margin-right:auto;padding:10px;">
+          <a href="https://www.cloudflare.com/" alt="Cloudflare" style="width:100%;height:100%;background-image:url(/cf-logo-h-rev.svg);background-size:contain;background-repeat:no-repeat;background-position:center;">
+        </div>
+      </div>
+      <div class="col col-sm-4">
+        <div style="background-color:#FFFFFF;border:4px solid #DFDFDF;width:280px;height:120px;display:flex;justify-content:center;align-items:center;margin-left:auto;margin-right:auto;padding:10px;">
+          <a href="https://www.elastic.co/" alt="Elastic" style="width:100%;height:100%;background-image:url(/logo-elastic.svg);background-size:contain;background-repeat:no-repeat;background-position:center;">
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<p></p>
 <div class="navbar-inverse row" style="
     color: white;
 ">
   <div class="container">
-    <div class="col-md-3">
+    <div class="col-md-4">
         <h3>About</h3>
         PyCon Thailand is a conference about the programming language Python.
         It is a community effort driven by the members of the Python Community in Bangkok.
     </div>
-    <div class="col-md-3">
+    <div class="col-md-4">
         <h3>When &amp; Where</h3>
         <h4>When:</h4>
         June 16-17 2018
@@ -1082,14 +1110,7 @@ CONTENT_FOOTER = {
         Bangkok <br>
         10600
     </div>
-    <div class="col-md-3">
-        <h3>Gold Sponsors</h3>
-        <p><img src="/proteus-logo.svg" width="150px" alt="Proteus Technologies" /></p>
-        <h3>Silver Sponsors</h3>
-        <p><img src="/cf-logo-h-rev.svg" alt="Cloudflare" /></p>
-        <p><img src="/logo-elastic.svg" alt="Elastic" /></p>
-    </div>
-    <div class="col-md-3">
+    <div class="col-md-4">
         <h3>Get Social</h3>
         <a href="https://twitter.com/pyconthailand"><i class="fa fa-twitter fa-fw"></i> Twitter</a><br>
         <a href="https://www.facebook.com/pyconthailand/"><i class="fa fa-facebook fa-fw"></i> Facebook</a><br>
@@ -1101,16 +1122,43 @@ CONTENT_FOOTER = {
 <!--Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a> -->
 """,
 "th": """
+<div class="container">
+  <div class="text-center">
+    <h1>ผู้สนับสนุน</h1>
+    <hr/>
+    <div class="row">
+      <div class="col col-sm-4">
+        <div style="background-color:#FFFFFF;border:4px solid #DFDFDF;width:280px;height:120px;display:flex;justify-content:center;align-items:center;margin-left:auto;margin-right:auto;padding:10px;">
+          <a href="https://www.proteus-tech.com/" alt="Proteus Technologies" style="width:100%;height:100%;background-image:url(/proteus-logo.svg);background-size:contain;background-repeat:no-repeat;background-position:center;">
+        </div>
+      </div>
+    </div>
+    <h1>Silver Sponsors</h1> <!-- TODO: translate -->
+    <hr/>
+    <div class="row">
+      <div class="col col-sm-4">
+        <div style="background-color:#FFFFFF;border:4px solid #DFDFDF;width:280px;height:120px;display:flex;justify-content:center;align-items:center;margin-left:auto;margin-right:auto;padding:10px;">
+          <a href="https://www.cloudflare.com/" alt="Cloudflare" style="width:100%;height:100%;background-image:url(/cf-logo-h-rev.svg);background-size:contain;background-repeat:no-repeat;background-position:center;">
+        </div>
+      </div>
+      <div class="col col-sm-4">
+        <div style="background-color:#FFFFFF;border:4px solid #DFDFDF;width:280px;height:120px;display:flex;justify-content:center;align-items:center;margin-left:auto;margin-right:auto;padding:10px;">
+          <a href="https://www.elastic.co/" alt="Elastic" style="width:100%;height:100%;background-image:url(/logo-elastic.svg);background-size:contain;background-repeat:no-repeat;background-position:center;">
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 <div class="navbar-inverse row" style="
     color: white;
 ">
   <div class="container">
-    <div class="col-md-3">
+    <div class="col-md-4">
         <h3>About</h3>
         PyCon Thailand คือ งานสัมนาเกี่ยวกับภาษาที่ใช้เขียนโปรแกรม (Python programming language)เป็นสังคมที่ขับเคลื่อนโดยสมาชิกของกลุ่ม
         Python ในกรุงเทพมหานคร
     </div>
-    <div class="col-md-3">
+    <div class="col-md-4">
         <h3>เวลาและสถานที่่</h3>
         <h4>เวลา:</h4>
         16-17 มิถุนายน 2561
@@ -1122,14 +1170,7 @@ CONTENT_FOOTER = {
         กรุงเทพมหานคร<br>
         10600
     </div>
-    <div class="col-md-3">
-        <h3>ผู้สนับสนุน</h3>
-        <p><img src="/proteus-logo.svg" width="150px" alt="Proteus Technologies" /></p>
-        <h3>Silver Sponsors</h3><!-- TODO: translate -->
-        <p><img src="/cf-logo-h-rev.svg" alt="Cloudflare" /></p>
-        <p><img src="/logo-elastic.svg" alt="Elastic" /></p>
-    </div>
-    <div class="col-md-3">
+    <div class="col-md-4">
         <h3>ติดต่อเรา</h3>
         <a href="https://twitter.com/pyconthailand"><i class="fa fa-twitter fa-fw"></i> Twitter</a><br>
         <a href="https://www.facebook.com/pyconthailand/"><i class="fa fa-facebook fa-fw"></i> Facebook</a><br>
