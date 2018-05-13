@@ -1069,20 +1069,49 @@ CONTENT_FOOTER = {
       <div class="col col-sm-4">
         <div style="background-color:#FFFFFF;border:4px solid #DFDFDF;width:280px;height:120px;display:flex;justify-content:center;align-items:center;margin-left:auto;margin-right:auto;padding:10px;">
           <a href="https://www.proteus-tech.com/" alt="Proteus Technologies" style="width:100%;height:100%;background-image:url(/proteus-logo.svg);background-size:contain;background-repeat:no-repeat;background-position:center;">
+              </a>
         </div>
       </div>
-    </div>
-    <h1>Silver Sponsors</h1>
-    <hr/>
-    <div class="row">
-      <div class="col col-sm-4">
-        <div style="background-color:#FFFFFF;border:4px solid #DFDFDF;width:280px;height:120px;display:flex;justify-content:center;align-items:center;margin-left:auto;margin-right:auto;padding:10px;">
-          <a href="https://www.cloudflare.com/" alt="Cloudflare" style="width:100%;height:100%;background-image:url(/cf-logo-h-rev.svg);background-size:contain;background-repeat:no-repeat;background-position:center;">
-        </div>
-      </div>
+      <!-- 
       <div class="col col-sm-4">
         <div style="background-color:#FFFFFF;border:4px solid #DFDFDF;width:280px;height:120px;display:flex;justify-content:center;align-items:center;margin-left:auto;margin-right:auto;padding:10px;">
           <a href="https://www.elastic.co/" alt="Elastic" style="width:100%;height:100%;background-image:url(/logo-elastic.svg);background-size:contain;background-repeat:no-repeat;background-position:center;">
+              </a>
+        </div>
+      </div>
+      -->
+    </div>
+    <h2>Silver Sponsors</h2> <!-- TODO: translate -->
+    <hr/>
+    <div class="row">
+      <!--
+      <div class="col col-sm-4">
+        <div style="background-color:#FFFFFF;border:4px solid #DFDFDF;width:252px;height:108px;display:flex;justify-content:center;align-items:center;margin-left:auto;margin-right:auto;padding:10px;">
+          <a href="https://www.cloudflare.com/" alt="Cloudflare" style="width:100%;height:100%;background-image:url(/cf-logo-h-rev.svg);background-size:contain;background-repeat:no-repeat;background-position:center;">
+              </a>
+        </div>
+      </div>
+      -->
+    </div>
+    <h3>Individual Sponsors</h2> <!-- TODO: translate -->
+    <hr/>
+    <div class="row">
+      <div class="col col-sm-3">
+        <div style="background-color:#FFFFFF;border:4px solid #DFDFDF;width:224px;height:96px;display:flex;justify-content:center;align-items:center;margin-left:auto;margin-right:auto;padding:10px;">
+          <a href="https://gummybear.asia/" alt="Gummybear Recruitment" style="width:100%;height:100%;background-image:url(/gummy-bear.png);background-size:contain;background-repeat:no-repeat;background-position:center;">
+              </a>
+        </div>
+      </div>
+      <div class="col col-sm-3">
+        <div style="background-color:#FFFFFF;border:4px solid #DFDFDF;width:224px;height:96px;display:flex;justify-content:center;align-items:center;margin-left:auto;margin-right:auto;padding:10px;">
+          <a href="https://eventpop.me/" alt="Eventpop" style="width:100%;height:100%;background-image:url(/logo-eventpop.png);background-size:contain;background-repeat:no-repeat;background-position:center;">
+              </a>
+        </div>
+      </div>
+      <div class="col col-sm-3">
+        <div style="background-color:#FFFFFF;border:4px solid #DFDFDF;width:224px;height:96px;display:flex;justify-content:center;align-items:center;margin-left:auto;margin-right:auto;padding:10px;">
+          <a href="https://elcolie.com/">Sarit Ritwirune
+              </a>
         </div>
       </div>
     </div>
@@ -1136,20 +1165,49 @@ CONTENT_FOOTER = {
       <div class="col col-sm-4">
         <div style="background-color:#FFFFFF;border:4px solid #DFDFDF;width:280px;height:120px;display:flex;justify-content:center;align-items:center;margin-left:auto;margin-right:auto;padding:10px;">
           <a href="https://www.proteus-tech.com/" alt="Proteus Technologies" style="width:100%;height:100%;background-image:url(/proteus-logo.svg);background-size:contain;background-repeat:no-repeat;background-position:center;">
+              </a>
         </div>
       </div>
-    </div>
-    <h1>Silver Sponsors</h1> <!-- TODO: translate -->
-    <hr/>
-    <div class="row">
-      <div class="col col-sm-4">
-        <div style="background-color:#FFFFFF;border:4px solid #DFDFDF;width:280px;height:120px;display:flex;justify-content:center;align-items:center;margin-left:auto;margin-right:auto;padding:10px;">
-          <a href="https://www.cloudflare.com/" alt="Cloudflare" style="width:100%;height:100%;background-image:url(/cf-logo-h-rev.svg);background-size:contain;background-repeat:no-repeat;background-position:center;">
-        </div>
-      </div>
+      <!-- 
       <div class="col col-sm-4">
         <div style="background-color:#FFFFFF;border:4px solid #DFDFDF;width:280px;height:120px;display:flex;justify-content:center;align-items:center;margin-left:auto;margin-right:auto;padding:10px;">
           <a href="https://www.elastic.co/" alt="Elastic" style="width:100%;height:100%;background-image:url(/logo-elastic.svg);background-size:contain;background-repeat:no-repeat;background-position:center;">
+              </a>
+        </div>
+      </div>
+      -->
+    </div>
+    <h2>Silver Sponsors</h2> <!-- TODO: translate -->
+    <hr/>
+    <div class="row">
+      <!--
+      <div class="col col-sm-4">
+        <div style="background-color:#FFFFFF;border:4px solid #DFDFDF;width:252px;height:108px;display:flex;justify-content:center;align-items:center;margin-left:auto;margin-right:auto;padding:10px;">
+          <a href="https://www.cloudflare.com/" alt="Cloudflare" style="width:100%;height:100%;background-image:url(/cf-logo-h-rev.svg);background-size:contain;background-repeat:no-repeat;background-position:center;">
+              </a>
+        </div>
+      </div>
+      -->
+    </div>
+    <h3>Individual Sponsors</h2> <!-- TODO: translate -->
+    <hr/>
+    <div class="row">
+      <div class="col col-sm-3">
+        <div style="background-color:#FFFFFF;border:4px solid #DFDFDF;width:224px;height:96px;display:flex;justify-content:center;align-items:center;margin-left:auto;margin-right:auto;padding:10px;">
+          <a href="https://gummybear.asia/" alt="Gummybear Recruitment" style="width:100%;height:100%;background-image:url(/gummy-bear.png);background-size:contain;background-repeat:no-repeat;background-position:center;">
+              </a>
+        </div>
+      </div>
+      <div class="col col-sm-3">
+        <div style="background-color:#FFFFFF;border:4px solid #DFDFDF;width:224px;height:96px;display:flex;justify-content:center;align-items:center;margin-left:auto;margin-right:auto;padding:10px;">
+          <a href="https://eventpop.me/" alt="Eventpop" style="width:100%;height:100%;background-image:url(/logo-eventpop.png);background-size:contain;background-repeat:no-repeat;background-position:center;">
+              </a>
+        </div>
+      </div>
+      <div class="col col-sm-3">
+        <div style="background-color:#FFFFFF;border:4px solid #DFDFDF;width:224px;height:96px;display:flex;justify-content:center;align-items:center;margin-left:auto;margin-right:auto;padding:10px;">
+          <a href="https://elcolie.com/">Sarit Ritwirune
+              </a>
         </div>
       </div>
     </div>
