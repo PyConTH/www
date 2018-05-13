@@ -1084,7 +1084,8 @@ CONTENT_FOOTER = {
     </div>
     <div class="col-md-3">
         <h3>Gold Sponsors</h3>
-        <p><img src="/proteus-logo.svg" width="100px" alt="Proteus Technologies" /></p>
+        <p><img src="/proteus-logo.svg" width="150px" alt="Proteus Technologies" /></p>
+        <h3>Silver Sponsors</h3>
         <p><img src="/cf-logo-h-rev.svg" alt="Cloudflare" /></p>
         <p><img src="/logo-elastic.svg" alt="Elastic" /></p>
     </div>
@@ -1123,7 +1124,8 @@ CONTENT_FOOTER = {
     </div>
     <div class="col-md-3">
         <h3>ผู้สนับสนุน</h3>
-        <p><img src="/proteus-logo.svg" width="100px" alt="Proteus Technologies" /></p>
+        <p><img src="/proteus-logo.svg" width="150px" alt="Proteus Technologies" /></p>
+        <h3>Silver Sponsors</h3><!-- TODO: translate -->
         <p><img src="/cf-logo-h-rev.svg" alt="Cloudflare" /></p>
         <p><img src="/logo-elastic.svg" alt="Elastic" /></p>
     </div>
