@@ -16,9 +16,9 @@ import time
 
 
 # Data about this site
-#TDB BLOG_AUTHOR = {"en": "PyCon Thailand team", "th": "TBD"}  # (translatable)
+#TODO BLOG_AUTHOR = {"en": "PyCon Thailand team", "th": "TBD"}  # (translatable)
 BLOG_AUTHOR = {"en": "PyCon Thailand team", "th": "PyCon Thailand team"}  # (translatable)
-#TDB BLOG_TITLE = {"en":"PyCon Thailand", "th": "TBD"}  # (translatable)
+#TODO BLOG_TITLE = {"en":"PyCon Thailand", "th": "TBD"}  # (translatable)
 BLOG_TITLE = {"en":"PyCon Thailand", "th": "PyCon Thailand"}  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
@@ -26,8 +26,7 @@ SITE_URL = "https://th.pycon.org/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://th.pycon.org/"
-BLOG_EMAIL = "jean.jordaan@gmail.com"
-#TBD BLOG_DESCRIPTION = {"en": "Conference website for PyCon Thailand", "th": "TDB"}  # (translatable)
+BLOG_EMAIL = "jean.jordaan+pyconth@gmail.com"
 BLOG_DESCRIPTION = {"en": "Conference website for PyCon Thailand", "th": "เว็บไซต์ทางการของการสัมมนา PyCon Thailand"}  # (translatable)
 
 # Nikola is multilingual!
@@ -167,7 +166,7 @@ NAVIGATION_LINKS = {
            "ผู้สนับสนุน"
            ),
         ('/venue/', 'สถานที่'),
-        ('/posts/', '﻿ข่าว')
+        ('/posts/', 'ข่าว')
     ),
     "en": (
         ("/en/buy-tickets/", "Buy Tickets"),
@@ -1085,8 +1084,9 @@ CONTENT_FOOTER = {
     </div>
     <div class="col-md-3">
         <h3>Gold Sponsors</h3>
-        <p><img src="/proteus-logo.svg" width="70px" alt="Proteus Technologies" /></p>
+        <p><img src="/proteus-logo.svg" width="100px" alt="Proteus Technologies" /></p>
         <p><img src="/cf-logo-h-rev.svg" alt="Cloudflare" /></p>
+        <p><img src="/logo-elastic.svg" alt="Elastic" /></p>
     </div>
     <div class="col-md-3">
         <h3>Get Social</h3>
@@ -1123,8 +1123,9 @@ CONTENT_FOOTER = {
     </div>
     <div class="col-md-3">
         <h3>ผู้สนับสนุน</h3>
-        <p><img src="/proteus-logo.svg" width="70px" alt="Proteus Technologies" /></p>
+        <p><img src="/proteus-logo.svg" width="100px" alt="Proteus Technologies" /></p>
         <p><img src="/cf-logo-h-rev.svg" alt="Cloudflare" /></p>
+        <p><img src="/logo-elastic.svg" alt="Elastic" /></p>
     </div>
     <div class="col-md-3">
         <h3>ติดต่อเรา</h3>
