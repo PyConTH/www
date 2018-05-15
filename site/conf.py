@@ -1116,6 +1116,9 @@ CONTENT_FOOTER = {
         <h3>About</h3>
         PyCon Thailand is a conference about the programming language Python.
         It is a community effort driven by the members of the Python Community in Bangkok.
+        <br>
+        Co-Organised with <br>
+        <a href="https://thaiprogrammer.org/"><img src="/tpalogo.png" alt="Thai Programming Association"></a>
     </div>
     <div class="col-md-4">
         <h3>When &amp; Where</h3>
@@ -1134,7 +1137,7 @@ CONTENT_FOOTER = {
         <a href="https://twitter.com/pyconthailand"><i class="fa fa-twitter fa-fw"></i> Twitter</a><br>
         <a href="https://www.facebook.com/pyconthailand/"><i class="fa fa-facebook fa-fw"></i> Facebook</a><br>
         <a href="https://www.meetup.com/ThaiPy-Bangkok-Python-Meetup/events/248920463/"><i class="fa fa-meetup fa-fw"></i> Meetup</a><br>
-        <a href="">Contact</a><br>
+        <a href="mailto:contact@pyconthailand.org"><i class="fa fa-envelope fa-fw"></i> Contact</a><br>
     </div>
   </div>
 </div>
@@ -1195,6 +1198,9 @@ CONTENT_FOOTER = {
         <h3>About</h3>
         <!-- PyCon Thailand คือ งานสัมนาเกี่ยวกับภาษาที่ใช้เขียนโปรแกรม (Python programming language)เป็นสังคมที่ขับเคลื่อนโดยสมาชิกของกลุ่ม Python ในกรุงเทพมหานคร -->
         PyCon Thailand คือ งานสัมนาเกี่ยวกับภาษา Python เป็นงานที่ถูกขับเคลื่อนโดยกลุ่มของนักพัฒนาภาษา Python ในกรุงเทพ
+        <br>
+        Co-Organised with <br>
+        <a href="https://thaiprogrammer.org/"><img src="/tpalogo.png" alt="Thai Programming Association"></a>
     </div>
     <div class="col-md-4">
         <h3>เวลาและสถานที่่</h3>
@@ -1213,7 +1219,7 @@ CONTENT_FOOTER = {
         <a href="https://twitter.com/pyconthailand"><i class="fa fa-twitter fa-fw"></i> Twitter</a><br>
         <a href="https://www.facebook.com/pyconthailand/"><i class="fa fa-facebook fa-fw"></i> Facebook</a><br>
         <a href="https://www.meetup.com/ThaiPy-Bangkok-Python-Meetup/events/248920463/"><i class="fa fa-meetup fa-fw"></i> Meetup</a><br>
-        <a href="">Contact</a><br>
+        <a href="mailto:contact@pyconthailand.org"><i class="fa fa-envelope fa-fw"></i> Contact</a><br>
     </div>
   </div>
 </div>
