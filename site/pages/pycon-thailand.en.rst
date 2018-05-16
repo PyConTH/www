@@ -56,7 +56,7 @@ Tickets
 
   .. class:: col-md-8
 
-     Early bird tickets now on sale!
+     Early bird tickets have now sold out! Buy your Individual/Regular tickets before they also sell out!
 
   .. container:: col-md-6
 
