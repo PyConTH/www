@@ -1107,7 +1107,7 @@ CONTENT_FOOTER = {
     </div>
   </div>
 </div>
-<p></p>
+<p>&nbsp;</p>
 <div class="navbar-inverse row" style="
     color: white;
 ">
@@ -1193,6 +1193,7 @@ CONTENT_FOOTER = {
     </div>
   </div>
 </div>
+<p>&nbsp;</p>
 <div class="navbar-inverse row" style="
     color: white;
 ">
