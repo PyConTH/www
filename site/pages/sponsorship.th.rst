@@ -7,30 +7,10 @@
 .. description: Available sponsorship levels
 .. type: text
 
+.. TODO: translate
 
-ผู้สนับสนุน
---------
-
-Pycon Thailand ถูกจัดขึ้นโดนกลุ่มคนที่รักภาษา Python โดยทีมงานเข้ามาช่วยในฐานะอาสาสมัครทั้งหมด เราไม่สามารถจัดงานเจ๋งๆได้ถ้าขาดผู้ใหญ่ใจดี
-
-นี่เป็นโอกาสของคุณที่จะเข้าถึงคนที่มีอำนาจตัดสินใจและนักพัฒนาจากบริษัทชั้นนำต่างๆ Pycon Thailand สามารถรองรับผู้เข้าร่วมงานได้ถึง 250 คน นั่นหมายความว่าผู้สนับสนุนสามารถช่วยสนับสนุนงานได้ไม่ว่างบจะมากจะน้อยแค่ไหน มาร่วมเป็นส่วนหนึ่งของการจัดการสัมมนาเกี่ยวกับ Python ครั้งแรกในประเทศไทยและร่วมสร้างประวัติศาสตร์ไปกับเรา
-
-
-Package ของการสนับสนุน
------------------------
-
-ติดต่อผู้จัดสำหรับข้อมูลเพิ่มเติมสำหรับการช่วยสนับสนุนงาน
-การช่วยเหลือสามารถทำได้หลากหลายรูปแบบไม่ว่าจะเป็น กระจายข่าวเกี่ยวกับเว็บไซต์ ตั้งบูธในงาน ติด banner ในงาน รวมไปถึงการจัด session และของชำร่วยต่างๆ
-
-.. container:: jumbotron clearfix
-
-   ดาวน์โหลดหนังสือชี้ชวนสำหรับผู้สนับสนุนงานได้แล้ววันนี้
-
-   .. raw:: html
-
-          <a class="btn btn-primary btn-lg active" href="/PyCon Thailand 2018 Sponsorship Prospectus.pdf">ดาวน์โหลด Prospectus</a>
-
-----
+We want to thank these sponsors for making PyCon possible!
+Their funds help to subsidize tickets and make the event a success all round.
 
 .. class:: text-center
 
@@ -74,12 +54,14 @@ Silver Sponsors
 .. raw:: html
 
     <div class="row">
+      <!--
       <div class="col col-sm-4">
         <div style="background-color:#FFFFFF;border:4px solid #DFDFDF;width:252px;height:108px;display:flex;justify-content:center;align-items:center;margin-left:auto;margin-right:auto;padding:10px;">
           <a href="https://acommerce.com/" alt="ACommerce" style="width:100%;height:100%;background-image:url(/acommerce_logo1.png);background-size:contain;background-repeat:no-repeat;background-position:center;">
               </a>
         </div>
       </div>
+      -->
 
       <!-- 
       <div class="col col-sm-4">
@@ -122,6 +104,33 @@ Individual Sponsors
         </div>
       </div>
     </div>
+
+
+----
+
+ผู้สนับสนุน
+--------
+
+Pycon Thailand ถูกจัดขึ้นโดนกลุ่มคนที่รักภาษา Python โดยทีมงานเข้ามาช่วยในฐานะอาสาสมัครทั้งหมด เราไม่สามารถจัดงานเจ๋งๆได้ถ้าขาดผู้ใหญ่ใจดี
+
+นี่เป็นโอกาสของคุณที่จะเข้าถึงคนที่มีอำนาจตัดสินใจและนักพัฒนาจากบริษัทชั้นนำต่างๆ Pycon Thailand สามารถรองรับผู้เข้าร่วมงานได้ถึง 250 คน นั่นหมายความว่าผู้สนับสนุนสามารถช่วยสนับสนุนงานได้ไม่ว่างบจะมากจะน้อยแค่ไหน มาร่วมเป็นส่วนหนึ่งของการจัดการสัมมนาเกี่ยวกับ Python ครั้งแรกในประเทศไทยและร่วมสร้างประวัติศาสตร์ไปกับเรา
+
+
+Package ของการสนับสนุน
+-----------------------
+
+ติดต่อผู้จัดสำหรับข้อมูลเพิ่มเติมสำหรับการช่วยสนับสนุนงาน
+การช่วยเหลือสามารถทำได้หลากหลายรูปแบบไม่ว่าจะเป็น กระจายข่าวเกี่ยวกับเว็บไซต์ ตั้งบูธในงาน ติด banner ในงาน รวมไปถึงการจัด session และของชำร่วยต่างๆ
+
+.. container:: jumbotron clearfix
+
+   ดาวน์โหลดหนังสือชี้ชวนสำหรับผู้สนับสนุนงานได้แล้ววันนี้
+
+   .. raw:: html
+
+          <a class="btn btn-primary btn-lg active" href="/PyCon Thailand 2018 Sponsorship Prospectus.pdf">ดาวน์โหลด Prospectus</a>
+
+----
 
 Contact
 -------
