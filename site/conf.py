@@ -1198,10 +1198,10 @@ CONTENT_FOOTER = {
         <h3>About</h3>
         PyCon Thailand คือ งานสัมนาเกี่ยวกับภาษาที่ใช้เขียนโปรแกรม (Python programming language)เป็นสังคมที่ขับเคลื่อนโดยสมาชิกของกลุ่ม
         Python ในกรุงเทพมหานคร
+        <!-- PyCon Thailand คือ งานสัมนาเกี่ยวกับภาษา Python เป็นงานที่ถูกขับเคลื่อนโดยกลุ่มของนักพัฒนาภาษา Python ในกรุงเทพ -->
         <br>
         Co-Organised with <br>
         <a href="https://thaiprogrammer.org/"><img src="/tpalogo.png" alt="Thai Programming Association"></a>
-        <!-- PyCon Thailand คือ งานสัมนาเกี่ยวกับภาษา Python เป็นงานที่ถูกขับเคลื่อนโดยกลุ่มของนักพัฒนาภาษา Python ในกรุงเทพ -->
     </div>
     <div class="col-md-4">
         <h3>เวลาและสถานที่่</h3>
