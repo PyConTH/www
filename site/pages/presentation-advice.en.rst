@@ -1,6 +1,6 @@
 .. title: How To Give A PyCon Presentation
 .. slug: presentation-advice
-.. date: 2018-05-18 10:22:54 UTC+07:00
+.. date: 2018-05-12 10:22:54 UTC+07:00
 .. tags:
 .. category:
 .. link:
