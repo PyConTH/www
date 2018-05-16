@@ -1207,6 +1207,7 @@ CONTENT_FOOTER = {
         <br>
         Co-Organised with <br>
         <a href="https://thaiprogrammer.org/"><img src="/tpalogo.png" alt="Thai Programming Association"></a>
+        <!-- PyCon Thailand คือ งานสัมนาเกี่ยวกับภาษา Python เป็นงานที่ถูกขับเคลื่อนโดยกลุ่มของนักพัฒนาภาษา Python ในกรุงเทพ -->
     </div>
     <div class="col-md-4">
         <h3>เวลาและสถานที่่</h3>
