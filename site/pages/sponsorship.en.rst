@@ -7,34 +7,8 @@
 .. description: Available sponsorship levels
 .. type: text
 
-
-Sponsors
-========
-
-Pycon Thailand is organised by a community of passionate Pythonistas on a volunteer-basis.
-We can't put on a great show without some great sponsors.
-
-Here is your chance to reach the decision makers and developers from hundreds of top companies.
-Pycon Thailand has a capacity of up to 250 attendees and there are sponsorship opportunities to
-fit any budget. Be part of the first ever Python conference in Thailand and help us make history.
-
-
-Sponsorship packages
-====================
-
-Contact the organizers for the available sponsorship opportunities.
-Opportunities include representation the website, booths at the venue,
-banners at the venue, as well as sessions, swag and bag inserts.
-
-.. container:: jumbotron clearfix
-
-    Our Sponsorship prospectus is available for download now.
-
-    .. raw:: html
-
-          <a class="btn btn-primary btn-lg active" href="/PyCon Thailand 2018 Sponsorship Prospectus.pdf">Download Prospectus</a>
-
-----
+We want to thank these sponsors for making PyCon possible!
+Their funds help to subsidize tickets and make the event a success all round.
 
 .. class:: text-center
 
@@ -77,6 +51,7 @@ Silver Sponsors
 
 .. raw:: html
 
+    <!--
     <div class="row">
       <div class="col col-sm-4">
         <div style="background-color:#FFFFFF;border:4px solid #DFDFDF;width:252px;height:108px;display:flex;justify-content:center;align-items:center;margin-left:auto;margin-right:auto;padding:10px;">
@@ -84,6 +59,7 @@ Silver Sponsors
               </a>
         </div>
       </div>
+      -->
 
       <!-- 
       <div class="col col-sm-4">
@@ -126,6 +102,37 @@ Individual Sponsors
         </div>
       </div>
     </div>
+
+
+----
+
+Sponsors
+========
+
+Pycon Thailand is organised by a community of passionate Pythonistas on a volunteer-basis.
+We can't put on a great show without some great sponsors.
+
+Here is your chance to reach the decision makers and developers from hundreds of top companies.
+Pycon Thailand has a capacity of up to 250 attendees and there are sponsorship opportunities to
+fit any budget. Be part of the first ever Python conference in Thailand and help us make history.
+
+
+Sponsorship packages
+====================
+
+Contact the organizers for the available sponsorship opportunities.
+Opportunities include representation the website, booths at the venue,
+banners at the venue, as well as sessions, swag and bag inserts.
+
+.. container:: jumbotron clearfix
+
+    Our Sponsorship prospectus is available for download now.
+
+    .. raw:: html
+
+          <a class="btn btn-primary btn-lg active" href="/PyCon Thailand 2018 Sponsorship Prospectus.pdf">Download Prospectus</a>
+
+----
 
 Contact
 =======
