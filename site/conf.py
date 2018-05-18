@@ -1066,6 +1066,9 @@ CONTENT_FOOTER = {
     color: white;
 ">
   <div class="container">
+    <div class="col-md-2">
+        <img src="/logo.svg" class="img-responsive" alt="PyCon Thailand" />
+    </div>
     <div class="col-md-3">
         <h3>About</h3>
         PyCon Thailand is a conference about the programming language Python.
@@ -1087,11 +1090,6 @@ CONTENT_FOOTER = {
         10600
     </div>
     <div class="col-md-3">
-        <h3>Gold Sponsors</h3>
-        <p><img src="/proteus-logo.svg" width="70px" alt="Proteus Technologies" /></p>
-        <p><img src="/cf-logo-h-rev.svg" alt="Cloudflare" /></p>
-    </div>
-    <div class="col-md-3">
         <h3>Get Social</h3>
         <a href="https://twitter.com/pyconthailand"><i class="fa fa-twitter fa-fw"></i> Twitter</a><br>
         <a href="https://www.facebook.com/pyconthailand/"><i class="fa fa-facebook fa-fw"></i> Facebook</a><br>
@@ -1107,6 +1105,9 @@ CONTENT_FOOTER = {
     color: white;
 ">
   <div class="container">
+    <div class="col-md-2">
+        <img src="/logo.svg" class="img-responsive" alt="PyCon Thailand" />
+    </div>
     <div class="col-md-3">
         <h3>About</h3>
         PyCon Thailand คือ งานสัมนาเกี่ยวกับภาษาที่ใช้เขียนโปรแกรม (Python programming language)เป็นสังคมที่ขับเคลื่อนโดยสมาชิกของกลุ่ม
@@ -1126,11 +1127,6 @@ CONTENT_FOOTER = {
         ธนบุรี<br>
         กรุงเทพมหานคร<br>
         10600
-    </div>
-    <div class="col-md-3">
-        <h3>ผู้สนับสนุน</h3>
-        <p><img src="/proteus-logo.svg" width="70px" alt="Proteus Technologies" /></p>
-        <p><img src="/cf-logo-h-rev.svg" alt="Cloudflare" /></p>
     </div>
     <div class="col-md-3">
         <h3>ติดต่อเรา</h3>
