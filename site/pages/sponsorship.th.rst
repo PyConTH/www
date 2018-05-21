@@ -9,8 +9,8 @@
 
 .. TODO: translate
 
-We want to thank these sponsors for making PyCon possible!
-Their funds help to subsidize tickets and make the event a success all round.
+พวกเราขอขอบคุณผู้มีอุปการะคุณเหล่านี้ที่ทำให้เราสามารถจัดงาน PyCon ขึ้นมาได้
+เงินทุนของพวกเขาช่วยลดราคาตั๋วและทำให้งานนี้สำเร็จได้ด้วยดี
 
 .. class:: text-center
 
