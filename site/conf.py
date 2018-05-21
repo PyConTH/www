@@ -1061,6 +1061,34 @@ LICENSE = ""
 
 CONTENT_FOOTER = {
 	"en": """
+<div class="container">
+  <div class="text-center">
+    <h1>Gold Sponsors</h1>
+    <hr/>
+    <div class="row">
+      <div class="col col-sm-4">
+        <div style="background-color:#FFFFFF;border:4px solid #DFDFDF;width:280px;height:120px;display:flex;justify-content:center;align-items:center;margin-left:auto;margin-right:auto;padding:10px;">
+          <a href="https://www.proteus-tech.com/" alt="Proteus Technologies" style="width:100%;height:100%;background-image:url(/proteus-logo.svg);background-size:contain;background-repeat:no-repeat;background-position:center;">
+        </div>
+      </div>
+    </div>
+    <h1>Silver Sponsors</h1>
+    <hr/>
+    <div class="row">
+      <div class="col col-sm-4">
+        <div style="background-color:#FFFFFF;border:4px solid #DFDFDF;width:280px;height:120px;display:flex;justify-content:center;align-items:center;margin-left:auto;margin-right:auto;padding:10px;">
+          <a href="https://www.cloudflare.com/" alt="Cloudflare" style="width:100%;height:100%;background-image:url(/cf-logo-h-rev.svg);background-size:contain;background-repeat:no-repeat;background-position:center;">
+        </div>
+      </div>
+      <div class="col col-sm-4">
+        <div style="background-color:#FFFFFF;border:4px solid #DFDFDF;width:280px;height:120px;display:flex;justify-content:center;align-items:center;margin-left:auto;margin-right:auto;padding:10px;">
+          <a href="https://www.elastic.co/" alt="Elastic" style="width:100%;height:100%;background-image:url(/logo-elastic.svg);background-size:contain;background-repeat:no-repeat;background-position:center;">
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<p></p>
 <div class="navbar-inverse row" style="
     color: white;
 ">
@@ -1100,6 +1128,33 @@ CONTENT_FOOTER = {
 <!--Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a> -->
 """,
 "th": """
+<div class="container">
+  <div class="text-center">
+    <h1>ผู้สนับสนุน</h1>
+    <hr/>
+    <div class="row">
+      <div class="col col-sm-4">
+        <div style="background-color:#FFFFFF;border:4px solid #DFDFDF;width:280px;height:120px;display:flex;justify-content:center;align-items:center;margin-left:auto;margin-right:auto;padding:10px;">
+          <a href="https://www.proteus-tech.com/" alt="Proteus Technologies" style="width:100%;height:100%;background-image:url(/proteus-logo.svg);background-size:contain;background-repeat:no-repeat;background-position:center;">
+        </div>
+      </div>
+    </div>
+    <h1>Silver Sponsors</h1> <!-- TODO: translate -->
+    <hr/>
+    <div class="row">
+      <div class="col col-sm-4">
+        <div style="background-color:#FFFFFF;border:4px solid #DFDFDF;width:280px;height:120px;display:flex;justify-content:center;align-items:center;margin-left:auto;margin-right:auto;padding:10px;">
+          <a href="https://www.cloudflare.com/" alt="Cloudflare" style="width:100%;height:100%;background-image:url(/cf-logo-h-rev.svg);background-size:contain;background-repeat:no-repeat;background-position:center;">
+        </div>
+      </div>
+      <div class="col col-sm-4">
+        <div style="background-color:#FFFFFF;border:4px solid #DFDFDF;width:280px;height:120px;display:flex;justify-content:center;align-items:center;margin-left:auto;margin-right:auto;padding:10px;">
+          <a href="https://www.elastic.co/" alt="Elastic" style="width:100%;height:100%;background-image:url(/logo-elastic.svg);background-size:contain;background-repeat:no-repeat;background-position:center;">
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 <div class="navbar-inverse row" style="
     color: white;
 ">
@@ -1115,7 +1170,7 @@ CONTENT_FOOTER = {
         Co-Organised with <br>
         <a href="https://thaiprogrammer.org/"><img src="/tpalogo.png" alt="Thai Programming Association"></a>
     </div>
-    <div class="col-md-3">
+    <div class="col-md-4">
         <h3>เวลาและสถานที่่</h3>
         <h4>เวลา:</h4>
         16-17 มิถุนายน 2561
