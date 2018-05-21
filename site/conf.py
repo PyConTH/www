@@ -16,9 +16,9 @@ import time
 
 
 # Data about this site
-#TDB BLOG_AUTHOR = {"en": "PyCon Thailand team", "th": "TBD"}  # (translatable)
+#TODO BLOG_AUTHOR = {"en": "PyCon Thailand team", "th": "TBD"}  # (translatable)
 BLOG_AUTHOR = {"en": "PyCon Thailand team", "th": "PyCon Thailand team"}  # (translatable)
-#TDB BLOG_TITLE = {"en":"PyCon Thailand", "th": "TBD"}  # (translatable)
+#TODO BLOG_TITLE = {"en":"PyCon Thailand", "th": "TBD"}  # (translatable)
 BLOG_TITLE = {"en":"PyCon Thailand", "th": "PyCon Thailand"}  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
@@ -26,8 +26,7 @@ SITE_URL = "https://th.pycon.org/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://th.pycon.org/"
-BLOG_EMAIL = "jean.jordaan@gmail.com"
-#TBD BLOG_DESCRIPTION = {"en": "Conference website for PyCon Thailand", "th": "TDB"}  # (translatable)
+BLOG_EMAIL = "jean.jordaan+pyconth@gmail.com"
 BLOG_DESCRIPTION = {"en": "Conference website for PyCon Thailand", "th": "เว็บไซต์ทางการของการสัมมนา PyCon Thailand"}  # (translatable)
 
 # Nikola is multilingual!
@@ -167,7 +166,7 @@ NAVIGATION_LINKS = {
            "ผู้สนับสนุน"
            ),
         ('/venue/', 'สถานที่'),
-        ('/posts/', '﻿ข่าว')
+        ('/posts/', 'ข่าว')
     ),
     "en": (
         ("/en/buy-tickets/", "Buy Tickets"),
@@ -1062,6 +1061,61 @@ LICENSE = ""
 
 CONTENT_FOOTER = {
 	"en": """
+<div class="container">
+  <div class="text-center">
+    <h1>Gold Sponsors</h1>
+    <hr/>
+    <div class="row">
+      <div class="col col-sm-4">
+        <div style="background-color:#FFFFFF;border:4px solid #DFDFDF;width:280px;height:120px;display:flex;justify-content:center;align-items:center;margin-left:auto;margin-right:auto;padding:10px;">
+          <a href="https://www.proteus-tech.com/" alt="Proteus Technologies" style="width:100%;height:100%;background-image:url(/proteus-logo.svg);background-size:contain;background-repeat:no-repeat;background-position:center;">
+              </a>
+        </div>
+      </div>
+      <div class="col col-sm-4">
+        <div style="background-color:#FFFFFF;border:4px solid #DFDFDF;width:280px;height:120px;display:flex;justify-content:center;align-items:center;margin-left:auto;margin-right:auto;padding:10px;">
+          <a href="https://kaidee.com/" alt="Kaidee" style="width:100%;height:100%;background-image:url(/Kaidee_LOGO.svg);background-size:contain;background-repeat:no-repeat;background-position:center;">
+              </a>
+        </div>
+      </div>
+      <div class="col col-sm-4">
+        <div style="background-color:#FFFFFF;border:4px solid #DFDFDF;width:280px;height:120px;display:flex;justify-content:center;align-items:center;margin-left:auto;margin-right:auto;padding:10px;">
+          <a href="https://newlogic.io/" alt="Newlogic" style="width:100%;height:100%;background-image:url(/newlogic-logo.png);background-size:contain;background-repeat:no-repeat;background-position:center;">
+              </a>
+        </div>
+      </div>
+      <!-- 
+      <div class="col col-sm-4">
+        <div style="background-color:#FFFFFF;border:4px solid #DFDFDF;width:280px;height:120px;display:flex;justify-content:center;align-items:center;margin-left:auto;margin-right:auto;padding:10px;">
+          <a href="https://www.elastic.co/" alt="Elastic" style="width:100%;height:100%;background-image:url(/logo-elastic.svg);background-size:contain;background-repeat:no-repeat;background-position:center;">
+              </a>
+        </div>
+      </div>
+      -->
+    </div>
+    <h2>Silver Sponsors</h2> <!-- TODO: translate -->
+    <hr/>
+    <div class="row">
+      <!--
+      <div class="col col-sm-4">
+        <div style="background-color:#FFFFFF;border:4px solid #DFDFDF;width:252px;height:108px;display:flex;justify-content:center;align-items:center;margin-left:auto;margin-right:auto;padding:10px;">
+          <a href="https://acommerce.com/" alt="ACommerce" style="width:100%;height:100%;background-image:url(/acommerce_logo1.png);background-size:contain;background-repeat:no-repeat;background-position:center;">
+              </a>
+        </div>
+      </div>
+      -->
+      <!--
+      <div class="col col-sm-4">
+        <div style="background-color:#FFFFFF;border:4px solid #DFDFDF;width:252px;height:108px;display:flex;justify-content:center;align-items:center;margin-left:auto;margin-right:auto;padding:10px;">
+          <a href="https://www.cloudflare.com/" alt="Cloudflare" style="width:100%;height:100%;background-image:url(/cf-logo-h-rev.svg);background-size:contain;background-repeat:no-repeat;background-position:center;">
+              </a>
+        </div>
+      </div>
+      -->
+    </div>
+  </div>
+</div>
+<p>&nbsp;</p>
 <div class="navbar-inverse row" style="
     color: white;
 ">
@@ -1077,7 +1131,7 @@ CONTENT_FOOTER = {
         Co-Organised with <br>
         <a href="https://thaiprogrammer.org/"><img src="/tpalogo.png" alt="Thai Programming Association"></a>
     </div>
-    <div class="col-md-3">
+    <div class="col-md-4">
         <h3>When &amp; Where</h3>
         <h4>When:</h4>
         June 16-17 2018
@@ -1101,6 +1155,61 @@ CONTENT_FOOTER = {
 <!--Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a> -->
 """,
 "th": """
+<div class="container">
+  <div class="text-center">
+    <h1>ผู้สนับสนุน</h1>
+    <hr/>
+    <div class="row">
+      <div class="col col-sm-4">
+        <div style="background-color:#FFFFFF;border:4px solid #DFDFDF;width:280px;height:120px;display:flex;justify-content:center;align-items:center;margin-left:auto;margin-right:auto;padding:10px;">
+          <a href="https://www.proteus-tech.com/" alt="Proteus Technologies" style="width:100%;height:100%;background-image:url(/proteus-logo.svg);background-size:contain;background-repeat:no-repeat;background-position:center;">
+              </a>
+        </div>
+      </div>
+      <div class="col col-sm-4">
+        <div style="background-color:#FFFFFF;border:4px solid #DFDFDF;width:280px;height:120px;display:flex;justify-content:center;align-items:center;margin-left:auto;margin-right:auto;padding:10px;">
+          <a href="https://kaidee.com/" alt="Kaidee" style="width:100%;height:100%;background-image:url(/Kaidee_LOGO.svg);background-size:contain;background-repeat:no-repeat;background-position:center;">
+              </a>
+        </div>
+      </div>
+      <div class="col col-sm-4">
+        <div style="background-color:#FFFFFF;border:4px solid #DFDFDF;width:280px;height:120px;display:flex;justify-content:center;align-items:center;margin-left:auto;margin-right:auto;padding:10px;">
+          <a href="https://newlogic.io/" alt="Newlogic" style="width:100%;height:100%;background-image:url(/newlogic-logo.png);background-size:contain;background-repeat:no-repeat;background-position:center;">
+              </a>
+        </div>
+      </div>
+      <!-- 
+      <div class="col col-sm-4">
+        <div style="background-color:#FFFFFF;border:4px solid #DFDFDF;width:280px;height:120px;display:flex;justify-content:center;align-items:center;margin-left:auto;margin-right:auto;padding:10px;">
+          <a href="https://www.elastic.co/" alt="Elastic" style="width:100%;height:100%;background-image:url(/logo-elastic.svg);background-size:contain;background-repeat:no-repeat;background-position:center;">
+              </a>
+        </div>
+      </div>
+      -->
+    </div>
+    <h2>Silver Sponsors</h2> <!-- TODO: translate -->
+    <hr/>
+    <div class="row">
+      <!--
+      <div class="col col-sm-4">
+        <div style="background-color:#FFFFFF;border:4px solid #DFDFDF;width:252px;height:108px;display:flex;justify-content:center;align-items:center;margin-left:auto;margin-right:auto;padding:10px;">
+          <a href="https://acommerce.com/" alt="ACommerce" style="width:100%;height:100%;background-image:url(/acommerce_logo1.png);background-size:contain;background-repeat:no-repeat;background-position:center;">
+              </a>
+        </div>
+      </div>
+      -->
+      <!--
+      <div class="col col-sm-4">
+        <div style="background-color:#FFFFFF;border:4px solid #DFDFDF;width:252px;height:108px;display:flex;justify-content:center;align-items:center;margin-left:auto;margin-right:auto;padding:10px;">
+          <a href="https://www.cloudflare.com/" alt="Cloudflare" style="width:100%;height:100%;background-image:url(/cf-logo-h-rev.svg);background-size:contain;background-repeat:no-repeat;background-position:center;">
+              </a>
+        </div>
+      </div>
+      -->
+    </div>
+  </div>
+</div>
+<p>&nbsp;</p>
 <div class="navbar-inverse row" style="
     color: white;
 ">
@@ -1112,11 +1221,12 @@ CONTENT_FOOTER = {
         <h3>About</h3>
         PyCon Thailand คือ งานสัมนาเกี่ยวกับภาษาที่ใช้เขียนโปรแกรม (Python programming language)เป็นสังคมที่ขับเคลื่อนโดยสมาชิกของกลุ่ม
         Python ในกรุงเทพมหานคร
+        <!-- PyCon Thailand คือ งานสัมนาเกี่ยวกับภาษา Python เป็นงานที่ถูกขับเคลื่อนโดยกลุ่มของนักพัฒนาภาษา Python ในกรุงเทพ -->
         <br>
         Co-Organised with <br>
         <a href="https://thaiprogrammer.org/"><img src="/tpalogo.png" alt="Thai Programming Association"></a>
     </div>
-    <div class="col-md-3">
+    <div class="col-md-4">
         <h3>เวลาและสถานที่่</h3>
         <h4>เวลา:</h4>
         16-17 มิถุนายน 2561
