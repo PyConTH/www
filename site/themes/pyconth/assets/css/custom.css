@@ -1,0 +1,8 @@
+.navbar-inverse {
+    background-color: #b5a0ac;
+    border-color: #511c39;
+}
+
+body.index header {
+    display: none;
+}

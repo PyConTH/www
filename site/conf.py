@@ -1114,7 +1114,10 @@ CONTENT_FOOTER = {
     color: white;
 ">
   <div class="container">
-    <div class="col-md-4">
+    <div class="col-md-2">
+        <img src="/logo.svg" class="img-responsive" alt="PyCon Thailand" />
+    </div>
+    <div class="col-md-3">
         <h3>About</h3>
         PyCon Thailand is a conference about the programming language Python.
         It is a community effort driven by the members of the Python Community in Bangkok.
@@ -1134,7 +1137,7 @@ CONTENT_FOOTER = {
         Bangkok <br>
         10600
     </div>
-    <div class="col-md-4">
+    <div class="col-md-3">
         <h3>Get Social</h3>
         <a href="https://twitter.com/pyconthailand"><i class="fa fa-twitter fa-fw"></i> Twitter</a><br>
         <a href="https://www.facebook.com/pyconthailand/"><i class="fa fa-facebook fa-fw"></i> Facebook</a><br>
@@ -1198,8 +1201,11 @@ CONTENT_FOOTER = {
 <div class="navbar-inverse row" style="
     color: white;
 ">
-  <div class="container">
     <div class="col-md-4">
+    <div class="col-md-2">
+        <img src="/logo.svg" class="img-responsive" alt="PyCon Thailand" />
+    </div>
+    <div class="col-md-3">
         <h3>About</h3>
         PyCon Thailand คือ งานสัมนาเกี่ยวกับภาษา Python เป็นงานที่ถูกขับเคลื่อนโดยกลุ่มของนักพัฒนาภาษา Python ในกรุงเทพ
         <br>
@@ -1218,7 +1224,7 @@ CONTENT_FOOTER = {
         กรุงเทพมหานคร<br>
         10600
     </div>
-    <div class="col-md-4">
+    <div class="col-md-3">
         <h3>ติดต่อเรา</h3>
         <a href="https://twitter.com/pyconthailand"><i class="fa fa-twitter fa-fw"></i> Twitter</a><br>
         <a href="https://www.facebook.com/pyconthailand/"><i class="fa fa-facebook fa-fw"></i> Facebook</a><br>
