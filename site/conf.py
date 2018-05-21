@@ -1109,23 +1109,15 @@ CONTENT_FOOTER = {
     </div>
   </div>
 </div>
-<<<<<<< HEAD
 <p>&nbsp;</p>
-=======
-<p></p>
->>>>>>> 7ea50b13d999257ff4270d589b65075f04d76c01
 <div class="navbar-inverse row" style="
     color: white;
 ">
   <div class="container">
-<<<<<<< HEAD
     <div class="col-md-2">
         <img src="/logo.svg" class="img-responsive" alt="PyCon Thailand" />
     </div>
     <div class="col-md-3">
-=======
-    <div class="col-md-4">
->>>>>>> 7ea50b13d999257ff4270d589b65075f04d76c01
         <h3>About</h3>
         PyCon Thailand is a conference about the programming language Python.
         It is a community effort driven by the members of the Python Community in Bangkok.
@@ -1145,11 +1137,7 @@ CONTENT_FOOTER = {
         Bangkok <br>
         10600
     </div>
-<<<<<<< HEAD
     <div class="col-md-3">
-=======
-    <div class="col-md-4">
->>>>>>> 7ea50b13d999257ff4270d589b65075f04d76c01
         <h3>Get Social</h3>
         <a href="https://twitter.com/pyconthailand"><i class="fa fa-twitter fa-fw"></i> Twitter</a><br>
         <a href="https://www.facebook.com/pyconthailand/"><i class="fa fa-facebook fa-fw"></i> Facebook</a><br>
