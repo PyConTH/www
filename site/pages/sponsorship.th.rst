@@ -34,6 +34,20 @@
             </div>
           </div>
 
+          <div class="col col-sm-4">
+            <div style="background-color:#FFFFFF;border:4px solid #DFDFDF;width:280px;height:120px;display:flex;justify-content:center;align-items:center;margin-left:auto;margin-right:auto;padding:10px;">
+              <a href="https://newlogic.io/" alt="Newlogic" style="width:100%;height:100%;background-image:url(/newlogic-logo.png);background-size:contain;background-repeat:no-repeat;background-position:center;">
+                  </a>
+            </div>
+          </div>
+        </div>
+
+    <div class="row">
+    &nbsp;
+    </div>
+
+
+        <div class="row">
           <!-- 
           <div class="col col-sm-4">
             <div style="background-color:#FFFFFF;border:4px solid #DFDFDF;width:280px;height:120px;display:flex;justify-content:center;align-items:center;margin-left:auto;margin-right:auto;padding:10px;">
@@ -43,6 +57,7 @@
           </div>
           -->
         </div>
+
 
 ----
 
@@ -104,6 +119,32 @@ Individual Sponsors
         </div>
       </div>
     </div>
+
+    <div class="row">
+    &nbsp;
+    </div>
+
+    <div class="row">
+      <div class="col col-sm-4">
+        <div style="background-color:#FFFFFF;border:4px solid #DFDFDF;width:224px;height:96px;display:flex;justify-content:center;align-items:center;margin-left:auto;margin-right:auto;padding:10px;">
+          <a href="https://intelligent-bytes.com/" alt="Intelligent Bytes" style="width:100%;height:100%;background-image:url(/intelligent-bytes-logo.png);background-size:contain;background-repeat:no-repeat;background-position:center;">
+              </a>
+        </div>
+      </div>
+      <div class="col col-sm-4">
+        <div style="background-color:#FFFFFF;border:4px solid #DFDFDF;width:224px;height:96px;display:flex;justify-content:center;align-items:center;margin-left:auto;margin-right:auto;padding:10px;">
+          <a href="https://www.digitalbase.co.th/" alt="Digital Base" style="width:100%;height:100%;background-image:url(/digitalbase.png);background-size:contain;background-repeat:no-repeat;background-position:center;">
+              </a>
+        </div>
+      </div>
+      <div class="col col-sm-4">
+        <div style="background-color:#FFFFFF;border:4px solid #DFDFDF;width:224px;height:96px;display:flex;justify-content:center;align-items:center;margin-left:auto;margin-right:auto;padding:10px;">
+          <a href="http://marketingcan.com/" alt="Marketing Can" style="width:100%;height:100%;background-image:url(/marketingcan.gif);background-size:contain;background-repeat:no-repeat;background-position:center;">
+              </a>
+        </div>
+      </div>
+    </div>
+
 
 
 ----
