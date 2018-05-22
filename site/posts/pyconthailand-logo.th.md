@@ -8,7 +8,7 @@ type: micro
 
 <div class="container" ><div class="row" markdown="1">
 
-  <img class="img-responsive col-md-3 col-md-offset-2" src="/logo.png" alt="Python Thailand Logo"></a>
+  <img class="img-responsive col-md-3 col-md-offset-2" src="/pycon-logo.svg" alt="Python Thailand Logo"></a>
 
 </div></div>
 

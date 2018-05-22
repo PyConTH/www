@@ -19,7 +19,7 @@
     <div class="col-md-1"> </div>
 
     <div class="col-md-3">
-       <img src="/logo.svg" alt="Pycon Thailand Logo">
+       <img src="/pycon-logo.svg" alt="Pycon Thailand Logo">
     </div>
     <div class="col-md-1"> </div>
     <div class="col-md-7">
