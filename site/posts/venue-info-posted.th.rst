@@ -1,4 +1,4 @@
-.. title: Venue info posted
+.. title: ข้อมูลเกี่ยวกับสถานที่และการเดินทาง
 .. slug: venue-info-posted
 .. date: 2018-05-14 20:41:09 UTC+07:00
 .. tags: 
@@ -7,21 +7,14 @@
 .. description: 
 .. type: text
 
-.. TODO: translate
+เราได้รวบรวมข้อมูลเกี่ยวกับที่พักและการเดินทางรวมถึงวิธีเดินทางจากสนามบินไปยังสถานที่จัดงาน (`venue <venue>`_, สถานที่รับซิมการ์ด (ที่สนามบิน) และการเดินทางไปยังที่พัก  โดยสถานที่ดังกล่าวทั้งหมดอยู่ในรายการของ `Google Placemarks`_
 
-We've gathered some info about `accommodation and transportation`_,
-including how to get to the venue from the airport, where to get a SIM card (at the airport!),
-and where to stay. All the mentioned places are in a list of `Google placemarks`_. 
-
-.. _accommodation and transportation: /en/venue
 .. _Google placemarks: https://www.google.com/maps/placelists/list/10AVZ09RRblPyf72xyLPatQghauY?hl=en
 
-There are plenty of options, from 350 baht (just over US$10) to one luxury hotel at around 7000 baht (more than US$200).
-At least 10 hostels are within 10 minutes walking from the venue, with both dorms and private rooms.
+มีทางเลือกมากมายจาก 350 บาท (ไม่เกิน 10 เหรียญสหรัฐ) ไปจนถึงโรงแรมหรูที่มีราคาประมาณ 7000 บาท (มากกว่า 200 เหรียญสหรัฐ) มีโฮสเทลอย่างน้อย 10 แห่ง ในระยะเดินได้ 10 นาทีไปยังสถานที่จัดงาน มีทั้งแบบหอพักและห้องส่วนตัว
 
-The venue is directly on the BTS (Skytrain) line, so it's also possible to stay closer to the city center.
-We have some placemarks for Siam and Sathorn as well. 
+สถานที่จัดงานตั้งอยู่แนวรถไฟฟ้าบีทีเอสดังนั้นจึงยังสามารถเลือกพักเข้าใกล้ใจกลางเมืองได้อีกด้วย เรามี Placemarks สำหรับโซนสยามและสาทรด้วยเช่นกัน
 
-There are also plans for some exciting social events that we'll announce as soon as everything is finalised.
+นอกจากนี้ยังมีแผนสำหรับกิจกรรมที่น่าสนใจบางอย่างที่เราจะประกาศทันทีเมื่อทุกอย่างได้ข้อสรุปแล้ว
 
-Looking forward to see everyone!
+พวกเราตั้งหน้าตั้งตารอที่จะพบกับทุกท่าน!
