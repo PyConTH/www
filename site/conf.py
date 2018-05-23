@@ -143,7 +143,7 @@ NAVIGATION_LINKS = {
                ("/submit-talk/", "ส่งข้อเสนอการพูดคุยของคุณ (ปิดรับแล้ว)"),
 
 #               ("/speakers/", "Speakers"),
-#              ("/schedule/", "Talk Schedule"),
+              ("/schedule/", "Talk Schedule"),
 #              ("/keynotes/", "Keynotes"),
 #              ("/about/", "About"),
 #              ("/staff/", "Staff"),
@@ -175,7 +175,7 @@ NAVIGATION_LINKS = {
 	       ("/en/presentation-advice/", "Presentation Advice"),
                ("/en/submit-talk/", "Submit Talk Proposal (closed)"),
 #               ("/speakers/", "Speakers"),
-#              ("/schedule/", "Talk Schedule"),
+              ("/schedule/", "Talk Schedule"),
 #              ("/keynotes/", "Keynotes"),
 #              ("/about/", "About"),
 #              ("/staff/", "Staff"),
