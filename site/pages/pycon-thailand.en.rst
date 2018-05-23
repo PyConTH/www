@@ -12,12 +12,17 @@
 .. raw:: html
 
    <div class="jumbotron jumbotron-fluid container-fluid"
-         style="background: url(/tut-tuk-456876_1280.jpg);
+         style="//background: url(/tut-tuk-456876_1280.jpg);
     background-position-y: -160px;
     background-position-x: -142px;">
 
-    <div class="col-md-6"> </div>
-    <div class="col-md-6">
+    <div class="col-md-1"> </div>
+
+    <div class="col-md-3">
+       <img src="/pycon-logo.svg" alt="Pycon Thailand Logo">
+    </div>
+    <div class="col-md-1"> </div>
+    <div class="col-md-7">
     <div class="admonition admonition-pycon-thailand-2018 text-center"
     style="    background-color: rgba(255,255,255,0.55);">
         <h1 class="admonition-title"><a href="/">PyCon Thailand 2018</a></h1>
@@ -36,7 +41,7 @@
         </ul>
     </div>
     </div>
-    <div class="col-md-2"> </div>
+    <div class="col-md-1"> </div>
    </div>
 
 
@@ -56,7 +61,7 @@ Tickets
 
   .. class:: col-md-8
 
-     Early bird tickets now on sale!
+     Early bird tickets have now sold out! Buy your Individual/Regular tickets before they also sell out!
 
   .. container:: col-md-6
 
@@ -110,18 +115,6 @@ Sponsors
 ========
 
 .. container:: jumbotron clearfix
-
-  .. container:: col-md-6
-
-     .. raw:: html
-
-             <h2>Gold Sponsors</h2>
-
-     .. class:: img-responsive col-md-4
-
-        .. image:: /proteus-logo.svg
-             :alt: Proteus Technologies logo
-             :width: 250px
 
   .. container:: col-md-6
      Visit the sponsorship page to download the prospectus and register your interest:
