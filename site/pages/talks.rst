@@ -14,6 +14,11 @@ All talks and speakers
 Here are details of all the talks and speakers.
 
 
+
+.. class:: clearfix
+
+
+
 Attack of Pythons : Gotchas and Landmines in Python
 ===================================================
 
@@ -2991,6 +2996,4 @@ Bio
 ---
 
 I'm a Python developer from Switzerland, living in Japan. I got started with Python developing modifications for the video game Counter-Strike before getting my first job building websites using Django. There I got involved with the popular open source Content Management System django CMS. Nowadays I work primarily with the Tornado framework and various asyncio libraries.
-
--------
 

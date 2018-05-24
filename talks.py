@@ -95,5 +95,3 @@ for talk in accepted_talks:
 
     print(talk_page.format(**talk))
 
-
-
