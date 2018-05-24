@@ -1,0 +1,149 @@
+<meta property="og:url" content="https://th.pycon.org/en/talks/">
+<meta property="og:description" content='Attack of Pythons : Gotchas and Landmines in Python
+--
+<div class="clearfix section" id="attack-of-pythons-gotchas-and-landmines-in-python">
+<h2>Attack of Pythons : Gotchas and Landmines in Python</h2>
+--
+<div class="clearfix section" id="unimaginable-things-in-python">
+<h2>Unimaginable Things in Python</h2>
+--
+<div class="clearfix section" id="how-many-coin-in-your-piggy-bank-with-micro-python-3d-printer">
+<h2>How many coin in your piggy bank with micro-python &amp; 3D-Printer</h2>
+--
+<div class="clearfix section" id="image-classification-using-deep-learning-in-python">
+<h2>Image Classification using Deep Learning in Python</h2>
+--
+<div class="clearfix section" id="deep-learning-in-the-household">
+<h2>Deep Learning in the Household</h2>
+--
+<div class="clearfix section" id="enabling-blockchain-energy-trading-among-smart-buildings-through-the-use-of-multi-agent-systems-and-internet-of-things-devices">
+<h2>Enabling Blockchain Energy Trading among Smart Buildings through the Use of Multi-Agent Systems and Internet of Things Devices</h2>
+--
+<div class="clearfix section" id="alternative-way-for-build-async-server">
+<h2>Alternative way for build async server</h2>
+--
+<div class="clearfix section" id="continuous-code-quality-with-sonarqube">
+<h2>Continuous code quality with sonarqube</h2>
+--
+<div class="clearfix section" id="concurrent-python">
+<h2>Concurrent python</h2>
+--
+<div class="clearfix section" id="api">
+<h2>API ไม่เสร็จ แต่หน้าบ้านต้องเสร็จนะครับ</h2>
+--
+<div class="clearfix section" id="photographic-identification-of-sea-turtle-using-python-and-opencv">
+<h2>Photographic Identification of Sea Turtle using Python and OpenCV</h2>
+--
+<div class="clearfix section" id="writing-a-good-frontend-test-cases-using-robotframework">
+<h2>Writing a good frontend test cases using RobotFramework</h2>
+--
+<div class="clearfix section" id="diy-python-with-partially-charged-batteries">
+<h2>DIY: Python with partially charged batteries</h2>
+--
+<div class="clearfix section" id="a-journey-from-monolith-into-microservices-architecture">
+<h2>A journey from Monolith into Microservices architecture</h2>
+--
+<div class="clearfix section" id="how-to-make-a-better-environment-using-python">
+<h2>How to make a better environment using Python</h2>
+--
+<div class="clearfix section" id="django-backend-from-zero-to-deployment">
+<h2>Django Backend from zero to deployment</h2>
+--
+<div class="clearfix section" id="powerful-geographic-web-framework-geodjango">
+<h2>Powerful geographic web framework GeoDjango</h2>
+--
+<div class="clearfix section" id="python-as-first-programming-language-by-student-for-student">
+<h2>Python as First Programming Language - By Student For Student</h2>
+--
+<div class="clearfix section" id="ai-in-security-finance-and-ecommerce">
+<h2>AI in Security, Finance, and eCommerce</h2>
+--
+<div class="clearfix section" id="logo-detection-using-pytorch">
+<h2>Logo Detection Using PyTorch</h2>
+--
+<div class="clearfix section" id="flask-kaidee">
+<h2>Flask ณ Kaidee</h2>
+--
+<div class="clearfix section" id="python-xpath-extra-parsing-power">
+<h2>Python + XPath = Extra Parsing Power</h2>
+--
+<div class="clearfix section" id="introduce-syntax-and-history-of-python-from-2-4-to-3-6">
+<h2>Introduce syntax and history of Python from 2.4 to 3.6</h2>
+--
+<div class="clearfix section" id="a-js-developer-tries-python-escapes-from-jupyter-to-build-a-product">
+<h2>A JS developer tries python, escapes from Jupyter to build a product</h2>
+--
+<div class="clearfix section" id="the-power-of-jupyter-notebooks">
+<h2>The power of Jupyter notebooks</h2>
+--
+<div class="clearfix section" id="python-for-life-sciences">
+<h2>Python for Life Sciences</h2>
+--
+<div class="clearfix section" id="python-software-development-for-hollywood-blockbuster-movie-vfx-in-thailand">
+<h2>Python Software Development for Hollywood Blockbuster Movie VFX in Thailand</h2>
+--
+<div class="clearfix section" id="coderdojo-a-free-programming-club-for-kids">
+<h2>CoderDojo - a free programming club for kids</h2>
+--
+<div class="clearfix section" id="rage-against-the-learning-machine-a-new-hope">
+<h2>Rage Against The Learning Machine (A New Hope)</h2>
+--
+<div class="clearfix section" id="template-matching-in-numpy">
+<h2>Template-matching in NumPy.</h2>
+--
+<div class="clearfix section" id="introduction-to-serverless-python-with-aws-lambda">
+<h2>Introduction to serverless Python with AWS Lambda</h2>
+--
+<div class="clearfix section" id="hy-running-a-webapp-with-lisp-on-python">
+<h2>Hy: Running a webapp with LISP on Python</h2>
+--
+<div class="clearfix section" id="using-python-to-build-a-smart-contract-in-neo-blockchain">
+<h2>Using Python to build a smart contract in NEO blockchain</h2>
+--
+<div class="clearfix section" id="why-i-fell-in-love-with-tavern-and-why-i-m-staying">
+<h2>Why I Fell in Love with Tavern (and why I'm staying)</h2>
+--
+<div class="clearfix section" id="a-beginner-s-guide-to-deep-natural-language-processing-with-pytorch">
+<h2>A Beginner's Guide to Deep Natural Language Processing with PyTorch</h2>
+--
+<div class="clearfix section" id="teaching-and-learning-with-python">
+<h2>Teaching and Learning with Python</h2>
+--
+<div class="clearfix section" id="learning-python-via-on-line-resources">
+<h2>Learning Python via on-line resources</h2>
+--
+<div class="clearfix section" id="talk-to-your-python-app-using-line">
+<h2>Talk to your Python app - using LINE!</h2>
+--
+<div class="clearfix section" id="aaaarrgghh-spider-web-scraping-with-scrapy">
+<h2>Aaaarrgghh, Spider! Web scraping with Scrapy</h2>
+--
+<div class="clearfix section" id="monitoring-your-python-application">
+<h2>Monitoring your Python Application</h2>
+--
+<div class="clearfix section" id="object-detection-and-human-recognition-with-yolo-in-python">
+<h2>Object detection and Human recognition with YOLO in Python</h2>
+--
+<div class="clearfix section" id="pythainlp-thai-natural-language-processing-in-python">
+<h2>PyThaiNLP : Thai natural language processing in Python.</h2>
+--
+<div class="clearfix section" id="python-for-self-trackers-how-to-visualize-and-better-understand-your-life-in-data">
+<h2>Python for Self-Trackers: How to Visualize and Better Understand Your Life in Data</h2>
+--
+<div class="clearfix section" id="python-developing-robot-with-python">
+<h2>การพัฒนาหุ่นยนต์ด้วยภาษา Python Developing robot with python</h2>
+--
+<div class="clearfix section" id="playing-with-social-network-geo-spatial-financial-flow-and-banking-system-data-graph-theoretic-computation-in-python">
+<h2>Playing with Social Network, Geo-Spatial, Financial Flow, and Banking System Data: Graph-Theoretic Computation in Python</h2>
+--
+<div class="clearfix section" id="creating-amazing-apis-in-flask-with-flask-restplus">
+<h2>Creating amazing APIs in Flask with Flask RESTplus</h2>
+--
+<div class="clearfix section" id="build-dynamically-scaled-highly-available-python-application-with-mysql">
+<h2>Build dynamically scaled highly available python application with MySQL</h2>
+--
+<div class="clearfix section" id="building-a-sustainable-codebases-with-type-annotations">
+<h2>Building a sustainable codebases with Type Annotations</h2>
+--
+<div class="clearfix section" id="artisanal-async-adventures">
+<h2>Artisanal Async Adventures</h2>
