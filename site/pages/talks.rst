@@ -2416,6 +2416,55 @@ I'm a man of mystery. Also you all know me, so what am I gonna write here that d
 
 
 
+Pythonic Functional Programming with Coconut
+============================================
+
+
+
+Format: Short Talk (30 minutes)
+
+Abstract
+--------
+
+Writing functional-style Python can be challenging ranging from minor nuisance such as verbose lambda syntax to more serious problems such as iterator chaining and pattern matching. Coconut is a functional superset of Python that aims to enable elegant and Pythonic functional-style code.
+
+Description
+-----------
+
+With functions being first-class citizens, Python allows us to build programmes with higher-order functions. However, it is often cumbersome to do something that would be bread-and-butter in a typical functional language. The lack of concise syntax for lambdas, currying and function compositions is a nuisance. The lack of boilerplate-less pattern matching and pattern matching could be a deal breaker. This talk presents Coconut, a functional superset of Python, which aims to enable writing elegant functional code, whilst staying with the familiar Python environment and libraries. We will identify various pain points of writing functional code in Python, and demonstrates how Coconut addresses the problems. In particular, we will start with a basic coding problem, and move on to designing a machine-learning pipeline with a functional approach.
+
+
+Lez Katzav (submitted by Mark on his behalf)
+============================================
+
+
+
+.. image:: https://secure.gravatar.com/avatar/c216452ffbacb459dcf9b614b6413321?s=500
+    :alt: Lez Katzav (submitted by Mark on his behalf)
+    :height: 200px
+    :align: right
+    :class: img-circle img-responsive 
+
+
+
+
+
+
+
+Bio
+---
+
+I am a data scientist in Agoda, an innovative accommodation website that places a huge emphasis in machine learning algorithms. I have been using Python on a daily basis since 2013 as a freelance data scientist and algorithmic trader. I am also a functional programming enthusiast, and my experience mainly comes from writing Scala code in Agoda and using Haskell for scripting. I enjoy writing functional-style code in Python, and have been actively trying to marry the two for years. My other passion include high-performance computing, Bayesian statistics and Vim.
+
+I have never spoken in a conference before. However, I have a number of public speaking experiences such as training in Agoda and giving undergraduate-level lectures in machine learning and economics. I have also been involved in a few pro-bono projects that required public speaking.
+
+-------
+
+
+.. class:: clearfix
+
+
+
 Monitoring your Python Application
 ==================================
 
