@@ -24,7 +24,9 @@ Attack of Pythons : Gotchas and Landmines in Python
 
 
 
-Format: Short Talk (30 minutes)
+.. admonition:: Format
+
+    Format: Short Talk (30 minutes)
 
 Abstract
 --------
@@ -43,7 +45,7 @@ Prerequisites:
 
 The only pre-requisite is that you must have some basic familiarity with Python programming language. Although it'll be good that you have laptops with Python already setup, it's not required as such !
 
-If you are really curious how this talk will go, you can watch a similar talk for Ruby and Javascript [here](https://www.destroyallsoftware.com/talks/wat)
+If you are really curious how this talk will go, you can watch a similar talk for Ruby and Javascript `here <https://www.destroyallsoftware.com/talks/wat>`_
 
 
 Manoj Pandey
@@ -86,7 +88,9 @@ Unimaginable Things in Python
 
 
 
-Format: Short Talk (30 minutes)
+.. admonition:: Format
+
+    Format: Short Talk (30 minutes)
 
 Abstract
 --------
@@ -97,6 +101,7 @@ Description
 -----------
 
 We will talk about obscure mistakes/bugs Python programmers may produce.
+
 - What actually happens and what could go wrong when we use comprehension-style syntax?
 - What is so scary about nested functions with duplicate variable names?
 - What is wrong with creating a sequence of lambdas from list comprehension syntax (e.g. `adders = [ lambda x: x + i for i in range(10) ]`)?
@@ -110,11 +115,11 @@ Watcharapol Watcharawisetkul
 
 
 
-.. image:: https://secure.gravatar.com/avatar/1884a695c33d7a80d29ddd6445d29da7?s=500
-    :alt: Watcharapol Watcharawisetkul
-    :height: 200px
-    :align: right
-    :class: img-circle img-responsive 
+.. .. image:: https://secure.gravatar.com/avatar/1884a695c33d7a80d29ddd6445d29da7?s=500
+..     :alt: Watcharapol Watcharawisetkul
+..     :height: 200px
+..     :align: right
+..     :class: img-circle img-responsive 
 
 
 
@@ -128,8 +133,8 @@ Watcharapol Watcharawisetkul
 
 
 
-Bio
----
+.. Bio
+.. ---
 
 
 
@@ -145,32 +150,50 @@ How many coin in your piggy bank with micro-python & 3D-Printer
 
 
 
-Format: Short Talk (30 minutes)
+.. admonition:: Format
+
+    Format: Short Talk (30 minutes)
 
 Abstract
 --------
 
-i need share my experience esp82266 with micro-python and 3D-Printer . Start with small problem. "How many coin in your piggy bank"
- I resolve problem and make a new Question  "how to real time update how many coin in your piggy bank". This project can apply to many project
+I need share my experience esp82266 with micro-python and 3D-Printer.
+Start with small problem.  "How many coin in your piggy bank"
+
+I resolve problem and make a new Question  "how to real time update how many coin in your piggy bank". This project can apply to many project.
 
 Description
 -----------
 
-![alt Coin Machine](http://deenaja.com/web/image/714/Screen%20Shot%202561-04-18%20at%2010.49.00.png "Coin Machine")
+.. TODO: hotlinking blocked?
+.. .. image:: http://deenaja.com/web/image/714/Screen%20Shot%202561-04-18%20at%2010.49.00.png
+..     :alt: Coin Machine
 
 Introduction
-========== 
- i need share my experience esp82266 with micro-python it easy. every one can do by self . So i am share code in github 
-[esp8266 micropython beginner](https://github.com/montri2025/esp8266-micropython-beginner), [Relay 3 line](https://github.com/montri2025/esp8266-relay-wemos) and i fixed small bug i found on marlin 3D-Printer  firmware  and make video help every-one under stand 3D-Printer Technology. and I have youtube channel for share how to, review, teach [3D-Printer, drone, micro controller, Etc](https://www.youtube.com/user/deenajacom)
+```````````` 
+
+I need share my experience esp82266 with micro-python it easy.
+Every one c do by self.
+So I am share code in github `esp8266 micropython beginner <https://github.com/montri2025/esp8266-micropython-beginner>`_,
+`Relay 3 line <https://github.com/montri2025/esp8266-relay-wemos>`_
+and I fixed small bug I found on Marlin 3D-Printer firmware and make video help every-one under stand 3D-Printer Technology.
+~and I have youtube channel for share how to, review, teach 
+`3D-Printer, drone, micro controller, Etc <https://www.youtube.com/user/deenajacom>`_
 
 Who am I
-========
- My name is montri  Sroymukda  i am working for kaidee. So why i select this topic to share. because it is easy every-one can do in your home. kids enjoy pushing coins in a machine which then updates in real time to let you know how much you have put in. This project can apply to many many project such as topUp machine , vending machine , Etc. 
+````````
+My name is Montri Sroymukda. I am working for Kaidee.
+So why I select this topic to share.
+because it is easy every-one can do in your home.
+Kids enjoy pushing coins in a machine which then updates in real time to let you know how much you have put in.
+This project can apply to many many project such as topUp machine , vending machine , Etc. 
 
-![alt  adapt to  many projects](https://raw.githubusercontent.com/montri2025/esp8266-coin-acceptor/master/images/Screen%20Shot%202561-04-19%20at%2012.19.44.png "adapt to  many projects")
+.. image:: https://raw.githubusercontent.com/montri2025/esp8266-coin-acceptor/master/images/Screen%20Shot%202561-04-19%20at%2012.19.44.png
+    :alt:  adapt to  many projects
 
 Topic
-====
+`````
+
 - Hardware Overview
 - Software Overview
 - Software Prerequisites
@@ -183,8 +206,6 @@ Topic
 
 Montri Sroymukda
 ================
-
-
 
 .. image:: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/25822/Unnamed.jpg
     :alt: Montri Sroymukda
@@ -201,13 +222,22 @@ Montri Sroymukda
     `Montri@Montri3d <https://twitter.com/Montri@Montri3d>`_
 
 
-
-
-
 Bio
 ---
 
-i am a maker. i love IOT , 3D-Printer and Micro-python technology make my life happy.  i need share my experience esp82266 with micro-python it easy. every one can do by self . So i am share code in github [esp8266 micropython beginner](https://github.com/montri2025/esp8266-micropython-beginner), [Relay 3 line](https://github.com/montri2025/esp8266-relay-wemos) and i help fixed small bug   on [marlin 3D-Printer  firmware](https://github.com/MarlinFirmware/Marlin) and [share firmware  micromake-C1 3D-Printer](https://github.com/montri2025/marlin1.6-micromake-C1) just have one fork   and make video help every-one under stand 3D-Printer Technology. and I have youtube channel for share how to, review, teach [3D-Printer, drone, micro controller, Etc](https://www.youtube.com/user/deenajacom)
+I am a maker. I love IOT, 3D-Printer and Micro-python technology
+make my life happy.
+I need share my experience esp82266 with micro-python it easy.
+Every one can do by self. 
+So I am share code in github `esp8266 micropython beginner
+<https://github.com/montri2025/esp8266-micropython-beginner>`_,
+`Relay 3 line <https://github.com/montri2025/esp8266-relay-wemos>`_
+and I help fixed small bug on 
+`marlin 3D-Printer firmware <https://github.com/MarlinFirmware/Marlin>`_ and 
+`share firmware micromake-C1 3D-Printer <https://github.com/montri2025/marlin1.6-micromake-C1>`_ just have
+one fork and make video help every-one understand 3D-Printer Technology.
+And I have youtube channel for share how to, review, teach 
+`3D-Printer, drone, micro controller, Etc <https://www.youtube.com/user/deenajacom>`_
 
 -------
 
@@ -221,32 +251,34 @@ Image Classification using Deep Learning in Python
 
 
 
-Format: Long Talk (45 minutes)
+.. admonition:: Format
+
+    Format: Long Talk (45 minutes)
 
 Abstract
 --------
 
 I will be talking about the Capsule Networks which is  the latest buzz word in whole deep learning community. The talk will connect the dots from the past methods till Capsule networks and show how to make them work in python.
 
-Description
------------
-
-I am going to present my talk on the topic of  -Image Classification using Deep Learning in Python. The talk will be quite comprehensive and well suited to audience of all levels. I have structured my talk as follow :
-
-(0-10 mins) - 1. Introduction to the problem statement and it's importance in the Computer Vision world
-                       2. A brief history of Computer Vision and how deep learning came into the picture   
-
-(10-20 mins) - 1. Explaining what we mean by deep learning , basic mathematics behind it and various kinds of neural network.
-                          2. A brief intro to basic Convolutional Neural Network
-                          3. Progress of  ImageNet challenge accuracy and important CNN architectures being used currently
-
-(20-30 mins )-  1.  Analysing CNN  further and explaining the disadvantages of CNN 
-                           2. Introducing the latest research in the field -Capsule Networks and how it can corrects CNN
-
-(30-40 mins ) - 1. Showing the working of Image Classification with neural networks of various CNN  architectures(inception , resnet ,VGG ) 
-                           2. Showing the working of Image Classification with Capsule Networks
-
-(40-45 mins ) - Interactive Q&A session with listeners
+.. Description
+.. -----------
+.. 
+.. I am going to present my talk on the topic of  -Image Classification using Deep Learning in Python. The talk will be quite comprehensive and well suited to audience of all levels. I have structured my talk as follow :
+.. 
+.. (0-10 mins) - 1. Introduction to the problem statement and it's importance in the Computer Vision world
+..                        2. A brief history of Computer Vision and how deep learning came into the picture   
+.. 
+.. (10-20 mins) - 1. Explaining what we mean by deep learning , basic mathematics behind it and various kinds of neural network.
+..                           2. A brief intro to basic Convolutional Neural Network
+..                           3. Progress of  ImageNet challenge accuracy and important CNN architectures being used currently
+.. 
+.. (20-30 mins )-  1.  Analysing CNN  further and explaining the disadvantages of CNN 
+..                            2. Introducing the latest research in the field -Capsule Networks and how it can corrects CNN
+.. 
+.. (30-40 mins ) - 1. Showing the working of Image Classification with neural networks of various CNN  architectures(inception , resnet ,VGG ) 
+..                            2. Showing the working of Image Classification with Capsule Networks
+.. 
+.. (40-45 mins ) - Interactive Q&A session with listeners
  
  
 
@@ -254,16 +286,16 @@ I am going to present my talk on the topic of  -Image Classification using Deep 
                       
 
 
-sandeep saurabh
+Sandeep Saurabh
 ===============
 
 
 
-.. image:: https://secure.gravatar.com/avatar/d26223239235533c25db88b870a1496f?s=500
-    :alt: sandeep saurabh
-    :height: 200px
-    :align: right
-    :class: img-circle img-responsive 
+.. .. image:: https://secure.gravatar.com/avatar/d26223239235533c25db88b870a1496f?s=500
+..     :alt: sandeep saurabh
+..     :height: 200px
+..     :align: right
+..     :class: img-circle img-responsive 
 
 
 
@@ -295,7 +327,9 @@ Deep Learning in the Household
 
 
 
-Format: Short Talk (30 minutes)
+.. admonition:: Format
+
+    Format: Short Talk (30 minutes)
 
 Abstract
 --------
@@ -305,10 +339,14 @@ Abstract
 Description
 -----------
 
-<p>A couple years ago, Machine Learning was thought of as the subject requiring intensive computing power and comprehensive understanding of mathematics. Thus, public assumed that it was the job exclusively for giant tech companies with super-genius researchers. </p>
-<p>Today, the community has achieved substantial advancements and they are open enough to share their achievements and computing resources to the public at no expenses. Frameworks like TenserFlow, Keras make building a Deep Learning model require only a Python code snippet. Furthermore, Transfer Learning helps developing models even easier by taking portions of pre-trained more generic models, many of which are open-sourced. This has potentials to accelerate the machine learning apps on mobile devices, one of the emerging trend in the field, where compactness and performance are preferred over accuracy. </p>
-<p>With rich on-line resources around, including online courses (many of which are free), blog posts, and computing resources available at no expenses, the talk covers the steps to apply those knowledge to build a small, yet useful app based on Deep Learning model - without Deep Pockets, a Ph.D., and mega infrastructure.</p>
-<p>The talk is intended for beginners with background in traditional software developments. Mathematical knowledge in differential calculus (derivatives - not in the context of Stock Futures) is useful but not required as it may be touched briefly. Audiences are not expected to walk away as subject matter experts after finishing the talk but the speaker hope to spark inspiration to learn more on the subject and eventually end up developing something for their own use.</p>
+A couple years ago, Machine Learning was thought of as the subject requiring intensive computing power and comprehensive understanding of mathematics. Thus, public assumed that it was the job exclusively for giant tech companies with super-genius researchers. 
+
+Today, the community has achieved substantial advancements and they are open enough to share their achievements and computing resources to the public at no expenses. Frameworks like TenserFlow, Keras make building a Deep Learning model require only a Python code snippet. Furthermore, Transfer Learning helps developing models even easier by taking portions of pre-trained more generic models, many of which are open-sourced. This has potentials to accelerate the machine learning apps on mobile devices, one of the emerging trend in the field, where compactness and performance are preferred over accuracy. 
+
+With rich on-line resources around, including online courses (many of which are free), blog posts, and computing resources available at no expenses, the talk covers the steps to apply those knowledge to build a small, yet useful app based on Deep Learning model - without Deep Pockets, a Ph.D., and mega infrastructure.
+
+The talk is intended for beginners with background in traditional software developments. Mathematical knowledge in differential calculus (derivatives - not in the context of Stock Futures) is useful but not required as it may be touched briefly. Audiences are not expected to walk away as subject matter experts after finishing the talk but the speaker hope to spark inspiration to learn more on the subject and eventually end up developing something for their own use.
+
 
 
 Surasak Watthanayontkit
@@ -316,11 +354,11 @@ Surasak Watthanayontkit
 
 
 
-.. image:: https://secure.gravatar.com/avatar/0dc7b5919c895182e2a1ae7f581818de?s=500
-    :alt: Surasak Watthanayontkit
-    :height: 200px
-    :align: right
-    :class: img-circle img-responsive 
+.. .. image:: https://secure.gravatar.com/avatar/0dc7b5919c895182e2a1ae7f581818de?s=500
+..     :alt: Surasak Watthanayontkit
+..     :height: 200px
+..     :align: right
+..     :class: img-circle img-responsive 
 
 
 
@@ -349,7 +387,9 @@ Enabling Blockchain Energy Trading among Smart Buildings through the Use of Mult
 
 
 
-Format: Long Talk (45 minutes)
+.. admonition:: Format
+
+    Format: Long Talk (45 minutes)
 
 Abstract
 --------
@@ -367,11 +407,11 @@ Dr. Warodom Khamphanchai
 
 
 
-.. image:: https://secure.gravatar.com/avatar/1808505ee2b446aed883319aff57fd56?s=500
-    :alt: Dr. Warodom Khamphanchai
-    :height: 200px
-    :align: right
-    :class: img-circle img-responsive 
+.. .. image:: https://secure.gravatar.com/avatar/1808505ee2b446aed883319aff57fd56?s=500
+..     :alt: Dr. Warodom Khamphanchai
+..     :height: 200px
+..     :align: right
+..     :class: img-circle img-responsive 
 
 
 
@@ -409,7 +449,9 @@ Alternative way for build async server
 
 
 
-Format: Short Talk (30 minutes)
+.. admonition:: Format
+
+    Format: Short Talk (30 minutes)
 
 Abstract
 --------
@@ -425,9 +467,11 @@ Why Sanic is fast we will look inside Sanic how they design it and why
 How Kaidee use Sanic.
 
 Keynote (WIP)
+
 - What is Sanic
 - Sanic routing architecture
 - Sanic design
+
 ถ้าคุณกำลัง หรืออยากสร้าง high load api server สักตัวหนึ่ง นี่เป็น session ที่คุณควรเข้ามาฟัง
 
 
@@ -476,7 +520,9 @@ Continuous code quality with sonarqube
 
 
 
-Format: Lightning Talk (5 minutes)
+.. admonition:: Format
+
+    Format: Lightning Talk (5 minutes)
 
 Abstract
 --------
@@ -490,11 +536,13 @@ Description
 -----------
 
 SonarQube
-=========
+`````````
+
 เป็นโปรแกรมที่ใช้ในการพัฒนาคุณภาพโปรแกรมได้โดยมีความสามารถดังนี้
- - ใช้ในการวัดคุณภาพ source code โดยสามารถตรวจสอบได้ทั้ง Bug, Vulnerability, Code Smell, Duplications, coverage
- - วิเคราะห์กราฟความสัมพันธ์ของคุณภาพจาก issue ที่ตรวจสอบพบ
- - วิเคราะห์ issues ที่ตรวจพบ และสามารถกำหนดงานให้กับคนในทีมได้อีกด้วย
+
+- ใช้ในการวัดคุณภาพ source code โดยสามารถตรวจสอบได้ทั้ง Bug, Vulnerability, Code Smell, Duplications, coverage
+- วิเคราะห์กราฟความสัมพันธ์ของคุณภาพจาก issue ที่ตรวจสอบพบ
+- วิเคราะห์ issues ที่ตรวจพบ และสามารถกำหนดงานให้กับคนในทีมได้อีกด้วย
 
 
 Adisak Srisuriyasavad
@@ -502,11 +550,11 @@ Adisak Srisuriyasavad
 
 
 
-.. image:: https://secure.gravatar.com/avatar/9d214bc86b48f068eedf7322943231fe?s=500
-    :alt: Adisak Srisuriyasavad
-    :height: 200px
-    :align: right
-    :class: img-circle img-responsive 
+.. .. image:: https://secure.gravatar.com/avatar/9d214bc86b48f068eedf7322943231fe?s=500
+..     :alt: Adisak Srisuriyasavad
+..     :height: 200px
+..     :align: right
+..     :class: img-circle img-responsive 
 
 
 
@@ -533,7 +581,9 @@ Concurrent python
 
 
 
-Format: Short Talk (30 minutes)
+.. admonition:: Format
+
+    Format: Short Talk (30 minutes)
 
 Abstract
 --------
@@ -544,6 +594,7 @@ Description
 -----------
 
 ทอร์คนี้จะพูดถึงหัวข้อต่อไปนี้
+
 - Concurrency หลายๆ แบบใน python
   * Thread
   * Process
@@ -559,11 +610,11 @@ Ukrid Kuldiloke
 
 
 
-.. image:: https://secure.gravatar.com/avatar/8cd05df1dcbf6174dda1eaaea6135b3c?s=500
-    :alt: Ukrid Kuldiloke
-    :height: 200px
-    :align: right
-    :class: img-circle img-responsive 
+.. .. image:: https://secure.gravatar.com/avatar/8cd05df1dcbf6174dda1eaaea6135b3c?s=500
+..     :alt: Ukrid Kuldiloke
+..     :height: 200px
+..     :align: right
+..     :class: img-circle img-responsive 
 
 
 
@@ -571,10 +622,8 @@ Ukrid Kuldiloke
 
 
 
-Bio
----
-
-
+.. Bio
+.. ---
 
 -------
 
@@ -588,15 +637,12 @@ API ไม่เสร็จ แต่หน้าบ้านต้องเส
 
 
 
-Format: Lightning Talk (5 minutes)
+.. admonition:: Format
+
+    Format: Lightning Talk (5 minutes)
 
 Abstract
 --------
-
-เอา python มาช่วยทำ api ปลอม ๆ ให้หน้าบ้านเรียก เพื่อเอาข้อมูลไปแสดงหน้าบ้านให้ได้ก่อน จะอ้างว่า api ไม่เสร็จหน้าบ้านไม่เสร็จไม่ได้
-
-Description
------------
 
 เอา python มาช่วยทำ api ปลอม ๆ ให้หน้าบ้านเรียก เพื่อเอาข้อมูลไปแสดงหน้าบ้านให้ได้ก่อน จะอ้างว่า api ไม่เสร็จหน้าบ้านไม่เสร็จไม่ได้
 
@@ -606,11 +652,11 @@ Wasith Theerapattrathamrong
 
 
 
-.. image:: https://secure.gravatar.com/avatar/a592cd8daa9e8701f4eae9f03c039429?s=500
-    :alt: Wasith Theerapattrathamrong
-    :height: 200px
-    :align: right
-    :class: img-circle img-responsive 
+.. .. image:: https://secure.gravatar.com/avatar/a592cd8daa9e8701f4eae9f03c039429?s=500
+..     :alt: Wasith Theerapattrathamrong
+..     :height: 200px
+..     :align: right
+..     :class: img-circle img-responsive 
 
 
 
@@ -641,7 +687,9 @@ Photographic Identification of Sea Turtle using Python and OpenCV
 
 
 
-Format: Lightning Talk (5 minutes)
+.. admonition:: Format
+
+    Format: Lightning Talk (5 minutes)
 
 Abstract
 --------
@@ -661,11 +709,11 @@ Natapon Pantuwong
 
 
 
-.. image:: https://secure.gravatar.com/avatar/f8e7753feb17bd412e0e6967c04e27e0?s=500
-    :alt: Natapon Pantuwong
-    :height: 200px
-    :align: right
-    :class: img-circle img-responsive 
+.. .. image:: https://secure.gravatar.com/avatar/f8e7753feb17bd412e0e6967c04e27e0?s=500
+..     :alt: Natapon Pantuwong
+..     :height: 200px
+..     :align: right
+..     :class: img-circle img-responsive 
 
 
 
@@ -696,7 +744,9 @@ Writing a good frontend test cases using RobotFramework
 
 
 
-Format: Short Talk (30 minutes)
+.. admonition:: Format
+
+    Format: Short Talk (30 minutes)
 
 Abstract
 --------
@@ -709,16 +759,16 @@ Description
 This talk is a short talk about how a simple Gherkin-styled Python based Robotframework could be used to write test cases. It covers the brief installation using python envwrapper - an environment isolation package and simply showing 2 python scripts which is usable with Robotframework and 1~2 Robotframework's keyword-based testing. It will also cover some important inbuilt functions in Robotframeworks such as sending out keystrokes to the System and using some other libraries to help and make front-end testing a much more awesome experience. Another part of the talk would be describing a single keyword base and some yaml scripts to make the test-cases more reusable.
 
 
-minkhantzaw38@gmail.com
-=======================
+Min Khant Zaw
+=============
 
 
 
-.. image:: https://secure.gravatar.com/avatar/f3aef2104aaec2f970cbe81e0a2c3a4f?s=500
-    :alt: minkhantzaw38@gmail.com
-    :height: 200px
-    :align: right
-    :class: img-circle img-responsive 
+.. .. image:: https://secure.gravatar.com/avatar/f3aef2104aaec2f970cbe81e0a2c3a4f?s=500
+..     :alt: minkhantzaw38@gmail.com
+..     :height: 200px
+..     :align: right
+..     :class: img-circle img-responsive 
 
 
 
@@ -749,7 +799,9 @@ DIY: Python with partially charged batteries
 
 
 
-Format: Long Talk (45 minutes)
+.. admonition:: Format
+
+    Format: Long Talk (45 minutes)
 
 Abstract
 --------
@@ -760,12 +812,14 @@ Description
 -----------
 
 In this talk, we discuss how some features in standard Python library can be manually re-implemented using a subset of Python itself. Examples include:
-- built-in `range` function
-- `namedtuple` class constructor
-- `property` decorator
-- `Enum` class (since Python 3.4)
-- `dataclass` (since Python 3.7)
+
+- built-in ``range`` function
+- ``namedtuple`` class constructor
+- ``property`` decorator
+- ``Enum`` class (since Python 3.4)
+- ``dataclass`` (since Python 3.7)
 - etc.
+
 Throughout the process of re-implementing these features, we should gain more in-depth understanding the mechanisms inside Python.
 
 
@@ -774,11 +828,11 @@ Watcharapol Watcharawisetkul
 
 
 
-.. image:: https://secure.gravatar.com/avatar/1884a695c33d7a80d29ddd6445d29da7?s=500
-    :alt: Watcharapol Watcharawisetkul
-    :height: 200px
-    :align: right
-    :class: img-circle img-responsive 
+.. .. image:: https://secure.gravatar.com/avatar/1884a695c33d7a80d29ddd6445d29da7?s=500
+..     :alt: Watcharapol Watcharawisetkul
+..     :height: 200px
+..     :align: right
+..     :class: img-circle img-responsive 
 
 
 
@@ -809,7 +863,9 @@ A journey from Monolith into Microservices architecture
 
 
 
-Format: Long Talk (45 minutes)
+.. admonition:: Format
+
+    Format: Long Talk (45 minutes)
 
 Abstract
 --------
@@ -862,7 +918,9 @@ How to make a better environment using Python
 
 
 
-Format: Lightning Talk (5 minutes)
+.. admonition:: Format
+
+    Format: Lightning Talk (5 minutes)
 
 Abstract
 --------
@@ -881,15 +939,12 @@ In this talk, I will talk about how we improved development environment using Py
 Target: 
 
 - Python beginner
-
 - Someone who wants to make something using Python
-
 - Developers who want to improve the development environment better : )
 
 A speaker talks about the following topics:
 
 - why python is a better tool when improving little problem
-
 - the use case of Python: How to improve the development environment
 
 
@@ -916,8 +971,8 @@ omega
 
 
 
-Bio
----
+.. Bio
+.. ---
 
 
 
@@ -933,18 +988,20 @@ Django Backend from zero to deployment
 
 
 
-Format: Long Talk (45 minutes)
+.. admonition:: Format
+
+    Format: Long Talk (45 minutes)
 
 Abstract
 --------
 
 Here are the topics
 
-1. `CRUD` for frontend guy (DjangoREST)
-2. Report Query for management level(Djang-ORM)
-3. Send the Push Notification for customers(FCM)
-4. Test With Runner (pytest)
-5. Deploy (Docker)
+#. `CRUD` for frontend guy (DjangoREST)
+#. Report Query for management level(Djang-ORM)
+#. Send the Push Notification for customers(FCM)
+#. Test With Runner (pytest)
+#. Deploy (Docker)
 
 This talk will not cover `Gitlab-runner`, AWS EC2, S3/CloudFront, route53
 
@@ -953,30 +1010,35 @@ Description
 
 Each small topics here I estimate about 5-8 minutes each
 
-## DjangoREST
-1. `JWT` and `headers`
-1. `CRUD`
-1. `Nested Serializer`  `Order/OrderItem`
-1. `IdentityHyperLinked`
-1. `Read/Write` fields
-1. `Search, Filter, Ordering`
-1. `Permission`
+DjangoREST
 
-## Django-ORM
-1. `related_name`   `Order/Invoice`
-1. `related_query_name`
+#. ``JWT`` and ``headers``
+#. ``CRUD``
+#. ``Nested Serializer``  ``Order/OrderItem``
+#. ``IdentityHyperLinked``
+#. ``Read/Write`` fields
+#. ``Search, Filter, Ordering``
+#. ``Permission``
 
-## FCM
-1. Show only setup of `django-push-notifications`
-1. Show `redis`
+Django-ORM
 
-## Pytest
-1. Show simple `POST` a value
+#. ``related_name``   ``Order/Invoice``
+#. ``related_query_name``
 
-## Docker
-1. Create `DockerFile`
-1. Build an images of `Nginx, Django, Postgres, redis`
-1. `docker-compose up`
+FCM
+
+#. Show only setup of ``django-push-notifications``
+#. Show ``redis``
+
+Pytest
+
+#. Show simple ``POST`` a value
+
+Docker
+
+#. Create ``DockerFile``
+#. Build an images of ``Nginx, Django, Postgres, redis``
+#. ``docker-compose up``
 
 
 
@@ -1014,7 +1076,9 @@ Powerful geographic web framework GeoDjango
 
 
 
-Format: Short Talk (30 minutes)
+.. admonition:: Format
+
+    Format: Short Talk (30 minutes)
 
 Abstract
 --------
@@ -1081,7 +1145,9 @@ Python as First Programming Language - By Student For Student
 
 
 
-Format: Lightning Talk (5 minutes)
+.. admonition:: Format
+
+    Format: Lightning Talk (5 minutes)
 
 Abstract
 --------
@@ -1138,7 +1204,9 @@ AI in Security, Finance, and eCommerce
 
 
 
-Format: Long Talk (45 minutes)
+.. admonition:: Format
+
+    Format: Long Talk (45 minutes)
 
 Abstract
 --------
@@ -1198,9 +1266,9 @@ One Smart Lab
     AI in video surveillance & biometrics for finance, ecommerce, and security
  
 Media
-    One Smart Lab on [Wall Street Journal] (https://www.facebook.com/OneSmartLab/photos/a.1927919570760201.1073741828.1927901097428715/2080374985514658/?type=3&theater)
- AT&T NYC hackathon [winner] (https://www.onesmartlab.com/wp-content/uploads/2018/04/att-hackagthon-nblurred.jpg)
- [Contributor to Yahoo SMB Advisors] (https://smallbusiness.yahoo.com/advisor/confessions-reformed-black-hat-ppc-marketer-cpc-arbitrage-190531966.html)
+    - One Smart Lab on `Wall Street Journal <https://www.facebook.com/OneSmartLab/photos/a.1927919570760201.1073741828.1927901097428715/2080374985514658/?type=3&theater>`_
+    - AT&T NYC hackathon `winner <https://www.onesmartlab.com/wp-content/uploads/2018/04/att-hackagthon-nblurred.jpg>`_
+    - `Contributor to Yahoo SMB Advisors <https://smallbusiness.yahoo.com/advisor/confessions-reformed-black-hat-ppc-marketer-cpc-arbitrage-190531966.html>`_
 
 
 -------
@@ -1215,7 +1283,9 @@ Logo Detection Using PyTorch
 
 
 
-Format: Short Talk (30 minutes)
+.. admonition:: Format
+
+    Format: Short Talk (30 minutes)
 
 Abstract
 --------
@@ -1230,8 +1300,8 @@ In this talk. We will walk through the one significant use of deep learning for 
 The logo detection can be done by object detection models.  We will use PyTorch, a popular deep learning framework in Python, to build the model to identify a brand by its logo in an image.  Along the talk, we'll see the relative value of deep learning architectures-Deep Neural Network (DNN) and Convolutional Neural Network (CNN) , learn the effect of data size, augment the data when we don't have much, and use the transfer learning technique to improve the model.
 
 
-nithirojt@yahoo.com
-===================
+Nithiroj Tripatarasit
+=====================
 
 
 
@@ -1245,9 +1315,9 @@ nithirojt@yahoo.com
 
 
 
-.. class:: fa fa-twitter fa-fw
-
-    `- <https://twitter.com/->`_
+.. .. class:: fa fa-twitter fa-fw
+.. 
+..     `- <https://twitter.com/->`_
 
 
 
@@ -1256,21 +1326,19 @@ nithirojt@yahoo.com
 Bio
 ---
 
-**Nithiroj Tripatarasit**
-
 *Lifelong learner, tech lover, and deep learning enthusiast.*
 
 **My works**
 
-- [iOS apps](https://itunes.apple.com/th/developer/nithiroj-tripatarasit/id704045425)
-- [Android apps](https://play.google.com/store/apps/developer?id=Neo+Edutainment)
+- `iOS apps <https://itunes.apple.com/th/developer/nithiroj-tripatarasit/id704045425>`_
+- `Android apps <https://play.google.com/store/apps/developer?id=Neo+Edutainment>`_
 
 **Experiences:**
 
-- [fast.ai International Fellowship Program (Mar 19 - Apr 30, 2018)](http://www.fast.ai/2018/01/17/international-spring-2018/)
-- [Deep Learning, a 5-course specialization by deeplearning.ai on Coursera. Specialization Certificate earned on March 9, 2018](https://www.coursera.org/account/accomplishments/specialization/X7TVC4FK8J82)
-- [Machine Learning](https://www.coursera.org/account/accomplishments/certificate/3DJQGJEUN2ZH)
-- [Deep Learning Workshops by Google Developer Experts](https://drive.google.com/file/d/197ONJWkT6qgf5CzEL1UJlxr9P9gW5Rbz/view?usp=sharing)
+- `fast.ai International Fellowship Program (Mar 19 - Apr 30, 2018) <http://www.fast.ai/2018/01/17/international-spring-2018/>`_
+- `Deep Learning, a 5-course specialization by deeplearning.ai on Coursera. Specialization Certificate earned on March 9, 2018 <https://www.coursera.org/account/accomplishments/specialization/X7TVC4FK8J82>`_
+- `Machine Learning <https://www.coursera.org/account/accomplishments/certificate/3DJQGJEUN2ZH>`_
+- `Deep Learning Workshops by Google Developer Experts <https://drive.google.com/file/d/197ONJWkT6qgf5CzEL1UJlxr9P9gW5Rbz/view?usp=sharing>`_
 
 -------
 
@@ -1284,7 +1352,9 @@ Flask ณ Kaidee
 
 
 
-Format: Short Talk (30 minutes)
+.. admonition:: Format
+
+    Format: Short Talk (30 minutes)
 
 Abstract
 --------
@@ -1354,7 +1424,9 @@ Python + XPath = Extra Parsing Power
 
 
 
-Format: Short Talk (30 minutes)
+.. admonition:: Format
+
+    Format: Short Talk (30 minutes)
 
 Abstract
 --------
@@ -1378,11 +1450,11 @@ Jonathan Reiter
 
 
 
-.. image:: https://secure.gravatar.com/avatar/8bb0aff4cf61d21ca9a535d58a727819?s=500
-    :alt: Jonathan Reiter
-    :height: 200px
-    :align: right
-    :class: img-circle img-responsive 
+.. .. image:: https://secure.gravatar.com/avatar/8bb0aff4cf61d21ca9a535d58a727819?s=500
+..     :alt: Jonathan Reiter
+..     :height: 200px
+..     :align: right
+..     :class: img-circle img-responsive 
 
 
 
@@ -1407,7 +1479,9 @@ Introduce syntax and history of Python from 2.4 to 3.6
 
 
 
-Format: Short Talk (30 minutes)
+.. admonition:: Format
+
+    Format: Short Talk (30 minutes)
 
 Abstract
 --------
@@ -1470,7 +1544,9 @@ A JS developer tries python, escapes from Jupyter to build a product
 
 
 
-Format: Short Talk (30 minutes)
+.. admonition:: Format
+
+    Format: Short Talk (30 minutes)
 
 Abstract
 --------
@@ -1529,7 +1605,9 @@ The power of Jupyter notebooks
 
 
 
-Format: Long Talk (45 minutes)
+.. admonition:: Format
+
+    Format: Long Talk (45 minutes)
 
 Abstract
 --------
@@ -1594,7 +1672,9 @@ Python for Life Sciences
 
 
 
-Format: Short Talk (30 minutes)
+.. admonition:: Format
+
+    Format: Short Talk (30 minutes)
 
 Abstract
 --------
@@ -1610,27 +1690,27 @@ Python has gained increasing popularity among bioinformatics researchers and pra
 
 The talk is divided into three parts. In the first part, I will briefly describe how biological molecules (e.g. DNA, Protein) are represented in computer programs. In the second part, I will present key Pythonic software tools in bioinformatics. Finally, in the third part, I will talk about two Biological data analysis tasks solved with Python, namely molecular sequence analysis and molecular structure analysis.
 
-A draft version of the talk outline is as follows.
-
-0-5 minutes:
-* Introduction to the talk, “Why Python for Life Science?”
-* Highlights of some key problems in life sciences 
-
-5-7 minutes: How to represent biological molecules in Python?
-* Representations of DNA, RNA, and Proteins
-
-7-8 minutes: Python software stack for Life Sciences.
-* BioPython, NumPy, SciPy, scikit-learn
-
-8-16 minutes: Molecular sequence analysis
-* What are key questions asked by the scientists?
-* How can we find the answers for them using Python
-
-16-25 minutes: Molecular structure analysis
-* What are key questions asked by the scientists?
-* How can we find the answers for them using Python
-
-25-30 minutes: Q&A
+.. A draft version of the talk outline is as follows.
+.. 
+.. 0-5 minutes:
+.. * Introduction to the talk, “Why Python for Life Science?”
+.. * Highlights of some key problems in life sciences 
+.. 
+.. 5-7 minutes: How to represent biological molecules in Python?
+.. * Representations of DNA, RNA, and Proteins
+.. 
+.. 7-8 minutes: Python software stack for Life Sciences.
+.. * BioPython, NumPy, SciPy, scikit-learn
+.. 
+.. 8-16 minutes: Molecular sequence analysis
+.. * What are key questions asked by the scientists?
+.. * How can we find the answers for them using Python
+.. 
+.. 16-25 minutes: Molecular structure analysis
+.. * What are key questions asked by the scientists?
+.. * How can we find the answers for them using Python
+.. 
+.. 25-30 minutes: Q&A
 
 
 
@@ -1668,7 +1748,9 @@ Python Software Development for Hollywood Blockbuster Movie VFX in Thailand
 
 
 
-Format: Long Talk (45 minutes)
+.. admonition:: Format
+
+    Format: Long Talk (45 minutes)
 
 Abstract
 --------
@@ -1690,11 +1772,11 @@ Xye
 
 
 
-.. image:: https://secure.gravatar.com/avatar/4b8201d1cafdcd936a9847e505b728a8?s=500
-    :alt: Xye
-    :height: 200px
-    :align: right
-    :class: img-circle img-responsive 
+.. .. image:: https://secure.gravatar.com/avatar/4b8201d1cafdcd936a9847e505b728a8?s=500
+..     :alt: Xye
+..     :height: 200px
+..     :align: right
+..     :class: img-circle img-responsive 
 
 
 
@@ -1719,7 +1801,9 @@ CoderDojo - a free programming club for kids
 
 
 
-Format: Short Talk (30 minutes)
+.. admonition:: Format
+
+    Format: Short Talk (30 minutes)
 
 Abstract
 --------
@@ -1761,6 +1845,7 @@ Bio
 Mishari has been using Linux since 1994, coordinator with the distributed computing effort to break RC5-56 in 1997, built Thailand's largest Renderfarm for the animation Khan Kluay where he also started using Python. 
 
 Currently his obsessions are:
+
 * Delivering Systems as a Service at Proteus Ops
 * Homeschooling his kids (and fixing education)
 * Organizing Bangkok Scientifique, a monthly meetup for people interested in science and technology
@@ -1781,7 +1866,9 @@ Rage Against The Learning Machine (A New Hope)
 
 
 
-Format: Short Talk (30 minutes)
+.. admonition:: Format
+
+    Format: Short Talk (30 minutes)
 
 Abstract
 --------
@@ -1799,11 +1886,11 @@ errazudin ishak
 
 
 
-.. image:: https://secure.gravatar.com/avatar/101132fd9b22a12e8eb7ce947cf50a87?s=500
-    :alt: errazudin ishak
-    :height: 200px
-    :align: right
-    :class: img-circle img-responsive 
+.. .. image:: https://secure.gravatar.com/avatar/101132fd9b22a12e8eb7ce947cf50a87?s=500
+..     :alt: errazudin ishak
+..     :height: 200px
+..     :align: right
+..     :class: img-circle img-responsive 
 
 
 
@@ -1834,7 +1921,9 @@ Template-matching in NumPy.
 
 
 
-Format: Lightning Talk (5 minutes)
+.. admonition:: Format
+
+    Format: Lightning Talk (5 minutes)
 
 Abstract
 --------
@@ -1887,7 +1976,9 @@ Introduction to serverless Python with AWS Lambda
 
 
 
-Format: Short Talk (30 minutes)
+.. admonition:: Format
+
+    Format: Short Talk (30 minutes)
 
 Abstract
 --------
@@ -1923,11 +2014,11 @@ Murat Knecht
 
 
 
-.. image:: https://secure.gravatar.com/avatar/d5989eac65f78404663ab51de144d930?s=500
-    :alt: Murat Knecht
-    :height: 200px
-    :align: right
-    :class: img-circle img-responsive 
+.. .. image:: https://secure.gravatar.com/avatar/d5989eac65f78404663ab51de144d930?s=500
+..     :alt: Murat Knecht
+..     :height: 200px
+..     :align: right
+..     :class: img-circle img-responsive 
 
 
 
@@ -1944,13 +2035,13 @@ Murat Knecht
 Bio
 ---
 
-*You are smart, motivated and have a unique perspective*—that's my premise as CTO of [engageSPARK](http://engagespark.com). Originally I'm from Berlin, and have worked there for a couple of years, but for the past three years I've served at engageSPARK in Cebu, Philippines, and enjoy almost every minute of it. CTO means being team lead, architect, coder and coach. I find challenge and joy in all these roles.
+*You are smart, motivated and have a unique perspective* — that's my premise as CTO of `engageSPARK <http://engagespark.com>`_. Originally I'm from Berlin, and have worked there for a couple of years, but for the past three years I've served at engageSPARK in Cebu, Philippines, and enjoy almost every minute of it. CTO means being team lead, architect, coder and coach. I find challenge and joy in all these roles.
 
 On the tech-side, I work mostly with Python and Golang, but secretly enjoy languages with the odd super power like LISP. I use Emacs, and highly respect Vim power-users, because they're so incredibly fast.
 
-I try to live purposefully and deliberately. That's why I joined engageSPARK as the first [opportunity Labs](http://opplabs.org) company. Let me know how I can help you live your life well.
+I try to live purposefully and deliberately. That's why I joined engageSPARK as the first `opportunity Labs <http://opplabs.org>`_ company. Let me know how I can help you live your life well.
 
-Oh, and if ever **you find yourself in Cebu, do say Hi!** (For example on [LinkedIn](https://www.linkedin.com/in/murat-knecht/) or at muratk[@my company's name.com] . We have a desk and Internet for you, if you're willing to share some of your knowledge and uniqueness. :) In any case, always glad to help out with sightseeing tips and a cold beverage.
+Oh, and if ever **you find yourself in Cebu, do say Hi!** (For example on `LinkedIn <https://www.linkedin.com/in/murat-knecht/>`_ or at muratk[@my company's name.com] . We have a desk and Internet for you, if you're willing to share some of your knowledge and uniqueness. :) In any case, always glad to help out with sightseeing tips and a cold beverage.
 
 -------
 
@@ -1964,7 +2055,9 @@ Hy: Running a webapp with LISP on Python
 
 
 
-Format: Lightning Talk (5 minutes)
+.. admonition:: Format
+
+    Format: Lightning Talk (5 minutes)
 
 Abstract
 --------
@@ -1981,7 +2074,7 @@ Python is so much more than just a readable language:
 It's also a *powerful platform* with an amazing standard library and tons of libraries!
 Let's use that platform to run another language, *a LISP*.
 
-[Hy](http://hylang.org) is a LISP running on the Python platform.
+`Hy <http://hylang.org>`_ is a LISP running on the Python platform.
 In this Lightning Talk I'll demo a small Flask webapp written in Hy,
 and show how Hy macros allow us to express our intention clearly.
 
@@ -2012,13 +2105,13 @@ Murat Knecht
 Bio
 ---
 
-*You are smart, motivated and have a unique perspective*—that's my premise as CTO of [engageSPARK](http://engagespark.com). Originally I'm from Berlin, and have worked there for a couple of years, but for the past three years I've served at engageSPARK in Cebu, Philippines, and enjoy almost every minute of it. CTO means being team lead, architect, coder and coach. I find challenge and joy in all these roles.
+*You are smart, motivated and have a unique perspective* — that's my premise as CTO of `engageSPARK <http://engagespark.com>`_. Originally I'm from Berlin, and have worked there for a couple of years, but for the past three years I've served at engageSPARK in Cebu, Philippines, and enjoy almost every minute of it. CTO means being team lead, architect, coder and coach. I find challenge and joy in all these roles.
 
 On the tech-side, I work mostly with Python and Golang, but secretly enjoy languages with the odd super power like LISP. I use Emacs, and highly respect Vim power-users, because they're so incredibly fast.
 
-I try to live purposefully and deliberately. That's why I joined engageSPARK as the first [opportunity Labs](http://opplabs.org) company. Let me know how I can help you live your life well.
+I try to live purposefully and deliberately. That's why I joined engageSPARK as the first `opportunity Labs <http://opplabs.org>`_ company. Let me know how I can help you live your life well.
 
-Oh, and if ever **you find yourself in Cebu, do say Hi!** (For example on [LinkedIn](https://www.linkedin.com/in/murat-knecht/) or at muratk[@my company's name.com] . We have a desk and Internet for you, if you're willing to share some of your knowledge and uniqueness. :) In any case, always glad to help out with sightseeing tips and a cold beverage.
+Oh, and if ever **you find yourself in Cebu, do say Hi!** (For example on `LinkedIn <https://www.linkedin.com/in/murat-knecht/>`_ or at muratk[@my company's name.com] . We have a desk and Internet for you, if you're willing to share some of your knowledge and uniqueness. :) In any case, always glad to help out with sightseeing tips and a cold beverage.
 
 -------
 
@@ -2032,7 +2125,9 @@ Using Python to build a smart contract in NEO blockchain
 
 
 
-Format: Long Talk (45 minutes)
+.. admonition:: Format
+
+    Format: Long Talk (45 minutes)
 
 Abstract
 --------
@@ -2054,11 +2149,11 @@ Pisuth Daengthongdee
 
 
 
-.. image:: https://secure.gravatar.com/avatar/02db6091a997dc75b39fddfe6a740494?s=500
-    :alt: Pisuth Daengthongdee
-    :height: 200px
-    :align: right
-    :class: img-circle img-responsive 
+.. .. image:: https://secure.gravatar.com/avatar/02db6091a997dc75b39fddfe6a740494?s=500
+..     :alt: Pisuth Daengthongdee
+..     :height: 200px
+..     :align: right
+..     :class: img-circle img-responsive 
 
 
 
@@ -2083,7 +2178,9 @@ Why I Fell in Love with Tavern (and why I'm staying)
 
 
 
-Format: Workshop (> 60 minutes)
+.. admonition:: Format
+
+    Format: Workshop (> 60 minutes)
 
 Abstract
 --------
@@ -2103,11 +2200,11 @@ banquil_05ive@yahoo.com
 
 
 
-.. image:: https://secure.gravatar.com/avatar/497fee261595ebfc30e0d303b5b208dc?s=500
-    :alt: banquil_05ive@yahoo.com
-    :height: 200px
-    :align: right
-    :class: img-circle img-responsive 
+.. .. image:: https://secure.gravatar.com/avatar/497fee261595ebfc30e0d303b5b208dc?s=500
+..     :alt: banquil_05ive@yahoo.com
+..     :height: 200px
+..     :align: right
+..     :class: img-circle img-responsive 
 
 
 
@@ -2119,6 +2216,7 @@ Bio
 ---
 
 "Tester by choice"
+
 engageSPARK is my first official foray into the tech world. I fell into testing by chance, and remained a tester by choice. When asked to choose between 3 different career paths, I chose testing and I've loved every minute of it. Why? Because as a tester, I get to code AND annoy people about their buggy code, all at the same time! 
 
 -------
@@ -2133,7 +2231,9 @@ A Beginner's Guide to Deep Natural Language Processing with PyTorch
 
 
 
-Format: Long Talk (45 minutes)
+.. admonition:: Format
+
+    Format: Long Talk (45 minutes)
 
 Abstract
 --------
@@ -2184,7 +2284,9 @@ Teaching and Learning with Python
 
 
 
-Format: Short Talk (30 minutes)
+.. admonition:: Format
+
+    Format: Short Talk (30 minutes)
 
 Abstract
 --------
@@ -2237,7 +2339,9 @@ Learning Python via on-line resources
 
 
 
-Format: Lightning Talk (5 minutes)
+.. admonition:: Format
+
+    Format: Lightning Talk (5 minutes)
 
 Abstract
 --------
@@ -2257,11 +2361,11 @@ Surasak Watthanayontkit
 
 
 
-.. image:: https://secure.gravatar.com/avatar/0dc7b5919c895182e2a1ae7f581818de?s=500
-    :alt: Surasak Watthanayontkit
-    :height: 200px
-    :align: right
-    :class: img-circle img-responsive 
+.. .. image:: https://secure.gravatar.com/avatar/0dc7b5919c895182e2a1ae7f581818de?s=500
+..     :alt: Surasak Watthanayontkit
+..     :height: 200px
+..     :align: right
+..     :class: img-circle img-responsive 
 
 
 
@@ -2290,7 +2394,9 @@ Talk to your Python app - using LINE!
 
 
 
-Format: Short Talk (30 minutes)
+.. admonition:: Format
+
+    Format: Short Talk (30 minutes)
 
 Abstract
 --------
@@ -2304,10 +2410,10 @@ Machine Learning & Artifical Intelligence are intriguing topics - however, the c
 
 What we will cover:
 
-** Open APIs and Cognitive Services
-** Visualizing Data
-** Building an application to use with LINE messenger
-** Python Requests Library
+* Open APIs and Cognitive Services
+* Visualizing Data
+* Building an application to use with LINE messenger
+* Python Requests Library
 
 
 Uli
@@ -2350,7 +2456,9 @@ Aaaarrgghh, Spider! Web scraping with Scrapy
 
 
 
-Format: Short Talk (30 minutes)
+.. admonition:: Format
+
+    Format: Short Talk (30 minutes)
 
 Abstract
 --------
@@ -2421,7 +2529,9 @@ Pythonic Functional Programming with Coconut
 
 
 
-Format: Short Talk (30 minutes)
+.. admonition:: Format
+
+    Format: Short Talk (30 minutes)
 
 Abstract
 --------
@@ -2434,16 +2544,16 @@ Description
 With functions being first-class citizens, Python allows us to build programmes with higher-order functions. However, it is often cumbersome to do something that would be bread-and-butter in a typical functional language. The lack of concise syntax for lambdas, currying and function compositions is a nuisance. The lack of boilerplate-less pattern matching and pattern matching could be a deal breaker. This talk presents Coconut, a functional superset of Python, which aims to enable writing elegant functional code, whilst staying with the familiar Python environment and libraries. We will identify various pain points of writing functional code in Python, and demonstrates how Coconut addresses the problems. In particular, we will start with a basic coding problem, and move on to designing a machine-learning pipeline with a functional approach.
 
 
-Lez Katzav (submitted by Mark on his behalf)
-============================================
+Lez Katzav
+==========
 
 
 
-.. image:: https://secure.gravatar.com/avatar/c216452ffbacb459dcf9b614b6413321?s=500
-    :alt: Lez Katzav (submitted by Mark on his behalf)
-    :height: 200px
-    :align: right
-    :class: img-circle img-responsive 
+.. .. image:: https://secure.gravatar.com/avatar/c216452ffbacb459dcf9b614b6413321?s=500
+..     :alt: Lez Katzav (submitted by Mark on his behalf)
+..     :height: 200px
+..     :align: right
+..     :class: img-circle img-responsive 
 
 
 
@@ -2456,7 +2566,7 @@ Bio
 
 I am a data scientist in Agoda, an innovative accommodation website that places a huge emphasis in machine learning algorithms. I have been using Python on a daily basis since 2013 as a freelance data scientist and algorithmic trader. I am also a functional programming enthusiast, and my experience mainly comes from writing Scala code in Agoda and using Haskell for scripting. I enjoy writing functional-style code in Python, and have been actively trying to marry the two for years. My other passion include high-performance computing, Bayesian statistics and Vim.
 
-I have never spoken in a conference before. However, I have a number of public speaking experiences such as training in Agoda and giving undergraduate-level lectures in machine learning and economics. I have also been involved in a few pro-bono projects that required public speaking.
+.. I have never spoken in a conference before. However, I have a number of public speaking experiences such as training in Agoda and giving undergraduate-level lectures in machine learning and economics. I have also been involved in a few pro-bono projects that required public speaking.
 
 -------
 
@@ -2470,7 +2580,9 @@ Monitoring your Python Application
 
 
 
-Format: Long Talk (45 minutes)
+.. admonition:: Format
+
+    Format: Long Talk (45 minutes)
 
 Abstract
 --------
@@ -2485,6 +2597,7 @@ Application Performance Monitoring (APM) is a solution built on Elastic Stack. A
 This talk mainly targets at introducing the solution, why it is needed and what you can do with data. It ends with once data is stored within Elasticsearch, what else you can use (ex. Infrastructure Monitoring, Machine Learning).
 
 Agenda
+
 - What is APM?
 - Why APM?
 - What it can do to your Application?
@@ -2496,11 +2609,11 @@ Aravind Putrevu
 
 
 
-.. image:: https://secure.gravatar.com/avatar/5bbdfd1498ad6974fcd65e88b3b08687?s=500
-    :alt: Aravind Putrevu
-    :height: 200px
-    :align: right
-    :class: img-circle img-responsive 
+.. .. image:: https://secure.gravatar.com/avatar/5bbdfd1498ad6974fcd65e88b3b08687?s=500
+..     :alt: Aravind Putrevu
+..     :height: 200px
+..     :align: right
+..     :class: img-circle img-responsive 
 
 
 
@@ -2533,44 +2646,46 @@ Object detection and Human recognition with YOLO in Python
 
 
 
-Format: Long Talk (45 minutes)
+.. admonition:: Format
+
+    Format: Long Talk (45 minutes)
 
 Abstract
 --------
 
 New research papers for object detection coming out every other day made really difficult to decide on one algorithm.I chose YOLO after analysis and OH BOY,how much i love my decision!Here,I'll try to give an intuitive explanation behind the choice of YOLO,challenges faced and how to overcome them.
 
-Description
------------
-
-The structure of my talk will follow the following timeline: 
-
-* (0-10 minutes) - **Introduction**:<br>
-1. Difference between the problem statement of Human/Object Detection and Recognition. <br>
-2. Demonstration of how human tracking in a video plays a pivotal role in human counting as well as recognition over various frames. <br>
-
-* ( 10-25 minutes) - **Contradistinction of Human recognition and Object detection Algorithms**:<br>
-1. Very brief introduction to YOLO/DarkNet Model.<br>
-2. Comparison of YOLO2 with OpenCV's Haar Cascade Classifier for real-time human detection.<br>
-3. Things to take care while deploying the YOLO2 with Python.<br>
-
-* (25-30 minutes) - **How to train your OWN YOLO2 and use the trained weights in Python**:<br>
-1. How much data a.k.a diverse data is sufficient to train your own classifier?<br>
-2. Effect of not using pre-trained YOLO model on scalability.<br>
-3. How much accuracy is enough to finalise your model.<br>
-4. Importance of Hyper-parameter tuning while training.<br>
-
-* (30-32 minutes) - **Video File Demo**<br>
-1. Working demonstration of Human detection on a video as well as on an image.<br>
-2. Get the output and save it in a csv file with the particular time/frame slot.<br>
-
-* (32-40 minutes) - **Use-Cases/Applications**:<br>
-1. Generate Heat-Map in a mall/shop to analyse the crowd presence on different days/timings during the week.<br>
-2. For surveillance purposes in offices, banks etc.<br>
-3. Expansion on advanced level leads to provide significant help in motion detection.<br>
-4. Gender Classification.<br>
-
-* (40-45 minutes) - Interactive Q&A session with listeners.<br>
+.. Description
+.. -----------
+.. 
+.. The structure of my talk will follow the following timeline: 
+.. 
+.. * (0-10 minutes) - **Introduction**:<br>
+.. 1. Difference between the problem statement of Human/Object Detection and Recognition. <br>
+.. 2. Demonstration of how human tracking in a video plays a pivotal role in human counting as well as recognition over various frames. <br>
+.. 
+.. * ( 10-25 minutes) - **Contradistinction of Human recognition and Object detection Algorithms**:<br>
+.. 1. Very brief introduction to YOLO/DarkNet Model.<br>
+.. 2. Comparison of YOLO2 with OpenCV's Haar Cascade Classifier for real-time human detection.<br>
+.. 3. Things to take care while deploying the YOLO2 with Python.<br>
+.. 
+.. * (25-30 minutes) - **How to train your OWN YOLO2 and use the trained weights in Python**:<br>
+.. 1. How much data a.k.a diverse data is sufficient to train your own classifier?<br>
+.. 2. Effect of not using pre-trained YOLO model on scalability.<br>
+.. 3. How much accuracy is enough to finalise your model.<br>
+.. 4. Importance of Hyper-parameter tuning while training.<br>
+.. 
+.. * (30-32 minutes) - **Video File Demo**<br>
+.. 1. Working demonstration of Human detection on a video as well as on an image.<br>
+.. 2. Get the output and save it in a csv file with the particular time/frame slot.<br>
+.. 
+.. * (32-40 minutes) - **Use-Cases/Applications**:<br>
+.. 1. Generate Heat-Map in a mall/shop to analyse the crowd presence on different days/timings during the week.<br>
+.. 2. For surveillance purposes in offices, banks etc.<br>
+.. 3. Expansion on advanced level leads to provide significant help in motion detection.<br>
+.. 4. Gender Classification.<br>
+.. 
+.. * (40-45 minutes) - Interactive Q&A session with listeners.<br>
 
 
 Kajal Puri
@@ -2613,7 +2728,9 @@ PyThaiNLP : Thai natural language processing in Python.
 
 
 
-Format: Lightning Talk (5 minutes)
+.. admonition:: Format
+
+    Format: Lightning Talk (5 minutes)
 
 Abstract
 --------
@@ -2661,7 +2778,9 @@ Python for Self-Trackers: How to Visualize and Better Understand Your Life in Da
 
 
 
-Format: Long Talk (45 minutes)
+.. admonition:: Format
+
+    Format: Long Talk (45 minutes)
 
 Abstract
 --------
@@ -2716,9 +2835,22 @@ Mark Koester
 Bio
 ---
 
-Mark Koester (@markwkoester) is a self-tracker, writer, and web and mobile app developer. Creator: [PhotoStatsApp](www.photostats.io), a photo tracking app without the cloud, [PodcastTracker](www.podcasttracker.com), a web app to log your podcast listening, and [Biomarker Tracker](www.biomarkertracker.com), a health analytics service to better understand your blood test results. He currently runs a boutique dev shop (Int3c.com) and is an active open source contributor. Former Regional Lead in Greater China at Techstars, a seed-stage accelerator. He regularly writes about self-tracking, quantified self and data-driven life at www.markwk.com.    
+Mark Koester (@markwkoester) is a self-tracker, writer, and web and
+mobile app developer. Creator: 
+`PhotoStatsApp <www.photostats.io>`_,
+a photo tracking app without the cloud,
+`PodcastTracker <www.podcasttracker.com>`_, a web app to log your
+podcast listening, and 
+`Biomarker Tracker <www.biomarkertracker.com>`_,
+a health analytics service to better
+understand your blood test results. He currently runs a boutique
+dev shop (Int3c.com) and is an active open source contributor.
+Former Regional Lead in Greater China at Techstars, a seed-stage
+accelerator. He regularly writes about self-tracking, quantified
+self and data-driven life at www.markwk.com.    
 
 Social Media: 
+
 * https://www.linkedin.com/in/markwkoester
 * https://twitter.com/markwkoester
 * https://www.facebook.com/markwkoester
@@ -2735,7 +2867,9 @@ Social Media:
 
 
 
-Format: Short Talk (30 minutes)
+.. admonition:: Format
+
+    Format: Short Talk (30 minutes)
 
 Abstract
 --------
@@ -2757,11 +2891,11 @@ Sippakorn Widsankun
 
 
 
-.. image:: https://secure.gravatar.com/avatar/a07c71cdc6107ad1c977ee75ef3efb93?s=500
-    :alt: Sippakorn Widsankun
-    :height: 200px
-    :align: right
-    :class: img-circle img-responsive 
+.. .. image:: https://secure.gravatar.com/avatar/a07c71cdc6107ad1c977ee75ef3efb93?s=500
+..     :alt: Sippakorn Widsankun
+..     :height: 200px
+..     :align: right
+..     :class: img-circle img-responsive 
 
 
 
@@ -2772,11 +2906,11 @@ Sippakorn Widsankun
 Bio
 ---
 
-Robotics Programmer 
-Hobbyist Photographer  
-Wannabe World Traveler
-Sci-Fi Movie Lover 
-Alcoholic Atheist
+- Robotics Programmer 
+- Hobbyist Photographer  
+- Wannabe World Traveler
+- Sci-Fi Movie Lover 
+- Alcoholic Atheist
 
 -------
 
@@ -2790,7 +2924,9 @@ Playing with Social Network, Geo-Spatial, Financial Flow, and Banking System Dat
 
 
 
-Format: Long Talk (45 minutes)
+.. admonition:: Format
+
+    Format: Long Talk (45 minutes)
 
 Abstract
 --------
@@ -2808,11 +2944,11 @@ Poomjai Nacaskul, PhD, DIC, CFA
 
 
 
-.. image:: https://secure.gravatar.com/avatar/60d0b7c3fb02452aee423197adde815c?s=500
-    :alt: Poomjai Nacaskul, PhD, DIC, CFA
-    :height: 200px
-    :align: right
-    :class: img-circle img-responsive 
+.. .. image:: https://secure.gravatar.com/avatar/60d0b7c3fb02452aee423197adde815c?s=500
+..     :alt: Poomjai Nacaskul, PhD, DIC, CFA
+..     :height: 200px
+..     :align: right
+..     :class: img-circle img-responsive 
 
 
 
@@ -2823,11 +2959,11 @@ Poomjai Nacaskul, PhD, DIC, CFA
 Bio
 ---
 
-(Bachelor's) Physics & Economics (double major), Case Western Reserve University
-(Master's) Operations Research (minor in Finance), Weatherhead School of Management
-(Doctorate's) Computational Intelligence & Operational Research, Imperial College, London
-(Bank of Thailand) Head of Quantitative Models & Financial Engineering, Financial Supervision Group
-(SCB - current) FSVP, Quantitative Models & Enterprise Analytics, Business Intelligence, Transformation Group
+- (Bachelor's) Physics & Economics (double major), Case Western Reserve University
+- (Master's) Operations Research (minor in Finance), Weatherhead School of Management
+- (Doctorate's) Computational Intelligence & Operational Research, Imperial College, London
+- (Bank of Thailand) Head of Quantitative Models & Financial Engineering, Financial Supervision Group
+- (SCB - current) FSVP, Quantitative Models & Enterprise Analytics, Business Intelligence, Transformation Group
 
 -------
 
@@ -2841,7 +2977,9 @@ Creating amazing APIs in Flask with Flask RESTplus
 
 
 
-Format: Short Talk (30 minutes)
+.. admonition:: Format
+
+    Format: Short Talk (30 minutes)
 
 Abstract
 --------
@@ -2894,7 +3032,9 @@ Build dynamically scaled highly available python application with MySQL
 
 
 
-Format: Long Talk (45 minutes)
+.. admonition:: Format
+
+    Format: Long Talk (45 minutes)
 
 Abstract
 --------
@@ -2917,11 +3057,11 @@ Ronen Baram
 
 
 
-.. image:: https://secure.gravatar.com/avatar/966992becaae65a63f3914ac9db97637?s=500
-    :alt: Ronen Baram
-    :height: 200px
-    :align: right
-    :class: img-circle img-responsive 
+.. .. image:: https://secure.gravatar.com/avatar/966992becaae65a63f3914ac9db97637?s=500
+..     :alt: Ronen Baram
+..     :height: 200px
+..     :align: right
+..     :class: img-circle img-responsive 
 
 
 
@@ -2950,7 +3090,9 @@ Building a sustainable codebases with Type Annotations
 
 
 
-Format: Long Talk (45 minutes)
+.. admonition:: Format
+
+    Format: Long Talk (45 minutes)
 
 Abstract
 --------
@@ -3005,7 +3147,9 @@ Artisanal Async Adventures
 
 
 
-Format: Short Talk (30 minutes)
+.. admonition:: Format
+
+    Format: Short Talk (30 minutes)
 
 Abstract
 --------
