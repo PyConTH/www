@@ -137,7 +137,7 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/buy-tickets/", "ซื้อตั๋ว"),
-        ("/schedule/", "Talk Schedule"),
+        ("/schedule/", "ตารางเวลาการพูด"),
         (
             (
 	       ("/en/presentation-advice/", "Presentation Advice"),
