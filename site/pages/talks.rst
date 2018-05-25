@@ -15,7 +15,7 @@ Here are details of all the talks and speakers.
 
 
 
-.. class:: clearfix
+.. class:: jumbotron clearfix
 
 
 
@@ -47,9 +47,10 @@ The only pre-requisite is that you must have some basic familiarity with Python 
 
 If you are really curious how this talk will go, you can watch a similar talk for Ruby and Javascript `here <https://www.destroyallsoftware.com/talks/wat>`_
 
+.. class:: jumbotron
 
 Manoj Pandey
-============
+------------
 
 
 
@@ -71,15 +72,13 @@ Manoj Pandey
 
 
 
-Bio
----
 
 Founder and Organizer for PyData Delhi. Keynote and international speaker at many Python conferences around the world. To-be Software Engineer at Yelp!
 
 -------
 
 
-.. class:: clearfix
+.. class:: jumbotron clearfix
 
 
 
@@ -109,9 +108,10 @@ We will talk about obscure mistakes/bugs Python programmers may produce.
 - What happens when you mix generator functions with with-statements?
 - and more!!
 
+.. class:: jumbotron
 
 Watcharapol Watcharawisetkul
-============================
+----------------------------
 
 
 
@@ -133,6 +133,7 @@ Watcharapol Watcharawisetkul
 
 
 
+
 .. Bio
 .. ---
 
@@ -141,7 +142,7 @@ Watcharapol Watcharawisetkul
 -------
 
 
-.. class:: clearfix
+.. class:: jumbotron clearfix
 
 
 
@@ -203,9 +204,10 @@ Topic
 - Demo
 - Next Projects
 
+.. class:: jumbotron
 
 Montri Sroymukda
-================
+----------------
 
 .. image:: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/25822/Unnamed.jpg
     :alt: Montri Sroymukda
@@ -222,8 +224,6 @@ Montri Sroymukda
     `Montri@Montri3d <https://twitter.com/Montri@Montri3d>`_
 
 
-Bio
----
 
 I am a maker. I love IOT, 3D-Printer and Micro-python technology
 make my life happy.
@@ -242,7 +242,7 @@ And I have youtube channel for share how to, review, teach
 -------
 
 
-.. class:: clearfix
+.. class:: jumbotron clearfix
 
 
 
@@ -285,9 +285,10 @@ I will be talking about the Capsule Networks which is  the latest buzz word in w
 
                       
 
+.. class:: jumbotron
 
 Sandeep Saurabh
-===============
+---------------
 
 
 
@@ -309,8 +310,6 @@ Sandeep Saurabh
 
 
 
-Bio
----
 
 I have done my Bachelors and Masters of Technology from prestigious Indian Institute of Technology -Delhi , in Mathematics and Computing. Since college days ,I have been working in neural network projects  using all kinds of languages like MATLAB , Java and python.   I did internship in distributed computing at Chinese Academy of Science in 2011 and the experience which I had there was incredible. It taught me the importance and pleasure of interacting and sharing knowledge with people around the world . Currently I am working as a Senior  Data Scientist in an analytics firm BRIDGEi2i Analytics Solutions in Bangalore.  
 
@@ -318,7 +317,7 @@ I have done my Bachelors and Masters of Technology from prestigious Indian Insti
 -------
 
 
-.. class:: clearfix
+.. class:: jumbotron clearfix
 
 
 
@@ -348,9 +347,10 @@ With rich on-line resources around, including online courses (many of which are 
 The talk is intended for beginners with background in traditional software developments. Mathematical knowledge in differential calculus (derivatives - not in the context of Stock Futures) is useful but not required as it may be touched briefly. Audiences are not expected to walk away as subject matter experts after finishing the talk but the speaker hope to spark inspiration to learn more on the subject and eventually end up developing something for their own use.
 
 
+.. class:: jumbotron
 
 Surasak Watthanayontkit
-=======================
+-----------------------
 
 
 
@@ -366,8 +366,6 @@ Surasak Watthanayontkit
 
 
 
-Bio
----
 
 Earned a B.Eng. nearly 20 years ago, when the vocabularies like "Deep Learning" and "Data Science" had not even been materialized. His full time job is traditional software development (Python is not used) and it has no direct relevance to Machine Learning. 
 
@@ -378,7 +376,7 @@ In his spare time, apart from doing MOOCs/writing Python programs and practicing
 -------
 
 
-.. class:: clearfix
+.. class:: jumbotron clearfix
 
 
 
@@ -401,9 +399,10 @@ Description
 
 Due to the proliferation and continuously improvement of solar PV, energy storage, electric vehicles, Internet of things (IoT) devices, these open up new opportunities and change the ways how end-use customers (smart homes and smart buildings) engage in the electricity market. Rather than passively consume energy by purchasing electricity with a fixed tariff from an electric utility, in the near future they can become prosumers who are able to generate revenue on their excess energy and able to obtain transparently-source, reliable energy. This talk discusses the development of a Multi-Agent System Platform, so called PEA HiVE, with Blockchain Energy Trading application.  Python is selected to be the development language for the IoT integration and backend, whereas Hyperledger and React Native are chosen to be the Blockchain development platform and our mobile frontend respectively.
 
+.. class:: jumbotron
 
 Dr. Warodom Khamphanchai
-========================
+------------------------
 
 
 
@@ -425,8 +424,6 @@ Dr. Warodom Khamphanchai
 
 
 
-Bio
----
 
 Dr. Khamphanchai received his PhD from the Department of Electrical and Computer Engineering at Virginia Polytechnic Institute and State University, USA. His research interests are home/building energy management systems, Internet of things, multi-agent systems, machine learning, data analytics, demand response, cyber-physical systems, and power system operation and control. His research focus is to develop building energy management open source software (BEMOSS) for energy savings and peak demand reduction in small- and medium-sized commercial buildings. The current released version of BEMOSS is made available on the Github repository (URL: https://github.com/bemoss/bemoss_os) and on the United States Department of Energy (DOE) website (URL: http://energy.gov/eere/buildings/downloads/building-energy-management-open-source-software-development-bemoss)
 
@@ -440,7 +437,7 @@ or contact: kwarodom@vt.edu, +66-951-615-011
 -------
 
 
-.. class:: clearfix
+.. class:: jumbotron clearfix
 
 
 
@@ -474,9 +471,10 @@ Keynote (WIP)
 
 ถ้าคุณกำลัง หรืออยากสร้าง high load api server สักตัวหนึ่ง นี่เป็น session ที่คุณควรเข้ามาฟัง
 
+.. class:: jumbotron
 
 Phatthana Batt Tongon
-=====================
+---------------------
 
 
 
@@ -498,8 +496,6 @@ Phatthana Batt Tongon
 
 
 
-Bio
----
 
 - Technical lead @Kaidee
 - former startup founder, personal acquire by Kaidee
@@ -511,7 +507,7 @@ Bio
 -------
 
 
-.. class:: clearfix
+.. class:: jumbotron clearfix
 
 
 
@@ -544,9 +540,10 @@ SonarQube
 - วิเคราะห์กราฟความสัมพันธ์ของคุณภาพจาก issue ที่ตรวจสอบพบ
 - วิเคราะห์ issues ที่ตรวจพบ และสามารถกำหนดงานให้กับคนในทีมได้อีกด้วย
 
+.. class:: jumbotron
 
 Adisak Srisuriyasavad
-=====================
+---------------------
 
 
 
@@ -562,8 +559,6 @@ Adisak Srisuriyasavad
 
 
 
-Bio
----
 
 ผมเคยทำงานในสาย programmer มาเป็นเวลา 10 ปีเพิ่งเริ่มทำงานในบทบาทของ Quality Assurance 
 ผมยังไม่ค่อยมีประสบการณ์เกี่ยวกับการวัดคุณภาพมากนัก แต่ผมก็สามารถทำงานนี้ได้เป็นอย่างดีเพราะเครื่องมือตัวนี้
@@ -572,7 +567,7 @@ Bio
 -------
 
 
-.. class:: clearfix
+.. class:: jumbotron clearfix
 
 
 
@@ -604,9 +599,10 @@ Description
 - สถานการณ์แบบไหน ควรใช้ concurrency แบบไหน
 - ตัวอย่างการใช้งาน code example, library example
 
+.. class:: jumbotron
 
 Ukrid Kuldiloke
-===============
+---------------
 
 
 
@@ -622,13 +618,14 @@ Ukrid Kuldiloke
 
 
 
+
 .. Bio
 .. ---
 
 -------
 
 
-.. class:: clearfix
+.. class:: jumbotron clearfix
 
 
 
@@ -646,9 +643,10 @@ Abstract
 
 เอา python มาช่วยทำ api ปลอม ๆ ให้หน้าบ้านเรียก เพื่อเอาข้อมูลไปแสดงหน้าบ้านให้ได้ก่อน จะอ้างว่า api ไม่เสร็จหน้าบ้านไม่เสร็จไม่ได้
 
+.. class:: jumbotron
 
 Wasith Theerapattrathamrong
-===========================
+---------------------------
 
 
 
@@ -670,15 +668,13 @@ Wasith Theerapattrathamrong
 
 
 
-Bio
----
 
 Use be be a developer like you, then I took an arrow to the knee.
 
 -------
 
 
-.. class:: clearfix
+.. class:: jumbotron clearfix
 
 
 
@@ -703,9 +699,10 @@ Description
 
 Basic biological, ecological, and population demographic information is essential to species conservation and management. The identification of individuals  within  a  population  allows  the  study  of  growth  rates,  age  structure,  sex  ratios,  survivorship,  residency,    distribution,    movement    patterns,    and    population size, which are important for ecological and behavioral studies. The automatic identification could enhance performance of this process. In this talk, algorithm and the way of using python and OpenCV to assist users for identification using facial photograph is addressed. The experimental result could show the performance and promising of the idea.
 
+.. class:: jumbotron
 
 Natapon Pantuwong
-=================
+-----------------
 
 
 
@@ -727,15 +724,13 @@ Natapon Pantuwong
 
 
 
-Bio
----
 
 Dr.Natapon Pantuwong completed his PhD from the University of Tokyo in 2012 in the filed of electrical engineering and information systems. After 11 years as a lecturer in KMITL, he started his career as senior research specialist at Yannix (Thailand ) Co.,Ltd, where he can focus his work on parallel programming using GPU. His research interests cover both human and technical aspects of the design of interactive computer systems. Main areas are computer graphics, multimodal HCI and new interactive technologies, social and collaborative online systems especially for work and education, artificial intelligence and computer games, as well as digital art. Moreover, fundamental algorithms about signal processing, image processing and computer vision are also included in his research fields.
 
 -------
 
 
-.. class:: clearfix
+.. class:: jumbotron clearfix
 
 
 
@@ -758,9 +753,10 @@ Description
 
 This talk is a short talk about how a simple Gherkin-styled Python based Robotframework could be used to write test cases. It covers the brief installation using python envwrapper - an environment isolation package and simply showing 2 python scripts which is usable with Robotframework and 1~2 Robotframework's keyword-based testing. It will also cover some important inbuilt functions in Robotframeworks such as sending out keystrokes to the System and using some other libraries to help and make front-end testing a much more awesome experience. Another part of the talk would be describing a single keyword base and some yaml scripts to make the test-cases more reusable.
 
+.. class:: jumbotron
 
 Min Khant Zaw
-=============
+-------------
 
 
 
@@ -782,15 +778,13 @@ Min Khant Zaw
 
 
 
-Bio
----
 
 Name's Min Khant Zaw. I am Computer Science student who is enthusiastic about mostly near-to-the-metal stuff. I mostly code in C++, Java and Python but I use C++ the most because I like playing around with Algorithms.  I am also the President of the IT Society in my campus and had organized over 10 events for the Computer Science students. I mostly spent my time listening to British Synth Pop and spitting out all the crappy codes I can come up with in Sublime Text.
 
 -------
 
 
-.. class:: clearfix
+.. class:: jumbotron clearfix
 
 
 
@@ -822,9 +816,10 @@ In this talk, we discuss how some features in standard Python library can be man
 
 Throughout the process of re-implementing these features, we should gain more in-depth understanding the mechanisms inside Python.
 
+.. class:: jumbotron
 
 Watcharapol Watcharawisetkul
-============================
+----------------------------
 
 
 
@@ -846,15 +841,13 @@ Watcharapol Watcharawisetkul
 
 
 
-Bio
----
 
 
 
 -------
 
 
-.. class:: clearfix
+.. class:: jumbotron clearfix
 
 
 
@@ -877,9 +870,10 @@ Description
 
 This is my personal experience with one of my previous employer. I joined them at the time that their entire company backend was run on a huge PHP based Monolith application which cannot scale out and required the largest Amazon EC2 instance at that time in order to handle all the workloads. By the time I left them, we have successfully migrated the system into Microservices architecture. This talk will walk you through multiple points of time during that period. Explaining how we gradually pull functionalities out of the legacy system. What kind of challenges have we faced along the way. What have we learned so far.
 
+.. class:: jumbotron
 
 Pinnapong Silpsakulsuk
-======================
+----------------------
 
 
 
@@ -901,15 +895,13 @@ Pinnapong Silpsakulsuk
 
 
 
-Bio
----
 
 A software developer who has been working on broad range of technologies from a small embedded system board to a large complex system in the cloud. Interested in software development practices and software architecture.
 
 -------
 
 
-.. class:: clearfix
+.. class:: jumbotron clearfix
 
 
 
@@ -947,9 +939,10 @@ A speaker talks about the following topics:
 - why python is a better tool when improving little problem
 - the use case of Python: How to improve the development environment
 
+.. class:: jumbotron
 
 omega
-=====
+-----
 
 
 
@@ -971,6 +964,7 @@ omega
 
 
 
+
 .. Bio
 .. ---
 
@@ -979,8 +973,7 @@ omega
 -------
 
 
-.. class:: clearfix
-
+.. class:: jumbotron clearfix
 
 
 Django Backend from zero to deployment
@@ -1041,9 +1034,10 @@ Docker
 #. ``docker-compose up``
 
 
+.. class:: jumbotron
 
 El
-==
+--
 
 
 
@@ -1059,15 +1053,13 @@ El
 
 
 
-Bio
----
 
 Django REST lover and ReactJS beginner. Implement&code ~10 projects from last year. Struggling to get all 3 skills. They are DevOps, Backend, and Frontend in order to lead multiple teams.
 
 -------
 
 
-.. class:: clearfix
+.. class:: jumbotron clearfix
 
 
 
@@ -1103,9 +1095,10 @@ A speaker talks about the following topics:
 
 The talk gives you my knowledge to develop applications using location information more easily with GeoDjango.
 
+.. class:: jumbotron
 
 Mitsuki Sugiya
-==============
+--------------
 
 
 
@@ -1127,8 +1120,6 @@ Mitsuki Sugiya
 
 
 
-Bio
----
 
 I' working in Japan as a web applications engineer, Pythonista.
 
@@ -1136,7 +1127,7 @@ I' working in Japan as a web applications engineer, Pythonista.
 -------
 
 
-.. class:: clearfix
+.. class:: jumbotron clearfix
 
 
 
@@ -1164,9 +1155,10 @@ when talk start.
 
 thank for reviews
 
+.. class:: jumbotron
 
 P. Sankaew
-==========
+----------
 
 
 
@@ -1182,8 +1174,6 @@ P. Sankaew
 
 
 
-Bio
----
 
 I'm just student. That want to repair Thailand's Fail Education System.
 
@@ -1195,7 +1185,7 @@ Co-Founder of RANTERT and ZexterLAB.
 -------
 
 
-.. class:: clearfix
+.. class:: jumbotron clearfix
 
 
 
@@ -1229,9 +1219,10 @@ Hollywood vs. Reality in facial recognition
 * why AI fails in traditional sense of security, particularly ID verification, and video surveillance
 * democritization of AI , and crazy / weird / non-traditional uses of machine learning, particularly in areas of payment transfers, ecommerce transactions,
 
+.. class:: jumbotron
 
 TaeWoo Kim
-==========
+----------
 
 
 
@@ -1253,8 +1244,6 @@ TaeWoo Kim
 
 
 
-Bio
----
 
 15 Years in Engineering & Data in NYC / Silicon Valley
  
@@ -1274,7 +1263,7 @@ Media
 -------
 
 
-.. class:: clearfix
+.. class:: jumbotron clearfix
 
 
 
@@ -1299,9 +1288,10 @@ In this talk. We will walk through the one significant use of deep learning for 
 
 The logo detection can be done by object detection models.  We will use PyTorch, a popular deep learning framework in Python, to build the model to identify a brand by its logo in an image.  Along the talk, we'll see the relative value of deep learning architectures-Deep Neural Network (DNN) and Convolutional Neural Network (CNN) , learn the effect of data size, augment the data when we don't have much, and use the transfer learning technique to improve the model.
 
+.. class:: jumbotron
 
 Nithiroj Tripatarasit
-=====================
+---------------------
 
 
 
@@ -1323,8 +1313,6 @@ Nithiroj Tripatarasit
 
 
 
-Bio
----
 
 *Lifelong learner, tech lover, and deep learning enthusiast.*
 
@@ -1343,7 +1331,7 @@ Bio
 -------
 
 
-.. class:: clearfix
+.. class:: jumbotron clearfix
 
 
 
@@ -1374,9 +1362,10 @@ Description
 ภาษา: ไทย
 เหมาะสำหรับ: บุคคลทั่วไป, ผู้ที่ยังไม่เคยใช้งาน Flask ในทราฟฟิคสูงๆ, หรืออยากฟังประสบการ์ณการใช้งานจากทีมอื่น
 
+.. class:: jumbotron
 
 Poohdish Rattanavijai
-=====================
+---------------------
 
 
 
@@ -1398,8 +1387,6 @@ Poohdish Rattanavijai
 
 
 
-Bio
----
 
 I am:  
 
@@ -1415,7 +1402,7 @@ I am:
 -------
 
 
-.. class:: clearfix
+.. class:: jumbotron clearfix
 
 
 
@@ -1444,9 +1431,10 @@ Finally we connect things back together with some simple web-scraping examples. 
 
 Examples will employ both the lxml parsing library and the selenium web scraping framework.  The goal is to focus on use cases where the XML machinery is worth employing.  All the wrappers are similar and we wish to highlight that it does not particularly matter which package you learn – it matters that you learn when to employ XPath and a proper DOM.
 
+.. class:: jumbotron
 
 Jonathan Reiter
-===============
+---------------
 
 
 
@@ -1462,15 +1450,13 @@ Jonathan Reiter
 
 
 
-Bio
----
 
 Jon is Managing Director of Data Finnovation, a Singapore-based startup that is changing the way the financial services industry handles data.  Before joining the Fintech movement he spent 15 years modelling and trading fixed income and currency derivatives for banks in New York, Tokyo, London and Singapore.  During this time Jon worked as a quant and trader, and managed both market-making and electronic trading teams.  Prior to working in the capital markets Jon studied Computer Science at Brown University where he earned an ScM in Computer Science and an A.B. in both Mathematical Economics and Computer Science.
 
 -------
 
 
-.. class:: clearfix
+.. class:: jumbotron clearfix
 
 
 
@@ -1501,9 +1487,10 @@ Although it is possible to create a system with only Python 2.4, it is necessary
 There are also features and grammar in the web knockout that are often overlooked, not only by new python users, but also by seasoned Python veterans. 
 I will introduce those features and grammar that I think are important while comparing the grammar and functions incorporated in Python 2.4 and now.
 
+.. class:: jumbotron
 
 Manabu TERADA
-=============
+-------------
 
 
 
@@ -1525,8 +1512,6 @@ Manabu TERADA
 
 
 
-Bio
----
 
 Manabu is the founder and CEO of CMS Communications Inc., a Tokyo-based professional Plone and Python development company.
 
@@ -1535,7 +1520,7 @@ Manabu has contributed east Asian language functions to Plone. He has been Board
 -------
 
 
-.. class:: clearfix
+.. class:: jumbotron clearfix
 
 
 
@@ -1564,9 +1549,10 @@ See how you can use python to work closely with product/UI designers to shape a 
 
 Ideal audience: People with any level of python experience who want to see how it can fit into the wider picture of product development in the trenches of a startup.
 
+.. class:: jumbotron
 
 Richard Washer
-==============
+--------------
 
 
 
@@ -1588,15 +1574,13 @@ Richard Washer
 
 
 
-Bio
----
 
 I'm the Chief Javascript Cowboy (aka Engineering Lead for Frontend) at Stitched, a startup combining graph theory, natural language processing and machine learning to improve understanding and allocation of people and projects in large companies. We're based in London, UK, but I'm from New Zealand!
 
 -------
 
 
-.. class:: clearfix
+.. class:: jumbotron clearfix
 
 
 
@@ -1637,9 +1621,10 @@ Live demos galore!! What can possibly go wrong?? But the nice thing is, because 
 
 My hope is that this talk will inspire people that programming is fun and exciting, and to remove the barrier to entry of it being hard to set up an environment.
 
+.. class:: jumbotron
 
 Mike Amy
-========
+--------
 
 
 
@@ -1655,15 +1640,13 @@ Mike Amy
 
 
 
-Bio
----
 
 These days I pretend I'm a lazy layabout but actually I am always working on some kind of weird software projects. In a previous life I helped save the world at the UN. I'm also helping to (dis)organise this event.
 
 -------
 
 
-.. class:: clearfix
+.. class:: jumbotron clearfix
 
 
 
@@ -1713,9 +1696,10 @@ The talk is divided into three parts. In the first part, I will briefly describe
 .. 25-30 minutes: Q&A
 
 
+.. class:: jumbotron
 
 Kulwadee Somboonviwat
-=====================
+---------------------
 
 
 
@@ -1731,15 +1715,13 @@ Kulwadee Somboonviwat
 
 
 
-Bio
----
 
 I am a researcher who loves using Python. My current interests include bioinformatics, question answering systems, chatbots, and deep learning. I have been using Python since 2008. My first Python project is the development of multi-threaded Pythonic web crawler using Stackless Python and PostgreSQL. In 2013, I have started collaborating with biochemists and helped them analyzing biological data by using Python as the main language. I speak Thai, English, and also some Japanese. :-)
 
 -------
 
 
-.. class:: clearfix
+.. class:: jumbotron clearfix
 
 
 
@@ -1766,9 +1748,10 @@ We have used Python in many cool ways. We will briefly present several cases her
 
 We have also created advanced technologies such as automatic feature matching using  Bayesian classifiers that learn from data mining previously processed images.  Along the same lines, we have studied the creation of strong classifiers from a number of weak ones through the AdaBoost classifier we use via the open source scikit-learn library, a machine learning Python library. Nearly all aspects of our business operations are modeled through OpenERP (now called Odoo), also completely scripted in Python.  We will show the various unique features we have added to OpenERP to localize it for Thailand and to add our own innovative modules for workflow management, task/project management, company policy management, budget management, and many more.  We will also introduce a preview of the Yannix ERP (YnxERP) system currently under development to replace our OpenERP system by the end of 2018.  Even the distributed datastore/database used for the YnxERP was completely developed inhouse and has many innovative features we can share.  We will also introduce how we used Python scripting to integrate our software with Autodesk Maya, a popular 3D animation and modeling software commonly used in the VFX industry. Additionally, we will also present how we have successfully implemented GPU-based programming for image processing and other algorithms requiring massively parallel architectures, and called it from Python applications.  Having seen the many ways we have used Python in our business, we hope you will find something from this talk that will be of value to you and your business.
 
+.. class:: jumbotron
 
 Xye
-===
+---
 
 
 
@@ -1784,15 +1767,13 @@ Xye
 
 
 
-Bio
----
 
 Xye is the founder and chief executive manager of Yannix (Thailand) Co., Ltd.  Xye is a native of Los Angeles. He has been doing research and development for Hollywood VFX since the early 90’s and developed one of the industry’s first tracking software systems. He supervises overall Yannix management direction while still heavily involved in research and development at Yannix where he continues to push computer vision and machine learning technologies into production service.  Yannix has been providing Visual Effects (VFX) preparation and support services for over 2 decades. Located in suburban Bangkok, Yannix currently has about 350 employees.  Yannix works on the latest Hollywood blockbuster movies. Recent titles include Black Panther, Spider-Man: Homecoming, Star Wars: The Last Jedi and Thor: Ragnarok.  Prior to founding Yannix, Xye worked at Boss Film Studios. In his spare time, Xye also designs and builds solar power inverters, security systems, electric vehicles, solar powered floating houses and custom built water pumps and writes a blog about it. Xye graduated from the University of Southern California (USC) with a Bachelor of Science in Mathematics.
 
 -------
 
 
-.. class:: clearfix
+.. class:: jumbotron clearfix
 
 
 
@@ -1815,9 +1796,10 @@ Description
 
 For many of us, programming wasn't something we studied in the classroom but a passion driven by curiosity, a love for technology and the urge to share. CoderDojo takes these principles and combines them into a self-directed learning environment. This talk covers the overall structure and concepts of CoderDojo, why you should set one up, lessons learned after operating CoderDojo for a year and why community-driven education is the future.
 
+.. class:: jumbotron
 
 Mishari Muqbil
-==============
+--------------
 
 
 
@@ -1839,8 +1821,6 @@ Mishari Muqbil
 
 
 
-Bio
----
 
 Mishari has been using Linux since 1994, coordinator with the distributed computing effort to break RC5-56 in 1997, built Thailand's largest Renderfarm for the animation Khan Kluay where he also started using Python. 
 
@@ -1857,7 +1837,7 @@ Currently his obsessions are:
 -------
 
 
-.. class:: clearfix
+.. class:: jumbotron clearfix
 
 
 
@@ -1880,9 +1860,10 @@ Description
 
 Machine learning is ranked numero uno in Gartner’s Top 10 Strategic Technology Trends for 2017. In recent years, it has received a lot of attention and already revolutionized many areas from finance to image recognition to transportation. This talk, aims to make machine learning simple, fun and accessible to anyone with working examples covering couple of tools. 
 
+.. class:: jumbotron
 
 errazudin ishak
-===============
+---------------
 
 
 
@@ -1904,15 +1885,13 @@ errazudin ishak
 
 
 
-Bio
----
 
 Errazudin works as Data Masseuse at Jauhar Science Research, Malaysia. His job focuses on making sense out of massive data. He has previously spoken at several meetups and conferences and has worked with various technologies. In his free time, he loves to compose Ahmad-Jais-like tunes in his dream or try to help his little daughter with her super tough kindergarten homework.
 
 -------
 
 
-.. class:: clearfix
+.. class:: jumbotron clearfix
 
 
 
@@ -1935,9 +1914,10 @@ Description
 
 I became immersed in the template-matching problem after I encountered it while studying genomic data science. However, this application area will only be mentioned briefly, as the template-matching problem is also relevant to other application areas. The main focus of my talk is how the multi-dimensional array-handling ability of NumPy (not found in the core Python) provided an efficient solution to the problem of template-matching. Finally, I consider alternative solutions and compare them with that of NumPy.
 
+.. class:: jumbotron
 
 Adam Gardiner
-=============
+-------------
 
 
 
@@ -1959,15 +1939,13 @@ Adam Gardiner
 
 
 
-Bio
----
 
 I live and work and run in Bangkok. My favourite place to chill out is a rooftop bar - the only way to see a view here. I believe that learning how to code is an essential part of digital literacy, so everyone should get the chance to learn how to code at least once in their life.
 
 -------
 
 
-.. class:: clearfix
+.. class:: jumbotron clearfix
 
 
 
@@ -2008,9 +1986,10 @@ and think about versioning, too.
 Finally, I'll demo how to answer an HTTP request with a AWS Lambda function,
 for example to build a chatbot or answer a SMS.
 
+.. class:: jumbotron
 
 Murat Knecht
-============
+------------
 
 
 
@@ -2032,8 +2011,6 @@ Murat Knecht
 
 
 
-Bio
----
 
 *You are smart, motivated and have a unique perspective* — that's my premise as CTO of `engageSPARK <http://engagespark.com>`_. Originally I'm from Berlin, and have worked there for a couple of years, but for the past three years I've served at engageSPARK in Cebu, Philippines, and enjoy almost every minute of it. CTO means being team lead, architect, coder and coach. I find challenge and joy in all these roles.
 
@@ -2046,7 +2023,7 @@ Oh, and if ever **you find yourself in Cebu, do say Hi!** (For example on `Linke
 -------
 
 
-.. class:: clearfix
+.. class:: jumbotron clearfix
 
 
 
@@ -2078,9 +2055,10 @@ Let's use that platform to run another language, *a LISP*.
 In this Lightning Talk I'll demo a small Flask webapp written in Hy,
 and show how Hy macros allow us to express our intention clearly.
 
+.. class:: jumbotron
 
 Murat Knecht
-============
+------------
 
 
 
@@ -2102,8 +2080,6 @@ Murat Knecht
 
 
 
-Bio
----
 
 *You are smart, motivated and have a unique perspective* — that's my premise as CTO of `engageSPARK <http://engagespark.com>`_. Originally I'm from Berlin, and have worked there for a couple of years, but for the past three years I've served at engageSPARK in Cebu, Philippines, and enjoy almost every minute of it. CTO means being team lead, architect, coder and coach. I find challenge and joy in all these roles.
 
@@ -2116,7 +2092,7 @@ Oh, and if ever **you find yourself in Cebu, do say Hi!** (For example on `Linke
 -------
 
 
-.. class:: clearfix
+.. class:: jumbotron clearfix
 
 
 
@@ -2143,9 +2119,10 @@ Smart property is the main application we are going to talk. It is the extension
 
 The talk will cover (1) basic blockchain and cryptocurrency (2) Neo blockchain and Python SDK  (3) Smart contract and its applications (4) Smart property and IoT (5) ICO , crowdfunding and NEP5 token and hope that after this talk you will know more about the blockchain development and kick-off the idea for your next project.
 
+.. class:: jumbotron
 
 Pisuth Daengthongdee
-====================
+--------------------
 
 
 
@@ -2161,15 +2138,13 @@ Pisuth Daengthongdee
 
 
 
-Bio
----
 
 Pisuth turns himself into a blockchain developer with extensive skills on IoT and Chatbot since 2017. Prior that time, he was working in media industry for 8 years in Thailand experienced using Python most on the time on system administration and enterprise systems integration.  He also received two international blockchain dev awards in 2018 and has strong passion on blockchain technology and distributed economy.
 
 -------
 
 
-.. class:: clearfix
+.. class:: jumbotron clearfix
 
 
 
@@ -2194,9 +2169,10 @@ Being able to write and run automated API tests is something that should not be 
 
 In this workshop, we will cover how to get started with Tavern, how to start writing basic tests, how to use variables and reuse requests. Participants should walk away from the workshop with a solid understanding of how to use Tavern for API testing. 
 
+.. class:: jumbotron
 
 banquil_05ive@yahoo.com
-=======================
+-----------------------
 
 
 
@@ -2212,8 +2188,6 @@ banquil_05ive@yahoo.com
 
 
 
-Bio
----
 
 "Tester by choice"
 
@@ -2222,7 +2196,7 @@ engageSPARK is my first official foray into the tech world. I fell into testing 
 -------
 
 
-.. class:: clearfix
+.. class:: jumbotron clearfix
 
 
 
@@ -2249,9 +2223,10 @@ This talk will go into the basic ideas of natural language processing, some buil
 
 The talk will be (preferably) conducted in English. The Q/A session can be done in both English and Thai.
 
+.. class:: jumbotron
 
 Prachya Boonkwan
-================
+----------------
 
 
 
@@ -2267,15 +2242,13 @@ Prachya Boonkwan
 
 
 
-Bio
----
 
 Prachya Boonkwan is a computational linguist and a computer scientist with 16-years experience in natural language processing using Python. He received B.Eng. (honors) and M.Eng. degrees in Computer Engineering from Kasetsart University in 2002 and 2005, respectively. He received a Ph.D. degree in Informatics (specializing in natural language processing) from the University of Edinburgh, UK, in 2014. Since 2005, he has been working as a researcher for Language and Semantic Technology Lab at NECTEC, Thailand. His topics of interest include: grammar induction, statistical parsing, statistical machine translation, natural language processing, machine learning, and formal syntax.
 
 -------
 
 
-.. class:: clearfix
+.. class:: jumbotron clearfix
 
 
 
@@ -2298,9 +2271,10 @@ Description
 
 This talk will feature discussions of how Python can be used to teach principles of computer science but it isn't limited to educators. Learning about learning is an increasingly important skill in today's world of rapidly evolving technology. I will share my experience teaching computer science and computer programming starting with being a part of the team that changed my university's Intro to Programming course from using C++ to Python. Then, I'll share tools I've used to engage students in Python programming including repl.it and Raspberry Pi and run through some of the lessons I've taught with them. I'll also discuss education best practices and how learners can apply them to their own self-education.
 
+.. class:: jumbotron
 
 Michael Delfino
-===============
+---------------
 
 
 
@@ -2322,15 +2296,13 @@ Michael Delfino
 
 
 
-Bio
----
 
 I'm an educator with a background in computer science. I've worked as a firmware engineer at a large corporation and as a software developer at a small firm and taught at innovative high schools teaching mathematics and CS. I'm currently teaching at an international school in Bangkok. I am part Thai but born and raised in America in the state of Kentucky.
 
 -------
 
 
-.. class:: clearfix
+.. class:: jumbotron clearfix
 
 
 
@@ -2355,9 +2327,10 @@ Python is considered one of the programming language that is easy to start yet i
 
 Undoubtedly there are many resources available on the Internet, both for  those who want to get the taste of the programming world as well as those who are already well-versed in other programming languages. In this talk, the speaker will share experiences on a subset of them.
 
+.. class:: jumbotron
 
 Surasak Watthanayontkit
-=======================
+-----------------------
 
 
 
@@ -2373,8 +2346,6 @@ Surasak Watthanayontkit
 
 
 
-Bio
----
 
 Earned a B.Eng. nearly 20 years ago, when the vocabularies like "Deep Learning" and "Data Science" had not even been materialized. His full time job is traditional software development (Python is not used) and it has no direct relevance to Machine Learning. 
 
@@ -2385,7 +2356,7 @@ In his spare time, apart from doing MOOCs/writing Python programs and practicing
 -------
 
 
-.. class:: clearfix
+.. class:: jumbotron clearfix
 
 
 
@@ -2415,9 +2386,10 @@ What we will cover:
 * Building an application to use with LINE messenger
 * Python Requests Library
 
+.. class:: jumbotron
 
 Uli
-===
+---
 
 
 
@@ -2439,15 +2411,13 @@ Uli
 
 
 
-Bio
----
 
 Data & Automation Geek, based in Singapore. Python, Git, Redis, HTTP. Worked for companies including Red Hat, Microsoft, IBM, Playboy and Yahoo!
 
 -------
 
 
-.. class:: clearfix
+.. class:: jumbotron clearfix
 
 
 
@@ -2488,9 +2458,10 @@ The "core concepts demo" is a hands-on introduction, starting from a simple exam
 Slides from the previous version of this talk: https://speakerdeck.com/citizen428/aaaarrgghh-spider-web-scraping-with-scrapy
 
 
+.. class:: jumbotron
 
 Michael Kohl
-============
+------------
 
 
 
@@ -2512,15 +2483,13 @@ Michael Kohl
 
 
 
-Bio
----
 
 I'm a man of mystery. Also you all know me, so what am I gonna write here that doesn't sound stupid? ¯\_(ツ)_/¯
 
 -------
 
 
-.. class:: clearfix
+.. class:: jumbotron clearfix
 
 
 
@@ -2543,9 +2512,10 @@ Description
 
 With functions being first-class citizens, Python allows us to build programmes with higher-order functions. However, it is often cumbersome to do something that would be bread-and-butter in a typical functional language. The lack of concise syntax for lambdas, currying and function compositions is a nuisance. The lack of boilerplate-less pattern matching and pattern matching could be a deal breaker. This talk presents Coconut, a functional superset of Python, which aims to enable writing elegant functional code, whilst staying with the familiar Python environment and libraries. We will identify various pain points of writing functional code in Python, and demonstrates how Coconut addresses the problems. In particular, we will start with a basic coding problem, and move on to designing a machine-learning pipeline with a functional approach.
 
+.. class:: jumbotron
 
 Lez Katzav
-==========
+----------
 
 
 
@@ -2561,8 +2531,6 @@ Lez Katzav
 
 
 
-Bio
----
 
 I am a data scientist in Agoda, an innovative accommodation website that places a huge emphasis in machine learning algorithms. I have been using Python on a daily basis since 2013 as a freelance data scientist and algorithmic trader. I am also a functional programming enthusiast, and my experience mainly comes from writing Scala code in Agoda and using Haskell for scripting. I enjoy writing functional-style code in Python, and have been actively trying to marry the two for years. My other passion include high-performance computing, Bayesian statistics and Vim.
 
@@ -2571,7 +2539,7 @@ I am a data scientist in Agoda, an innovative accommodation website that places 
 -------
 
 
-.. class:: clearfix
+.. class:: jumbotron clearfix
 
 
 
@@ -2603,9 +2571,10 @@ Agenda
 - What it can do to your Application?
 - Demo
 
+.. class:: jumbotron
 
 Aravind Putrevu
-===============
+---------------
 
 
 
@@ -2627,8 +2596,6 @@ Aravind Putrevu
 
 
 
-Bio
----
 
 Aravind is a loquacious person, who has something to talk about everything. He is passionate about evangelising technology, meeting developers and helping in solving their problems. He is a backend developer and has six years of development experience. Currently, he works as a Developer Advocate At Elastic and interact with developer community in South East Asia and India. 
 
@@ -2637,7 +2604,7 @@ He has deep interest in Machine Learning, Security Incident Analysis and IoT tec
 -------
 
 
-.. class:: clearfix
+.. class:: jumbotron clearfix
 
 
 
@@ -2687,9 +2654,10 @@ New research papers for object detection coming out every other day made really 
 .. 
 .. * (40-45 minutes) - Interactive Q&A session with listeners.<br>
 
+.. class:: jumbotron
 
 Kajal Puri
-==========
+----------
 
 
 
@@ -2711,15 +2679,13 @@ Kajal Puri
 
 
 
-Bio
----
 
 Kajal Puri is working as a Data Scientist in Fractal Analytics. Before this, she has been dabbling with numbers and statistical models through personal projects and industrial internships (All thanks to Startups!). She has trained models to make them understand human language (Natural Language Processing) and categorise objects (Computer Vision). In her spare time, when she is not reading about AI Apocalypse, she can be found writing poetry. She tweets at @Agirlhasnofame
 
 -------
 
 
-.. class:: clearfix
+.. class:: jumbotron clearfix
 
 
 
@@ -2743,9 +2709,10 @@ Description
 I am a PyThaiNLP founder. PyThaiNLP is a python module similar to nltk , but it's working primarily on Thai language instead of English. It supports both Python 2.7 and Python 3.
 GitHub : https://github.com/PyThaiNLP/pythainlp
 
+.. class:: jumbotron
 
 Wannaphong Phatthiyaphaibun
-===========================
+---------------------------
 
 
 
@@ -2761,15 +2728,13 @@ Wannaphong Phatthiyaphaibun
 
 
 
-Bio
----
 
 I am a PyThaiNLP founder.
 
 -------
 
 
-.. class:: clearfix
+.. class:: jumbotron clearfix
 
 
 
@@ -2808,9 +2773,10 @@ In the first part of this talk, we will introduce what is self-tracking and the 
 
 By the end of the talk, you should be equipped with some ways to track your life, health, productivity and more as well as how to use Python’s data science tools to engage, visualize, find patterns, and make predictions with your data.  
 
+.. class:: jumbotron
 
 Mark Koester
-============
+------------
 
 
 
@@ -2832,8 +2798,6 @@ Mark Koester
 
 
 
-Bio
----
 
 Mark Koester (@markwkoester) is a self-tracker, writer, and web and
 mobile app developer. Creator: 
@@ -2858,7 +2822,7 @@ Social Media:
 -------
 
 
-.. class:: clearfix
+.. class:: jumbotron clearfix
 
 
 
@@ -2885,9 +2849,10 @@ Description
 
 Show example how to use python and how it fast in Developing, Testing, Data Processing,  Visualization Data, Simulation for AUV (Autonomus Underwater Vehicle) , pros, cons
 
+.. class:: jumbotron
 
 Sippakorn Widsankun
-===================
+-------------------
 
 
 
@@ -2903,8 +2868,6 @@ Sippakorn Widsankun
 
 
 
-Bio
----
 
 - Robotics Programmer 
 - Hobbyist Photographer  
@@ -2915,7 +2878,7 @@ Bio
 -------
 
 
-.. class:: clearfix
+.. class:: jumbotron clearfix
 
 
 
@@ -2938,9 +2901,10 @@ Description
 
 Much of 'Big Data' revolution has to do with dealing with non-traditional datatypes and feeding machine learning engines with non-numerical variables. Just as Convolutional Neural Networks excel at object recognition task precisely because the convolution layers expressly capture grid-array information embedded in the 2-dimensional visual field, analysis involving network-patterned objects (individuals in an online social network, transportation nodes, banking accounts with payment network, etc.) stands to benefit from the ability to extract graph-theoretic properties from the network connectivity patterns, either to provide insights in and of themselves, or as pre-processing to further machine learning task down the line.
 
+.. class:: jumbotron
 
 Poomjai Nacaskul, PhD, DIC, CFA
-===============================
+-------------------------------
 
 
 
@@ -2956,8 +2920,6 @@ Poomjai Nacaskul, PhD, DIC, CFA
 
 
 
-Bio
----
 
 - (Bachelor's) Physics & Economics (double major), Case Western Reserve University
 - (Master's) Operations Research (minor in Finance), Weatherhead School of Management
@@ -2968,7 +2930,7 @@ Bio
 -------
 
 
-.. class:: clearfix
+.. class:: jumbotron clearfix
 
 
 
@@ -2991,9 +2953,10 @@ Description
 
 I have been using Flask with Flask RESTplus to create REST API based backend projects for around 3 years now. For those who don't know, Flask RESTplus is an amazing library for REST API development with features like automatic live documentation, input payload validation, neat code organization, automatic response marshaling and a lot of extensibility. You can easily extend it to include other features like response pagination, ETag caching, rate limiting, custom authentication and authorization system and basically anything else you can imagine. In this talk, I will share my hard gained knowledge with code snippets on how to quickly get started and do all these amazing things in Flask RESTplus. 
 
+.. class:: jumbotron
 
 Avi Aryan
-=========
+---------
 
 
 
@@ -3015,15 +2978,13 @@ Avi Aryan
 
 
 
-Bio
----
 
 Avi is a full-stack web engineer at Toptal with four years of professional experience. He has worked with most of the popular stack used on the web today including Python, JavaScript, and Go. He is also a multiple-time Google Summer of Code participant, where he mentors budding developers to contribute to open-source projects. These days he is working on his Blockchain based social media startup called HapRamp which aims to revolutionalize the social media ecosystem in India.  
 
 -------
 
 
-.. class:: clearfix
+.. class:: jumbotron clearfix
 
 
 
@@ -3051,9 +3012,10 @@ Next we will talk about MySQL NDB Cluster and how it's different to InnoDB Clust
 
 Finally, we will do a live demo of both to show in real life how you can use them both with your Python application.
 
+.. class:: jumbotron
 
 Ronen Baram
-===========
+-----------
 
 
 
@@ -3069,8 +3031,6 @@ Ronen Baram
 
 
 
-Bio
----
 
 With more then 25 years in the IT industry, with strong focus on open source solutions, for the last 9 years acting as a MySQL technical consultant for many APAC companies and organisations.
 Based in Melbourne and serves ANZ as a core territory.
@@ -3081,7 +3041,7 @@ Overall nice person, given the morning coffee was reasonable.
 -------
 
 
-.. class:: clearfix
+.. class:: jumbotron clearfix
 
 
 
@@ -3106,9 +3066,10 @@ Maintaining large and fast-growing codebase is always hard. Especially on dynami
 
 In this talk, We'll introduce you to the new syntax of type annotations and the tooling around type annotations ecosystem which will make your development workflow more productive. We'll share our experience on how we embrace type annotation to our development team and also some common pitfalls you might want to avoid.
 
+.. class:: jumbotron
 
 Yothin Muangsommuk
-==================
+------------------
 
 
 
@@ -3130,15 +3091,13 @@ Yothin Muangsommuk
 
 
 
-Bio
----
 
 Yothin is a Pythonista at Pronto Tools.He has been writing Python since 2010 with love on Pythonic way and the zen of Python. While he not doing Python stuff he's a Trekkie.
 
 -------
 
 
-.. class:: clearfix
+.. class:: jumbotron clearfix
 
 
 
@@ -3161,9 +3120,10 @@ Description
 
 If you want to write an efficient server, asynchronous networking is an excellent strategy to do so. To build a production ready system, you would use asyncio, tornado, twisted, trio or another popular implementation. However, to fully understand how and why it works, I will ignore these solutions and instead craft an artisanal asynchronous implementation in front of your very eyes. Step by step we will turn a blocking socket server, only capable of handling a single connection at a time, into a beautiful non blocking server that has no trouble dealing with many connections at once. By the end, you should see that asynchronous code is not magical at all, but nevertheless incredibly useful.
 
+.. class:: jumbotron
 
 Jonas Obrist
-============
+------------
 
 
 
@@ -3185,8 +3145,6 @@ Jonas Obrist
 
 
 
-Bio
----
 
 I'm a Python developer from Switzerland, living in Japan. I got started with Python developing modifications for the video game Counter-Strike before getting my first job building websites using Django. There I got involved with the popular open source Content Management System django CMS. Nowadays I work primarily with the Tornado framework and various asyncio libraries.
 
