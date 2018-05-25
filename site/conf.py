@@ -137,13 +137,13 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/buy-tickets/", "ซื้อตั๋ว"),
+        ("/schedule/", "Talk Schedule"),
         (
             (
 	       ("/en/presentation-advice/", "Presentation Advice"),
                ("/submit-talk/", "ส่งข้อเสนอการพูดคุยของคุณ (ปิดรับแล้ว)"),
 
 #               ("/speakers/", "Speakers"),
-              ("/schedule/", "Talk Schedule"),
 #              ("/keynotes/", "Keynotes"),
 #              ("/about/", "About"),
 #              ("/staff/", "Staff"),
@@ -170,17 +170,17 @@ NAVIGATION_LINKS = {
     ),
     "en": (
         ("/en/buy-tickets/", "Buy Tickets"),
+        ("/schedule/", "Talk Schedule"),
         (
             (
 	       ("/en/presentation-advice/", "Presentation Advice"),
                ("/en/submit-talk/", "Submit Talk Proposal (closed)"),
-#               ("/speakers/", "Speakers"),
-              ("/schedule/", "Talk Schedule"),
+#              ("/speakers/", "Speakers"),
 #              ("/keynotes/", "Keynotes"),
 #              ("/about/", "About"),
 #              ("/staff/", "Staff"),
                ("/en/code-of-conduct/", "Code of Conduct"),
-#               ("/contact/", "Contact"),
+#              ("/contact/", "Contact"),
             ),
            "Event"
            ),
