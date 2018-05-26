@@ -170,7 +170,7 @@ NAVIGATION_LINKS = {
     ),
     "en": (
         ("/en/buy-tickets/", "Buy Tickets"),
-        ("/schedule/", "Talk Schedule"),
+        ("/en/schedule/", "Talk Schedule"),
         (
             (
 	       ("/en/presentation-advice/", "Presentation Advice"),
