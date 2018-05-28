@@ -10,7 +10,7 @@
 Volunteer Registration has Opened!
 ==================================
 
- The PyCon Thailand organizer team is looking for volunteers to help us on both days of the event.
+The PyCon Thailand organizer team is looking for volunteers to help us on both days of the event.
 The roles that are opened are listed below.
 
 * Session Chair
@@ -33,6 +33,7 @@ The session runner will be responsible for preparing the speaker for the session
 5. Hand off to the session chair.
 
 * Registration
+
 People at the registration desk will be responsible for welcoming the attendees, registering them
 and handing out the souvenir. This role is shift-based, so it is possible to choose between morning, afternoon or both.
 
