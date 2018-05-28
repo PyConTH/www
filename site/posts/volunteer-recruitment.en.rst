@@ -13,7 +13,7 @@ Volunteer Registration has Opened!
  The PyCon Thailand organizer team is looking for volunteers to help us on both days of the event.
 The roles that are opened are listed below.
 
-* Session Chair
+- Session Chair
 
 The session chair will be responsible for organizing tasks in the session room. The tasks include:
 
@@ -22,7 +22,7 @@ The session chair will be responsible for organizing tasks in the session room. 
 3. Help the speaker disconnect everything as they leave the stage (microphone, laptop) and
    make any last announcements (next talk, break, etc.)
 
-* Session Runner
+- Session Runner
 
 The session runner will be responsible for preparing the speaker for the session. The tasks are as follow:
 
@@ -32,7 +32,7 @@ The session runner will be responsible for preparing the speaker for the session
 4. Bring the speaker into the session room and help them set up.
 5. Hand off to the session chair.
 
-* Registration
+- Registration
 People at the registration desk will be responsible for welcoming the attendees, registering them
 and handing out the souvenir. This role is shift-based, so it is possible to choose between morning, afternoon or both.
 
