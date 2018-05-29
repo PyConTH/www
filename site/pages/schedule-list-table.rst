@@ -7,6 +7,13 @@
 .. description: 
 .. type: text
 
+.. role:: break
+.. role:: thai
+.. role:: beginner
+.. role:: intermediate
+.. role:: intermediate-thai
+   :class: intermediate thai
+
 
 16 June
 =======
@@ -49,9 +56,9 @@
      - Keynote Speech: Wes McKinney
    
    * - 09:55
-     - The Spanish Inquisition / Break
-     - The Spanish Inquisition / Break
-     - The Spanish Inquisition / Break
+     - :break:`The Spanish Inquisition / Break`
+     - :break:`The Spanish Inquisition / Break`
+     - :break:`The Spanish Inquisition / Break`
    
    * - 10:25
      - Using Python to build a smart contract in NEO blockchain
@@ -159,8 +166,8 @@
    
    * - 09:10
      - Attack of Pythons : Gotchas and Landmines in Python
-     - Alternative way for build async server 
-     - Your mother was a hamster and your father smelt of elderberries / Break
+     - :intermediate-thai:`Alternative way for build async server`_
+     - :break:`Your mother was a hamster and your father smelt of elderberries / Break`
    
    * - 09:40
      - Fish Slapping Dance / Break
@@ -251,3 +258,5 @@
      - Closing
      - Closing
      - Closing
+
+.. _Alternative way for build async server: http://example.com
