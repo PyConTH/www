@@ -15,6 +15,7 @@
 .. list-table:: Talk Schedule, 16 June
    :stub-columns: 1
    :header-rows: 1
+   :widths: 10 30 30 30
    :class: table table-responsive
 
    * -
@@ -143,6 +144,7 @@
 .. list-table:: Talk Schedule, 17 June
    :stub-columns: 1
    :header-rows: 1
+   :widths: 10 30 30 30
    :class: table table-responsive
 
    * - 
