@@ -23,7 +23,7 @@
    :stub-columns: 1
    :header-rows: 1
    :widths: 10 30 30 30
-   :class: table table-responsive
+   :class: table table-responsive table-striped
 
    * -
      - Track 1
