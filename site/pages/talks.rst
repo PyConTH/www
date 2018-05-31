@@ -2,9 +2,9 @@
 .. slug: talks
 .. date: 2018-03-17 13:17:24 UTC+07:00
 .. tags: draft
-.. category: 
-.. link: 
-.. description: 
+.. category:
+.. link:
+.. description:
 .. type: text
 
 
@@ -58,7 +58,7 @@ Manoj Pandey
     :alt: Manoj Pandey
     :height: 200px
     :align: right
-    :class: img-circle img-responsive 
+    :class: img-circle img-responsive
 
 
 
@@ -119,7 +119,7 @@ Watcharapol Watcharawisetkul
 ..     :alt: Watcharapol Watcharawisetkul
 ..     :height: 200px
 ..     :align: right
-..     :class: img-circle img-responsive 
+..     :class: img-circle img-responsive
 
 
 
@@ -146,7 +146,7 @@ Watcharapol Watcharawisetkul
 
 
 
-How many coin in your piggy bank with micro-python & 3D-Printer 
+How many coin in your piggy bank with micro-python & 3D-Printer
 ================================================================
 
 
@@ -171,14 +171,14 @@ Description
 ..     :alt: Coin Machine
 
 Introduction
-```````````` 
+````````````
 
 I need share my experience esp82266 with micro-python it easy.
 Every one c do by self.
 So I am share code in github `esp8266 micropython beginner <https://github.com/montri2025/esp8266-micropython-beginner>`_,
 `Relay 3 line <https://github.com/montri2025/esp8266-relay-wemos>`_
 and I fixed small bug I found on Marlin 3D-Printer firmware and make video help every-one under stand 3D-Printer Technology.
-~and I have youtube channel for share how to, review, teach 
+~and I have youtube channel for share how to, review, teach
 `3D-Printer, drone, micro controller, Etc <https://www.youtube.com/user/deenajacom>`_
 
 Who am I
@@ -187,7 +187,7 @@ My name is Montri Sroymukda. I am working for Kaidee.
 So why I select this topic to share.
 because it is easy every-one can do in your home.
 Kids enjoy pushing coins in a machine which then updates in real time to let you know how much you have put in.
-This project can apply to many many project such as topUp machine , vending machine , Etc. 
+This project can apply to many many project such as topUp machine , vending machine , Etc.
 
 .. image:: https://raw.githubusercontent.com/montri2025/esp8266-coin-acceptor/master/images/Screen%20Shot%202561-04-19%20at%2012.19.44.png
     :alt:  adapt to  many projects
@@ -198,9 +198,9 @@ Topic
 - Hardware Overview
 - Software Overview
 - Software Prerequisites
-- Server Setup 
+- Server Setup
 - ESP8266 Setup
-- 3D-Printer 
+- 3D-Printer
 - Demo
 - Next Projects
 
@@ -213,7 +213,7 @@ Montri Sroymukda
     :alt: Montri Sroymukda
     :height: 200px
     :align: right
-    :class: img-circle img-responsive 
+    :class: img-circle img-responsive
 
 
 
@@ -228,15 +228,15 @@ Montri Sroymukda
 I am a maker. I love IOT, 3D-Printer and Micro-python technology
 make my life happy.
 I need share my experience esp82266 with micro-python it easy.
-Every one can do by self. 
+Every one can do by self.
 So I am share code in github `esp8266 micropython beginner
 <https://github.com/montri2025/esp8266-micropython-beginner>`_,
 `Relay 3 line <https://github.com/montri2025/esp8266-relay-wemos>`_
-and I help fixed small bug on 
-`marlin 3D-Printer firmware <https://github.com/MarlinFirmware/Marlin>`_ and 
+and I help fixed small bug on
+`marlin 3D-Printer firmware <https://github.com/MarlinFirmware/Marlin>`_ and
 `share firmware micromake-C1 3D-Printer <https://github.com/montri2025/marlin1.6-micromake-C1>`_ just have
 one fork and make video help every-one understand 3D-Printer Technology.
-And I have youtube channel for share how to, review, teach 
+And I have youtube channel for share how to, review, teach
 `3D-Printer, drone, micro controller, Etc <https://www.youtube.com/user/deenajacom>`_
 
 -------
@@ -262,28 +262,28 @@ I will be talking about the Capsule Networks which is  the latest buzz word in w
 
 .. Description
 .. -----------
-.. 
+..
 .. I am going to present my talk on the topic of  -Image Classification using Deep Learning in Python. The talk will be quite comprehensive and well suited to audience of all levels. I have structured my talk as follow :
-.. 
+..
 .. (0-10 mins) - 1. Introduction to the problem statement and it's importance in the Computer Vision world
-..                        2. A brief history of Computer Vision and how deep learning came into the picture   
-.. 
+..                        2. A brief history of Computer Vision and how deep learning came into the picture
+..
 .. (10-20 mins) - 1. Explaining what we mean by deep learning , basic mathematics behind it and various kinds of neural network.
 ..                           2. A brief intro to basic Convolutional Neural Network
 ..                           3. Progress of  ImageNet challenge accuracy and important CNN architectures being used currently
-.. 
-.. (20-30 mins )-  1.  Analysing CNN  further and explaining the disadvantages of CNN 
+..
+.. (20-30 mins )-  1.  Analysing CNN  further and explaining the disadvantages of CNN
 ..                            2. Introducing the latest research in the field -Capsule Networks and how it can corrects CNN
-.. 
-.. (30-40 mins ) - 1. Showing the working of Image Classification with neural networks of various CNN  architectures(inception , resnet ,VGG ) 
+..
+.. (30-40 mins ) - 1. Showing the working of Image Classification with neural networks of various CNN  architectures(inception , resnet ,VGG )
 ..                            2. Showing the working of Image Classification with Capsule Networks
-.. 
+..
 .. (40-45 mins ) - Interactive Q&A session with listeners
- 
- 
 
 
-                      
+
+
+
 
 .. class:: jumbotron
 
@@ -296,7 +296,7 @@ Sandeep Saurabh
 ..     :alt: sandeep saurabh
 ..     :height: 200px
 ..     :align: right
-..     :class: img-circle img-responsive 
+..     :class: img-circle img-responsive
 
 
 
@@ -311,7 +311,7 @@ Sandeep Saurabh
 
 
 
-I have done my Bachelors and Masters of Technology from prestigious Indian Institute of Technology -Delhi , in Mathematics and Computing. Since college days ,I have been working in neural network projects  using all kinds of languages like MATLAB , Java and python.   I did internship in distributed computing at Chinese Academy of Science in 2011 and the experience which I had there was incredible. It taught me the importance and pleasure of interacting and sharing knowledge with people around the world . Currently I am working as a Senior  Data Scientist in an analytics firm BRIDGEi2i Analytics Solutions in Bangalore.  
+I have done my Bachelors and Masters of Technology from prestigious Indian Institute of Technology -Delhi , in Mathematics and Computing. Since college days ,I have been working in neural network projects  using all kinds of languages like MATLAB , Java and python.   I did internship in distributed computing at Chinese Academy of Science in 2011 and the experience which I had there was incredible. It taught me the importance and pleasure of interacting and sharing knowledge with people around the world . Currently I am working as a Senior  Data Scientist in an analytics firm BRIDGEi2i Analytics Solutions in Bangalore.
 
 
 -------
@@ -338,9 +338,9 @@ Abstract
 Description
 -----------
 
-A couple years ago, Machine Learning was thought of as the subject requiring intensive computing power and comprehensive understanding of mathematics. Thus, public assumed that it was the job exclusively for giant tech companies with super-genius researchers. 
+A couple years ago, Machine Learning was thought of as the subject requiring intensive computing power and comprehensive understanding of mathematics. Thus, public assumed that it was the job exclusively for giant tech companies with super-genius researchers.
 
-Today, the community has achieved substantial advancements and they are open enough to share their achievements and computing resources to the public at no expenses. Frameworks like TenserFlow, Keras make building a Deep Learning model require only a Python code snippet. Furthermore, Transfer Learning helps developing models even easier by taking portions of pre-trained more generic models, many of which are open-sourced. This has potentials to accelerate the machine learning apps on mobile devices, one of the emerging trend in the field, where compactness and performance are preferred over accuracy. 
+Today, the community has achieved substantial advancements and they are open enough to share their achievements and computing resources to the public at no expenses. Frameworks like TenserFlow, Keras make building a Deep Learning model require only a Python code snippet. Furthermore, Transfer Learning helps developing models even easier by taking portions of pre-trained more generic models, many of which are open-sourced. This has potentials to accelerate the machine learning apps on mobile devices, one of the emerging trend in the field, where compactness and performance are preferred over accuracy.
 
 With rich on-line resources around, including online courses (many of which are free), blog posts, and computing resources available at no expenses, the talk covers the steps to apply those knowledge to build a small, yet useful app based on Deep Learning model - without Deep Pockets, a Ph.D., and mega infrastructure.
 
@@ -358,7 +358,7 @@ Surasak Watthanayontkit
 ..     :alt: Surasak Watthanayontkit
 ..     :height: 200px
 ..     :align: right
-..     :class: img-circle img-responsive 
+..     :class: img-circle img-responsive
 
 
 
@@ -367,9 +367,9 @@ Surasak Watthanayontkit
 
 
 
-Earned a B.Eng. nearly 20 years ago, when the vocabularies like "Deep Learning" and "Data Science" had not even been materialized. His full time job is traditional software development (Python is not used) and it has no direct relevance to Machine Learning. 
+Earned a B.Eng. nearly 20 years ago, when the vocabularies like "Deep Learning" and "Data Science" had not even been materialized. His full time job is traditional software development (Python is not used) and it has no direct relevance to Machine Learning.
 
-He discovered MOOCs in late 2013 and completed his first MOOC on Coursera in 2014. Since then, he has completed over 60 courses (he tries to increase the number even though has already lost the exact count) including a number of Python programming and Machine Learning courses. 
+He discovered MOOCs in late 2013 and completed his first MOOC on Coursera in 2014. Since then, he has completed over 60 courses (he tries to increase the number even though has already lost the exact count) including a number of Python programming and Machine Learning courses.
 
 In his spare time, apart from doing MOOCs/writing Python programs and practicing Keras/TensorFlow framework, he also writes Swfit programs (and published one on iOS AppStore, although, again, Swift is not used in his full time job) He also does endurance sports like long distance running (a.k.a. marathons), triathlons, and high-altitude trekking
 
@@ -410,7 +410,7 @@ Dr. Warodom Khamphanchai
 ..     :alt: Dr. Warodom Khamphanchai
 ..     :height: 200px
 ..     :align: right
-..     :class: img-circle img-responsive 
+..     :class: img-circle img-responsive
 
 
 
@@ -427,7 +427,7 @@ Dr. Warodom Khamphanchai
 
 Dr. Khamphanchai received his PhD from the Department of Electrical and Computer Engineering at Virginia Polytechnic Institute and State University, USA. His research interests are home/building energy management systems, Internet of things, multi-agent systems, machine learning, data analytics, demand response, cyber-physical systems, and power system operation and control. His research focus is to develop building energy management open source software (BEMOSS) for energy savings and peak demand reduction in small- and medium-sized commercial buildings. The current released version of BEMOSS is made available on the Github repository (URL: https://github.com/bemoss/bemoss_os) and on the United States Department of Energy (DOE) website (URL: http://energy.gov/eere/buildings/downloads/building-energy-management-open-source-software-development-bemoss)
 
-Dr. Khamphanchai was a full stack Python developer focusing on developing applications for building energy management and multi-agent systems development, which is the foundation of the BEMOSS platform. He is also the active member of the IEEE Power and Energy Society, the IEEE Internet of Things Society, the IEEE Computer Society, TechShop DC/Arlington, Google Developer Group (GDG) Washington D.C., Modev Washington D.C., as well as DC robotics group. He received his Masters degrees in Electric Power System Management Field of Study from the School of Environment, Resources and Development (SERD), Asian Institute of Technology (AIT), Thailand in 2011 and the B.Eng. degree in Electrical Engineering from Chulalongkorn University, Thailand in 2009. 
+Dr. Khamphanchai was a full stack Python developer focusing on developing applications for building energy management and multi-agent systems development, which is the foundation of the BEMOSS platform. He is also the active member of the IEEE Power and Energy Society, the IEEE Internet of Things Society, the IEEE Computer Society, TechShop DC/Arlington, Google Developer Group (GDG) Washington D.C., Modev Washington D.C., as well as DC robotics group. He received his Masters degrees in Electric Power System Management Field of Study from the School of Environment, Resources and Development (SERD), Asian Institute of Technology (AIT), Thailand in 2011 and the B.Eng. degree in Electrical Engineering from Chulalongkorn University, Thailand in 2009.
 
 His dissertation topic is: "An Agent-based Platform for Demand Response Implementation in Smart Buildings"
 
@@ -482,7 +482,7 @@ Phatthana Batt Tongon
     :alt: Phatthana Batt Tongon
     :height: 200px
     :align: right
-    :class: img-circle img-responsive 
+    :class: img-circle img-responsive
 
 
 
@@ -551,7 +551,7 @@ Adisak Srisuriyasavad
 ..     :alt: Adisak Srisuriyasavad
 ..     :height: 200px
 ..     :align: right
-..     :class: img-circle img-responsive 
+..     :class: img-circle img-responsive
 
 
 
@@ -560,7 +560,7 @@ Adisak Srisuriyasavad
 
 
 
-ผมเคยทำงานในสาย programmer มาเป็นเวลา 10 ปีเพิ่งเริ่มทำงานในบทบาทของ Quality Assurance 
+ผมเคยทำงานในสาย programmer มาเป็นเวลา 10 ปีเพิ่งเริ่มทำงานในบทบาทของ Quality Assurance
 ผมยังไม่ค่อยมีประสบการณ์เกี่ยวกับการวัดคุณภาพมากนัก แต่ผมก็สามารถทำงานนี้ได้เป็นอย่างดีเพราะเครื่องมือตัวนี้
 ผมทำได้ ผมก็เชื่อว่าทุกคนที่ได้ลองใช้ก็จะทำได้เช่นกันครับ
 
@@ -610,7 +610,7 @@ Ukrid Kuldiloke
 ..     :alt: Ukrid Kuldiloke
 ..     :height: 200px
 ..     :align: right
-..     :class: img-circle img-responsive 
+..     :class: img-circle img-responsive
 
 
 
@@ -654,7 +654,7 @@ Wasith Theerapattrathamrong
 ..     :alt: Wasith Theerapattrathamrong
 ..     :height: 200px
 ..     :align: right
-..     :class: img-circle img-responsive 
+..     :class: img-circle img-responsive
 
 
 
@@ -710,7 +710,7 @@ Natapon Pantuwong
 ..     :alt: Natapon Pantuwong
 ..     :height: 200px
 ..     :align: right
-..     :class: img-circle img-responsive 
+..     :class: img-circle img-responsive
 
 
 
@@ -764,7 +764,7 @@ Min Khant Zaw
 ..     :alt: minkhantzaw38@gmail.com
 ..     :height: 200px
 ..     :align: right
-..     :class: img-circle img-responsive 
+..     :class: img-circle img-responsive
 
 
 
@@ -827,7 +827,7 @@ Watcharapol Watcharawisetkul
 ..     :alt: Watcharapol Watcharawisetkul
 ..     :height: 200px
 ..     :align: right
-..     :class: img-circle img-responsive 
+..     :class: img-circle img-responsive
 
 
 
@@ -881,7 +881,7 @@ Pinnapong Silpsakulsuk
     :alt: Pinnapong Silpsakulsuk
     :height: 200px
     :align: right
-    :class: img-circle img-responsive 
+    :class: img-circle img-responsive
 
 
 
@@ -924,11 +924,11 @@ Description
 -----------
 
 Python is a programming language that anyone can easily start with.
-It is the grammar is simple, included in the standard OS, executing is very easy. 
+It is the grammar is simple, included in the standard OS, executing is very easy.
 By the way, is there anything you find inconvenient in living? For example, for example, doing the same confirmation manually many times during development etc. Many tiny problems that can be automated actually exist.
 In this talk, I will talk about how we improved development environment using Python.
 
-Target: 
+Target:
 
 - Python beginner
 - Someone who wants to make something using Python
@@ -950,7 +950,7 @@ omega
     :alt: omega
     :height: 200px
     :align: right
-    :class: img-circle img-responsive 
+    :class: img-circle img-responsive
 
 
 
@@ -1045,7 +1045,7 @@ El
     :alt: El
     :height: 200px
     :align: right
-    :class: img-circle img-responsive 
+    :class: img-circle img-responsive
 
 
 
@@ -1106,7 +1106,7 @@ Mitsuki Sugiya
     :alt: Mitsuki Sugiya
     :height: 200px
     :align: right
-    :class: img-circle img-responsive 
+    :class: img-circle img-responsive
 
 
 
@@ -1166,7 +1166,7 @@ P. Sankaew
     :alt: P. Sankaew
     :height: 200px
     :align: right
-    :class: img-circle img-responsive 
+    :class: img-circle img-responsive
 
 
 
@@ -1201,7 +1201,7 @@ AI in Security, Finance, and eCommerce
 Abstract
 --------
 
-Using AI (particularly in field of computer vision and face recognition) for use in security in ecommerce and finance. 
+Using AI (particularly in field of computer vision and face recognition) for use in security in ecommerce and finance.
 
 I gave this talk in few meetups in Bangkok:
 https://goo.gl/eFdxbt
@@ -1230,7 +1230,7 @@ TaeWoo Kim
     :alt: TaeWoo Kim
     :height: 200px
     :align: right
-    :class: img-circle img-responsive 
+    :class: img-circle img-responsive
 
 
 
@@ -1246,14 +1246,14 @@ TaeWoo Kim
 
 
 15 Years in Engineering & Data in NYC / Silicon Valley
- 
- 
+
+
 Solar One Media
     Ad tech big data (RTB) processing 2 TB data/mo and $15m/year in ad spend
- 
+
 One Smart Lab
     AI in video surveillance & biometrics for finance, ecommerce, and security
- 
+
 Media
     - One Smart Lab on `Wall Street Journal <https://www.facebook.com/OneSmartLab/photos/a.1927919570760201.1073741828.1927901097428715/2080374985514658/?type=3&theater>`_
     - AT&T NYC hackathon `winner <https://www.onesmartlab.com/wp-content/uploads/2018/04/att-hackagthon-nblurred.jpg>`_
@@ -1299,14 +1299,14 @@ Nithiroj Tripatarasit
     :alt: nithirojt@yahoo.com
     :height: 200px
     :align: right
-    :class: img-circle img-responsive 
+    :class: img-circle img-responsive
 
 
 
 
 
 .. .. class:: fa fa-twitter fa-fw
-.. 
+..
 ..     `- <https://twitter.com/->`_
 
 
@@ -1352,13 +1352,13 @@ Abstract
 Description
 -----------
 
-ในทอล์คนี้จะเล่าถึงประสบการ์ณของทีมงาน Kaidee ในการใช้ Flask microframework ในหัวข้อต่างๆ เช่น  
+ในทอล์คนี้จะเล่าถึงประสบการ์ณของทีมงาน Kaidee ในการใช้ Flask microframework ในหัวข้อต่างๆ เช่น
 
 - ทำไมเราถึงเลือกใช้ Flask
 - มี framework อื่นที่เราใช้มั้ย
 - ประสบการ์ณที่เจอจากการใช้งาน
 
-หมายเหตุ: ทอล์คนี้จะไม่ได้ลงลึกทางเทคนิคมากนัก 
+หมายเหตุ: ทอล์คนี้จะไม่ได้ลงลึกทางเทคนิคมากนัก
 ภาษา: ไทย
 เหมาะสำหรับ: บุคคลทั่วไป, ผู้ที่ยังไม่เคยใช้งาน Flask ในทราฟฟิคสูงๆ, หรืออยากฟังประสบการ์ณการใช้งานจากทีมอื่น
 
@@ -1373,7 +1373,7 @@ Poohdish Rattanavijai
     :alt: Poohdish Rattanavijai
     :height: 200px
     :align: right
-    :class: img-circle img-responsive 
+    :class: img-circle img-responsive
 
 
 
@@ -1388,11 +1388,11 @@ Poohdish Rattanavijai
 
 
 
-I am:  
+I am:
 
 - Thai, atheist.
 - Coder, software enthusiast, teacher wannabe.
-- Read more than 7 lines per day. 
+- Read more than 7 lines per day.
 - Use spaces, not tabs.
 - Like to laugh and making people laugh.
 - Gamers and #NUFC
@@ -1442,7 +1442,7 @@ Jonathan Reiter
 ..     :alt: Jonathan Reiter
 ..     :height: 200px
 ..     :align: right
-..     :class: img-circle img-responsive 
+..     :class: img-circle img-responsive
 
 
 
@@ -1479,12 +1479,12 @@ You can look at the evolution of Python.
 Description
 -----------
 
-I think we began to use Python in some production systems at 2.3 or 2.4. I think Python 2.4 had enough functionality to build any system. Many tools ware created and used. 
+I think we began to use Python in some production systems at 2.3 or 2.4. I think Python 2.4 had enough functionality to build any system. Many tools ware created and used.
 
 Python 2.4 was released nearly 15 years ago. Since then Python has been steadily evolving.
 Although it is possible to create a system with only Python 2.4, it is necessary to know the latest Python trends in order to write code that is better, more maintainable, and more performance-oriented.
 
-There are also features and grammar in the web knockout that are often overlooked, not only by new python users, but also by seasoned Python veterans. 
+There are also features and grammar in the web knockout that are often overlooked, not only by new python users, but also by seasoned Python veterans.
 I will introduce those features and grammar that I think are important while comparing the grammar and functions incorporated in Python 2.4 and now.
 
 .. class:: jumbotron
@@ -1498,7 +1498,7 @@ Manabu TERADA
     :alt: Manabu TERADA
     :height: 200px
     :align: right
-    :class: img-circle img-responsive 
+    :class: img-circle img-responsive
 
 
 
@@ -1560,7 +1560,7 @@ Richard Washer
     :alt: Richard Washer
     :height: 200px
     :align: right
-    :class: img-circle img-responsive 
+    :class: img-circle img-responsive
 
 
 
@@ -1598,7 +1598,7 @@ Abstract
 
 I'll give a visually interesting talk on Jupyter, to show how:
 - exploratory programming is a powerful tool that should be in every Python developer's arsenal,
-- it's great for beginners to learn Python, 
+- it's great for beginners to learn Python,
 - it helps visualise results,
 - you can install on tmux on Android to run Python on the go.
 
@@ -1607,17 +1607,17 @@ Description
 
 By Jupyter! I'm gonna show you the power of Jupyter!
 
-By that I mean I'm going to do a live demo of Jupyter notebooks. 
+By that I mean I'm going to do a live demo of Jupyter notebooks.
 
 When I was a kid I grew up with the BBC Model B. When you switched this thing on, you got a prompt. You could launch into BASIC and write programs. Suddenly you felt powerful. The possibilities were endless. 30 years later, Jupyter again gives me that same feeling of being able to explore, solve problems, and that awesome power was right there at your fingertips.
 
 The exciting thing about this talk is that people will be able to interact with it as I go, and even write some code.
 
-I'll explain what Jupyter is, what it's used for, and then I'll do a demo using Jupyter to mess around with some data and make some plots. Then wow the crowd with an animation. 
+I'll explain what Jupyter is, what it's used for, and then I'll do a demo using Jupyter to mess around with some data and make some plots. Then wow the crowd with an animation.
 
 I'll set up a sandboxed notebook that the audience can access, such that they can follow along and try out the code on their mobile phones or laptops. For Android users, I'll then show them what they need to do to install jupyter running under termux, a debian-like environment for Android (no rooting required). Then I'll show them the awesome power of being able to write Python on a mobile device, by writing a script to log my phone's location and take photos, and show them by SSHing into a jupyter session on my phone and walking around with it.
 
-Live demos galore!! What can possibly go wrong?? But the nice thing is, because the jupyter notebooks will be running locally, I don't have to depend on the internet. 
+Live demos galore!! What can possibly go wrong?? But the nice thing is, because the jupyter notebooks will be running locally, I don't have to depend on the internet.
 
 My hope is that this talk will inspire people that programming is fun and exciting, and to remove the barrier to entry of it being hard to set up an environment.
 
@@ -1632,7 +1632,7 @@ Mike Amy
     :alt: Mike Amy
     :height: 200px
     :align: right
-    :class: img-circle img-responsive 
+    :class: img-circle img-responsive
 
 
 
@@ -1662,7 +1662,7 @@ Python for Life Sciences
 Abstract
 --------
 
-Python has gained increasing popularity among bioinformatics researchers and practitioners. 
+Python has gained increasing popularity among bioinformatics researchers and practitioners.
 
 In this talk, I will explain how Python is being used to help scientists decipher the language of Life. Specifically, I will show how to do biological sequence and structure analysis using Python.
 
@@ -1674,25 +1674,25 @@ Python has gained increasing popularity among bioinformatics researchers and pra
 The talk is divided into three parts. In the first part, I will briefly describe how biological molecules (e.g. DNA, Protein) are represented in computer programs. In the second part, I will present key Pythonic software tools in bioinformatics. Finally, in the third part, I will talk about two Biological data analysis tasks solved with Python, namely molecular sequence analysis and molecular structure analysis.
 
 .. A draft version of the talk outline is as follows.
-.. 
+..
 .. 0-5 minutes:
 .. * Introduction to the talk, “Why Python for Life Science?”
-.. * Highlights of some key problems in life sciences 
-.. 
+.. * Highlights of some key problems in life sciences
+..
 .. 5-7 minutes: How to represent biological molecules in Python?
 .. * Representations of DNA, RNA, and Proteins
-.. 
+..
 .. 7-8 minutes: Python software stack for Life Sciences.
 .. * BioPython, NumPy, SciPy, scikit-learn
-.. 
+..
 .. 8-16 minutes: Molecular sequence analysis
 .. * What are key questions asked by the scientists?
 .. * How can we find the answers for them using Python
-.. 
+..
 .. 16-25 minutes: Molecular structure analysis
 .. * What are key questions asked by the scientists?
 .. * How can we find the answers for them using Python
-.. 
+..
 .. 25-30 minutes: Q&A
 
 
@@ -1707,7 +1707,7 @@ Kulwadee Somboonviwat
     :alt: Kulwadee Somboonviwat
     :height: 200px
     :align: right
-    :class: img-circle img-responsive 
+    :class: img-circle img-responsive
 
 
 
@@ -1742,9 +1742,9 @@ Yannix provides Visual Effects (VFX) preparation services for Hollywood blockbus
 Description
 -----------
 
-Yannix has been providing Visual Effects (VFX) preparation and support services for over 2 decades. Located in suburban Bangkok, Yannix currently has about 350 employees.  We work on the latest Hollywood blockbuster movies,  many of which have won or been nominated for Academy Awards in VFX.  Examples of movies we have worked on recently include Black Panther, Spider-Man: Homecoming, Star Wars: The Last Jedi and Thor: Ragnarok. We develop completely custom, proprietary software packages for the computer graphics and image processing work we do, which includes match moving services such as 3D camera tracking (input: video, output: how the camera moved in 3D per frame), rotoscoping (output: cut-out of characters/objects per frame),  VR 360 motion reconstruction and image stitching, and many more.  For the past 12 years, we have been using Python as our primary application programming language, with specific code optimization for computationally intensive inner loops optimised into C++ library calls or small GPU programs.  We start our talk by showing a sizzle reel of the VFX-prep work we have done for our Hollywood movie clients.  We will then talk about the many cool things that can be done using Python by showing how we have used it.  We hope that by sharing this information, you will gain some insight into how Python can be used to effectively run your business, especially if, like Yannix, you need heavy compute power for algorithms requiring  parallel processing, data mining, machine learning, or computer vision. 
+Yannix has been providing Visual Effects (VFX) preparation and support services for over 2 decades. Located in suburban Bangkok, Yannix currently has about 350 employees.  We work on the latest Hollywood blockbuster movies,  many of which have won or been nominated for Academy Awards in VFX.  Examples of movies we have worked on recently include Black Panther, Spider-Man: Homecoming, Star Wars: The Last Jedi and Thor: Ragnarok. We develop completely custom, proprietary software packages for the computer graphics and image processing work we do, which includes match moving services such as 3D camera tracking (input: video, output: how the camera moved in 3D per frame), rotoscoping (output: cut-out of characters/objects per frame),  VR 360 motion reconstruction and image stitching, and many more.  For the past 12 years, we have been using Python as our primary application programming language, with specific code optimization for computationally intensive inner loops optimised into C++ library calls or small GPU programs.  We start our talk by showing a sizzle reel of the VFX-prep work we have done for our Hollywood movie clients.  We will then talk about the many cool things that can be done using Python by showing how we have used it.  We hope that by sharing this information, you will gain some insight into how Python can be used to effectively run your business, especially if, like Yannix, you need heavy compute power for algorithms requiring  parallel processing, data mining, machine learning, or computer vision.
 
-We have used Python in many cool ways. We will briefly present several cases here.  As part of our earlier tracking application, we have an application called Ptrack which not only is written primarily in Python, also uses Python scripting as a file format for application data storage.  Our current flagship application Obsidian (which is also written primarily in Python) uses Python as a macro language where all  UI widgets write out the corresponding Python API calls to a scripting window so that users can add their own Python macros to buttons by a simple cut/paste.  Obsidian is a GUI-based software developed in Python with parts such as image processing, multidimensional minimization and real-time interactive display functionality optimized in C++ or CUDA and called via Python.  Among its functions are feature matching and 2D motion analysis, 3D camera tracking, rigid object tracking, and rotoscoping services.  While we extensively use C++ as our inner loop optimization for parts of the code with high computational complexity, we also take full advantage of multiprocessing in the computational intensive sections.  Python is intentionally weak at high performance multiprocessing, but we will present how one can easily make Python applications that are truly multiprocessing by spawning threads in Python that call C++ functions which release the global interpreter lock, or simply using OpenMP from C++ functions.  Our C++ function calls are sometimes SIMD optimized to get up to about 4 times speedup for many of our image processing routines.  
+We have used Python in many cool ways. We will briefly present several cases here.  As part of our earlier tracking application, we have an application called Ptrack which not only is written primarily in Python, also uses Python scripting as a file format for application data storage.  Our current flagship application Obsidian (which is also written primarily in Python) uses Python as a macro language where all  UI widgets write out the corresponding Python API calls to a scripting window so that users can add their own Python macros to buttons by a simple cut/paste.  Obsidian is a GUI-based software developed in Python with parts such as image processing, multidimensional minimization and real-time interactive display functionality optimized in C++ or CUDA and called via Python.  Among its functions are feature matching and 2D motion analysis, 3D camera tracking, rigid object tracking, and rotoscoping services.  While we extensively use C++ as our inner loop optimization for parts of the code with high computational complexity, we also take full advantage of multiprocessing in the computational intensive sections.  Python is intentionally weak at high performance multiprocessing, but we will present how one can easily make Python applications that are truly multiprocessing by spawning threads in Python that call C++ functions which release the global interpreter lock, or simply using OpenMP from C++ functions.  Our C++ function calls are sometimes SIMD optimized to get up to about 4 times speedup for many of our image processing routines.
 
 We have also created advanced technologies such as automatic feature matching using  Bayesian classifiers that learn from data mining previously processed images.  Along the same lines, we have studied the creation of strong classifiers from a number of weak ones through the AdaBoost classifier we use via the open source scikit-learn library, a machine learning Python library. Nearly all aspects of our business operations are modeled through OpenERP (now called Odoo), also completely scripted in Python.  We will show the various unique features we have added to OpenERP to localize it for Thailand and to add our own innovative modules for workflow management, task/project management, company policy management, budget management, and many more.  We will also introduce a preview of the Yannix ERP (YnxERP) system currently under development to replace our OpenERP system by the end of 2018.  Even the distributed datastore/database used for the YnxERP was completely developed inhouse and has many innovative features we can share.  We will also introduce how we used Python scripting to integrate our software with Autodesk Maya, a popular 3D animation and modeling software commonly used in the VFX industry. Additionally, we will also present how we have successfully implemented GPU-based programming for image processing and other algorithms requiring massively parallel architectures, and called it from Python applications.  Having seen the many ways we have used Python in our business, we hope you will find something from this talk that will be of value to you and your business.
 
@@ -1759,7 +1759,7 @@ Xye
 ..     :alt: Xye
 ..     :height: 200px
 ..     :align: right
-..     :class: img-circle img-responsive 
+..     :class: img-circle img-responsive
 
 
 
@@ -1807,7 +1807,7 @@ Mishari Muqbil
     :alt: Mishari Muqbil
     :height: 200px
     :align: right
-    :class: img-circle img-responsive 
+    :class: img-circle img-responsive
 
 
 
@@ -1822,7 +1822,7 @@ Mishari Muqbil
 
 
 
-Mishari has been using Linux since 1994, coordinator with the distributed computing effort to break RC5-56 in 1997, built Thailand's largest Renderfarm for the animation Khan Kluay where he also started using Python. 
+Mishari has been using Linux since 1994, coordinator with the distributed computing effort to break RC5-56 in 1997, built Thailand's largest Renderfarm for the animation Khan Kluay where he also started using Python.
 
 Currently his obsessions are:
 
@@ -1858,7 +1858,7 @@ This talk, aims to make machine learning simple, fun and accessible to anyone. (
 Description
 -----------
 
-Machine learning is ranked numero uno in Gartner’s Top 10 Strategic Technology Trends for 2017. In recent years, it has received a lot of attention and already revolutionized many areas from finance to image recognition to transportation. This talk, aims to make machine learning simple, fun and accessible to anyone with working examples covering couple of tools. 
+Machine learning is ranked numero uno in Gartner’s Top 10 Strategic Technology Trends for 2017. In recent years, it has received a lot of attention and already revolutionized many areas from finance to image recognition to transportation. This talk, aims to make machine learning simple, fun and accessible to anyone with working examples covering couple of tools.
 
 .. class:: jumbotron
 
@@ -1871,7 +1871,7 @@ errazudin ishak
 ..     :alt: errazudin ishak
 ..     :height: 200px
 ..     :align: right
-..     :class: img-circle img-responsive 
+..     :class: img-circle img-responsive
 
 
 
@@ -1925,7 +1925,7 @@ Adam Gardiner
     :alt: Adam Gardiner
     :height: 200px
     :align: right
-    :class: img-circle img-responsive 
+    :class: img-circle img-responsive
 
 
 
@@ -1997,7 +1997,7 @@ Murat Knecht
 ..     :alt: Murat Knecht
 ..     :height: 200px
 ..     :align: right
-..     :class: img-circle img-responsive 
+..     :class: img-circle img-responsive
 
 
 
@@ -2066,7 +2066,7 @@ Murat Knecht
     :alt: Murat Knecht
     :height: 200px
     :align: right
-    :class: img-circle img-responsive 
+    :class: img-circle img-responsive
 
 
 
@@ -2130,7 +2130,7 @@ Pisuth Daengthongdee
 ..     :alt: Pisuth Daengthongdee
 ..     :height: 200px
 ..     :align: right
-..     :class: img-circle img-responsive 
+..     :class: img-circle img-responsive
 
 
 
@@ -2165,9 +2165,9 @@ Creating automated API tests should not be a chore. Enter Tavern, a pytest plugi
 Description
 -----------
 
-Being able to write and run automated API tests is something that should not be a struggle for teams practicing continuous integration. For a startup like us, the tools we adopt need to be well-maintained, easy to use, cost effective and ideally open source. Tavern fits the bill, and it's also a pytest plugin, which is a huge plus as well. 
+Being able to write and run automated API tests is something that should not be a struggle for teams practicing continuous integration. For a startup like us, the tools we adopt need to be well-maintained, easy to use, cost effective and ideally open source. Tavern fits the bill, and it's also a pytest plugin, which is a huge plus as well.
 
-In this workshop, we will cover how to get started with Tavern, how to start writing basic tests, how to use variables and reuse requests. Participants should walk away from the workshop with a solid understanding of how to use Tavern for API testing. 
+In this workshop, we will cover how to get started with Tavern, how to start writing basic tests, how to use variables and reuse requests. Participants should walk away from the workshop with a solid understanding of how to use Tavern for API testing.
 
 .. class:: jumbotron
 
@@ -2180,7 +2180,7 @@ banquil_05ive@yahoo.com
 ..     :alt: banquil_05ive@yahoo.com
 ..     :height: 200px
 ..     :align: right
-..     :class: img-circle img-responsive 
+..     :class: img-circle img-responsive
 
 
 
@@ -2191,7 +2191,7 @@ banquil_05ive@yahoo.com
 
 "Tester by choice"
 
-engageSPARK is my first official foray into the tech world. I fell into testing by chance, and remained a tester by choice. When asked to choose between 3 different career paths, I chose testing and I've loved every minute of it. Why? Because as a tester, I get to code AND annoy people about their buggy code, all at the same time! 
+engageSPARK is my first official foray into the tech world. I fell into testing by chance, and remained a tester by choice. When asked to choose between 3 different career paths, I chose testing and I've loved every minute of it. Why? Because as a tester, I get to code AND annoy people about their buggy code, all at the same time!
 
 -------
 
@@ -2234,7 +2234,7 @@ Prachya Boonkwan
     :alt: Prachya Boonkwan
     :height: 200px
     :align: right
-    :class: img-circle img-responsive 
+    :class: img-circle img-responsive
 
 
 
@@ -2282,7 +2282,7 @@ Michael Delfino
     :alt: Michael Delfino
     :height: 200px
     :align: right
-    :class: img-circle img-responsive 
+    :class: img-circle img-responsive
 
 
 
@@ -2323,7 +2323,7 @@ So you heard the name "Python" and now want to "speak" the language? This talk w
 Description
 -----------
 
-Python is considered one of the programming language that is easy to start yet is capable of accomplishing complex tasks due to the strong support from the community. It is one of the languages recommended to be the first to learn to understand how digital computers work without worrying too much on the language subtleties. 
+Python is considered one of the programming language that is easy to start yet is capable of accomplishing complex tasks due to the strong support from the community. It is one of the languages recommended to be the first to learn to understand how digital computers work without worrying too much on the language subtleties.
 
 Undoubtedly there are many resources available on the Internet, both for  those who want to get the taste of the programming world as well as those who are already well-versed in other programming languages. In this talk, the speaker will share experiences on a subset of them.
 
@@ -2338,7 +2338,7 @@ Surasak Watthanayontkit
 ..     :alt: Surasak Watthanayontkit
 ..     :height: 200px
 ..     :align: right
-..     :class: img-circle img-responsive 
+..     :class: img-circle img-responsive
 
 
 
@@ -2347,9 +2347,9 @@ Surasak Watthanayontkit
 
 
 
-Earned a B.Eng. nearly 20 years ago, when the vocabularies like "Deep Learning" and "Data Science" had not even been materialized. His full time job is traditional software development (Python is not used) and it has no direct relevance to Machine Learning. 
+Earned a B.Eng. nearly 20 years ago, when the vocabularies like "Deep Learning" and "Data Science" had not even been materialized. His full time job is traditional software development (Python is not used) and it has no direct relevance to Machine Learning.
 
-He discovered MOOCs in late 2013 and completed his first MOOC on Coursera in 2014. Since then, he has completed over 60 courses (he tries to increase the number even though has already lost the exact count) including a number of Python programming and Machine Learning courses. 
+He discovered MOOCs in late 2013 and completed his first MOOC on Coursera in 2014. Since then, he has completed over 60 courses (he tries to increase the number even though has already lost the exact count) including a number of Python programming and Machine Learning courses.
 
 In his spare time, apart from doing MOOCs/writing Python programs and practicing Keras/TensorFlow framework, he also writes Swfit programs (and published one on iOS AppStore, although, again, Swift is not used in his full time job) He also does endurance sports like long distance running (a.k.a. marathons), triathlons, and high-altitude trekking
 
@@ -2377,7 +2377,7 @@ Abstract
 Description
 -----------
 
-Machine Learning & Artifical Intelligence are intriguing topics - however, the complexity of these concepts makes it impossible to just quickly use those to build an app. The good news is: you do not have to be a data scientist to build intriguing apps that are able to listen, speak and see. 
+Machine Learning & Artifical Intelligence are intriguing topics - however, the complexity of these concepts makes it impossible to just quickly use those to build an app. The good news is: you do not have to be a data scientist to build intriguing apps that are able to listen, speak and see.
 
 What we will cover:
 
@@ -2397,7 +2397,7 @@ Uli
     :alt: Uli
     :height: 200px
     :align: right
-    :class: img-circle img-responsive 
+    :class: img-circle img-responsive
 
 
 
@@ -2469,7 +2469,7 @@ Michael Kohl
     :alt: Michael Kohl
     :height: 200px
     :align: right
-    :class: img-circle img-responsive 
+    :class: img-circle img-responsive
 
 
 
@@ -2523,7 +2523,7 @@ Lez Katzav
 ..     :alt: Lez Katzav (submitted by Mark on his behalf)
 ..     :height: 200px
 ..     :align: right
-..     :class: img-circle img-responsive 
+..     :class: img-circle img-responsive
 
 
 
@@ -2582,7 +2582,7 @@ Aravind Putrevu
 ..     :alt: Aravind Putrevu
 ..     :height: 200px
 ..     :align: right
-..     :class: img-circle img-responsive 
+..     :class: img-circle img-responsive
 
 
 
@@ -2597,9 +2597,9 @@ Aravind Putrevu
 
 
 
-Aravind is a loquacious person, who has something to talk about everything. He is passionate about evangelising technology, meeting developers and helping in solving their problems. He is a backend developer and has six years of development experience. Currently, he works as a Developer Advocate At Elastic and interact with developer community in South East Asia and India. 
+Aravind is a loquacious person, who has something to talk about everything. He is passionate about evangelising technology, meeting developers and helping in solving their problems. He is a backend developer and has six years of development experience. Currently, he works as a Developer Advocate At Elastic and interact with developer community in South East Asia and India.
 
-He has deep interest in Machine Learning, Security Incident Analysis and IoT tech. In his free time, he plays around Raspi or a Arduino. 
+He has deep interest in Machine Learning, Security Incident Analysis and IoT tech. In his free time, he plays around Raspi or a Arduino.
 
 -------
 
@@ -2624,34 +2624,34 @@ New research papers for object detection coming out every other day made really 
 
 .. Description
 .. -----------
-.. 
-.. The structure of my talk will follow the following timeline: 
-.. 
+..
+.. The structure of my talk will follow the following timeline:
+..
 .. * (0-10 minutes) - **Introduction**:<br>
 .. 1. Difference between the problem statement of Human/Object Detection and Recognition. <br>
 .. 2. Demonstration of how human tracking in a video plays a pivotal role in human counting as well as recognition over various frames. <br>
-.. 
+..
 .. * ( 10-25 minutes) - **Contradistinction of Human recognition and Object detection Algorithms**:<br>
 .. 1. Very brief introduction to YOLO/DarkNet Model.<br>
 .. 2. Comparison of YOLO2 with OpenCV's Haar Cascade Classifier for real-time human detection.<br>
 .. 3. Things to take care while deploying the YOLO2 with Python.<br>
-.. 
+..
 .. * (25-30 minutes) - **How to train your OWN YOLO2 and use the trained weights in Python**:<br>
 .. 1. How much data a.k.a diverse data is sufficient to train your own classifier?<br>
 .. 2. Effect of not using pre-trained YOLO model on scalability.<br>
 .. 3. How much accuracy is enough to finalise your model.<br>
 .. 4. Importance of Hyper-parameter tuning while training.<br>
-.. 
+..
 .. * (30-32 minutes) - **Video File Demo**<br>
 .. 1. Working demonstration of Human detection on a video as well as on an image.<br>
 .. 2. Get the output and save it in a csv file with the particular time/frame slot.<br>
-.. 
+..
 .. * (32-40 minutes) - **Use-Cases/Applications**:<br>
 .. 1. Generate Heat-Map in a mall/shop to analyse the crowd presence on different days/timings during the week.<br>
 .. 2. For surveillance purposes in offices, banks etc.<br>
 .. 3. Expansion on advanced level leads to provide significant help in motion detection.<br>
 .. 4. Gender Classification.<br>
-.. 
+..
 .. * (40-45 minutes) - Interactive Q&A session with listeners.<br>
 
 .. class:: jumbotron
@@ -2665,7 +2665,7 @@ Kajal Puri
     :alt: Kajal Puri
     :height: 200px
     :align: right
-    :class: img-circle img-responsive 
+    :class: img-circle img-responsive
 
 
 
@@ -2720,7 +2720,7 @@ Wannaphong Phatthiyaphaibun
     :alt: Wannaphong Phatthiyaphaibun
     :height: 200px
     :align: right
-    :class: img-circle img-responsive 
+    :class: img-circle img-responsive
 
 
 
@@ -2750,28 +2750,28 @@ Python for Self-Trackers: How to Visualize and Better Understand Your Life in Da
 Abstract
 --------
 
-Can personal data help us become more productive, healthier, and happier? 
+Can personal data help us become more productive, healthier, and happier?
 
-It’s easy to track with a smartphone, wearable, or sensor. But can data help us become a better self? 
+It’s easy to track with a smartphone, wearable, or sensor. But can data help us become a better self?
 
 I’ll show you how to track, and, with python, how to engage with your data to become a data-driven you!
 
 Description
 -----------
 
-**Can self-tracking and personal data help us become more productive, healthier, and happier?** 
+**Can self-tracking and personal data help us become more productive, healthier, and happier?**
 
-It’s easier than ever to track our lives, work and bodies with a smartphone, wearable, home sensor or computer. But what can we do with all this data? Can it help you become a better version of yourself? 
+It’s easier than ever to track our lives, work and bodies with a smartphone, wearable, home sensor or computer. But what can we do with all this data? Can it help you become a better version of yourself?
 
-While we often hear about data in terms of data leaks and surveillance, personal data and self-tracking can be empowering too.  With smartphones, wearables, tracking apps, home sensors, and many other methods, it’s easier than ever to collect a lot of data on our lives. But we are still struggling to engage and find meaning in all of the data we collect. 
+While we often hear about data in terms of data leaks and surveillance, personal data and self-tracking can be empowering too.  With smartphones, wearables, tracking apps, home sensors, and many other methods, it’s easier than ever to collect a lot of data on our lives. But we are still struggling to engage and find meaning in all of the data we collect.
 
 Python and its data science toolset can help transform personal data into a personal dashboard of data visualizations and predictive models. How can python help us better collect, visualize, understand and find patterns in our personal data and self-tracking?
 
-In this talk, I’ll show you how to track your life in different ways, and, with python’s data science toolkit, how to engage and understand that data. The stated goal of the quantified self and self-tracking is to “measure or document something about your self such that it gains meaning.” I think we can go one step further and use data to become better; use data to become data-driven! 
+In this talk, I’ll show you how to track your life in different ways, and, with python’s data science toolkit, how to engage and understand that data. The stated goal of the quantified self and self-tracking is to “measure or document something about your self such that it gains meaning.” I think we can go one step further and use data to become better; use data to become data-driven!
 
-In the first part of this talk, we will introduce what is self-tracking and the quantified self as well as various methods that can be used to track and collect data on our lives using wearables, smart phones, apps, computers, sensors, professional testing, etc. We will use python to collect, clean up, process and combine the data together. In the second part, our objective is to create a comprehensive dashboard of our life in data. We will begin our exploration of our personal data by creating a series of data visualizations. In the last part, we will use some statistical and machine learning techniques to search for categories, patterns, relationships and predictions in all of our tracking data. 
+In the first part of this talk, we will introduce what is self-tracking and the quantified self as well as various methods that can be used to track and collect data on our lives using wearables, smart phones, apps, computers, sensors, professional testing, etc. We will use python to collect, clean up, process and combine the data together. In the second part, our objective is to create a comprehensive dashboard of our life in data. We will begin our exploration of our personal data by creating a series of data visualizations. In the last part, we will use some statistical and machine learning techniques to search for categories, patterns, relationships and predictions in all of our tracking data.
 
-By the end of the talk, you should be equipped with some ways to track your life, health, productivity and more as well as how to use Python’s data science tools to engage, visualize, find patterns, and make predictions with your data.  
+By the end of the talk, you should be equipped with some ways to track your life, health, productivity and more as well as how to use Python’s data science tools to engage, visualize, find patterns, and make predictions with your data.
 
 .. class:: jumbotron
 
@@ -2784,7 +2784,7 @@ Mark Koester
     :alt: Mark Koester
     :height: 200px
     :align: right
-    :class: img-circle img-responsive 
+    :class: img-circle img-responsive
 
 
 
@@ -2800,20 +2800,20 @@ Mark Koester
 
 
 Mark Koester (@markwkoester) is a self-tracker, writer, and web and
-mobile app developer. Creator: 
+mobile app developer. Creator:
 `PhotoStatsApp <www.photostats.io>`_,
 a photo tracking app without the cloud,
 `PodcastTracker <www.podcasttracker.com>`_, a web app to log your
-podcast listening, and 
+podcast listening, and
 `Biomarker Tracker <www.biomarkertracker.com>`_,
 a health analytics service to better
 understand your blood test results. He currently runs a boutique
 dev shop (Int3c.com) and is an active open source contributor.
 Former Regional Lead in Greater China at Techstars, a seed-stage
 accelerator. He regularly writes about self-tracking, quantified
-self and data-driven life at www.markwk.com.    
+self and data-driven life at www.markwk.com.
 
-Social Media: 
+Social Media:
 
 * https://www.linkedin.com/in/markwkoester
 * https://twitter.com/markwkoester
@@ -2860,7 +2860,7 @@ Sippakorn Widsankun
 ..     :alt: Sippakorn Widsankun
 ..     :height: 200px
 ..     :align: right
-..     :class: img-circle img-responsive 
+..     :class: img-circle img-responsive
 
 
 
@@ -2869,10 +2869,10 @@ Sippakorn Widsankun
 
 
 
-- Robotics Programmer 
-- Hobbyist Photographer  
+- Robotics Programmer
+- Hobbyist Photographer
 - Wannabe World Traveler
-- Sci-Fi Movie Lover 
+- Sci-Fi Movie Lover
 - Alcoholic Atheist
 
 -------
@@ -2912,7 +2912,7 @@ Poomjai Nacaskul, PhD, DIC, CFA
 ..     :alt: Poomjai Nacaskul, PhD, DIC, CFA
 ..     :height: 200px
 ..     :align: right
-..     :class: img-circle img-responsive 
+..     :class: img-circle img-responsive
 
 
 
@@ -2951,7 +2951,7 @@ In this session, I will talk about how we can use Flask with Flask RESTplus to c
 Description
 -----------
 
-I have been using Flask with Flask RESTplus to create REST API based backend projects for around 3 years now. For those who don't know, Flask RESTplus is an amazing library for REST API development with features like automatic live documentation, input payload validation, neat code organization, automatic response marshaling and a lot of extensibility. You can easily extend it to include other features like response pagination, ETag caching, rate limiting, custom authentication and authorization system and basically anything else you can imagine. In this talk, I will share my hard gained knowledge with code snippets on how to quickly get started and do all these amazing things in Flask RESTplus. 
+I have been using Flask with Flask RESTplus to create REST API based backend projects for around 3 years now. For those who don't know, Flask RESTplus is an amazing library for REST API development with features like automatic live documentation, input payload validation, neat code organization, automatic response marshaling and a lot of extensibility. You can easily extend it to include other features like response pagination, ETag caching, rate limiting, custom authentication and authorization system and basically anything else you can imagine. In this talk, I will share my hard gained knowledge with code snippets on how to quickly get started and do all these amazing things in Flask RESTplus.
 
 .. class:: jumbotron
 
@@ -2964,7 +2964,7 @@ Avi Aryan
     :alt: Avi Aryan
     :height: 200px
     :align: right
-    :class: img-circle img-responsive 
+    :class: img-circle img-responsive
 
 
 
@@ -2979,7 +2979,7 @@ Avi Aryan
 
 
 
-Avi is a full-stack web engineer at Toptal with four years of professional experience. He has worked with most of the popular stack used on the web today including Python, JavaScript, and Go. He is also a multiple-time Google Summer of Code participant, where he mentors budding developers to contribute to open-source projects. These days he is working on his Blockchain based social media startup called HapRamp which aims to revolutionalize the social media ecosystem in India.  
+Avi is a full-stack web engineer at Toptal with four years of professional experience. He has worked with most of the popular stack used on the web today including Python, JavaScript, and Go. He is also a multiple-time Google Summer of Code participant, where he mentors budding developers to contribute to open-source projects. These days he is working on his Blockchain based social media startup called HapRamp which aims to revolutionalize the social media ecosystem in India.
 
 -------
 
@@ -3023,7 +3023,7 @@ Ronen Baram
 ..     :alt: Ronen Baram
 ..     :height: 200px
 ..     :align: right
-..     :class: img-circle img-responsive 
+..     :class: img-circle img-responsive
 
 
 
@@ -3077,7 +3077,7 @@ Yothin Muangsommuk
     :alt: Yothin Muangsommuk
     :height: 200px
     :align: right
-    :class: img-circle img-responsive 
+    :class: img-circle img-responsive
 
 
 
@@ -3131,7 +3131,7 @@ Jonas Obrist
     :alt: Jonas Obrist
     :height: 200px
     :align: right
-    :class: img-circle img-responsive 
+    :class: img-circle img-responsive
 
 
 
@@ -3147,4 +3147,43 @@ Jonas Obrist
 
 
 I'm a Python developer from Switzerland, living in Japan. I got started with Python developing modifications for the video game Counter-Strike before getting my first job building websites using Django. There I got involved with the popular open source Content Management System django CMS. Nowadays I work primarily with the Tornado framework and various asyncio libraries.
+
+-------
+
+
+.. class:: jumbotron clearfix
+
+
+
+Elasticsearch with Python
+==========================
+
+
+
+.. admonition:: Format
+
+    Format: Workshop ( > 60 minutes)
+
+
+Description
+-----------
+
+The workshop is organised as follow:
+
+    Part 1 (30 min)
+        Elasticsearch Basic - REST API, cluster etc
+
+    Part 2 (60 min)
+        Indexting elasticsearch with PyThon Client
+
+    Part 3 (30 min)
+        Elasticsearch APM service
+
+.. class:: jumbotron
+
+Elastic / Jongmin Kim - Developer Advocate / Evangelist
+--------------------------------------------------------
+
+Founded in 2012 in Amsterdam by the people behind Elasticsearch and Apache Lucene, Elastic set forth a vision that search can solve a plethora of data problems. The origins of the company start back in 2010, when Shay Banon wrote the first lines of Elasticsearch and open sourced it as a distributed search engine. With the rise of cloud computing and changes in IT infrastructure demanding requirements such as real-time search across infinite amounts of structured and unstructured data, Shay foresaw the need for a new type of software to solve today's real-world data problems. Steven Schuurman, Uri Boness, and Simon Willnauer shared in Shay's vision, joining forces to create the Elastic company we have today. Since then, the creators of Kibana, Logstash, and Beats have joined the Elastic family, rounding out a product portfolio known as the Elastic Stack, which is used by millions of developers around the world. The Elastic family unites employees across 32 countries into one coherent team, while the broader community spans across over 100 countries.
+
 
