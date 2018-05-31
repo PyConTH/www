@@ -33,14 +33,14 @@ span.thai { color: #00f; font-variant: small-caps; }
 /*     - Track 3 */
 /*    */
 /*2    * - 07:30 */
-body.schedule-list-table table.table tr:nth-of-type(2) { background-color: green; }
+body.schedule-list-table table.table.day1 tr:nth-of-type(2) { background-color: green; }
 /*     - :pyladies:`PyLadies` */
 /*     - :pyladies:`...` */
 /*     - :pyladies:`...` */
 /*    */
 /*3    * - 08:00 */
-body.schedule-list-table table.table tr:nth-of-type(3) { background-color: green; }
-body.schedule-list-table table.table tr:nth-of-type(3) td:nth-of-type(3) { background-color: white; }
+body.schedule-list-table table.table.day1 tr:nth-of-type(3) { background-color: green; }
+body.schedule-list-table table.table.day1 tr:nth-of-type(3) td:nth-of-type(3) { background-color: white; }
 /*     - :pyladies:`...` */
 /*     - :pyladies:`...` */
 /*     - :registration:`Registration Opens /  Welcome Coffee` */
@@ -51,7 +51,7 @@ body.schedule-list-table table.table tr:nth-of-type(3) td:nth-of-type(3) { backg
 /*     - :registration:`...` */
 /*    */
 /*5    * - 09:00 */
-body.schedule-list-table table.table tr:nth-of-type(5) { background-color: green; }
+body.schedule-list-table table.table.day1 tr:nth-of-type(5) { background-color: green; }
 /*     - :other:`Welcome and Introduction: Dylan Jay` */
 /*     - :other:`...` */
 /*     - :other:`...` */
