@@ -27,7 +27,7 @@ body.schedule-list-table a {
 span.pyladies { color: #fff2cc; }
 span.break { color: #689f54; }
 span.registration { color: #ff0; }
-span.other { color: #fff2cc; }
+span.other { color: #333; }
 span.beginner { color: #c9daf8; }
 span.intermediate { color: #e6b8af; }
 span.advanced { color: #d9d2e9; }
