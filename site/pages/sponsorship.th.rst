@@ -100,7 +100,7 @@ Individual Sponsors
     <div class="row">
       <div class="col col-sm-4">
         <div style="background-color:#FFFFFF;border:4px solid #DFDFDF;width:224px;height:96px;display:flex;justify-content:center;align-items:center;margin-left:auto;margin-right:auto;padding:10px;">
-          <a href="https://gummybear.tech/" alt="Gummybear Recruitment" style="width:100%;height:100%;background-image:url(/gummy-bear-black.png);background-size:contain;background-repeat:no-repeat;background-position:center;">
+          <a href="http://gummybear.tech/" alt="Gummybear Recruitment" style="width:100%;height:100%;background-image:url(/gummy-bear-black.png);background-size:contain;background-repeat:no-repeat;background-position:center;">
               </a>
         </div>
       </div>
