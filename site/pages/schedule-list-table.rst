@@ -33,7 +33,7 @@
    :stub-columns: 1
    :header-rows: 1
    :widths: 4 32 32 32
-   :class: day1 table table-striped table-condensed
+   :class: day1 table 
 
    * -
      - Track 1
@@ -163,7 +163,7 @@
    :stub-columns: 1
    :header-rows: 1
    :widths: 4 32 32 32
-   :class: day2 table table-striped table-condensed
+   :class: day2 table 
 
    * - 
      - Track 1
