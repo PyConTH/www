@@ -78,7 +78,7 @@ Silver Sponsors
       </div>
       -->
 
-      <div class="col col-sm-8">
+      <div class="col col-sm-16">
         <div style="background-color:#FFFFFF;border:4px solid #DFDFDF;width:252px;height:108px;display:flex;justify-content:center;align-items:center;margin-left:auto;margin-right:auto;padding:10px;">
           <a href="https://www.cloudflare.com/" alt="Cloudflare" style="width:100%;height:100%;background-image:url(/cf-logo-h-rev.svg);background-size:contain;background-repeat:no-repeat;background-position:center;">
               </a>
