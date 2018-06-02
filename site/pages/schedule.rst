@@ -150,7 +150,7 @@ Sunday, 17 June
    * - 09:10
      - `Attack of Pythons: Gotchas and Landmines in Python`_
      - `Alternative way for build async server`_ :intermediate:`Intermediate` :thai:`Thai`
-     - :break:`break` :break-title:`Your mother was a hamster and your father smelt of elderberries`
+     - :blank:`Your mother was a hamster and your father smelt of elderberries`
 
    * - 09:40
      - :break:`break` :break-title:`Fish Slapping Dance`
@@ -231,6 +231,7 @@ Sunday, 17 June
      - Closing
      - :blank:`Closing`
      - :blank:`Closing`
+
 
 .. _Attack of Pythons\: Gotchas and Landmines in Python: /talks#attack-of-pythons-gotchas-and-landmines-in-python
 .. _Unimaginable Things in Python: /talks#unimaginable-things-in-python
