@@ -223,7 +223,7 @@
      - :blank:`Why I Fell in Love with Tavern (and why I'm staying)`
 
    * - 12:45
-     - :break:`Salmon Mousse /  Lunch Break`
+     - :break:`Lunch Break` :break-title:`Salmon Mousse`
      - :blank:`Salmon Mousse /  Lunch Break`
      - :blank:`Salmon Mousse /  Lunch Break`
 
