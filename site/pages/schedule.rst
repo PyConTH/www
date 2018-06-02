@@ -77,11 +77,6 @@ Saturday, 16 June
      - `Concurrent python`_ :intermediate:`Intermediate` :thai:`Thai`
      - `Pythonic Functional Programming with Coconut`_ :advanced:`Advanced`
 
-   * - 11:50
-     - :break:`break` :break-title:`Throatwarbler Mangrove`
-     - :blank:`Throatwarbler Mangrove`
-     - :blank:`Throatwarbler Mangrove`
-
    * - 11:55
      - `Object detection and Human recognition with YOLO in Python`_ :beginner:`Beginner`
      - `Build dynamically scaled highly available python application with MySQL`_
@@ -96,11 +91,6 @@ Saturday, 16 June
      - `Rage Against The Learning Machine (A New Hope)`_ :intermediate:`Intermediate`
      - `การพัฒนาหุ่นยนต์ด้วยภาษา Python Developing robot with python`_ :beginner:`Beginner` :thai:`Thai`
      - `Teaching and Learning with Python`_
-
-   * - 14:10
-     - :break:`break` :break-title:`And now for something completely different`
-     - :blank:`And now for something completely different`
-     - :blank:`And now for something completely different`
 
    * - 14:15
      - `Python Software Development for Hollywood Blockbuster Movie VFX in Thailand`_
@@ -117,20 +107,10 @@ Saturday, 16 June
      - `Image Classification using Deep Learning in Python`_
      - `How many coin in your piggy bank with micro-python & 3D-Printer`_
 
-   * - 15:40
-     - :break:`break` :break-title:`Romanes eunt domus`
-     - :blank:`Romanes eunt domus`
-     - :blank:`Romanes eunt domus`
-
    * - 15:45
      - `Creating amazing APIs in Flask with Flask RESTplus`_ :intermediate:`Intermediate`
      - `Unimaginable Things in Python`_ :thai:`Thai`
      - `CoderDojo - a free programming club for kids`_
-
-   * - 16:15
-     - :break:`break` :break-title:`My Brain Hurts`
-     - :blank:`My Brain Hurts`
-     - :blank:`My Brain Hurts`
 
    * - 16:20
      - `Writing a good frontend test cases using RobotFramework`_
@@ -182,11 +162,6 @@ Sunday, 17 June
      - `Logo Detection Using PyTorch`_
      - :blank:`Your mother was a hamster and your father smelt of elderberries`
 
-   * - 10:20
-     - :break:`break` :break-title:`Dinsdale`
-     - :blank:`...`
-     - :blank:`Your mother was a hamster and your father smelt of elderberries`
-
    * - 10:25
      - `Building a sustainable codebases with Type Annotations`_ :intermediate:`Intermediate`
      - `Python for Self-Trackers: How to Visualize and Better Understand Your Life in Data`_
@@ -231,11 +206,6 @@ Sunday, 17 June
      - `Python + XPath = Extra Parsing Power`_ :intermediate:`Intermediate`
      - `Introduce syntax and history of Python from 2.4 to 3.6`_
      - :blank:`Elasticsearch with Python`
-
-   * - 15:10
-     - :break:`break` :break-title:`Cheese Shop`
-     - :blank:`Cheese Shop`
-     - :break:`break` :break-title:`Dead Parrot`
 
    * - 15:15
      - `Powerful geographic web framework GeoDjango`_ :beginner:`Beginner`
