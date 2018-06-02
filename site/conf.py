@@ -1100,7 +1100,7 @@ CONTENT_FOOTER = {
     <h2>Silver Sponsors</h2> <!-- TODO: translate -->
     <hr/>
     <div class="row">
-      <div class="col col-sm-4">
+      <div class="col col-sm-16">
         <div style="background-color:#FFFFFF;border:4px solid #DFDFDF;width:252px;height:108px;display:flex;justify-content:center;align-items:center;margin-left:auto;margin-right:auto;padding:10px;">
           <a href="https://acommerce.com/" alt="ACommerce" style="width:100%;height:100%;background-image:url(/acommerce_logo1.png);background-size:contain;background-repeat:no-repeat;background-position:center;">
               </a>
@@ -1188,7 +1188,7 @@ CONTENT_FOOTER = {
     <h2>Silver Sponsors</h2> <!-- TODO: translate -->
     <hr/>
     <div class="row">
-      <div class="col col-sm-4">
+      <div class="col col-sm-16">
         <div style="background-color:#FFFFFF;border:4px solid #DFDFDF;width:252px;height:108px;display:flex;justify-content:center;align-items:center;margin-left:auto;margin-right:auto;padding:10px;">
           <a href="https://acommerce.com/" alt="ACommerce" style="width:100%;height:100%;background-image:url(/acommerce_logo1.png);background-size:contain;background-repeat:no-repeat;background-position:center;">
               </a>
