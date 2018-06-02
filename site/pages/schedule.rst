@@ -13,6 +13,9 @@
 .. role:: blank
 .. role:: break
 .. role:: break-title
+.. role:: workshop
+   :class: workshop fa fa-laptop
+
 .. role:: thai
    :class: thai fa fa-language
 
@@ -175,7 +178,7 @@ Sunday, 17 June
    * - 11:20
      - `Playing with Social Network, Geo-Spatial, Financial Flow, and Banking System Data: Graph-Theoretic Computation in Python`_
      - `Django Backend from zero to deployment`_ :beginner:`Beginner`
-     - `Why I Fell in Love with Tavern (and why I'm staying)`_ :beginner:`Beginner`
+     - `Why I Fell in Love with Tavern (and why I'm staying)`_ :workshop:`Workshop` :beginner:`Beginner`
 
    * - 12:05
      - :break:`break` :break-title:`Lumberjack Song`
@@ -195,7 +198,7 @@ Sunday, 17 June
    * - 13:45
      - `Enabling Blockchain Energy Trading among Smart Buildings through the Use of Multi-Agent Systems and Internet of Things Devices`_
      - `DIY: Python with partially charged batteries`_ :thai:`Thai`
-     - `Elasticsearch with Python`_ :beginner:`Beginner`
+     - `Elasticsearch with Python`_ :workshop:`Workshop` :beginner:`Beginner`
 
    * - 14:30
      - :break:`break` :break-title:`Machine that goes "Ping!"`
