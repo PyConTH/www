@@ -232,6 +232,14 @@ Sunday, 17 June
      - :blank:`Closing`
      - :blank:`Closing`
 
+The more astute amongst our readers will have noticed a number of Monty Python
+references. As you know (and if you don't you really should!), the name, Python
+comes from the BBC show 
+`Monty Python's Flying Circus <https://en.wikipedia.org/wiki/Monty_Python%27s_Flying_Circus>`_
+and has nothing to do with those reptiles causing 
+`formication <https://en.wikipedia.org/wiki/Formication>`_.
+In honour of this, we shall have a Monty Python Quiz during the conference. A
+trial quiz can be taken `here <https://www.surveymonkey.com/r/9JJSMJG>`_.
 
 .. _Attack of Pythons\: Gotchas and Landmines in Python: /talks#attack-of-pythons-gotchas-and-landmines-in-python
 .. _Unimaginable Things in Python: /talks#unimaginable-things-in-python
