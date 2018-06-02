@@ -83,7 +83,7 @@ Saturday, 16 June
      - `Monitoring your Python Application`_ :beginner:`Beginner`
 
    * - 12:40
-     - :break:`lunch break (catered, level 10)` :break-title:`Spam, Spam, Egg, Bacon and Spam`
+     - :break:`lunch break (catered, level 9)` :break-title:`Spam, Spam, Egg, Bacon and Spam`
      - :blank:`Spam, Spam, Egg, Bacon and Spam`
      - :blank:`Spam, Spam, Egg, Bacon and Spam`
 
@@ -188,7 +188,7 @@ Sunday, 17 June
      - :blank:`Why I Fell in Love with Tavern (and why I'm staying)`
 
    * - 12:45
-     - :break:`lunch break (catered, level 10)` :break-title:`Salmon Mousse`
+     - :break:`lunch break (catered, level 9)` :break-title:`Salmon Mousse`
      - :blank:`Salmon Mousse /  Lunch Break`
      - :blank:`Salmon Mousse /  Lunch Break`
 
