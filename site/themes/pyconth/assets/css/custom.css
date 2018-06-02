@@ -37,6 +37,7 @@ span.fa { color: #7272e4; }
 table.table .fa:before { margin-right: 5px; }
 
 /* 1   * - 07:30 - Registration / :other:`PyLadies` */
+body.schedule table.table.day1 tbody tr:nth-of-type(1) th { background-color: rgba(181, 160, 172,.3); }
 body.schedule table.table.day1 tbody tr:nth-of-type(1) td:nth-of-type(1) { background-color: rgba(181, 160, 172,.3); }
 body.schedule table.table.day1 tbody tr:nth-of-type(1) td:nth-of-type(2) { background-color: rgba(181, 160, 172,.3); }
 body.schedule table.table.day1 tbody tr:nth-of-type(1) td:nth-of-type(3) { background-color: #ffe6e6; }
@@ -75,6 +76,7 @@ body.schedule table.table.day2 tr:nth-of-type(6) { background-color: rgba(181, 1
 /* 7    * - 11:20 - `Playing with Social Network, Geo-Spatial, Financial Flow, and Banking System Data: Graph-Theoretic Computation in Python`_ */
 body.schedule table.table.day2 tr:nth-of-type(7) td:nth-of-type(3) { background-color: rgba(181, 160, 272,.2); }
 /* 8    * - 12:05 - :break:`Lumberjack Song / Break` */
+body.schedule table.table.day2 tr:nth-of-type(8) th { background-color: rgba(181, 160, 172,.2); }
 body.schedule table.table.day2 tr:nth-of-type(8) td:nth-of-type(1) { background-color: rgba(181, 160, 172,.2); }
 body.schedule table.table.day2 tr:nth-of-type(8) td:nth-of-type(2) { background-color: rgba(181, 160, 172,.2); }
 body.schedule table.table.day2 tr:nth-of-type(8) td:nth-of-type(3) { background-color: rgba(181, 160, 272,.2); }
@@ -85,6 +87,7 @@ body.schedule table.table.day2 tr:nth-of-type(10) { background-color: rgba(181, 
 /* 11   * - 13:45 - `Enabling Blockchain Energy Trading among Smart Buildings through the Use of Multi-Agent Systems and Internet of Things Devices`_ */
 body.schedule table.table.day2 tr:nth-of-type(11) td:nth-of-type(3) { background-color: rgba(181, 160, 272,.2); }
 /* 12   * - 14:30 - :break:`Machine that goes "Ping!" / Break` */
+body.schedule table.table.day2 tr:nth-of-type(12) th { background-color: rgba(181, 160, 172,.2); }
 body.schedule table.table.day2 tr:nth-of-type(12) td:nth-of-type(1) { background-color: rgba(181, 160, 172,.2); }
 body.schedule table.table.day2 tr:nth-of-type(12) td:nth-of-type(2) { background-color: rgba(181, 160, 172,.2); }
 body.schedule table.table.day2 tr:nth-of-type(12) td:nth-of-type(3) { background-color: rgba(181, 160, 272,.2); }

@@ -58,7 +58,7 @@ Saturday, 16 June
      - :blank:`Keynote Speech: Wes McKinney`
 
    * - 09:55
-     - :break:`break` :break-title:`The Spanish Inquisition`
+     - :break:`break & snacks` :break-title:`The Spanish Inquisition`
      - :blank:`The Spanish Inquisition`
      - :blank:`The Spanish Inquisition`
 
@@ -83,7 +83,7 @@ Saturday, 16 June
      - `Monitoring your Python Application`_ :beginner:`Beginner`
 
    * - 12:40
-     - :break:`lunch break` :break-title:`Spam, Spam, Egg, Bacon and Spam`
+     - :break:`lunch break (catered, level 10)` :break-title:`Spam, Spam, Egg, Bacon and Spam`
      - :blank:`Spam, Spam, Egg, Bacon and Spam`
      - :blank:`Spam, Spam, Egg, Bacon and Spam`
 
@@ -143,9 +143,9 @@ Sunday, 17 June
      - Track 3
 
    * - 08:30
-     - :other:`Registration Opens /  Welcome Coffee`
-     - :blank:`Registration Opens /  Welcome Coffee`
-     - :blank:`Registration Opens /  Welcome Coffee`
+     - :other:`Registration Opens`
+     - :blank:`Registration Opens`
+     - :blank:`Registration Opens`
 
    * - 09:10
      - `Attack of Pythons: Gotchas and Landmines in Python`_
@@ -188,7 +188,7 @@ Sunday, 17 June
      - :blank:`Why I Fell in Love with Tavern (and why I'm staying)`
 
    * - 12:45
-     - :break:`Lunch Break` :break-title:`Salmon Mousse`
+     - :break:`lunch break (catered, level 10)` :break-title:`Salmon Mousse`
      - :blank:`Salmon Mousse /  Lunch Break`
      - :blank:`Salmon Mousse /  Lunch Break`
 
