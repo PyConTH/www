@@ -1,10 +1,10 @@
 .. title: Schedule (list-table)
 .. slug: schedule-list-table
 .. date: 2018-05-29 14:59:34 UTC+07:00
-.. tags: 
-.. category: 
-.. link: 
-.. description: 
+.. tags:
+.. category:
+.. link:
+.. description:
 .. type: text
 
 .. role:: pyladies
@@ -33,123 +33,123 @@
    :stub-columns: 1
    :header-rows: 1
    :widths: 4 32 32 32
-   :class: day1 table 
+   :class: day1 table
 
    * -
      - Track 1
      - Track 2
      - Track 3
-   
+
    * - 07:30
      - :pyladies:`PyLadies`
      - :pyladies:`...`
      - :pyladies:`...`
-   
+
    * - 08:00
      - :pyladies:`...`
      - :pyladies:`...`
      - :registration:`Registration Opens /  Welcome Coffee`
-   
+
    * - 08:30
      - :registration:`...`
      - :registration:`...`
      - :registration:`...`
-   
+
    * - 09:00
      - :other:`Welcome and Introduction: Dylan Jay`
      - :other:`...`
      - :other:`...`
-   
+
    * - 09:10
      - Keynote Speech: Wes McKinney
      - Keynote Speech: Wes McKinney
      - Keynote Speech: Wes McKinney
-   
+
    * - 09:55
      - :break:`The Spanish Inquisition / Break`
      - :break:`...`
      - :break:`...`
-   
+
    * - 10:25
      - `Using Python to build a smart contract in NEO blockchain`_ :beginner:`Beginner`
      - `A Beginner's Guide to Deep Natural Language Processing with PyTorch`_ :intermediate:`Intermediate`
      - `AI in Security, Finance, and eCommerce`_
-   
+
    * - 11:10
      - :break:`Dog Kennel / Break`
      - :break:`...`
      - :break:`...`
-   
+
    * - 11:20
      - `Python for Life Sciences`_ :intermediate:`Intermediate`
      - `Concurrent python`_ :intermediate:`Intermediate` :thai:`Thai`
      - `Pythonic Functional Programming with Coconut`_ :advanced:`Advanced`
-   
+
    * - 11:50
      - :break:`Throatwobbler Mangrove / Break`
      - :break:`...`
      - :break:`...`
-   
+
    * - 11:55
      - `Object detection and Human recognition with YOLO in Python`_ :beginner:`Beginner`
      - `Build dynamically scaled highly available python application with MySQL`_
      - `Monitoring your Python Application`_ :beginner:`Beginner`
-   
+
    * - 12:40
      - :break:`Spam, Spam, Egg, Bacon and Spam / Lunch Break`
      - :breaK:`...`
      - :breaK:`...`
-   
+
    * - 13:40
      - `Rage Against The Learning Machine (A New Hope)`_ :intermediate:`Intermediate`
      - `การพัฒนาหุ่นยนต์ด้วยภาษา Python Developing robot with python`_ :beginner:`Beginner` :thai:`Thai`
-     - `How many coin in your piggy bank with micro-python & 3D-Printer`_
-   
+     - `Teaching and Learning with Python`_
+
    * - 14:10
      - :break:`And now for something completely different / Break`
      - :break:`...`
      - :break:`...`
-   
+
    * - 14:15
      - `Python Software Development for Hollywood Blockbuster Movie VFX in Thailand`_
      - `The power of Jupyter notebooks`_ :beginner:`Beginner`
      - `A journey from Monolith into Microservices architecture`_
-   
+
    * - 15:00
      - :break:`Cycling Tour / Break`
      - :break:`...`
      - :break:`...`
-   
+
    * - 15:10
      - `Artisanal Async Adventures`_
      - `Image Classification using Deep Learning in Python`_
-     - `Teaching and Learning with Python`_
-   
+     - `How many coin in your piggy bank with micro-python & 3D-Printer`_
+
    * - 15:40
      - :break:`Romanes eunt domus / Break`
      - :break:`...`
      - :break:`...`
-   
+
    * - 15:45
      - `Creating amazing APIs in Flask with Flask RESTplus`_ :intermediate:`Intermediate`
      - `Unimaginable Things in Python`_ :thai:`Thai`
      - `CoderDojo - a free programming club for kids`_
-   
+
    * - 16:15
      - :break:`My Brain Hurts / Break`
      - :break:`...`
      - :break:`...`
-   
+
    * - 16:20
      - `Writing a good frontend test cases using RobotFramework`_
      - `Flask ณ Kaidee`_ :beginner:`Beginner` :thai:`Thai`
      - `Deep Learning in the Household`_ :beginner:`Beginner`
-   
+
    * - 16:50
      - :break:`Ministry of Silly Walks / Break`
      - :break:`...`
      - :break:`...`
-   
+
    * - 17:05
      - Lightning Talks
      - Lightning Talks
@@ -163,108 +163,108 @@
    :stub-columns: 1
    :header-rows: 1
    :widths: 4 32 32 32
-   :class: day2 table 
+   :class: day2 table
 
-   * - 
+   * -
      - Track 1
      - Track 2
      - Track 3
-   
+
    * - 08:30
      - :other:`Registration Opens /  Welcome Coffee`
      - :other:`Registration Opens /  Welcome Coffee`
      - :other:`Registration Opens /  Welcome Coffee`
-   
+
    * - 09:10
      - `Attack of Pythons: Gotchas and Landmines in Python`_
      - `Alternative way for build async server`_ :intermediate:`Intermediate` :thai:`Thai`
      - :break:`Your mother was a hamster and your father smelt of elderberries / Break`
-   
+
    * - 09:40
      - :break:`Fish Slapping Dance / Break`
      - :break:`...`
      - :break:`Your mother was a hamster and your father smelt of elderberries / Break`
-   
+
    * - 09:50
      - `Introduction to serverless Python with AWS Lambda`_ :beginner:`Beginner`
      - `Logo Detection Using PyTorch`_
      - :break:`Your mother was a hamster and your father smelt of elderberries / Break`
-   
+
    * - 10:20
      - :break:`Dinsdale / Break`
      - :break:`...`
      - :break:`Your mother was a hamster and your father smelt of elderberries / Break`
-   
+
    * - 10:25
      - `Building a sustainable codebases with Type Annotations`_ :intermediate:`Intermediate`
      - `Python for Self-Trackers: How to Visualize and Better Understand Your Life in Data`_
      - :break:`Your mother was a hamster and your father smelt of elderberries / Break`
-   
+
    * - 11:10
-     - :break:`Exploding Penguins on TV Set / Break` 
+     - :break:`Exploding Penguins on TV Set / Break`
      - :break:`...`
      - :break:`Your mother was a hamster and your father smelt of elderberries / Break`
-   
+
    * - 11:20
      - `Playing with Social Network, Geo-Spatial, Financial Flow, and Banking System Data: Graph-Theoretic Computation in Python`_
      - `Django Backend from zero to deployment`_ :beginner:`Beginner`
-     - Workshop To Be Announced
-   
+     - `Why I Fell in Love with Tavern (and why I'm staying)`_ :beginner:`Beginner`
+
    * - 12:05
      - :break:`Lumberjack Song / Break`
      - :break:`...`
-     - Workshop To Be Announced
-   
+     - `Why I Fell in Love with Tavern (and why I'm staying)`_ :beginner:`Beginner`
+
    * - 12:15
      - `Aaaarrgghh, Spider! Web scraping with Scrapy`_ :intermediate:`Intermediate`
      - `A JS developer tries python, escapes from Jupyter to build a product`_
-     - Workshop To Be Announced
-   
+     - `Why I Fell in Love with Tavern (and why I'm staying)`_ :beginner:`Beginner`
+
    * - 12:45
      - :break:`Salmon Mousse /  Lunch Break`
      - :break:`...`
      - :break:`...`
-   
+
    * - 13:45
      - `Enabling Blockchain Energy Trading among Smart Buildings through the Use of Multi-Agent Systems and Internet of Things Devices`_
      - `DIY: Python with partially charged batteries`_ :thai:`Thai`
-     - `Why I Fell in Love with Tavern (and why I'm staying)`_ :beginner:`Beginner`
-   
+     - `Elasticsearch with Python`_ :beginner:`Beginner`
+
    * - 14:30
      - :break:`Machine that goes "Ping!" / Break`
      - :break:`...`
-     - `Why I Fell in Love with Tavern (and why I'm staying)`_
-   
+     - `Elasticsearch with Python`_ :beginner:`Beginner`
+
    * - 14:40
      - `Python + XPath = Extra Parsing Power`_ :intermediate:`Intermediate`
      - `Introduce syntax and history of Python from 2.4 to 3.6`_
-     - `Why I Fell in Love with Tavern (and why I'm staying)`_
-   
+     - `Elasticsearch with Python`_ :beginner:`Beginner`
+
    * - 15:10
      - :break:`Cheese Shop / Break`
      - :break:`...`
      - :break:`Dead Parrot / Break`
-   
+
    * - 15:15
      - `Powerful geographic web framework GeoDjango`_ :beginner:`Beginner`
      - `Talk to your Python app - using LINE!`_ :intermediate:`Intermediate`
      - :break:`Dead Parrot / Break`
-   
+
    * - 15:45
      - :break:`Ni! / Break`
      - :break:`...`
      - :break:`Dead Parrot / Break`
-   
+
    * - 15:55
      - Lightning Talks
      - ...
      - ...
-   
+
    * - 16:55
      - Keynote: Tiwa York
      - Keynote: Tiwa York
      - Keynote: Tiwa York
-   
+
    * - 17:40
      - Closing
      - Closing
@@ -314,3 +314,4 @@
 .. _Build dynamically scaled highly available python application with MySQL: /talks#build-dynamically-scaled-highly-available-python-application-with-mysql
 .. _Building a sustainable codebases with Type Annotations: /talks#building-a-sustainable-codebases-with-type-annotations
 .. _Artisanal Async Adventures: /talks#artisanal-async-adventures
+.. _Elasticsearch with Python: /talks#elasticsearch-with-python
