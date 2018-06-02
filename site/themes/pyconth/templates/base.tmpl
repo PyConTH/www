@@ -8,7 +8,7 @@ ${base.html_headstart()}
 </%block>
 ${template_hooks['extra_head']()}
 </head> 
-<body class="${' '.join(pagekind)} ${' '.join(permalink.strip('/'+lang).split('/')) if permalink.strip('/'+lang) else 'frontpage'}  lang_${lang} lang_${'rtl' if is_rtl else 'ltr'}">
+<body class="${' '.join(pagekind)} ${' '.join(permalink.replace('/'+lang, '', 1).split('/')) if permalink.replace('/'+lang, '', 1) else 'index'}  lang_${lang} lang_${'rtl' if is_rtl else 'ltr'}">
 <a href="#content" class="sr-only sr-only-focusable">${messages("Skip to main content")}</a>
 
 <!-- Menubar -->
