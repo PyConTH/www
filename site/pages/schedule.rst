@@ -43,8 +43,8 @@
      - Track 3
 
    * - 08:00
-     - :registration:`Registration Opens /  Welcome Coffee`
-     - :blank:`Registration Opens /  Welcome Coffee`
+     - :registration:`Registration Opens`
+     - :blank:`Registration Opens`
      - :other:`PyLadies Breakfast (7:30-8:30)`
 
    * - 09:00
