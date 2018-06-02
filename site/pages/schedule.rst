@@ -1,5 +1,5 @@
-.. title: Schedule (list-table)
-.. slug: schedule-list-table
+.. title: Schedule
+.. slug: schedule
 .. date: 2018-05-29 14:59:34 UTC+07:00
 .. tags:
 .. category:
@@ -11,6 +11,7 @@
 .. role:: other
 .. role:: registration
 .. role:: break
+.. role:: break-title
 .. role:: thai
    :class: thai fa fa-language
 
@@ -41,9 +42,9 @@
      - Track 3
 
    * - 07:30
-     - :pyladies:`PyLadies`
-     - :pyladies:`...`
-     - :pyladies:`...`
+     - :other:`PyLadies`
+     - :other:`...`
+     - :other:`...`
 
    * - 08:00
      - :pyladies:`...`
@@ -66,7 +67,7 @@
      - Keynote Speech: Wes McKinney
 
    * - 09:55
-     - :break:`The Spanish Inquisition / Break`
+     - :break:`break` :break-title:`The Spanish Inquisition`
      - :break:`...`
      - :break:`...`
 
@@ -76,7 +77,7 @@
      - `AI in Security, Finance, and eCommerce`_
 
    * - 11:10
-     - :break:`Dog Kennel / Break`
+     - :break:`break` :break-title:`Dog Kennel`
      - :break:`...`
      - :break:`...`
 
@@ -86,7 +87,7 @@
      - `Pythonic Functional Programming with Coconut`_ :advanced:`Advanced`
 
    * - 11:50
-     - :break:`Throatwobbler Mangrove / Break`
+     - :break:`break` :break-title:`Throatwobbler Mangrove`
      - :break:`...`
      - :break:`...`
 
@@ -106,7 +107,7 @@
      - `Teaching and Learning with Python`_
 
    * - 14:10
-     - :break:`And now for something completely different / Break`
+     - :break:`break` :break-title:`And now for something completely different`
      - :break:`...`
      - :break:`...`
 
@@ -116,7 +117,7 @@
      - `A journey from Monolith into Microservices architecture`_
 
    * - 15:00
-     - :break:`Cycling Tour / Break`
+     - :break:`break` :break-title:`Cycling Tour`
      - :break:`...`
      - :break:`...`
 
@@ -126,7 +127,7 @@
      - `How many coin in your piggy bank with micro-python & 3D-Printer`_
 
    * - 15:40
-     - :break:`Romanes eunt domus / Break`
+     - :break:`break` :break-title:`Romanes eunt domus`
      - :break:`...`
      - :break:`...`
 
@@ -136,7 +137,7 @@
      - `CoderDojo - a free programming club for kids`_
 
    * - 16:15
-     - :break:`My Brain Hurts / Break`
+     - :break:`break` :break-title:`My Brain Hurts`
      - :break:`...`
      - :break:`...`
 
@@ -146,7 +147,7 @@
      - `Deep Learning in the Household`_ :beginner:`Beginner`
 
    * - 16:50
-     - :break:`Ministry of Silly Walks / Break`
+     - :break:`break` :break-title:`Ministry of Silly Walks`
      - :break:`...`
      - :break:`...`
 
@@ -178,32 +179,32 @@
    * - 09:10
      - `Attack of Pythons: Gotchas and Landmines in Python`_
      - `Alternative way for build async server`_ :intermediate:`Intermediate` :thai:`Thai`
-     - :break:`Your mother was a hamster and your father smelt of elderberries / Break`
+     - :break:`break` :break-title:`Your mother was a hamster and your father smelt of elderberries`
 
    * - 09:40
-     - :break:`Fish Slapping Dance / Break`
+     - :break:`break` :break-title:`Fish Slapping Dance`
      - :break:`...`
-     - :break:`Your mother was a hamster and your father smelt of elderberries / Break`
+     - :break:`break` :break-title:`Your mother was a hamster and your father smelt of elderberries`
 
    * - 09:50
      - `Introduction to serverless Python with AWS Lambda`_ :beginner:`Beginner`
      - `Logo Detection Using PyTorch`_
-     - :break:`Your mother was a hamster and your father smelt of elderberries / Break`
+     - :break:`break` :break-title:`Your mother was a hamster and your father smelt of elderberries`
 
    * - 10:20
-     - :break:`Dinsdale / Break`
+     - :break:`break` :break-title:`Dinsdale`
      - :break:`...`
-     - :break:`Your mother was a hamster and your father smelt of elderberries / Break`
+     - :break:`break` :break-title:`Your mother was a hamster and your father smelt of elderberries`
 
    * - 10:25
      - `Building a sustainable codebases with Type Annotations`_ :intermediate:`Intermediate`
      - `Python for Self-Trackers: How to Visualize and Better Understand Your Life in Data`_
-     - :break:`Your mother was a hamster and your father smelt of elderberries / Break`
+     - :break:`break` :break-title:`Your mother was a hamster and your father smelt of elderberries`
 
    * - 11:10
-     - :break:`Exploding Penguins on TV Set / Break`
+     - :break:`break` :break-title:`Exploding Penguins on TV Set`
      - :break:`...`
-     - :break:`Your mother was a hamster and your father smelt of elderberries / Break`
+     - :break:`break` :break-title:`Your mother was a hamster and your father smelt of elderberries`
 
    * - 11:20
      - `Playing with Social Network, Geo-Spatial, Financial Flow, and Banking System Data: Graph-Theoretic Computation in Python`_
@@ -211,7 +212,7 @@
      - `Why I Fell in Love with Tavern (and why I'm staying)`_ :beginner:`Beginner`
 
    * - 12:05
-     - :break:`Lumberjack Song / Break`
+     - :break:`break` :break-title:`Lumberjack Song`
      - :break:`...`
      - `Why I Fell in Love with Tavern (and why I'm staying)`_ :beginner:`Beginner`
 
@@ -231,7 +232,7 @@
      - `Elasticsearch with Python`_ :beginner:`Beginner`
 
    * - 14:30
-     - :break:`Machine that goes "Ping!" / Break`
+     - :break:`break` :break-title:`Machine that goes "Ping!"`
      - :break:`...`
      - `Elasticsearch with Python`_ :beginner:`Beginner`
 
@@ -241,19 +242,19 @@
      - `Elasticsearch with Python`_ :beginner:`Beginner`
 
    * - 15:10
-     - :break:`Cheese Shop / Break`
+     - :break:`break` :break-title:`Cheese Shop`
      - :break:`...`
-     - :break:`Dead Parrot / Break`
+     - :break:`break` :break-title:`Dead Parrot`
 
    * - 15:15
      - `Powerful geographic web framework GeoDjango`_ :beginner:`Beginner`
      - `Talk to your Python app - using LINE!`_ :intermediate:`Intermediate`
-     - :break:`Dead Parrot / Break`
+     - :break:`break` :break-title:`Dead Parrot`
 
    * - 15:45
-     - :break:`Ni! / Break`
+     - :break:`break` :break-title:`Ni!`
      - :break:`...`
-     - :break:`Dead Parrot / Break`
+     - :break:`break` :break-title:`Dead Parrot`
 
    * - 15:55
      - Lightning Talks
