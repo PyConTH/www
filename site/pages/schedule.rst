@@ -10,6 +10,7 @@
 .. role:: pyladies
 .. role:: other
 .. role:: registration
+.. role:: blank
 .. role:: break
 .. role:: break-title
 .. role:: thai
@@ -43,33 +44,33 @@
 
    * - 07:30
      - :other:`PyLadies`
-     - :other:`...`
-     - :other:`...`
+     - :blank:`...`
+     - :blank:`...`
 
    * - 08:00
-     - :pyladies:`...`
-     - :pyladies:`...`
+     - :blank:`...`
+     - :blank:`...`
      - :registration:`Registration Opens /  Welcome Coffee`
 
    * - 08:30
-     - :registration:`...`
-     - :registration:`...`
-     - :registration:`...`
+     - :blank:`...`
+     - :blank:`...`
+     - :blank:`...`
 
    * - 09:00
      - :other:`Welcome and Introduction: Dylan Jay`
-     - :other:`...`
-     - :other:`...`
+     - :blank:`...`
+     - :blank:`...`
 
    * - 09:10
      - Keynote Speech: Wes McKinney
-     - Keynote Speech: Wes McKinney
-     - Keynote Speech: Wes McKinney
+     - :blank:`Keynote Speech: Wes McKinney`
+     - :blank:`Keynote Speech: Wes McKinney`
 
    * - 09:55
      - :break:`break` :break-title:`The Spanish Inquisition`
-     - :break:`...`
-     - :break:`...`
+     - :blank:`...`
+     - :blank:`...`
 
    * - 10:25
      - `Using Python to build a smart contract in NEO blockchain`_ :beginner:`Beginner`
@@ -78,8 +79,8 @@
 
    * - 11:10
      - :break:`break` :break-title:`Dog Kennel`
-     - :break:`...`
-     - :break:`...`
+     - :blank:`...`
+     - :blank:`...`
 
    * - 11:20
      - `Python for Life Sciences`_ :intermediate:`Intermediate`
@@ -88,8 +89,8 @@
 
    * - 11:50
      - :break:`break` :break-title:`Throatwobbler Mangrove`
-     - :break:`...`
-     - :break:`...`
+     - :blank:`...`
+     - :blank:`...`
 
    * - 11:55
      - `Object detection and Human recognition with YOLO in Python`_ :beginner:`Beginner`
@@ -97,9 +98,9 @@
      - `Monitoring your Python Application`_ :beginner:`Beginner`
 
    * - 12:40
-     - :break:`Spam, Spam, Egg, Bacon and Spam / Lunch Break`
-     - :breaK:`...`
-     - :breaK:`...`
+     - :break:`lunch break` :break-title:`Spam, Spam, Egg, Bacon and Spam`
+     - :blank:`...`
+     - :blank:`...`
 
    * - 13:40
      - `Rage Against The Learning Machine (A New Hope)`_ :intermediate:`Intermediate`
@@ -108,8 +109,8 @@
 
    * - 14:10
      - :break:`break` :break-title:`And now for something completely different`
-     - :break:`...`
-     - :break:`...`
+     - :blank:`...`
+     - :blank:`...`
 
    * - 14:15
      - `Python Software Development for Hollywood Blockbuster Movie VFX in Thailand`_
@@ -118,8 +119,8 @@
 
    * - 15:00
      - :break:`break` :break-title:`Cycling Tour`
-     - :break:`...`
-     - :break:`...`
+     - :blank:`...`
+     - :blank:`...`
 
    * - 15:10
      - `Artisanal Async Adventures`_
@@ -128,8 +129,8 @@
 
    * - 15:40
      - :break:`break` :break-title:`Romanes eunt domus`
-     - :break:`...`
-     - :break:`...`
+     - :blank:`...`
+     - :blank:`...`
 
    * - 15:45
      - `Creating amazing APIs in Flask with Flask RESTplus`_ :intermediate:`Intermediate`
@@ -138,8 +139,8 @@
 
    * - 16:15
      - :break:`break` :break-title:`My Brain Hurts`
-     - :break:`...`
-     - :break:`...`
+     - :blank:`...`
+     - :blank:`...`
 
    * - 16:20
      - `Writing a good frontend test cases using RobotFramework`_
@@ -148,13 +149,13 @@
 
    * - 16:50
      - :break:`break` :break-title:`Ministry of Silly Walks`
-     - :break:`...`
-     - :break:`...`
+     - :blank:`...`
+     - :blank:`...`
 
    * - 17:05
      - Lightning Talks
-     - Lightning Talks
-     - Lightning Talks
+     - :blank:`Lightning Talks`
+     - :blank:`Lightning Talks`
 
 
 17 June
@@ -173,8 +174,8 @@
 
    * - 08:30
      - :other:`Registration Opens /  Welcome Coffee`
-     - :other:`Registration Opens /  Welcome Coffee`
-     - :other:`Registration Opens /  Welcome Coffee`
+     - :blank:`Registration Opens /  Welcome Coffee`
+     - :blank:`Registration Opens /  Welcome Coffee`
 
    * - 09:10
      - `Attack of Pythons: Gotchas and Landmines in Python`_
@@ -183,28 +184,28 @@
 
    * - 09:40
      - :break:`break` :break-title:`Fish Slapping Dance`
-     - :break:`...`
-     - :break:`break` :break-title:`Your mother was a hamster and your father smelt of elderberries`
+     - :blank:`...`
+     - :blank:`break`
 
    * - 09:50
      - `Introduction to serverless Python with AWS Lambda`_ :beginner:`Beginner`
      - `Logo Detection Using PyTorch`_
-     - :break:`break` :break-title:`Your mother was a hamster and your father smelt of elderberries`
+     - :blank:`break`
 
    * - 10:20
      - :break:`break` :break-title:`Dinsdale`
-     - :break:`...`
-     - :break:`break` :break-title:`Your mother was a hamster and your father smelt of elderberries`
+     - :blank:`...`
+     - :blank:`break`
 
    * - 10:25
      - `Building a sustainable codebases with Type Annotations`_ :intermediate:`Intermediate`
      - `Python for Self-Trackers: How to Visualize and Better Understand Your Life in Data`_
-     - :break:`break` :break-title:`Your mother was a hamster and your father smelt of elderberries`
+     - :blank:`break`
 
    * - 11:10
      - :break:`break` :break-title:`Exploding Penguins on TV Set`
-     - :break:`...`
-     - :break:`break` :break-title:`Your mother was a hamster and your father smelt of elderberries`
+     - :blank:`...`
+     - :blank:`break`
 
    * - 11:20
      - `Playing with Social Network, Geo-Spatial, Financial Flow, and Banking System Data: Graph-Theoretic Computation in Python`_
@@ -213,7 +214,7 @@
 
    * - 12:05
      - :break:`break` :break-title:`Lumberjack Song`
-     - :break:`...`
+     - :blank:`...`
      - `Why I Fell in Love with Tavern (and why I'm staying)`_ :beginner:`Beginner`
 
    * - 12:15
@@ -223,8 +224,8 @@
 
    * - 12:45
      - :break:`Salmon Mousse /  Lunch Break`
-     - :break:`...`
-     - :break:`...`
+     - :blank:`...`
+     - :blank:`...`
 
    * - 13:45
      - `Enabling Blockchain Energy Trading among Smart Buildings through the Use of Multi-Agent Systems and Internet of Things Devices`_
@@ -233,7 +234,7 @@
 
    * - 14:30
      - :break:`break` :break-title:`Machine that goes "Ping!"`
-     - :break:`...`
+     - :blank:`...`
      - `Elasticsearch with Python`_ :beginner:`Beginner`
 
    * - 14:40
@@ -243,33 +244,33 @@
 
    * - 15:10
      - :break:`break` :break-title:`Cheese Shop`
-     - :break:`...`
+     - :blank:`...`
      - :break:`break` :break-title:`Dead Parrot`
 
    * - 15:15
      - `Powerful geographic web framework GeoDjango`_ :beginner:`Beginner`
      - `Talk to your Python app - using LINE!`_ :intermediate:`Intermediate`
-     - :break:`break` :break-title:`Dead Parrot`
+     - :blank:`break`
 
    * - 15:45
      - :break:`break` :break-title:`Ni!`
-     - :break:`...`
-     - :break:`break` :break-title:`Dead Parrot`
+     - :blank:`...`
+     - :blank:`break`
 
    * - 15:55
      - Lightning Talks
-     - ...
-     - ...
+     - :blank:`...`
+     - :blank:`...`
 
    * - 16:55
      - Keynote: Tiwa York
-     - Keynote: Tiwa York
-     - Keynote: Tiwa York
+     - :blank:`Keynote: Tiwa York`
+     - :blank:`Keynote: Tiwa York`
 
    * - 17:40
      - Closing
-     - Closing
-     - Closing
+     - :blank:`Closing`
+     - :blank:`Closing`
 
 .. _Attack of Pythons\: Gotchas and Landmines in Python: /talks#attack-of-pythons-gotchas-and-landmines-in-python
 .. _Unimaginable Things in Python: /talks#unimaginable-things-in-python

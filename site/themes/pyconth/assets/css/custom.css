@@ -23,6 +23,7 @@ body.schedule a {
 }
 
 span.pyladies { color: #fff2cc; }
+span.blank { display: none; }
 span.break { color: #689f54; font-variant: small-caps; font-weight: bold; }
 span.break-title { color: #689f54; font-size: smaller; font-style: italic; }
 span.registration { color: #333; }
