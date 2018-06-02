@@ -42,20 +42,10 @@
      - Track 2
      - Track 3
 
-   * - 07:30
-     - :other:`PyLadies`
-     - :blank:`PyLadies`
-     - :blank:`PyLadies`
-
    * - 08:00
-     - :blank:`PyLadies`
-     - :blank:`PyLadies`
      - :registration:`Registration Opens /  Welcome Coffee`
-
-   * - 08:30
      - :blank:`Registration Opens /  Welcome Coffee`
-     - :blank:`Registration Opens /  Welcome Coffee`
-     - :blank:`Registration Opens /  Welcome Coffee`
+     - :other:`PyLadies Breakfast (7:30-8:30)`
 
    * - 09:00
      - :other:`Welcome and Introduction: Dylan Jay`
