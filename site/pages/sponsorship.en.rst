@@ -83,7 +83,7 @@ Silver Sponsors
 
 .. class:: text-center
 
-Individual Sponsors
+Bronze Sponsors
 -------------------
 
 .. raw:: html
