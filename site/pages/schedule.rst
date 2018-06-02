@@ -28,8 +28,8 @@
 .. contents::
 
 
-16 June
-=======
+Saturday, 16 June
+=================
 
 .. list-table:: Talk Schedule, 16 June
    :stub-columns: 1
@@ -148,8 +148,8 @@
      - :blank:`Lightning Talks`
 
 
-17 June
-=======
+Sunday, 17 June
+===============
 
 .. list-table:: Talk Schedule, 17 June
    :stub-columns: 1
