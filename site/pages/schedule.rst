@@ -13,6 +13,9 @@
 .. role:: blank
 .. role:: break
 .. role:: break-title
+.. role:: workshop
+   :class: workshop fa fa-laptop
+
 .. role:: thai
    :class: thai fa fa-language
 
@@ -28,8 +31,8 @@
 .. contents::
 
 
-16 June
-=======
+Saturday, 16 June
+=================
 
 .. list-table:: Talk Schedule, 16 June
    :stub-columns: 1
@@ -42,20 +45,10 @@
      - Track 2
      - Track 3
 
-   * - 07:30
-     - :other:`PyLadies`
-     - :blank:`PyLadies`
-     - :blank:`PyLadies`
-
    * - 08:00
-     - :blank:`PyLadies`
-     - :blank:`PyLadies`
-     - :registration:`Registration Opens /  Welcome Coffee`
-
-   * - 08:30
-     - :blank:`Registration Opens /  Welcome Coffee`
-     - :blank:`Registration Opens /  Welcome Coffee`
-     - :blank:`Registration Opens /  Welcome Coffee`
+     - :registration:`Registration Opens`
+     - :blank:`Registration Opens`
+     - :other:`PyLadies Breakfast (7:30-8:30)`
 
    * - 09:00
      - :other:`Welcome and Introduction: Dylan Jay`
@@ -68,7 +61,7 @@
      - :blank:`Keynote Speech: Wes McKinney`
 
    * - 09:55
-     - :break:`break` :break-title:`The Spanish Inquisition`
+     - :break:`break & snacks` :break-title:`The Spanish Inquisition`
      - :blank:`The Spanish Inquisition`
      - :blank:`The Spanish Inquisition`
 
@@ -87,18 +80,13 @@
      - `Concurrent python`_ :intermediate:`Intermediate` :thai:`Thai`
      - `Pythonic Functional Programming with Coconut`_ :advanced:`Advanced`
 
-   * - 11:50
-     - :break:`break` :break-title:`Throatwarbler Mangrove`
-     - :blank:`Throatwarbler Mangrove`
-     - :blank:`Throatwarbler Mangrove`
-
    * - 11:55
      - `Object detection and Human recognition with YOLO in Python`_ :beginner:`Beginner`
      - `Build dynamically scaled highly available python application with MySQL`_
      - `Monitoring your Python Application`_ :beginner:`Beginner`
 
    * - 12:40
-     - :break:`lunch break` :break-title:`Spam, Spam, Egg, Bacon and Spam`
+     - :break:`lunch break (catered, level 9)` :break-title:`Spam, Spam, Egg, Bacon and Spam`
      - :blank:`Spam, Spam, Egg, Bacon and Spam`
      - :blank:`Spam, Spam, Egg, Bacon and Spam`
 
@@ -106,11 +94,6 @@
      - `Rage Against The Learning Machine (A New Hope)`_ :intermediate:`Intermediate`
      - `การพัฒนาหุ่นยนต์ด้วยภาษา Python Developing robot with python`_ :beginner:`Beginner` :thai:`Thai`
      - `Teaching and Learning with Python`_
-
-   * - 14:10
-     - :break:`break` :break-title:`And now for something completely different`
-     - :blank:`And now for something completely different`
-     - :blank:`And now for something completely different`
 
    * - 14:15
      - `Python Software Development for Hollywood Blockbuster Movie VFX in Thailand`_
@@ -127,20 +110,10 @@
      - `Image Classification using Deep Learning in Python`_
      - `How many coin in your piggy bank with micro-python & 3D-Printer`_
 
-   * - 15:40
-     - :break:`break` :break-title:`Romanes eunt domus`
-     - :blank:`Romanes eunt domus`
-     - :blank:`Romanes eunt domus`
-
    * - 15:45
      - `Creating amazing APIs in Flask with Flask RESTplus`_ :intermediate:`Intermediate`
      - `Unimaginable Things in Python`_ :thai:`Thai`
      - `CoderDojo - a free programming club for kids`_
-
-   * - 16:15
-     - :break:`break` :break-title:`My Brain Hurts`
-     - :blank:`My Brain Hurts`
-     - :blank:`My Brain Hurts`
 
    * - 16:20
      - `Writing a good frontend test cases using RobotFramework`_
@@ -158,8 +131,8 @@
      - :blank:`Lightning Talks`
 
 
-17 June
-=======
+Sunday, 17 June
+===============
 
 .. list-table:: Talk Schedule, 17 June
    :stub-columns: 1
@@ -173,14 +146,14 @@
      - Track 3
 
    * - 08:30
-     - :other:`Registration Opens /  Welcome Coffee`
-     - :blank:`Registration Opens /  Welcome Coffee`
-     - :blank:`Registration Opens /  Welcome Coffee`
+     - :other:`Registration Opens`
+     - :blank:`Registration Opens`
+     - :blank:`Registration Opens`
 
    * - 09:10
      - `Attack of Pythons: Gotchas and Landmines in Python`_
      - `Alternative way for build async server`_ :intermediate:`Intermediate` :thai:`Thai`
-     - :break:`break` :break-title:`Your mother was a hamster and your father smelt of elderberries`
+     - :blank:`Your mother was a hamster and your father smelt of elderberries`
 
    * - 09:40
      - :break:`break` :break-title:`Fish Slapping Dance`
@@ -190,11 +163,6 @@
    * - 09:50
      - `Introduction to serverless Python with AWS Lambda`_ :beginner:`Beginner`
      - `Logo Detection Using PyTorch`_
-     - :blank:`Your mother was a hamster and your father smelt of elderberries`
-
-   * - 10:20
-     - :break:`break` :break-title:`Dinsdale`
-     - :blank:`...`
      - :blank:`Your mother was a hamster and your father smelt of elderberries`
 
    * - 10:25
@@ -210,7 +178,7 @@
    * - 11:20
      - `Playing with Social Network, Geo-Spatial, Financial Flow, and Banking System Data: Graph-Theoretic Computation in Python`_
      - `Django Backend from zero to deployment`_ :beginner:`Beginner`
-     - `Why I Fell in Love with Tavern (and why I'm staying)`_ :beginner:`Beginner`
+     - `Why I Fell in Love with Tavern (and why I'm staying)`_ :workshop:`Workshop` :beginner:`Beginner`
 
    * - 12:05
      - :break:`break` :break-title:`Lumberjack Song`
@@ -223,14 +191,14 @@
      - :blank:`Why I Fell in Love with Tavern (and why I'm staying)`
 
    * - 12:45
-     - :break:`Lunch Break` :break-title:`Salmon Mousse`
+     - :break:`lunch break (catered, level 9)` :break-title:`Salmon Mousse`
      - :blank:`Salmon Mousse /  Lunch Break`
      - :blank:`Salmon Mousse /  Lunch Break`
 
    * - 13:45
      - `Enabling Blockchain Energy Trading among Smart Buildings through the Use of Multi-Agent Systems and Internet of Things Devices`_
      - `DIY: Python with partially charged batteries`_ :thai:`Thai`
-     - `Elasticsearch with Python`_ :beginner:`Beginner`
+     - `Elasticsearch with Python`_ :workshop:`Workshop` :beginner:`Beginner`
 
    * - 14:30
      - :break:`break` :break-title:`Machine that goes "Ping!"`
@@ -241,11 +209,6 @@
      - `Python + XPath = Extra Parsing Power`_ :intermediate:`Intermediate`
      - `Introduce syntax and history of Python from 2.4 to 3.6`_
      - :blank:`Elasticsearch with Python`
-
-   * - 15:10
-     - :break:`break` :break-title:`Cheese Shop`
-     - :blank:`Cheese Shop`
-     - :break:`break` :break-title:`Dead Parrot`
 
    * - 15:15
      - `Powerful geographic web framework GeoDjango`_ :beginner:`Beginner`
@@ -271,6 +234,15 @@
      - Closing
      - :blank:`Closing`
      - :blank:`Closing`
+
+The more astute amongst our readers will have noticed a number of Monty Python
+references. As you know (and if you don't you really should!), the name, Python
+comes from the BBC show 
+`Monty Python's Flying Circus <https://en.wikipedia.org/wiki/Monty_Python%27s_Flying_Circus>`_
+and has nothing to do with those reptiles causing 
+`formication <https://en.wikipedia.org/wiki/Formication>`_.
+In honour of this, we shall have a Monty Python Quiz during the conference. A
+trial quiz can be taken `here <https://www.surveymonkey.com/r/9JJSMJG>`_.
 
 .. _Attack of Pythons\: Gotchas and Landmines in Python: /talks#attack-of-pythons-gotchas-and-landmines-in-python
 .. _Unimaginable Things in Python: /talks#unimaginable-things-in-python
