@@ -15,30 +15,26 @@ PyCon Thailand Organizing Team
 
 In alphabetical order:
 
-- Anny
 - Benjamin Scherrey
-- Dan Fowler
 - Dylan Jay
 - François Wautier
-- Gam Jiratchanon
-- Gatuk S. Chattanon
-- Golf - Poohdish Rattanavijai
-- Issaret Prachitmutita
 - Jean Jordaan
-- Kan Ouivirach
-- Mahatthana Nomsawadi
 - Mark Hollow
 - Michael Kohl
+- Narumol Hankrotha ( MOLLY )
 - Mike Amy
-- Narumol H.
-- Noah
-- P. Scully
-- Tanat Peerapaisarnsup
 - Tino Thamjarat
-- Yothinix
-- lifez
-- mils burasakorn
-- sorawit saengkyongam
+
+Thai Programming Association
+----------------------------
+- Issaret Prachitmutita ( MAX )
+- Tularat Thamprateep ( PARN )
+
+Graphics and Translation Support
+--------------------------------
+- Georgi Ker
+- Priscilla Mageropoulos
+- Bell
 
 
 Volunteers
@@ -54,17 +50,3 @@ Volunteer list
 ``````````````
 
 TBD
-
-Schedule
---------
-
-- Application period: ...
-- Announcement: ...
-
-Jobs
-----
-
-- Registration desk
-- Session staff
-- Swag bags
-- ...
