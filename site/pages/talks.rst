@@ -17,6 +17,21 @@ Here are details of all the talks and speakers.
 
 .. class:: jumbotron clearfix
 
+PyLadies Breakfast
+==================
+
+The PyCon Thailand team is proud to present, in conjunction with
+PyLadies Bangkok, the PyLadies breakfast. This year the breakfast
+is being organised by ..., a member of ...
+
+This is a networking event held on the morning of the Saturday of
+the conference, that allows women (cis and trans) and
+non-binary/genderqueer people attending the conference to make
+connections and enjoy the novelty of a women-majority tech space!
+(Men may also attend, as the "+1" guest of an attendee.)
+
+.. class:: jumbotron clearfix
+
 
 
 Attack of Pythons : Gotchas and Landmines in Python
