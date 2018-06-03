@@ -20,7 +20,7 @@ In alphabetical order:
 - François Wautier
 - Jean Jordaan
 - Mark Hollow
-- Michael Kohl
+- Michael Kohl |citizen428|_
 - Narumol Hankrotha ( MOLLY )
 - Mike Amy
 - Tino Thamjarat
@@ -36,7 +36,6 @@ Graphics and Translation Support
 - Priscilla Mageropoulos
 - Bell
 
-
 Volunteers
 ----------
 
@@ -50,3 +49,10 @@ Volunteer list
 ``````````````
 
 TBD
+
+.. role:: twitter
+   :class: fa fa-twitter fa-fw
+
+.. |citizen428| replace:: :twitter:`citizen428`
+.. _citizen428: https://twitter.com/citizen428
+
