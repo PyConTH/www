@@ -19,8 +19,10 @@ In alphabetical order:
 - Benjamin Scherrey
 - Dan Fowler
 - Dylan Jay
+- François Wautier
 - Gam Jiratchanon
 - Gatuk S. Chattanon
+- Golf - Poohdish Rattanavijai
 - Issaret Prachitmutita
 - Jean Jordaan
 - Kan Ouivirach
@@ -29,11 +31,15 @@ In alphabetical order:
 - Michael Kohl
 - Mike Amy
 - Narumol H.
+- Noah
 - P. Scully
 - Tanat Peerapaisarnsup
 - Tino Thamjarat
 - Yothinix
 - lifez
+- mils burasakorn
+- sorawit saengkyongam
+
 
 Volunteers
 ----------
