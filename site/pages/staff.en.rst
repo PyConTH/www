@@ -15,10 +15,10 @@ PyCon Thailand Organizing Team
 
 In alphabetical order:
 
-- Benjamin Scherrey
-- Dylan Jay
-- François Wautier
-- Jean Jordaan
+- Benjamin Scherrey |proteusguy|_
+- Dylan Jay |djay75|_
+- François Wautier |frawau|_
+- Jean Jordaan |jean|_
 - Mark Hollow
 - Michael Kohl |citizen428|_
 - Narumol Hankrotha ( MOLLY )
@@ -53,6 +53,21 @@ TBD
 .. role:: twitter
    :class: fa fa-twitter fa-fw
 
+.. role:: github
+   :class: fa fa-github fa-fw
+
 .. |citizen428| replace:: :twitter:`citizen428`
 .. _citizen428: https://twitter.com/citizen428
+
+.. |proteusguy| replace:: :twitter:`proteusguy`
+.. _proteusguy: https://twitter.com/proteusguy
+
+.. |djay75| replace:: :twitter:`djay75`
+.. _djay75: https://twitter.com/djay75
+
+.. |frawau| replace:: :github:`frawau`
+.. _frawau: https://github.com/frawau
+
+.. |jean| replace:: :github:`jean`
+.. _jean: https://github.com/jean
 
