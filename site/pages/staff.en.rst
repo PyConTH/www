@@ -34,7 +34,7 @@ Graphics and Translation Support
 --------------------------------
 - Georgi Ker
 - Priscilla Mageropoulos
-- Bell
+- Supanee Rittiaksorn ( BELL )
 
 Volunteers
 ----------
