@@ -34,7 +34,7 @@ connections and enjoy the novelty of a women-majority tech space!
 
 
 
-Attack of Pythons : Gotchas and Landmines in Python
+Attack of Pythons: Gotchas and Landmines in Python
 ===================================================
 
 
