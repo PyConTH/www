@@ -7,7 +7,7 @@
 .. description:
 .. type: text
 
-.. role:: pyladies
+.. role:: speaker
 .. role:: other
 .. role:: registration
 .. role:: blank
@@ -48,7 +48,7 @@ Saturday, 16 June
    * - 08:00
      - :registration:`Registration Opens`
      - :blank:`Registration Opens`
-     - :other:`PyLadies Breakfast (7:30-8:30)`
+     - `PyLadies Breakfast`_ (7:30-8:30)
 
    * - 09:00
      - :other:`Welcome and Introduction: Dylan Jay`
@@ -66,9 +66,9 @@ Saturday, 16 June
      - :blank:`The Spanish Inquisition`
 
    * - 10:25
-     - `Using Python to build a smart contract in NEO blockchain`_ :beginner:`Beginner`
-     - `A Beginner's Guide to Deep Natural Language Processing with PyTorch`_ :intermediate:`Intermediate`
-     - `AI in Security, Finance, and eCommerce`_
+     - `Using Python to build a smart contract in NEO blockchain`_ :beginner:`Beginner` :speaker:`Pisuth Daengthongdee`
+     - `A Beginner's Guide to Deep Natural Language Processing with PyTorch`_ :intermediate:`Intermediate` :speaker:`Prachya Boonkwan`
+     - `AI in Security, Finance, and eCommerce`_ :speaker:`TaeWoo Kim`
 
    * - 11:10
      - :break:`break` :break-title:`Dog Kennel`
@@ -76,14 +76,14 @@ Saturday, 16 June
      - :blank:`Dog Kennel`
 
    * - 11:20
-     - `Python for Life Sciences`_ :intermediate:`Intermediate`
-     - `Concurrent python`_ :intermediate:`Intermediate` :thai:`Thai`
-     - `Pythonic Functional Programming with Coconut`_ :advanced:`Advanced`
+     - `Python for Life Sciences`_ :intermediate:`Intermediate` :speaker:`Kulwadee Somboonviwat`
+     - `Concurrent python`_ :intermediate:`Intermediate` :thai:`Thai` :speaker:`Ukrid Kuldiloke`
+     - `Pythonic Functional Programming with Coconut`_ :advanced:`Advanced` :speaker:`Lez Katzav`
 
    * - 11:55
-     - `Object detection and Human recognition with YOLO in Python`_ :beginner:`Beginner`
-     - `Build dynamically scaled highly available python application with MySQL`_
-     - `Monitoring your Python Application`_ :beginner:`Beginner`
+     - `Object detection and Human recognition with YOLO in Python`_ :beginner:`Beginner` :speaker:`Kajal Puri`
+     - `Build dynamically scaled highly available python application with MySQL`_ :speaker:`Ronen Baram`
+     - `Monitoring your Python Application`_ :beginner:`Beginner` :speaker:`Aravind Putrevu`
 
    * - 12:40
      - :break:`lunch break (catered, level 9)` :break-title:`Spam, Spam, Egg, Bacon and Spam`
@@ -91,14 +91,14 @@ Saturday, 16 June
      - :blank:`Spam, Spam, Egg, Bacon and Spam`
 
    * - 13:40
-     - `Rage Against The Learning Machine (A New Hope)`_ :intermediate:`Intermediate`
-     - `การพัฒนาหุ่นยนต์ด้วยภาษา Python Developing robot with python`_ :beginner:`Beginner` :thai:`Thai`
-     - `Teaching and Learning with Python`_
+     - `Rage Against The Learning Machine (A New Hope)`_ :intermediate:`Intermediate` :speaker:`errazudin ishak`
+     - `การพัฒนาหุ่นยนต์ด้วยภาษา Python Developing robot with python`_ :beginner:`Beginner` :thai:`Thai` :speaker:`Sippakorn Widsankun`
+     - `Teaching and Learning with Python`_ :speaker:`Michael Delfino`
 
    * - 14:15
-     - `Python Software Development for Hollywood Blockbuster Movie VFX in Thailand`_
-     - `The power of Jupyter notebooks`_ :beginner:`Beginner`
-     - `A journey from Monolith into Microservices architecture`_
+     - `Python Software Development for Hollywood Blockbuster Movie VFX in Thailand`_ :speaker:`Xye`
+     - `The power of Jupyter notebooks`_ :beginner:`Beginner` :speaker:`Mike Amy`
+     - `A journey from Monolith into Microservices architecture`_ :speaker:`Pinnapong Silpsakulsuk`
 
    * - 15:00
      - :break:`break` :break-title:`Cycling Tour`
@@ -106,19 +106,19 @@ Saturday, 16 June
      - :blank:`Cycling Tour`
 
    * - 15:10
-     - `Artisanal Async Adventures`_
-     - `Image Classification using Deep Learning in Python`_
-     - `How many coin in your piggy bank with micro-python & 3D-Printer`_
+     - `Artisanal Async Adventures`_ :speaker:`Jonas Obrist`
+     - `Image Classification using Deep Learning in Python`_ :speaker:`Sandeep Saurabh`
+     - `How many coin in your piggy bank with micro-python & 3D-Printer`_ :speaker:`Montri Sroymukda`
 
    * - 15:45
-     - `Creating amazing APIs in Flask with Flask RESTplus`_ :intermediate:`Intermediate`
-     - `Unimaginable Things in Python`_ :thai:`Thai`
-     - `CoderDojo - a free programming club for kids`_
+     - `Creating amazing APIs in Flask with Flask RESTplus`_ :intermediate:`Intermediate` :speaker:`Avi Aryan`
+     - `Unimaginable Things in Python`_ :thai:`Thai` :speaker:`Watcharapol Watcharawisetkul`
+     - `CoderDojo - a free programming club for kids`_ :speaker:`Mishari Muqbil`
 
    * - 16:20
-     - `Writing a good frontend test cases using RobotFramework`_
-     - `Flask ณ Kaidee`_ :beginner:`Beginner` :thai:`Thai`
-     - `Deep Learning in the Household`_ :beginner:`Beginner`
+     - `Writing a good frontend test cases using RobotFramework`_ :speaker:`Min Khant Zaw`
+     - `Flask ณ Kaidee`_ :beginner:`Beginner` :thai:`Thai` :speaker:`Poohdish Rattanavijai`
+     - `Deep Learning in the Household`_ :beginner:`Beginner` :speaker:`Surasak Watthanayontkit`
 
    * - 16:50
      - :break:`break` :break-title:`Ministry of Silly Walks`
@@ -151,8 +151,8 @@ Sunday, 17 June
      - :blank:`Registration Opens`
 
    * - 09:10
-     - `Attack of Pythons: Gotchas and Landmines in Python`_
-     - `Alternative way for build async server`_ :intermediate:`Intermediate` :thai:`Thai`
+     - `Attack of Pythons: Gotchas and Landmines in Python`_ :speaker:`Manoj Pandey`
+     - `Alternative way for build async server`_ :intermediate:`Intermediate` :thai:`Thai` :speaker:`Phatthana Batt Tongon`
      - :blank:`Your mother was a hamster and your father smelt of elderberries`
 
    * - 09:40
@@ -161,13 +161,13 @@ Sunday, 17 June
      - :blank:`Fish Slapping Dance`
 
    * - 09:50
-     - `Introduction to serverless Python with AWS Lambda`_ :beginner:`Beginner`
-     - `Logo Detection Using PyTorch`_
+     - `Introduction to serverless Python with AWS Lambda`_ :beginner:`Beginner` :speaker:`Murat Knecht`
+     - `Logo Detection Using PyTorch`_ :speaker:`Nithiroj Tripatarasit`
      - :blank:`Your mother was a hamster and your father smelt of elderberries`
 
    * - 10:25
-     - `Building a sustainable codebases with Type Annotations`_ :intermediate:`Intermediate`
-     - `Python for Self-Trackers: How to Visualize and Better Understand Your Life in Data`_
+     - `Building a sustainable codebases with Type Annotations`_ :intermediate:`Intermediate` :speaker:`Yothin Muangsommuk`
+     - `Python for Self-Trackers: How to Visualize and Better Understand Your Life in Data`_ :speaker:`Mark Koester`
      - :blank:`Your mother was a hamster and your father smelt of elderberries`
 
    * - 11:10
@@ -176,9 +176,9 @@ Sunday, 17 June
      - :blank:`Your mother was a hamster and your father smelt of elderberries`
 
    * - 11:20
-     - `Playing with Social Network, Geo-Spatial, Financial Flow, and Banking System Data: Graph-Theoretic Computation in Python`_
-     - `Django Backend from zero to deployment`_ :beginner:`Beginner`
-     - `Why I Fell in Love with Tavern (and why I'm staying)`_ :workshop:`Workshop` :beginner:`Beginner`
+     - `Playing with Social Network, Geo-Spatial, Financial Flow, and Banking System Data: Graph-Theoretic Computation in Python`_ :speaker:`Poomjai Nacaskul, PhD, DIC, CFA`
+     - `Django Backend from zero to deployment`_ :beginner:`Beginner` :speaker:`El`
+     - `Why I Fell in Love with Tavern (and why I'm staying)`_ :workshop:`Workshop` :beginner:`Beginner` :speaker:`Lovely Banquil`
 
    * - 12:05
      - :break:`break` :break-title:`Lumberjack Song`
@@ -186,8 +186,8 @@ Sunday, 17 June
      - :blank:`Why I Fell in Love with Tavern (and why I'm staying)`
 
    * - 12:15
-     - `Aaaarrgghh, Spider! Web scraping with Scrapy`_ :intermediate:`Intermediate`
-     - `A JS developer tries python, escapes from Jupyter to build a product`_
+     - `Aaaarrgghh, Spider! Web scraping with Scrapy`_ :intermediate:`Intermediate` :speaker:`Michael Kohl`
+     - `A JS developer tries python, escapes from Jupyter to build a product`_ :speaker:`Richard Washer`
      - :blank:`Why I Fell in Love with Tavern (and why I'm staying)`
 
    * - 12:45
@@ -196,9 +196,9 @@ Sunday, 17 June
      - :blank:`Salmon Mousse /  Lunch Break`
 
    * - 13:45
-     - `Enabling Blockchain Energy Trading among Smart Buildings through the Use of Multi-Agent Systems and Internet of Things Devices`_
-     - `DIY: Python with partially charged batteries`_ :thai:`Thai`
-     - `Elasticsearch with Python`_ :workshop:`Workshop` :beginner:`Beginner`
+     - `Enabling Blockchain Energy Trading among Smart Buildings through the Use of Multi-Agent Systems and Internet of Things Devices`_ :speaker:`Dr. Warodom Khamphanchai`
+     - `DIY: Python with partially charged batteries`_ :thai:`Thai` :speaker:`Watcharapol Watcharawisetkul`
+     - `Elasticsearch with Python`_ :workshop:`Workshop` :beginner:`Beginner` :speaker:`Elastic / Jongmin Kim - Developer Advocate / Evangelist`
 
    * - 14:30
      - :break:`break` :break-title:`Machine that goes "Ping!"`
@@ -206,13 +206,13 @@ Sunday, 17 June
      - :blank:`Elasticsearch with Python`
 
    * - 14:40
-     - `Python + XPath = Extra Parsing Power`_ :intermediate:`Intermediate`
-     - `Introduce syntax and history of Python from 2.4 to 3.6`_
+     - `Python + XPath = Extra Parsing Power`_ :intermediate:`Intermediate` :speaker:`Jonathan Reiter`
+     - `Introduce syntax and history of Python from 2.4 to 3.6`_ :speaker:`Manabu TERADA`
      - :blank:`Elasticsearch with Python`
 
    * - 15:15
-     - `Powerful geographic web framework GeoDjango`_ :beginner:`Beginner`
-     - `Talk to your Python app - using LINE!`_ :intermediate:`Intermediate`
+     - `Powerful geographic web framework GeoDjango`_ :beginner:`Beginner` :speaker:`Mitsuki Sugiya`
+     - `Talk to your Python app - using LINE!`_ :intermediate:`Intermediate` :speaker:`Uli`
      - :blank:`Dead Parrot`
 
    * - 15:45
