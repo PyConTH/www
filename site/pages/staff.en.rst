@@ -36,10 +36,10 @@ Graphics and Translation Support
 - Priscilla Mageropoulos |digitalbase|_
 - Supanee Rittiaksorn ( BELL ) |bell|_
 
-Volunteer list
-``````````````
-
-TBD
+.. Volunteer list
+.. ``````````````
+.. 
+.. TBD
 
 .. role:: twitter
    :class: fa fa-twitter fa-fw
