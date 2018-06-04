@@ -15,56 +15,74 @@ PyCon Thailand Organizing Team
 
 In alphabetical order:
 
-- Anny
-- Benjamin Scherrey
-- Dan Fowler
-- Dylan Jay
-- François Wautier
-- Gam Jiratchanon
-- Gatuk S. Chattanon
-- Golf - Poohdish Rattanavijai
-- Issaret Prachitmutita
-- Jean Jordaan
-- Kan Ouivirach
-- Mahatthana Nomsawadi
-- Mark Hollow
-- Michael Kohl
-- Mike Amy
-- Narumol H.
-- Noah
-- P. Scully
-- Tanat Peerapaisarnsup
-- Tino Thamjarat
-- Yothinix
-- lifez
-- mils burasakorn
-- sorawit saengkyongam
+- Benjamin Scherrey |proteusguy|_
+- Dylan Jay |djay75|_
+- François Wautier |frawau|_
+- Jean Jordaan |jean|_
+- Krerkkrai Thamjarat ( TINO ) |vtno|_
+- Mark Hollow |hmmbug|_
+- Michael Kohl |citizen428|_
+- Narumol Hankrotha ( MOLLY )
+- Mike Amy |MikeAmy|_
 
+Thai Programming Association
+----------------------------
+- Issaret Prachitmutita ( MAX ) 
+- Tularat Thamprateep ( PARN )
 
-Volunteers
-----------
-
-Jump in to help make PyCon awesome!
-Please visit the `Application page <application>`_ to volunteer at 
-PyCon Thailand 2018.
-
-.. TODO: application form
+Graphics and Translation Support
+--------------------------------
+- Georgi Ker |marketingcan|_
+- Priscilla Mageropoulos |digitalbase|_
+- Supanee Rittiaksorn ( BELL ) |bell|_
 
 Volunteer list
 ``````````````
 
 TBD
 
-Schedule
---------
+.. role:: twitter
+   :class: fa fa-twitter fa-fw
 
-- Application period: ...
-- Announcement: ...
+.. role:: github
+   :class: fa fa-github fa-fw
 
-Jobs
-----
+.. role:: link
+   :class: fa fa-link fa-fw
 
-- Registration desk
-- Session staff
-- Swag bags
-- ...
+.. role:: linkedin
+   :class: fa fa-linkedin-square fa-fw
+
+.. |citizen428| replace:: :twitter:`citizen428`
+.. _citizen428: https://twitter.com/citizen428
+
+.. |proteusguy| replace:: :twitter:`proteusguy`
+.. _proteusguy: https://twitter.com/proteusguy
+
+.. |djay75| replace:: :twitter:`djay75`
+.. _djay75: https://twitter.com/djay75
+
+.. |frawau| replace:: :github:`frawau`
+.. _frawau: https://github.com/frawau
+
+.. |jean| replace:: :github:`jean`
+.. _jean: https://github.com/jean
+
+.. |hmmbug| replace:: :github:`hmmbug`
+.. _hmmbug: https://github.com/hmmbug
+
+.. |vtno| replace:: :github:`vtno`
+.. _vtno: https://github.com/vtno
+
+.. |MikeAmy| replace:: :github:`MikeAmy`
+.. _MikeAmy: https://github.com/MikeAmy
+
+.. |digitalbase| replace:: :link:`digitalbase.co.th`
+.. _digitalbase: https://www.digitalbase.co.th/
+
+.. |marketingcan| replace:: :link:`marketingcan.com`
+.. _marketingcan: http://marketingcan.com/
+
+.. |bell| replace:: :linkedin:`linkedin`
+.. _bell: https://th.linkedin.com/in/supanee-rittiaksorn-176b21b9
+
