@@ -17,7 +17,7 @@ body.schedule td {
     border-right: none;
 }
 
-body.schedule a {
+body.schedule table a {
     font-weight: bold;
     color: black;
 }
@@ -32,6 +32,7 @@ span.beginner { color: #c9daf8; }
 span.intermediate { color: #e6b8af; }
 span.advanced { color: #d9d2e9; }
 span.thai { color: #00f; font-variant: small-caps; }
+span.small-caps { font-variant: small-caps; }
 
 span.fa { color: #7272e4; }
 table.table .fa:before { margin-right: 5px; }
