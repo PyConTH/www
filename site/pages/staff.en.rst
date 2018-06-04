@@ -19,11 +19,11 @@ In alphabetical order:
 - Dylan Jay |djay75|_
 - François Wautier |frawau|_
 - Jean Jordaan |jean|_
+- Krerkkrai Thamjarat ( TINO )
 - Mark Hollow
 - Michael Kohl |citizen428|_
 - Narumol Hankrotha ( MOLLY )
 - Mike Amy
-- Tino Thamjarat
 
 Thai Programming Association
 ----------------------------
@@ -34,7 +34,7 @@ Graphics and Translation Support
 --------------------------------
 - Georgi Ker
 - Priscilla Mageropoulos
-- Bell
+- Supanee Rittiaksorn ( BELL )
 
 Volunteers
 ----------
