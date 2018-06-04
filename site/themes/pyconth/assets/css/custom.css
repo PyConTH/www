@@ -43,10 +43,10 @@ body.schedule table.table.day1 tr:nth-of-type(2) { background-color: rgba(181, 1
 /* 3   * - 09:00 - :other:`Welcome and Introduction: Dylan Jay` */
 /* 4   * - 09:10 - Keynote Speech: Wes McKinney */
 /* 5   * - 09:55 - :break:`The Spanish Inquisition / Break` */
-body.schedule table.table.day2 tr:nth-of-type(5) { background-color: rgba(181, 160, 172,.2); }
+body.schedule table.table.day1 tr:nth-of-type(5) { background-color: rgba(181, 160, 172,.2); }
 /* 6   * - 10:25 - `Using Python to build a smart contract in NEO blockchain`_ :beginner:`Beginner` */
 /* 7   * - 11:10 - :break:`Dog Kennel / Break` */
-body.schedule table.table.day2 tr:nth-of-type(7) { background-color: rgba(181, 160, 172,.2); }
+body.schedule table.table.day1 tr:nth-of-type(7) { background-color: rgba(181, 160, 172,.2); }
 /* 8   * - 11:20 - `Python for Life Sciences`_ :intermediate:`Intermediate` */
 /* 9   * - 11:55 - `Object detection and Human recognition with YOLO in Python`_ :beginner:`Beginner` */
 /* 10   * - 12:40 - :break:`Spam, Spam, Egg, Bacon and Spam / Lunch Break` */
