@@ -21,8 +21,7 @@ PyLadies Breakfast
 ==================
 
 The PyCon Thailand team is proud to present, in conjunction with
-PyLadies Bangkok, the PyLadies breakfast. This year the breakfast
-is being organised by ..., a member of ...
+PyLadies Bangkok, the PyLadies breakfast.
 
 This is a networking event held on the morning of the Saturday of
 the conference, that allows women (cis and trans) and
@@ -193,11 +192,12 @@ Every one c do by self.
 So I am share code in github `esp8266 micropython beginner <https://github.com/montri2025/esp8266-micropython-beginner>`_,
 `Relay 3 line <https://github.com/montri2025/esp8266-relay-wemos>`_
 and I fixed small bug I found on Marlin 3D-Printer firmware and make video help every-one under stand 3D-Printer Technology.
-~and I have youtube channel for share how to, review, teach
+And I have youtube channel for share how to, review, teach
 `3D-Printer, drone, micro controller, Etc <https://www.youtube.com/user/deenajacom>`_
 
 Who am I
 ````````
+
 My name is Montri Sroymukda. I am working for Kaidee.
 So why I select this topic to share.
 because it is easy every-one can do in your home.

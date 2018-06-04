@@ -30,6 +30,7 @@
 
 .. contents::
 
+All sessions are on *level 10* of the venue. Lunch will be on *level 9*.
 
 Saturday, 16 June
 =================
@@ -45,10 +46,15 @@ Saturday, 16 June
      - Track 2
      - Track 3
 
+   * - 07:30
+     - `PyLadies Breakfast`_ (until 8:30)
+     - :blank:`PyLadies Breakfast`
+     - :blank:`PyLadies Breakfast`
+
    * - 08:00
      - :registration:`Registration Opens`
      - :blank:`Registration Opens`
-     - `PyLadies Breakfast`_ (7:30-8:30)
+     - :blank:`Registration Opens`
 
    * - 09:00
      - :other:`Welcome and Introduction: Dylan Jay`
@@ -66,8 +72,10 @@ Saturday, 16 June
      - :blank:`The Spanish Inquisition`
 
    * - 10:25
-     - `Using Python to build a smart contract in NEO blockchain`_ :beginner:`Beginner` :speaker:`Pisuth Daengthongdee`
-     - `A Beginner's Guide to Deep Natural Language Processing with PyTorch`_ :intermediate:`Intermediate` :speaker:`Prachya Boonkwan`
+     - `Using Python to build a smart contract in NEO blockchain`_ :speaker:`Pisuth Daengthongdee` 
+       :beginner:`Beginner`
+     - `A Beginner's Guide to Deep Natural Language Processing with PyTorch`_ :speaker:`Prachya Boonkwan` 
+       :intermediate:`Intermediate`
      - `AI in Security, Finance, and eCommerce`_ :speaker:`TaeWoo Kim`
 
    * - 11:10
@@ -76,14 +84,19 @@ Saturday, 16 June
      - :blank:`Dog Kennel`
 
    * - 11:20
-     - `Python for Life Sciences`_ :intermediate:`Intermediate` :speaker:`Kulwadee Somboonviwat`
-     - `Concurrent python`_ :intermediate:`Intermediate` :thai:`Thai` :speaker:`Ukrid Kuldiloke`
-     - `Pythonic Functional Programming with Coconut`_ :advanced:`Advanced` :speaker:`Lez Katzav`
+     - `Python for Life Sciences`_ :speaker:`Kulwadee Somboonviwat` 
+       :intermediate:`Intermediate`
+     - `Concurrent python`_ :speaker:`Ukrid Kuldiloke` 
+       :intermediate:`Intermediate` :thai:`Thai`
+     - `Pythonic Functional Programming with Coconut`_ :speaker:`Lez Katzav` 
+       :advanced:`Advanced`
 
    * - 11:55
-     - `Object detection and Human recognition with YOLO in Python`_ :beginner:`Beginner` :speaker:`Kajal Puri`
+     - `Object detection and Human recognition with YOLO in Python`_ :speaker:`Kajal Puri` 
+       :beginner:`Beginner`
      - `Build dynamically scaled highly available python application with MySQL`_ :speaker:`Ronen Baram`
-     - `Monitoring your Python Application`_ :beginner:`Beginner` :speaker:`Aravind Putrevu`
+     - `Monitoring your Python Application`_ :speaker:`Aravind Putrevu` 
+       :beginner:`Beginner`
 
    * - 12:40
      - :break:`lunch break (catered, level 9)` :break-title:`Spam, Spam, Egg, Bacon and Spam`
@@ -91,13 +104,16 @@ Saturday, 16 June
      - :blank:`Spam, Spam, Egg, Bacon and Spam`
 
    * - 13:40
-     - `Rage Against The Learning Machine (A New Hope)`_ :intermediate:`Intermediate` :speaker:`errazudin ishak`
-     - `การพัฒนาหุ่นยนต์ด้วยภาษา Python Developing robot with python`_ :beginner:`Beginner` :thai:`Thai` :speaker:`Sippakorn Widsankun`
+     - `Rage Against The Learning Machine (A New Hope)`_ :speaker:`errazudin ishak` 
+       :intermediate:`Intermediate`
+     - `การพัฒนาหุ่นยนต์ด้วยภาษา Python Developing robot with python`_ :speaker:`Sippakorn Widsankun` 
+       :beginner:`Beginner` :thai:`Thai`
      - `Teaching and Learning with Python`_ :speaker:`Michael Delfino`
 
    * - 14:15
      - `Python Software Development for Hollywood Blockbuster Movie VFX in Thailand`_ :speaker:`Xye`
-     - `The power of Jupyter notebooks`_ :beginner:`Beginner` :speaker:`Mike Amy`
+     - `The power of Jupyter notebooks`_ :speaker:`Mike Amy` 
+       :beginner:`Beginner`
      - `A journey from Monolith into Microservices architecture`_ :speaker:`Pinnapong Silpsakulsuk`
 
    * - 15:00
@@ -111,14 +127,18 @@ Saturday, 16 June
      - `How many coin in your piggy bank with micro-python & 3D-Printer`_ :speaker:`Montri Sroymukda`
 
    * - 15:45
-     - `Creating amazing APIs in Flask with Flask RESTplus`_ :intermediate:`Intermediate` :speaker:`Avi Aryan`
-     - `Unimaginable Things in Python`_ :thai:`Thai` :speaker:`Watcharapol Watcharawisetkul`
+     - `Creating amazing APIs in Flask with Flask RESTplus`_ :speaker:`Avi Aryan` 
+       :intermediate:`Intermediate`
+     - `Unimaginable Things in Python`_ :speaker:`Watcharapol Watcharawisetkul` 
+       :thai:`Thai`
      - `CoderDojo - a free programming club for kids`_ :speaker:`Mishari Muqbil`
 
    * - 16:20
      - `Writing a good frontend test cases using RobotFramework`_ :speaker:`Min Khant Zaw`
-     - `Flask ณ Kaidee`_ :beginner:`Beginner` :thai:`Thai` :speaker:`Poohdish Rattanavijai`
-     - `Deep Learning in the Household`_ :beginner:`Beginner` :speaker:`Surasak Watthanayontkit`
+     - `Flask ณ Kaidee`_ :speaker:`Poohdish Rattanavijai` 
+       :beginner:`Beginner` :thai:`Thai`
+     - `Deep Learning in the Household`_ :speaker:`Surasak Watthanayontkit` 
+       :beginner:`Beginner`
 
    * - 16:50
      - :break:`break` :break-title:`Ministry of Silly Walks`
@@ -129,6 +149,11 @@ Saturday, 16 June
      - Lightning Talks
      - :blank:`Lightning Talks`
      - :blank:`Lightning Talks`
+
+   * - 18:00
+     - Close of day
+     - ---
+     - ---
 
 
 Sunday, 17 June
@@ -152,7 +177,8 @@ Sunday, 17 June
 
    * - 09:10
      - `Attack of Pythons: Gotchas and Landmines in Python`_ :speaker:`Manoj Pandey`
-     - `Alternative way for build async server`_ :intermediate:`Intermediate` :thai:`Thai` :speaker:`Phatthana Batt Tongon`
+     - `Alternative way for build async server`_ :speaker:`Phatthana Batt Tongon` 
+       :intermediate:`Intermediate` :thai:`Thai`
      - :blank:`Your mother was a hamster and your father smelt of elderberries`
 
    * - 09:40
@@ -161,12 +187,14 @@ Sunday, 17 June
      - :blank:`Fish Slapping Dance`
 
    * - 09:50
-     - `Introduction to serverless Python with AWS Lambda`_ :beginner:`Beginner` :speaker:`Murat Knecht`
+     - `Introduction to serverless Python with AWS Lambda`_ :speaker:`Murat Knecht` 
+       :beginner:`Beginner`
      - `Logo Detection Using PyTorch`_ :speaker:`Nithiroj Tripatarasit`
      - :blank:`Your mother was a hamster and your father smelt of elderberries`
 
    * - 10:25
-     - `Building a sustainable codebases with Type Annotations`_ :intermediate:`Intermediate` :speaker:`Yothin Muangsommuk`
+     - `Building a sustainable codebases with Type Annotations`_ :speaker:`Yothin Muangsommuk` 
+       :intermediate:`Intermediate`
      - `Python for Self-Trackers: How to Visualize and Better Understand Your Life in Data`_ :speaker:`Mark Koester`
      - :blank:`Your mother was a hamster and your father smelt of elderberries`
 
@@ -177,8 +205,10 @@ Sunday, 17 June
 
    * - 11:20
      - `Playing with Social Network, Geo-Spatial, Financial Flow, and Banking System Data: Graph-Theoretic Computation in Python`_ :speaker:`Poomjai Nacaskul, PhD, DIC, CFA`
-     - `Django Backend from zero to deployment`_ :beginner:`Beginner` :speaker:`El`
-     - `Why I Fell in Love with Tavern (and why I'm staying)`_ :workshop:`Workshop` :beginner:`Beginner` :speaker:`Lovely Banquil`
+     - `Django Backend from zero to deployment`_ :speaker:`El` 
+       :beginner:`Beginner`
+     - `Why I Fell in Love with Tavern (and why I'm staying)`_ :speaker:`Lovely Banquil` 
+       :workshop:`Workshop` :beginner:`Beginner`
 
    * - 12:05
      - :break:`break` :break-title:`Lumberjack Song`
@@ -186,7 +216,8 @@ Sunday, 17 June
      - :blank:`Why I Fell in Love with Tavern (and why I'm staying)`
 
    * - 12:15
-     - `Aaaarrgghh, Spider! Web scraping with Scrapy`_ :intermediate:`Intermediate` :speaker:`Michael Kohl`
+     - `Aaaarrgghh, Spider! Web scraping with Scrapy`_ :speaker:`Michael Kohl` 
+       :intermediate:`Intermediate`
      - `A JS developer tries python, escapes from Jupyter to build a product`_ :speaker:`Richard Washer`
      - :blank:`Why I Fell in Love with Tavern (and why I'm staying)`
 
@@ -197,8 +228,10 @@ Sunday, 17 June
 
    * - 13:45
      - `Enabling Blockchain Energy Trading among Smart Buildings through the Use of Multi-Agent Systems and Internet of Things Devices`_ :speaker:`Dr. Warodom Khamphanchai`
-     - `DIY: Python with partially charged batteries`_ :thai:`Thai` :speaker:`Watcharapol Watcharawisetkul`
-     - `Elasticsearch with Python`_ :workshop:`Workshop` :beginner:`Beginner` :speaker:`Elastic / Jongmin Kim - Developer Advocate / Evangelist`
+     - `DIY: Python with partially charged batteries`_ :speaker:`Watcharapol Watcharawisetkul` 
+       :thai:`Thai`
+     - `Elasticsearch with Python`_ :speaker:`Elastic / Jongmin Kim - Developer Advocate / Evangelist` 
+       :workshop:`Workshop` :beginner:`Beginner`
 
    * - 14:30
      - :break:`break` :break-title:`Machine that goes "Ping!"`
@@ -206,13 +239,16 @@ Sunday, 17 June
      - :blank:`Elasticsearch with Python`
 
    * - 14:40
-     - `Python + XPath = Extra Parsing Power`_ :intermediate:`Intermediate` :speaker:`Jonathan Reiter`
+     - `Python + XPath = Extra Parsing Power`_ :speaker:`Jonathan Reiter` 
+       :intermediate:`Intermediate`
      - `Introduce syntax and history of Python from 2.4 to 3.6`_ :speaker:`Manabu TERADA`
      - :blank:`Elasticsearch with Python`
 
    * - 15:15
-     - `Powerful geographic web framework GeoDjango`_ :beginner:`Beginner` :speaker:`Mitsuki Sugiya`
-     - `Talk to your Python app - using LINE!`_ :intermediate:`Intermediate` :speaker:`Uli`
+     - `Powerful geographic web framework GeoDjango`_ :speaker:`Mitsuki Sugiya` 
+       :beginner:`Beginner`
+     - `Talk to your Python app - using LINE!`_ :speaker:`Uli` 
+       :intermediate:`Intermediate`
      - :blank:`Dead Parrot`
 
    * - 15:45
@@ -235,6 +271,11 @@ Sunday, 17 June
      - :blank:`Closing`
      - :blank:`Closing`
 
+   * - 18:00
+     - Close of day
+     - ---
+     - ---
+
 The more astute amongst our readers will have noticed a number of Monty Python
 references. As you know (and if you don't you really should!), the name, Python
 comes from the BBC show 
@@ -244,6 +285,7 @@ and has nothing to do with those reptiles causing
 In honour of this, we shall have a Monty Python Quiz during the conference. A
 trial quiz can be taken `here <https://www.surveymonkey.com/r/9JJSMJG>`_.
 
+.. _PyLadies Breakfast: /talks#pyladies-breakfast
 .. _Attack of Pythons\: Gotchas and Landmines in Python: /talks#attack-of-pythons-gotchas-and-landmines-in-python
 .. _Unimaginable Things in Python: /talks#unimaginable-things-in-python
 .. _How many coin in your piggy bank with micro-python & 3D-Printer: /talks#how-many-coin-in-your-piggy-bank-with-micro-python-3d-printer

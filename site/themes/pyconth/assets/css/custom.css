@@ -37,31 +37,30 @@ span.fa { color: #7272e4; }
 table.table .fa:before { margin-right: 5px; }
 
 /* 1   * - 07:30 - Registration / :other:`PyLadies` */
-body.schedule table.table.day1 tbody tr:nth-of-type(1) th { background-color: rgba(181, 160, 172,.3); }
-body.schedule table.table.day1 tbody tr:nth-of-type(1) td:nth-of-type(1) { background-color: rgba(181, 160, 172,.3); }
-body.schedule table.table.day1 tbody tr:nth-of-type(1) td:nth-of-type(2) { background-color: rgba(181, 160, 172,.3); }
-body.schedule table.table.day1 tbody tr:nth-of-type(1) td:nth-of-type(3) { background-color: #ffe6e6; }
-/* 2   * - 09:00 - :other:`Welcome and Introduction: Dylan Jay` */
-/* 3   * - 09:10 - Keynote Speech: Wes McKinney */
-/* 4   * - 09:55 - :break:`The Spanish Inquisition / Break` */
-body.schedule table.table.day1 tr:nth-of-type(4) { background-color: rgba(181, 160, 172,.2); }
-/* 5   * - 10:25 - `Using Python to build a smart contract in NEO blockchain`_ :beginner:`Beginner` */
-/* 6   * - 11:10 - :break:`Dog Kennel / Break` */
-body.schedule table.table.day1 tr:nth-of-type(6) { background-color: rgba(181, 160, 172,.2); }
-/* 7   * - 11:20 - `Python for Life Sciences`_ :intermediate:`Intermediate` */
-/* 8   * - 11:55 - `Object detection and Human recognition with YOLO in Python`_ :beginner:`Beginner` */
-/* 9   * - 12:40 - :break:`Spam, Spam, Egg, Bacon and Spam / Lunch Break` */
-body.schedule table.table.day1 tr:nth-of-type(9) { background-color: rgba(181, 160, 172,.2); }
-/* 10  * - 13:40 - `Rage Against The Learning Machine (A New Hope)`_ :intermediate:`Intermediate` */
-/* 11  * - 14:15 - `Python Software Development for Hollywood Blockbuster Movie VFX in Thailand`_ */
-/* 12  * - 15:00 - :break:`Cycling Tour / Break` */
-body.schedule table.table.day1 tr:nth-of-type(12) { background-color: rgba(181, 160, 172,.2); }
-/* 13  * - 15:10 - `Artisanal Async Adventures`_ */
-/* 14  * - 15:45 - `Creating amazing APIs in Flask with Flask RESTplus`_ :intermediate:`Intermediate` */
-/* 15  * - 16:20 - `Writing a good frontend test cases using RobotFramework`_ */
-/* 16  * - 16:50 - :break:`Ministry of Silly Walks / Break` */
-body.schedule table.table.day1 tr:nth-of-type(16) { background-color: rgba(181, 160, 172,.2); }
-/* 17  * - 17:05 - Lightning Talks */
+body.schedule table.table.day1 tbody tr:nth-of-type(1) { background-color: #ffe6e6; }
+/* 2   * - 08:00 - Registration */
+body.schedule table.table.day1 tr:nth-of-type(2) { background-color: rgba(181, 160, 172,.3); }
+/* 3   * - 09:00 - :other:`Welcome and Introduction: Dylan Jay` */
+/* 4   * - 09:10 - Keynote Speech: Wes McKinney */
+/* 5   * - 09:55 - :break:`The Spanish Inquisition / Break` */
+body.schedule table.table.day2 tr:nth-of-type(5) { background-color: rgba(181, 160, 172,.2); }
+/* 6   * - 10:25 - `Using Python to build a smart contract in NEO blockchain`_ :beginner:`Beginner` */
+/* 7   * - 11:10 - :break:`Dog Kennel / Break` */
+body.schedule table.table.day2 tr:nth-of-type(7) { background-color: rgba(181, 160, 172,.2); }
+/* 8   * - 11:20 - `Python for Life Sciences`_ :intermediate:`Intermediate` */
+/* 9   * - 11:55 - `Object detection and Human recognition with YOLO in Python`_ :beginner:`Beginner` */
+/* 10   * - 12:40 - :break:`Spam, Spam, Egg, Bacon and Spam / Lunch Break` */
+body.schedule table.table.day1 tr:nth-of-type(10) { background-color: rgba(181, 160, 172,.2); }
+/* 11  * - 13:40 - `Rage Against The Learning Machine (A New Hope)`_ :intermediate:`Intermediate` */
+/* 12  * - 14:15 - `Python Software Development for Hollywood Blockbuster Movie VFX in Thailand`_ */
+/* 13  * - 15:00 - :break:`Cycling Tour / Break` */
+body.schedule table.table.day1 tr:nth-of-type(13) { background-color: rgba(181, 160, 172,.2); }
+/* 14  * - 15:10 - `Artisanal Async Adventures`_ */
+/* 15  * - 15:45 - `Creating amazing APIs in Flask with Flask RESTplus`_ :intermediate:`Intermediate` */
+/* 16  * - 16:20 - `Writing a good frontend test cases using RobotFramework`_ */
+/* 17  * - 16:50 - :break:`Ministry of Silly Walks / Break` */
+body.schedule table.table.day1 tr:nth-of-type(17) { background-color: rgba(181, 160, 172,.2); }
+/* 18  * - 17:05 - Lightning Talks */
 
 /*      * - - Track 1 */
 /* 1    * - 08:30 - :other:`Registration Opens /  Welcome Coffee` */
