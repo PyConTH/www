@@ -19,11 +19,11 @@ In alphabetical order:
 - Dylan Jay
 - François Wautier
 - Jean Jordaan
+- Krerkkrai Thamjarat ( TINO )
 - Mark Hollow
 - Michael Kohl |citizen428|_
 - Narumol Hankrotha ( MOLLY )
 - Mike Amy
-- Tino Thamjarat
 
 Thai Programming Association
 ----------------------------
