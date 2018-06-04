@@ -21,8 +21,7 @@ PyLadies Breakfast
 ==================
 
 The PyCon Thailand team is proud to present, in conjunction with
-PyLadies Bangkok, the PyLadies breakfast. This year the breakfast
-is being organised by ..., a member of ...
+PyLadies Bangkok, the PyLadies breakfast.
 
 This is a networking event held on the morning of the Saturday of
 the conference, that allows women (cis and trans) and
