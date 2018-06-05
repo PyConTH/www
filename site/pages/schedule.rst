@@ -32,6 +32,12 @@
 
 All sessions are on *level 10* of the venue. Lunch will be on *level 9*.
 
+Friday, 15 June
+=================
+
+For everyone who's in town the day before, we're having a fun
+codewar event the night before. Watch for details!
+
 Saturday, 16 June
 =================
 
@@ -154,6 +160,13 @@ Saturday, 16 June
      - Close of day
      - ---
      - ---
+
+
+PyCon Party
+===========
+
+Saturday evening is party night! We're being hosted by *Whiteline* on Silom.
+Please see the `Party </party>`_ page for all the awesome details.
 
 
 Sunday, 17 June

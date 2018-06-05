@@ -140,13 +140,14 @@ NAVIGATION_LINKS = {
         ("/schedule/", "ตารางเวลาการพูด"),
         (
             (
-	       ("/en/presentation-advice/", "Presentation Advice"),
+	       ("/presentation-advice/", "Presentation Advice"),
                ("/submit-talk/", "ส่งข้อเสนอการพูดคุยของคุณ (ปิดรับแล้ว)"),
 
 #               ("/speakers/", "Speakers"),
 #              ("/keynotes/", "Keynotes"),
 #              ("/about/", "About"),
-#              ("/staff/", "Staff"),
+               ("/party/", "ปาร์ตี้"),
+               ("/staff/", "เจ้าหน้าที่"),
                ("/code-of-conduct/", "หลักจริยธรรม"),
 #               ("/contact/", "Contact"),
             ),
@@ -178,7 +179,8 @@ NAVIGATION_LINKS = {
 #              ("/speakers/", "Speakers"),
 #              ("/keynotes/", "Keynotes"),
 #              ("/about/", "About"),
-#              ("/staff/", "Staff"),
+               ("/en/party/", "Party"),
+               ("/en/staff/", "Staff"),
                ("/en/code-of-conduct/", "Code of Conduct"),
 #              ("/contact/", "Contact"),
             ),
