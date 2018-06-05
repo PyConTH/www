@@ -116,12 +116,18 @@ Music link: |kijjaz|_
 :small-caps:`dcnxtr`
 --------------------
 
+.. image:: /party/dcnxtr.png
+     :alt: DCNXTR
+     :align: left
+     :width: 200px
+     :class: img-circle img-responsive col-md-4
+
 DCNXTR (pronounced *De Connextor*) is an Electronic Music Project created with
 the passion of Synthesizers, since 2009.
 
 Music link: |dcnxtr|_
 
-.. |dcnxtr| replace:: :youtube:`Live Set`
+.. |dcnxtr| replace:: :youtube:`Live`
 .. _dcnxtr: https://www.youtube.com/watch?v=AahdZVT1iLs&t=250s
 
 .. logo .. image:: /party/image1.jpg
