@@ -20,14 +20,25 @@ Here are details of all the talks and speakers.
 PyLadies Breakfast
 ==================
 
-The PyCon Thailand team is proud to present, in conjunction with
-PyLadies Bangkok, the PyLadies breakfast.
+The PyCon Thailand team is proud to present, in conjunction with PyLadies, the
+PyLadies Breakfast. 
 
-This is a networking event held on the morning of the Saturday of
-the conference, that allows women (cis and trans) and
-non-binary/genderqueer people attending the conference to make
-connections and enjoy the novelty of a women-majority tech space!
-(Men may also attend, as the "+1" guest of an attendee.)
+The breakfast takes place from *7:30 - 8:30 am* on *June 16th* on *Floor 10* of
+`Knowledge Exchange Center </venue>`_`, (same location as the PyCon) and is
+organized by `Newlogic <https://newlogic.io/>`_. 
+
+This is a wonderful opportunity for ladies in tech to meet like-minded
+individuals from throughout Bangkok and South East Asia. During the breakfast,
+you will be able to exchange, chat, and mingle with individuals who share the
+same interests. This allows women (cis and trans) and non-binary/genderqueer
+people attending the conference to make connections and enjoy the novelty of a
+women-majority tech space! (Men are also welcome as a “+1” guest of an
+attendee.)
+
+To attend, please register `here <https://goo.gl/forms/JvheHTWNms04hvE42)>`_
+(https://goo.gl/forms/JvheHTWNms04hvE42) by June 13th.  We hope to see you
+there! 
+
 
 .. class:: jumbotron clearfix
 
