@@ -131,6 +131,7 @@ Saturday, 16 June
      - `Artisanal Async Adventures`_ :speaker:`Jonas Obrist`
      - `Image Classification using Deep Learning in Python`_ :speaker:`Sandeep Saurabh`
      - `How many coin in your piggy bank with micro-python & 3D-Printer`_ :speaker:`Montri Sroymukda`
+       :thai:`Thai`
 
    * - 15:45
      - `Creating amazing APIs in Flask with Flask RESTplus`_ :speaker:`Avi Aryan` 
