@@ -24,7 +24,7 @@ The PyCon Thailand team is proud to present, in conjunction with PyLadies, the
 PyLadies Breakfast. 
 
 The breakfast takes place from *7:30 - 8:30 am* on *June 16th* on *Floor 10* of
-`Knowledge Exchange Center </venue>`_`, (same location as the PyCon) and is
+the `Knowledge Exchange Center <../venue>`_, (same location as the PyCon) and is
 organized by `Newlogic <https://newlogic.io/>`_. 
 
 This is a wonderful opportunity for ladies in tech to meet like-minded
@@ -70,7 +70,7 @@ Prerequisites:
 
 The only pre-requisite is that you must have some basic familiarity with Python programming language. Although it'll be good that you have laptops with Python already setup, it's not required as such !
 
-If you are really curious how this talk will go, you can watch a similar talk for Ruby and Javascript `here <https://www.destroyallsoftware.com/talks/wat>`_
+If you are really curious how this talk will go, you can watch a similar talk for Ruby and Javascript at the `destroyallsoftware <https://www.destroyallsoftware.com/talks/wat>`_ site.
 
 .. class:: jumbotron
 
