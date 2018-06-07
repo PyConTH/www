@@ -61,13 +61,8 @@ Tickets
 
   .. class:: col-md-8
 
-     Early bird tickets have now sold out! Buy your Individual/Regular tickets before they also sell out!
-
-  .. container:: col-md-6
-
-     .. raw:: html
-
-          <a class="btn btn-primary btn-lg active" href="buy-tickets">Buy Tickets</a>
+     We're all sold out! Massive thanks for the overwhelming response!
+     If you didn't manage to grab a ticket this year, we hope to see you next year.
 
 
 Meet Our Keynote Speakers!
