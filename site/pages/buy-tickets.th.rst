@@ -7,6 +7,5 @@
 .. description: 
 .. type: text
 
-We're all sold out! Massive thanks for the overwhelming response!
-If you didn't manage to grab a ticket this year, we hope to see you next year.
-
+ตั๋วหมดแล้ว! เราขอขอบคุณเสียงตอบรับที่มีอย่างล้นหลาม
+ถ้าคุณซื้อตั๋วไม่ทันในปีนี้ เราหวังว่าจะได้เจอคุณในปีหน้า
