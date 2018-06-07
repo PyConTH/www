@@ -61,14 +61,8 @@
 
   .. class:: col-md-6
 
-     ตั๋ว early bird หมดแล้ว! รีบซื้อตั๋วแบบธรรมดาก่อนที่จะหมดเหมือกันนะครับ
-
-  .. container:: col-md-6
-
-     .. raw:: html
-
-          <a class="btn btn-primary btn-lg active" href="buy-tickets">ซื้อตั๋ว</a>
-
+    ตั๋วหมดแล้ว! เราขอขอบคุณเสียงตอบรับที่มีอย่างล้นหลาม
+    ถ้าคุณซื้อตั๋วไม่ทันในปีนี้ เราหวังว่าจะได้เจอคุณในปีหน้า
 
 
 meet our keynote speaker

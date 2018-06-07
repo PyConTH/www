@@ -1,7 +1,7 @@
-.. title: Buy Tickets
-.. slug: buy-tickets
-.. date: 2018-04-30 15:00:00 UTC+07:00
-.. tags: draft
+.. title: Tickets sold out!
+.. slug: tickets-sold-out
+.. date: 2018-06-07 11:20:42 UTC+07:00
+.. tags: 
 .. category: 
 .. link: 
 .. description: 
