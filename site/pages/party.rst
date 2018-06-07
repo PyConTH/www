@@ -35,7 +35,7 @@ Thailand’s indie music scene that you’re ever likely to find.
 Organized by Ben Scherrey, former American indie promoter now residing in
 Bangkok, and Iman Ismail formerly of Indonesia, talented and well known drummer
 and promoter in the local music scene |mdash| both from our Gold Sponsor
-`ProteusOps <https://www.proteus-tech.com/>`_ .
+`ProteusOps <https://www.proteus-ops.com/>`_ .
 
 The PyCon Party live electronic music show will be held at 
 `Whiteline <http://whitelinebangkok.com>`_ |mdash| Silom Soi 8, on Saturday 16 June 2018.

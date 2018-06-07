@@ -22,7 +22,7 @@
         <div class="row">
           <div class="col col-sm-4">
             <div style="background-color:#FFFFFF;border:4px solid #DFDFDF;width:280px;height:120px;display:flex;justify-content:center;align-items:center;margin-left:auto;margin-right:auto;padding:10px;">
-              <a href="https://www.proteus-tech.com/" alt="Proteus Technologies" style="width:100%;height:100%;background-image:url(/proteus-logo.svg);background-size:contain;background-repeat:no-repeat;background-position:center;">
+              <a href="https://www.proteus-ops.com/" alt="Proteus Technologies" style="width:100%;height:100%;background-image:url(/proteus-logo.svg);background-size:contain;background-repeat:no-repeat;background-position:center;">
                   </a>
             </div>
           </div>
