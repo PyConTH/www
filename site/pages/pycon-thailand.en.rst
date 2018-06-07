@@ -54,17 +54,6 @@ Latest News
        :stop: 3
 
 
-Tickets
-=======
-
-.. container:: jumbotron
-
-  .. class:: col-md-8
-
-     We're all sold out! Massive thanks for the overwhelming response!
-     If you didn't manage to grab a ticket this year, we hope to see you next year.
-
-
 Meet Our Keynote Speakers!
 ==========================
 
@@ -92,6 +81,26 @@ Meet Our Keynote Speakers!
        and writing the book Python for Data Analysis.
        He is a PMC member of the Apache Arrow and Parquet projects in The
        Apache Software Foundation.
+
+
+.. container:: jumbotron
+
+    .. class:: img-circle img-responsive col-md-4
+
+              .. image:: /tiwa-york.jpeg
+                     :alt: Tiwa York (portrait)
+                     :align: left
+                     :width: 200px
+
+    .. class:: col-md-8
+
+       .. raw:: html
+
+            <h1>Tiwa York</h1>
+
+       https://www.linkedin.com/in/tiwayork
+
+       Head Coach at Kaidee.com
 
 
 Schedule

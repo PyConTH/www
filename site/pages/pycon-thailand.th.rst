@@ -65,7 +65,7 @@
     ถ้าคุณซื้อตั๋วไม่ทันในปีนี้ เราหวังว่าจะได้เจอคุณในปีหน้า
 
 
-meet our keynote speaker
+Meet our keynote speakers
 ==========================
 
 .. container:: jumbotron
@@ -90,6 +90,25 @@ meet our keynote speaker
        โดยระบบส่วนมากถูกพัฒนาในภาษา Python ตั้งแต่ปีพ.ศ.2550 เขาเป็นที่รู้จักจากการเริ่มพัฒนาโปรเจค Pandas
        และเขียนหนังสือชื่อ Python for Data Analysis และยังเป็นผู้สนับสนุน Arrow, Kudu (ช่วงเริ่มต้น)
        และโปรเจค Parquet ภายใต้มูลนิธิ Apache Software
+
+.. container:: jumbotron
+
+    .. class:: img-circle img-responsive col-md-4
+
+              .. image:: /tiwa-york.jpeg
+                     :alt: Tiwa York (portrait)
+                     :align: left
+                     :width: 200px
+
+    .. class:: col-md-8
+
+       .. raw:: html
+
+            <h1>Tiwa York</h1>
+
+       https://www.linkedin.com/in/tiwayork
+
+       Head Coach at Kaidee.com
 
 
 Schedule
