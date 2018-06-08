@@ -28,7 +28,7 @@ Rules of the Game
 =================
 
 1. One laptop per team and no internet use at any time. You will be live coding.
-2. Any programming language you want as long it an your IDE has a large font size. 
+2. Any programming language you want as long as your IDE has a large font size. 
 3. Teams are min 3 people, max 5. Don’t have a team? We will find one for you.
 4. Qualification round (7pm sharp). First 8 correct submissions are in.
 5. Head-to-head knockout rounds to determine the final winner.
