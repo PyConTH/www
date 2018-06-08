@@ -63,7 +63,7 @@ RSVP form
             </div>
             <div class="form-group">
               <label>Team</label>
-              <input type="text" name="org" class="form-control" placeholder="Your Team Name">
+              <input type="text" name="team" class="form-control" placeholder="Your Team Name">
             </div>
             <div class="form-group">
               <label>Your Email</label>
