@@ -62,15 +62,12 @@ RSVP form
               <input type="text" name="name" class="form-control" placeholder="Full Name">
             </div>
             <div class="form-group">
-              <label>Team</label>
-              <input type="text" name="team" class="form-control" placeholder="Your Team Name">
+              <label>Would you like to compete?</label>
+              <input type="checkbox" name="competing" value="competing" class="form-control" placeholder="Competing?">
             </div>
             <div class="form-group">
               <label>Your Email</label>
               <input type="email" name="email" class="form-control" placeholder="Email" >
-            </div>
-            <div class="form-group">
-              <label>Phone</label><input type="phone" name="phone" class="form-control" placeholder="Phone Number">
             </div>
             <div class="form-group">
               <label>Message</label>
