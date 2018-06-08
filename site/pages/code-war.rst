@@ -7,8 +7,7 @@
 .. description: 
 .. type: text
 
-
-Rules of the Game
+What is Code War?
 =================
 
 Eight teams, onstage knockout rounds of short programming bouts, loud crowd..
@@ -23,6 +22,13 @@ For example: “Here is the complete text of *Pride and Prejudice* from this URL
 Be the first to print out the 7th and 25th sentences that contain both
 ’Elizabeth’ and ‘Darcy’“.
 
+Come along to watch. Come along to compete. Come along to just hangout and meet others. Bring your laptop if you want to try the questions from the audience.
+
+**Pizza is provided!**
+
+Rules of the Game
+=================
+
 1. One laptop per team and no internet use at any time. You will be live coding.
 2. Any programming language you want as long it has a large font size. 
 3. Teams are min 3 people, max 5. Don’t have a team? We will find one for you.
@@ -36,5 +42,10 @@ Location
 
 At the venue, `Knowledge Exchange <../venue>`_, level 13.
 
-**Pizza is provided!**
+When
+====
+
+Friday 1th June 6:30pm
+
+RSVP form coming
 
