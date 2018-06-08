@@ -56,7 +56,7 @@ RSVP form
 .. raw:: html
 
         <div class="jumbotron">
-          <form name="sponsorship" method="POST" action="jeanjordaan+fvbvw31lpvxhfh7uyrfd@boards.trello.com">
+          <form name="code-war" method="POST" action="https://formspree.io/jeanjordaan+fvbvw31lpvxhfh7uyrfd@boards.trello.com">
             <div class="form-group">
               <label>Your Name</label>
               <input type="text" name="name" class="form-control" placeholder="Full Name">
