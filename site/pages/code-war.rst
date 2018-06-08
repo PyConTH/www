@@ -1,4 +1,4 @@
-.. title: Friday Warm Event: Code War
+.. title: Friday Warmup Event: Code War
 .. slug: code-war
 .. date: 2018-06-07 23:33:47 UTC+07:00
 .. tags: 
@@ -6,9 +6,6 @@
 .. link: 
 .. description: 
 .. type: text
-
-Friday Warmup Event: Code War
-=============================
 
 Eight teams, onstage knockout rounds of short programming bouts, loud crowd,
 mildly impressive prizes. Any language allowed, no holds barred. Think of it
