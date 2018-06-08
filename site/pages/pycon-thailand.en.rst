@@ -113,9 +113,7 @@ Meet Our Keynote Speakers!
 
        Head Coach - Kaidee
 
-       Tiwa York is the Head Coach of Kaidee (a.k.a CEO). He is passionate about changing lives through trading second hand goods, startups, and building great teams. Tiwa has been recognized for his passion, his leadership, and his efforts to build the team and culture at Kaidee.
-
-       `Read more <../keynotes#tiwa-york>`_
+       Tiwa York is the Head Coach of Kaidee (a.k.a CEO). He is passionate about changing lives through trading second hand goods, startups, and building great teams. Tiwa has been recognized for his passion, his leadership, and his efforts to build the team and culture at Kaidee.  (`Read more <../keynotes#tiwa-york>`_)
 
 Schedule
 ===============
