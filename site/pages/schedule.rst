@@ -36,7 +36,8 @@ Friday, 15 June
 =================
 
 For everyone who's in town the day before, we're having a fun
-codewar event the night before. Watch for details!
+codewar event the night before. 
+Check the `Code War <../code-war>`_ page for details.
 
 Saturday, 16 June
 =================
@@ -68,7 +69,7 @@ Saturday, 16 June
      - :blank:`...`
 
    * - 09:10
-     - Keynote Speech: Wes McKinney
+     - Keynote Speech: `Wes McKinney`_
      - :blank:`Keynote Speech: Wes McKinney`
      - :blank:`Keynote Speech: Wes McKinney`
 
@@ -276,7 +277,7 @@ Sunday, 17 June
      - :blank:`Lightning Talks`
 
    * - 16:55
-     - Keynote: Tiwa York
+     - Keynote: `Tiwa York`_
      - :blank:`Keynote: Tiwa York`
      - :blank:`Keynote: Tiwa York`
 
@@ -299,49 +300,51 @@ and has nothing to do with those reptiles causing
 In honour of this, we shall have a Monty Python Quiz during the conference. A
 trial quiz can be taken `here <https://www.surveymonkey.com/r/9JJSMJG>`_.
 
-.. _PyLadies Breakfast: /talks#pyladies-breakfast
-.. _Attack of Pythons\: Gotchas and Landmines in Python: /talks#attack-of-pythons-gotchas-and-landmines-in-python
-.. _Unimaginable Things in Python: /talks#unimaginable-things-in-python
-.. _How many coin in your piggy bank with micro-python & 3D-Printer: /talks#how-many-coin-in-your-piggy-bank-with-micro-python-3d-printer
-.. _Image Classification using Deep Learning in Python: /talks#image-classification-using-deep-learning-in-python
-.. _Deep Learning in the Household: /talks#deep-learning-in-the-household
-.. _Enabling Blockchain Energy Trading among Smart Buildings through the Use of Multi-Agent Systems and Internet of Things Devices: /talks#enabling-blockchain-energy-trading-among-smart-buildings-through-the-use-of-multi-agent-systems-and-internet-of-things-devices
-.. _Alternative way for build async server: /talks#alternative-way-for-build-async-server
-.. _Concurrent python: /talks#concurrent-python
-.. _API ไม่เสร็จ แต่หน้าบ้านต้องเสร็จนะครับ: /talks#api
-.. _Photographic Identification of Sea Turtle using Python and OpenCV: /talks#photographic-identification-of-sea-turtle-using-python-and-opencv
-.. _Writing a good frontend test cases using RobotFramework: /talks#writing-a-good-frontend-test-cases-using-robotframework
-.. _DIY\: Python with partially charged batteries: /talks#diy-python-with-partially-charged-batteries
-.. _A journey from Monolith into Microservices architecture: /talks#a-journey-from-monolith-into-microservices-architecture
-.. _How to make a better environment using Python: /talks#how-to-make-a-better-environment-using-python
-.. _Django Backend from zero to deployment: /talks#django-backend-from-zero-to-deployment
-.. _Powerful geographic web framework GeoDjango: /talks#powerful-geographic-web-framework-geodjango
-.. _AI in Security, Finance, and eCommerce: /talks#ai-in-security-finance-and-ecommerce
-.. _Logo Detection Using PyTorch: /talks#logo-detection-using-pytorch
-.. _Flask ณ Kaidee: /talks#flask-kaidee
-.. _Python + XPath = Extra Parsing Power: /talks#python-xpath-extra-parsing-power
-.. _Introduce syntax and history of Python from 2.4 to 3.6: /talks#introduce-syntax-and-history-of-python-from-2-4-to-3-6
-.. _A JS developer tries python, escapes from Jupyter to build a product: /talks#a-js-developer-tries-python-escapes-from-jupyter-to-build-a-product
-.. _The power of Jupyter notebooks: /talks#the-power-of-jupyter-notebooks
-.. _Python for Life Sciences: /talks#python-for-life-sciences
-.. _Python Software Development for Hollywood Blockbuster Movie VFX in Thailand: /talks#python-software-development-for-hollywood-blockbuster-movie-vfx-in-thailand
-.. _CoderDojo - a free programming club for kids: /talks#coderdojo-a-free-programming-club-for-kids
-.. _Rage Against The Learning Machine (A New Hope): /talks#rage-against-the-learning-machine-a-new-hope
-.. _Introduction to serverless Python with AWS Lambda: /talks#introduction-to-serverless-python-with-aws-lambda
-.. _Using Python to build a smart contract in NEO blockchain: /talks#using-python-to-build-a-smart-contract-in-neo-blockchain
-.. _Why I Fell in Love with Tavern (and why I'm staying): /talks#why-i-fell-in-love-with-tavern-and-why-i-m-staying
-.. _A Beginner's Guide to Deep Natural Language Processing with PyTorch: /talks#a-beginner-s-guide-to-deep-natural-language-processing-with-pytorch
-.. _Teaching and Learning with Python: /talks#teaching-and-learning-with-python
-.. _Talk to your Python app - using LINE!: /talks#talk-to-your-python-app-using-line
-.. _Aaaarrgghh, Spider! Web scraping with Scrapy: /talks#aaaarrgghh-spider-web-scraping-with-scrapy
-.. _Pythonic Functional Programming with Coconut: /talks#pythonic-functional-programming-with-coconut
-.. _Monitoring your Python Application: /talks#monitoring-your-python-application
-.. _Object detection and Human recognition with YOLO in Python: /talks#object-detection-and-human-recognition-with-yolo-in-python
-.. _Python for Self-Trackers\: How to Visualize and Better Understand Your Life in Data: /talks#python-for-self-trackers-how-to-visualize-and-better-understand-your-life-in-data
-.. _การพัฒนาหุ่นยนต์ด้วยภาษา Python Developing robot with python: /talks#python-developing-robot-with-python
-.. _Playing with Social Network, Geo-Spatial, Financial Flow, and Banking System Data\: Graph-Theoretic Computation in Python: /talks#playing-with-social-network-geo-spatial-financial-flow-and-banking-system-data-graph-theoretic-computation-in-python
-.. _Creating amazing APIs in Flask with Flask RESTplus: /talks#creating-amazing-apis-in-flask-with-flask-restplus
-.. _Build dynamically scaled highly available python application with MySQL: /talks#build-dynamically-scaled-highly-available-python-application-with-mysql
-.. _Building a sustainable codebases with Type Annotations: /talks#building-a-sustainable-codebases-with-type-annotations
-.. _Artisanal Async Adventures: /talks#artisanal-async-adventures
-.. _Elasticsearch with Python: /talks#elasticsearch-with-python
+.. _PyLadies Breakfast: ../talks#pyladies-breakfast
+.. _Attack of Pythons\: Gotchas and Landmines in Python: ../talks#attack-of-pythons-gotchas-and-landmines-in-python
+.. _Unimaginable Things in Python: ../talks#unimaginable-things-in-python
+.. _How many coin in your piggy bank with micro-python & 3D-Printer: ../talks#how-many-coin-in-your-piggy-bank-with-micro-python-3d-printer
+.. _Image Classification using Deep Learning in Python: ../talks#image-classification-using-deep-learning-in-python
+.. _Deep Learning in the Household: ../talks#deep-learning-in-the-household
+.. _Enabling Blockchain Energy Trading among Smart Buildings through the Use of Multi-Agent Systems and Internet of Things Devices: ../talks#enabling-blockchain-energy-trading-among-smart-buildings-through-the-use-of-multi-agent-systems-and-internet-of-things-devices
+.. _Alternative way for build async server: ../talks#alternative-way-for-build-async-server
+.. _Concurrent python: ../talks#concurrent-python
+.. _API ไม่เสร็จ แต่หน้าบ้านต้องเสร็จนะครับ: ../talks#api
+.. _Photographic Identification of Sea Turtle using Python and OpenCV: ../talks#photographic-identification-of-sea-turtle-using-python-and-opencv
+.. _Writing a good frontend test cases using RobotFramework: ../talks#writing-a-good-frontend-test-cases-using-robotframework
+.. _DIY\: Python with partially charged batteries: ../talks#diy-python-with-partially-charged-batteries
+.. _A journey from Monolith into Microservices architecture: ../talks#a-journey-from-monolith-into-microservices-architecture
+.. _How to make a better environment using Python: ../talks#how-to-make-a-better-environment-using-python
+.. _Django Backend from zero to deployment: ../talks#django-backend-from-zero-to-deployment
+.. _Powerful geographic web framework GeoDjango: ../talks#powerful-geographic-web-framework-geodjango
+.. _AI in Security, Finance, and eCommerce: ../talks#ai-in-security-finance-and-ecommerce
+.. _Logo Detection Using PyTorch: ../talks#logo-detection-using-pytorch
+.. _Flask ณ Kaidee: ../talks#flask-kaidee
+.. _Python + XPath = Extra Parsing Power: ../talks#python-xpath-extra-parsing-power
+.. _Introduce syntax and history of Python from 2.4 to 3.6: ../talks#introduce-syntax-and-history-of-python-from-2-4-to-3-6
+.. _A JS developer tries python, escapes from Jupyter to build a product: ../talks#a-js-developer-tries-python-escapes-from-jupyter-to-build-a-product
+.. _The power of Jupyter notebooks: ../talks#the-power-of-jupyter-notebooks
+.. _Python for Life Sciences: ../talks#python-for-life-sciences
+.. _Python Software Development for Hollywood Blockbuster Movie VFX in Thailand: ../talks#python-software-development-for-hollywood-blockbuster-movie-vfx-in-thailand
+.. _CoderDojo - a free programming club for kids: ../talks#coderdojo-a-free-programming-club-for-kids
+.. _Rage Against The Learning Machine (A New Hope): ../talks#rage-against-the-learning-machine-a-new-hope
+.. _Introduction to serverless Python with AWS Lambda: ../talks#introduction-to-serverless-python-with-aws-lambda
+.. _Using Python to build a smart contract in NEO blockchain: ../talks#using-python-to-build-a-smart-contract-in-neo-blockchain
+.. _Why I Fell in Love with Tavern (and why I'm staying): ../talks#why-i-fell-in-love-with-tavern-and-why-i-m-staying
+.. _A Beginner's Guide to Deep Natural Language Processing with PyTorch: ../talks#a-beginner-s-guide-to-deep-natural-language-processing-with-pytorch
+.. _Teaching and Learning with Python: ../talks#teaching-and-learning-with-python
+.. _Talk to your Python app - using LINE!: ../talks#talk-to-your-python-app-using-line
+.. _Aaaarrgghh, Spider! Web scraping with Scrapy: ../talks#aaaarrgghh-spider-web-scraping-with-scrapy
+.. _Pythonic Functional Programming with Coconut: ../talks#pythonic-functional-programming-with-coconut
+.. _Monitoring your Python Application: ../talks#monitoring-your-python-application
+.. _Object detection and Human recognition with YOLO in Python: ../talks#object-detection-and-human-recognition-with-yolo-in-python
+.. _Python for Self-Trackers\: How to Visualize and Better Understand Your Life in Data: ../talks#python-for-self-trackers-how-to-visualize-and-better-understand-your-life-in-data
+.. _การพัฒนาหุ่นยนต์ด้วยภาษา Python Developing robot with python: ../talks#python-developing-robot-with-python
+.. _Playing with Social Network, Geo-Spatial, Financial Flow, and Banking System Data\: Graph-Theoretic Computation in Python: ../talks#playing-with-social-network-geo-spatial-financial-flow-and-banking-system-data-graph-theoretic-computation-in-python
+.. _Creating amazing APIs in Flask with Flask RESTplus: ../talks#creating-amazing-apis-in-flask-with-flask-restplus
+.. _Build dynamically scaled highly available python application with MySQL: ../talks#build-dynamically-scaled-highly-available-python-application-with-mysql
+.. _Building a sustainable codebases with Type Annotations: ../talks#building-a-sustainable-codebases-with-type-annotations
+.. _Artisanal Async Adventures: ../talks#artisanal-async-adventures
+.. _Elasticsearch with Python: ../talks#elasticsearch-with-python
+.. _Wes McKinney: ../keynotes#wes-mckinney
+.. _Tiwa York: ../keynotes#tiwa-york

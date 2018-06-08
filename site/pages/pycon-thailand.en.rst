@@ -45,6 +45,19 @@
    </div>
 
 
+Code War
+========
+
+.. container:: jumbotron
+
+   .. class:: col-md-8
+
+      For everyone who's in town the day before, we're having a fun
+      codewar event on the evening of Friday, 15 June. 
+      Check the `Code War <../code-war>`_ page for details.
+
+
+
 Latest News
 ===========
 
@@ -52,17 +65,6 @@ Latest News
 
     .. post-list::
        :stop: 3
-
-
-Tickets
-=======
-
-.. container:: jumbotron
-
-  .. class:: col-md-8
-
-     We're all sold out! Massive thanks for the overwhelming response!
-     If you didn't manage to grab a ticket this year, we hope to see you next year.
 
 
 Meet Our Keynote Speakers!
@@ -94,6 +96,25 @@ Meet Our Keynote Speakers!
        Apache Software Foundation.
 
 
+.. container:: jumbotron
+
+    .. class:: img-circle img-responsive col-md-4
+
+              .. image:: /tiwa-york.jpeg
+                     :alt: Tiwa York (portrait)
+                     :align: left
+                     :width: 200px
+
+    .. class:: col-md-8
+
+       .. raw:: html
+
+            <h1>Tiwa York</h1>
+
+       Head Coach - Kaidee
+
+       Tiwa York is the Head Coach of Kaidee (a.k.a CEO). He is passionate about changing lives through trading second hand goods, startups, and building great teams. Tiwa has been recognized for his passion, his leadership, and his efforts to build the team and culture at Kaidee.  (`Read more <../keynotes#tiwa-york>`_)
+
 Schedule
 ===============
 
@@ -102,8 +123,7 @@ Schedule
   .. class:: col-md-8
 
     Wow.
-    Thanks for the heap of submissions. We will publish our final conference schedule in the coming weeks
-
+    Thanks for the heap of submissions. Check out the `schedule <../schedule>`_!
 
 
 Sponsors

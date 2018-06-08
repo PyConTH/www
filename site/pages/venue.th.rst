@@ -22,6 +22,9 @@
 แต่หากก้าวออกไปจากถนนหลักก็จะเข้าสู่ตรอกซอกซอยนับไม่ถ้วน
 และพบกับถึงวัฒนธรรมไทยซึ่งเรียกได้ว่ามีอยู่ทุกซอกทุกมุม เป็นเมืองที่เต็มไปด้วยกลิ่นและรสชาติของอาหารที่มาพร้อมกับแสงสีที่ยากจะลืม
 
+If you'd like to book a tour while you're here, **go beyond asia** has a 
+`15% discount for PyCon attendees <https://gobeyondasia.com/welcome-bangkok-pycon-thailand-2018/>`_.
+
 .. Allow blank top-level headings, in order to split columns
 .. role:: raw-role(raw)
    :format: html

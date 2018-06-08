@@ -45,6 +45,18 @@
    </div>
 
 
+Code War
+========
+
+.. container:: jumbotron
+
+   .. class:: col-md-8
+
+      For everyone who's in town the day before, we're having a fun
+      codewar event on the evening of Friday, 15 June. 
+      Check the `Code War <../code-war>`_ page for details.
+
+
 ข่าวล่าสุด
 ===========
 
@@ -65,7 +77,7 @@
     ถ้าคุณซื้อตั๋วไม่ทันในปีนี้ เราหวังว่าจะได้เจอคุณในปีหน้า
 
 
-meet our keynote speaker
+Meet our keynote speakers
 ==========================
 
 .. container:: jumbotron
@@ -91,6 +103,23 @@ meet our keynote speaker
        และเขียนหนังสือชื่อ Python for Data Analysis และยังเป็นผู้สนับสนุน Arrow, Kudu (ช่วงเริ่มต้น)
        และโปรเจค Parquet ภายใต้มูลนิธิ Apache Software
 
+.. container:: jumbotron
+
+    .. class:: img-circle img-responsive col-md-4
+
+              .. image:: /tiwa-york.jpeg
+                     :alt: Tiwa York (portrait)
+                     :align: left
+                     :width: 200px
+
+    .. class:: col-md-8
+
+       .. raw:: html
+
+            <h1>ทิวา ยอร์ค</h1>
+
+       ประธานเจ้าหน้าที่บริหาร/เฮดโค้ช - Kaidee
+       ทิวา ยอร์ค เฮดโค้ชแห่งทีม Kaidee แพลตฟอร์มที่เขาสร้างขึ้นมาด้วยความเชื่อที่ว่า “คนไทยทุกคนควรมีแพลตฟอร์มสำหรับการซื้อขายของออนไลน์ที่สามารถเข้าถึงได้ง่าย” เขามุ่งมั่นที่จะพัฒนาตลาดออนไลน์แห่งนี้ควบคู่ไปกับการสร้างและพัฒนาทีมเทคคนไทยที่มีความสามารถไม่แพ้ทีมเทคระดับโลก (`Read more <../keynotes#tiwa-york>`_)
 
 Schedule
 ===============
@@ -99,8 +128,7 @@ Schedule
 
   .. class:: col-md-8
 
-    Wow. Thanks for the heap of submissions. We will publish our final conference schedule in the coming weeks
-
+    Wow. Thanks for the heap of submissions.  Check out the `schedule <../schedule>`_!
 
 ผู้ให้การสนับสนุน
 ===============
