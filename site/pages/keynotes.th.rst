@@ -7,8 +7,17 @@
 .. description: All keynotes
 .. type: text
 
+.. class:: jumbotron clearfix
+
 Wes McKinney
 ============
+
+.. class:: img-circle img-responsive col-md-4
+
+      .. image:: /wes-2017-01-12-small.png
+             :alt: Wes McKinney (portrait)
+             :align: right
+             :width: 200px
 
 http://wesmckinney.com
 
@@ -19,8 +28,17 @@ Wes McKinney ได้สร้างซอฟท์แวร์เพื่อ�
 และโปรเจค Parquet ภายใต้มูลนิธิ Apache Software
 
 
+.. class:: jumbotron clearfix
+
 ทิวา ยอร์ค
 ==========
+
+.. class:: img-circle img-responsive col-md-4
+
+      .. image:: /tiwa-york.jpeg
+             :alt: Tiwa York (portrait)
+             :align: right
+             :width: 200px
 
 ประธานเจ้าหน้าที่บริหาร/เฮดโค้ช - Kaidee
 

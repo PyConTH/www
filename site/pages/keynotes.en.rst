@@ -8,8 +8,17 @@
 .. type: text
 
 
+.. class:: jumbotron clearfix
+
 Wes McKinney
 ============
+
+.. class:: img-circle img-responsive col-md-4
+
+      .. image:: /wes-2017-01-12-small.png
+             :alt: Wes McKinney (portrait)
+             :align: right
+             :width: 200px
 
 http://wesmckinney.com
 
@@ -21,8 +30,17 @@ and writing the book Python for Data Analysis.
 He is a PMC member of the Apache Arrow and Parquet projects in The
 Apache Software Foundation.
 
+.. class:: jumbotron clearfix
+
 Tiwa York
 =========
+
+.. class:: img-circle img-responsive col-md-4
+
+      .. image:: /tiwa-york.jpeg
+             :alt: Tiwa York (portrait)
+             :align: right
+             :width: 200px
 
 Head Coach - Kaidee
 
