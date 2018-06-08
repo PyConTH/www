@@ -36,7 +36,8 @@ Friday, 15 June
 =================
 
 For everyone who's in town the day before, we're having a fun
-codewar event the night before. Watch for details!
+codewar event the night before. 
+Check the `Code War <../code-war>`_ page for details.
 
 Saturday, 16 June
 =================
