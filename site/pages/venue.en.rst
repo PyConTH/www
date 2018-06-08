@@ -22,6 +22,9 @@ First-time visitors may be a little taken aback by the concrete canyons and futu
 but take a few steps away from the main roads into one of the city’s countless alleys and traditional
 Thai culture is everywhere – an urban cornucopia of smells, tastes, sounds and sights that one is unlikely to forget.
 
+If you'd like to book a tour while you're here, **go beyond asia** has a 
+`15% discount for PyCon attendees <https://gobeyondasia.com/welcome-bangkok-pycon-thailand-2018/>`_.
+
 .. Allow blank top-level headings, in order to split columns
 .. role:: raw-role(raw)
    :format: html
