@@ -10,7 +10,7 @@
 Friday Warmup Event: Code War
 =============================
 
-Eight teams, onstage knockout rounds of short programming bouts, loud crowd..
+Eight teams, onstage knockout rounds of short programming bouts, loud crowd,
 mildly impressive prizes. Any language allowed, no holds barred. Think of it
 like cage fighting for coders.
 
@@ -22,7 +22,8 @@ For example: “Here is the complete text of *Pride and Prejudice* from this URL
 Be the first to print out the 7th and 25th sentences that contain both
 ’Elizabeth’ and ‘Darcy’“.
 
-Come along to watch. Come along to compete. Come along to just hangout and meet others. Bring your laptop if you want to try the questions from the audience.
+Come along to watch. Come along to compete. Come along to just hangout and meet
+others. Bring your laptop if you want to try the questions from the audience.
 
 **Pizza is provided!**
 
@@ -33,9 +34,14 @@ Rules of the Game
 2. Any programming language you want as long it an your IDE has a large font size. 
 3. Teams are min 3 people, max 5. Don’t have a team? We will find one for you.
 4. Qualification round (7pm sharp). First 8 correct submissions are in.
-5. Head to head knockout rounds to determine the final winner.
-6. To win a team has to have the answer on screen, generated from code, and announce it as the answer.
-7. After 20min the judge can award the win on points, decide to extend or by decide to call a dance-off tie breaker. Judges decision is final.
+5. Head-to-head knockout rounds to determine the final winner.
+6. To win, a team has to have the answer on screen, generated from code, and announce it as the answer.
+7. After 20 minutes the judge can:
+   - award the win on points,
+   - decide to extend, or 
+   - decide to call a dance-off as tie-breaker.
+
+The judge's decision is final.
 
 Location
 =========
