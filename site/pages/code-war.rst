@@ -48,7 +48,7 @@ At the venue, `Knowledge Exchange <../venue>`_, level 13.
 When
 ====
 
-Friday 14th June 6:30pm
+Friday 15th June 6:30pm
 
 RSVP form
 =========
