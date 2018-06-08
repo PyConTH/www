@@ -45,6 +45,18 @@
    </div>
 
 
+Code War
+========
+
+.. container:: jumbotron
+
+   .. class:: col-md-8
+
+      For everyone who's in town the day before, we're having a fun
+      codewar event on the evening of Friday, 15 June. 
+      Check the `Code War <../code-war>`_ page for details.
+
+
 ข่าวล่าสุด
 ===========
 
@@ -133,18 +145,6 @@ Schedule
   .. class:: col-md-8
 
     Wow. Thanks for the heap of submissions.  Check out the `schedule <../schedule>`_!
-
-Code War
-========
-
-.. container:: jumbotron
-
-   .. class:: col-md-8
-
-      For everyone who's in town the day before, we're having a fun
-      codewar event on the evening of Friday, 15 June. 
-      Check the `Code War <../code-war>`_ page for details.
-
 
 ผู้ให้การสนับสนุน
 ===============
