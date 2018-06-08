@@ -102,6 +102,16 @@ Meet Our Keynote Speakers!
 
        Head Coach at Kaidee.com
 
+       Tiwa York is the Head Coach of Kaidee (a.k.a CEO). He is passionate about changing lives through trading second hand 
+       goods, startups, and building great teams.
+
+       Along with a team of 5 awesome people, Tiwa founded an online marketplace which is now known as Kaidee in 2011. 
+       Today, Kaidee is a C2C online marketplace with 200 thousand monthly sellers, listing 1.8 million items for sale and reaching 
+       7 million people per month. In 2016, 2 million items were sold via Kaidee valued at over 2.4 billion USD. 
+
+       Tiwa has been recognized for his passion, his leadership, and his efforts to build the team and culture at Kaidee. Prior to his 
+       current role, he worked in digital advertising with leadership roles in Admax Network and Omnicom Media Group.
+
 
 Schedule
 ===============
@@ -111,7 +121,19 @@ Schedule
   .. class:: col-md-8
 
     Wow.
-    Thanks for the heap of submissions. We will publish our final conference schedule in the coming weeks
+    Thanks for the heap of submissions. Check out the `schedule <../schedule>`_!
+
+
+Code War
+========
+
+.. container:: jumbotron
+
+   .. class:: col-md-8
+
+      For everyone who's in town the day before, we're having a fun
+      codewar event on the evening of Friday, 15 June. 
+      Check the `Code War <../code-war>`_ page for details.
 
 
 
