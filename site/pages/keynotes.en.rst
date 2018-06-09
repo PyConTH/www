@@ -42,7 +42,7 @@ Tiwa York
              :align: right
              :width: 200px
 
-Head Coach - Kaidee
+Head Coach, Kaidee
 
 Tiwa York is the Head Coach of Kaidee (a.k.a CEO). He is passionate about changing lives through trading second hand 
 goods, startups, and building great teams.
