@@ -190,22 +190,22 @@ Sunday, 17 June
      - :blank:`Registration Opens`
      - :blank:`Registration Opens`
 
-   * - 09:10
+   * - 09:00
      - `Attack of Pythons: Gotchas and Landmines in Python`_ :speaker:`Manoj Pandey`
      - `Alternative way for build async server`_ :speaker:`Phatthana Batt Tongon` 
        :intermediate:`Intermediate` :thai:`Thai`
      - :blank:`Your mother was a hamster and your father smelt of elderberries`
 
-   * - 09:40
-     - :break:`break` :break-title:`Fish Slapping Dance`
-     - :blank:`Fish Slapping Dance`
-     - :blank:`Fish Slapping Dance`
-
-   * - 09:50
+   * - 09:35
      - `Introduction to serverless Python with AWS Lambda`_ :speaker:`Murat Knecht` 
        :beginner:`Beginner`
      - `Logo Detection Using PyTorch`_ :speaker:`Nithiroj Tripatarasit`
      - :blank:`Your mother was a hamster and your father smelt of elderberries`
+
+   * - 10:05
+     - :break:`break` :break-title:`Fish Slapping Dance`
+     - :blank:`Fish Slapping Dance`
+     - :blank:`Fish Slapping Dance`
 
    * - 10:25
      - `Building a sustainable codebases with Type Annotations`_ :speaker:`Yothin Muangsommuk` 
