@@ -32,8 +32,8 @@
 
 All sessions are on *level 10* of the venue. Lunch will be on *level 9*.
 
-Friday, 15 June
-=================
+Code War: Friday, 15 June
+=========================
 
 For everyone who's in town the day before, we're having a fun
 codewar event the night before. 
