@@ -165,7 +165,7 @@ Saturday, 16 June
 
 
 PyCon Party
-===========
+-----------
 
 Saturday evening is party night! We're being hosted by *Whiteline* on Silom.
 Please see the `Party </party>`_ page for all the awesome details.
