@@ -213,6 +213,23 @@ tourist SIM. (You have to register with passport.) The easiest is to get it at
 the airport, all the major providers have kiosks at Arrivals.
 See the `Prepaid Data SIM Card Wiki <http://prepaid-data-sim-card.wikia.com/wiki/Thailand>`_ for all the details.
 
+Safety and security
+-------------------
+
+The most dangerous thing in Bangkok is probably the traffic. Stay calm and
+polite, and you really shouldn't have any problems. Outside of tourist areas,
+you might have trouble making yourself understood, so it's a good idea to carry
+a business card or map of your accommodation to show a taxi driver if you need
+it.  Some super-crowded places like `Jatujak Weekend Market
+<https://www.chatuchakmarket.org/>`_ may have pickpockets operating. It's
+always a good idea to have a copy of your important documents, like passport
+and tickets. 
+
+The `tourist police <https://touristpolice.go.th/en/>`_ can speak at least
+Thai, English and Chinese. They are reachable by phone at 1155, on 
+`Facebook <https://www.facebook.com/1155TPB/>`_, or via their website.
+
+
 .. raw:: html
 
     </div><!-- 5 --></div><!-- 6 -->
