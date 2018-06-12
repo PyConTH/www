@@ -32,8 +32,8 @@
 
 All sessions are on *level 10* of the venue. Lunch will be on *level 9*.
 
-Friday, 15 June
-=================
+Code War: Friday, 15 June
+=========================
 
 For everyone who's in town the day before, we're having a fun
 codewar event the night before. 
@@ -69,7 +69,7 @@ Saturday, 16 June
      - :blank:`...`
 
    * - 09:10
-     - Keynote Speech: `Wes McKinney`_
+     - Keynote Speech: `Wes McKinney`_: `Modern Open Source: Challenges and Opportunities`_
      - :blank:`Keynote Speech: Wes McKinney`
      - :blank:`Keynote Speech: Wes McKinney`
 
@@ -165,7 +165,7 @@ Saturday, 16 June
 
 
 PyCon Party
-===========
+-----------
 
 Saturday evening is party night! We're being hosted by *Whiteline* on Silom.
 Please see the `Party </party>`_ page for all the awesome details.
@@ -347,4 +347,5 @@ trial quiz can be taken `here <https://www.surveymonkey.com/r/9JJSMJG>`_.
 .. _Artisanal Async Adventures: ../talks#artisanal-async-adventures
 .. _Elasticsearch with Python: ../talks#elasticsearch-with-python
 .. _Wes McKinney: ../keynotes#wes-mckinney
+.. _Modern Open Source\: Challenges and Opportunities: ../keynotes#wes-mckinney
 .. _Tiwa York: ../keynotes#tiwa-york
