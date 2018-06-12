@@ -22,6 +22,8 @@ Be the first to print out the 7th and 25th sentences that contain both
 Come along to watch. Come along to compete. Come along to just hangout and meet
 others. Bring your laptop if you want to try the questions from the audience.
 
+**Qualification is 7pm. Will form teams after. Don't be late.**
+
 **Pizza is provided!**
 
 Rules of the Game
@@ -48,7 +50,7 @@ At the venue, `Knowledge Exchange <../venue>`_, level 13.
 When
 ====
 
-Friday 15th June 6:30pm
+Friday 15th June 6:30pm-10:00pm (Qualification is 7pm. You can form a team after)
 
 RSVP form
 =========
