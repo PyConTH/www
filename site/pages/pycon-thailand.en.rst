@@ -84,7 +84,7 @@ Meet Our Keynote Speakers!
 
        .. raw:: html
 
-            <h1>Wes McKinney</h1>
+            <h1>Wes McKinney: <em>Modern Open Source: Challenges and Opportunities</em></h1>
 
        http://wesmckinney.com
 

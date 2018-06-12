@@ -69,7 +69,7 @@ Saturday, 16 June
      - :blank:`...`
 
    * - 09:10
-     - Keynote Speech: `Wes McKinney`_
+     - Keynote Speech: `Wes McKinney`_: `Modern Open Source: Challenges and Opportunities`_
      - :blank:`Keynote Speech: Wes McKinney`
      - :blank:`Keynote Speech: Wes McKinney`
 
@@ -347,4 +347,5 @@ trial quiz can be taken `here <https://www.surveymonkey.com/r/9JJSMJG>`_.
 .. _Artisanal Async Adventures: ../talks#artisanal-async-adventures
 .. _Elasticsearch with Python: ../talks#elasticsearch-with-python
 .. _Wes McKinney: ../keynotes#wes-mckinney
+.. _Modern Open Source\: Challenges and Opportunities: ../keynotes#wes-mckinney
 .. _Tiwa York: ../keynotes#tiwa-york
