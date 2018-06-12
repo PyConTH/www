@@ -15,9 +15,6 @@ Wes McKinney
 Modern Open Source: Challenges and Opportunities
 ------------------------------------------------
 
-Modern Open Source: Challenges and Opportunities
-------------------------------------------------
-
 .. class:: img-circle img-responsive col-md-4
 
       .. image:: /wes-2017-01-12-small.png
