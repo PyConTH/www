@@ -7,6 +7,8 @@
 .. description: 
 .. type: text
 
+.. |mdash| unicode:: U+02014 .. EM DASH
+
 After the last talk on Saturday there’s no time to waste |mdash| come to the
 official PyCon Thailand Party!
 
@@ -27,3 +29,7 @@ that. Come check out Silom, a great part of Bangkok and get the best sampling of
 Thailand’s indie music scene that you’re ever likely to find.
 
 Full Details and how to get there on the `PyCon Official Party </party>`_ page
+
+.. _Kijjaz: ../../party#kijjaz
+.. _DCNXTR: ../../party#dcnxtr
+.. _Orbital XX: ../../party#orbital-xx
