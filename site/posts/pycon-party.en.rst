@@ -32,4 +32,4 @@ Full Details and how to get there on the `PyCon Official Party </party>`_ page
 
 .. _Kijjaz: ../party#kijjaz
 .. _DCNXTR: ../party#dcnxtr
-.. _Orbital XX: ../orbital-xx
+.. _Orbital XX: ../party#orbital-xx
