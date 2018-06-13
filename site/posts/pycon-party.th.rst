@@ -22,6 +22,6 @@
 
 รายละเอียดและวิธีการเดินทาง : `PyCon Official Party </party>`_ page
 
-.. _Kijjaz: ../party#kijjaz
-.. _DCNXTR: ../party#dcnxtr
-.. _Orbital XX: ../party#orbital-xx
+.. _Kijjaz: ../../party#kijjaz
+.. _DCNXTR: ../../party#dcnxtr
+.. _Orbital XX: ../../party#orbital-xx
