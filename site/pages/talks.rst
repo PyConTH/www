@@ -2540,13 +2540,13 @@ With functions being first-class citizens, Python allows us to build programmes 
 
 .. class:: jumbotron
 
-Lez Katzav
-----------
+Anthony Khong
+--------------
 
 
 
 .. .. image:: https://secure.gravatar.com/avatar/c216452ffbacb459dcf9b614b6413321?s=500
-..     :alt: Lez Katzav (submitted by Mark on his behalf)
+..     :alt: Anthony Khong
 ..     :height: 200px
 ..     :align: right
 ..     :class: img-circle img-responsive
