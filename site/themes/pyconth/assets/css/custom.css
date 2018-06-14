@@ -3,6 +3,13 @@
     border-color: #511c39;
 }
 
+.main_index.posts article img,
+.pyladies-inviteth article img {
+    height:auto;
+    width:auto;
+    max-width: 400px;
+}
+
 body.frontpage header {
     display: none;
 }
