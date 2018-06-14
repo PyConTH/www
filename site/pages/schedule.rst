@@ -95,7 +95,7 @@ Saturday, 16 June
        :intermediate:`Intermediate`
      - `Concurrent python`_ :speaker:`Ukrid Kuldiloke` 
        :intermediate:`Intermediate` :thai:`Thai`
-     - `Pythonic Functional Programming with Coconut`_ :speaker:`Lez Katzav` 
+     - `Pythonic Functional Programming with Coconut`_ :speaker:`Anthony Khong` 
        :advanced:`Advanced`
 
    * - 11:55
