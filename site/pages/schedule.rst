@@ -31,6 +31,7 @@
 .. contents::
 
 All sessions are on *level 10* of the venue. Lunch will be on *level 9*.
+Everyone gets a free coffee or tea in the morning, and they remain on sale throughout the day.
 
 Code War: Friday, 15 June
 =========================
@@ -203,7 +204,7 @@ Sunday, 17 June
      - :blank:`Your mother was a hamster and your father smelt of elderberries`
 
    * - 10:05
-     - :break:`break` :break-title:`Fish Slapping Dance`
+     - :break:`break & snacks` :break-title:`Fish Slapping Dance`
      - :blank:`Fish Slapping Dance`
      - :blank:`Fish Slapping Dance`
 
