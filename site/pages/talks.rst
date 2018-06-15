@@ -2506,11 +2506,7 @@ Michael Kohl
     `citizen428 <https://twitter.com/citizen428>`_
 
 
-
-
-
-
-I'm a man of mystery. Also you all know me, so what am I gonna write here that doesn't sound stupid? ¯\_(ツ)_/¯
+Ruby developer since ~2003. Py-curious, Love FP. I talk a lot about programming.
 
 -------
 
