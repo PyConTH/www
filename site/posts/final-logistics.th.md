@@ -1,5 +1,5 @@
 ---
-title: Ready for the first PyCon Thailand?
+title: พร้อมกันหรือยังสำหรับครั้งแรกของ Pycon Thailand?
 date: 2018-06-15 13:00:00 UTC+07:00
 ---
 
