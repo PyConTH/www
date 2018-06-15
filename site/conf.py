@@ -1128,7 +1128,7 @@ CONTENT_FOOTER = {
 ">
   <div class="container">
     <div class="col-md-2">
-        <img src="/logo.svg" class="img-responsive" alt="PyCon Thailand" />
+        <img src="/logo.png" class="img-responsive" alt="PyCon Thailand" />
     </div>
     <div class="col-md-3">
         <h3>About</h3>
@@ -1225,7 +1225,7 @@ CONTENT_FOOTER = {
 ">
   <div class="container">
     <div class="col-md-2">
-        <img src="/logo.svg" class="img-responsive" alt="PyCon Thailand" />
+        <img src="/logo.png" class="img-responsive" alt="PyCon Thailand" />
     </div>
     <div class="col-md-3">
         <h3>About</h3>
