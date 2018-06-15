@@ -213,6 +213,10 @@ tourist SIM. (You have to register with passport.) The easiest is to get it at
 the airport, all the major providers have kiosks at Arrivals.
 See the `Prepaid Data SIM Card Wiki <http://prepaid-data-sim-card.wikia.com/wiki/Thailand>`_ for all the details.
 
+Note that the venue has `TrueWifi hotspots
+<http://www.truewifi.net/wifi/findhotspot>`_, so if you're getting a SIM card,
+then True is a good option.
+
 Safety and security
 -------------------
 
