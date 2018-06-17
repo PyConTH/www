@@ -303,7 +303,7 @@ In honour of this, we are having a
 `Monty Python Quiz <https://www.surveymonkey.com/r/PLDK25P>`_ during the conference. 
 The quiz has now been published!
 
-Here is a `quiz for Day 1 <https://www.surveymonkey.com/r/P8ZH839>`_, 
+Here is the `quiz for Day 1 <https://www.surveymonkey.com/r/P8ZH839>`_, 
 and the `quiz for Day 2 <https://www.surveymonkey.com/r/PLDK25P>`_.
 
 Fill it out! Compete for the grand prize! Or for fame!
