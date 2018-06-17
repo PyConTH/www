@@ -298,8 +298,15 @@ comes from the BBC show
 `Monty Python's Flying Circus <https://en.wikipedia.org/wiki/Monty_Python%27s_Flying_Circus>`_
 and has nothing to do with those reptiles causing 
 `formication <https://en.wikipedia.org/wiki/Formication>`_.
-In honour of this, we shall have a Monty Python Quiz during the conference. A
-trial quiz can be taken `here <https://www.surveymonkey.com/r/9JJSMJG>`_.
+
+In honour of this, we are having a 
+`Monty Python Quiz <https://www.surveymonkey.com/r/PLDK25P>`_ during the conference. 
+The quiz has now been published!
+
+Here is the `quiz for Day 1 <https://www.surveymonkey.com/r/P8ZH839>`_, 
+and the `quiz for Day 2 <https://www.surveymonkey.com/r/PLDK25P>`_.
+
+Fill it out! Compete for the grand prize! Or for fame!
 
 .. _PyLadies Breakfast: ../talks#pyladies-breakfast
 .. _Attack of Pythons\: Gotchas and Landmines in Python: ../talks#attack-of-pythons-gotchas-and-landmines-in-python
