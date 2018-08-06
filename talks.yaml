@@ -1,5 +1,12 @@
 ---
-- talk: "Attack of Pythons: Gotchas and Landmines in Python"
+- title: "Attack of Pythons: Gotchas and Landmines in Python"
+  tags:
+    - Python
+    - gotchas
+    - features
+    - implementation
+  language: en
+  file: ./Pycon Room1/17/1_Manoj.mp4
   speaker: |
       Manoj Pandey
       https://twitter.com/onlyrealmvp
@@ -21,7 +28,7 @@
     Python may be one of the simplest and most flexible programming languages
     out there, but it is still a programming language. It still has syntax,
     datatypes, and some occasional dark corners. Python "warts" are things for
-    which people have criticised Python, typically aspects of the language or
+    which people have criticized Python, typically aspects of the language or
     mechanisms of its implementation, because such aspects either expose
     certain surprising inconsistencies, are regarded as omissions, or cause
     irritation for parts of the community in some sense.
@@ -39,7 +46,11 @@
     https://www.destroyallsoftware.com/talks/wat site.
 
 
-- talk: Unimaginable Things in Python
+- title: Unimaginable Things in Python
+  tags:
+    - Python
+  language: th
+  file: ./Pycon Room2/16/6 Watcharapol Watcharawisetkul .mp4
   speaker: |
       Watcharapol Watcharawisetkul
       https://twitter.com/groupw66
@@ -67,7 +78,12 @@
 
     - and more!!
 
-- talk: How many coin in your piggy bank with micro-python & 3D-Printer
+- title: How many coin in your piggy bank with micro-python & 3D-Printer
+  tags:
+    - micro-python
+    - Python
+  file: ./Pycon Room3/Track 3_06 Montri Sroymukda 2.mp4
+  language: en
   speaker: |
       Montri Sroymukda
       https://twitter.com/Montri@Montri3d
@@ -101,7 +117,11 @@
     And I have youtube channel for share how to, review, teach 3D-Printer,
     drone, micro controller, Etc https://www.youtube.com/user/deenajacom
 
-- talk: Image Classification using Deep Learning in Python
+- title: Image Classification using Deep Learning in Python
+  tags:
+    - ML
+  language: en
+  file: ./Pycon Room2/16/5 Sandeep Saurabh .mp4
   speaker: |
       Sandeep Saurabh
       https://twitter.com/sandeeps89
@@ -121,7 +141,11 @@
     past methods till Capsule networks and show how to make them work in
     python.
 
-- talk: Deep Learning in the Household
+- title: Deep Learning in the Household
+  tags:
+    - ML
+    - Python
+  language: en
   speaker: Surasak Watthanayontkit
   bio: >
     Earned a B.Eng. nearly 20 years ago, when the vocabularies like "Deep
@@ -178,7 +202,7 @@
     something for their own use.
 
 
-- talk: >
+- title: >
     Enabling Blockchain Energy Trading among Smart Buildings through the Use of
     Multi-Agent Systems and Internet of Things Devices
   description: >
@@ -203,6 +227,14 @@
     language for the IoT integration and backend, whereas Hyperledger and React
     Native are chosen to be the Blockchain development platform and our mobile
     frontend respectively.
+  tags:
+    - Python
+    - IoT
+    - Blockchain
+    - Backend
+    - ML
+  language: en
+  file: ./Pycon Room1/17/6_Dr.warodom.mp4
   speaker: |
       Dr. Warodom Khamphanchai
       https://twitter.com/kwarodom
@@ -238,7 +270,9 @@
     For more info, please visit : kwarodom.wordpress.com
     or contact: kwarodom@vt.edu
 
-- talk: Alternative way for build async server
+- title: Alternative way for build async server
+  tags:
+    - Python
   description:
     ถ้าคุณอยากสร้าง api server โดยใช้ async แต่ยังไม่รู้ว่าจะเลือก
     async framework ตัวไหน ผมมี framework ตัวใหม่ชื่อ Sanic มานำเสนอ
@@ -252,6 +286,8 @@
 
     ถ้าคุณกำลัง หรืออยากสร้าง high load api server สักตัวหนึ่ง นี่เป็น session
     ที่คุณควรเข้ามาฟัง
+  language: th
+  file: ./Pycon Room2/17/1 Phatthana Batt Tongon .mp4
   speaker: |
       Phatthana Batt Tongon
       https://twitter.com/kh_sylar
@@ -268,7 +304,13 @@
 
     - Monster hunter :)
 
-- talk: Continuous code quality with sonarqube
+- title: Continuous code quality with sonarqube
+  tags:
+    - SonarQube
+    - DevOps
+    - Python
+  file: ./Pycon Room1/16/16_5.mp4
+  language: th
   speaker: Adisak Srisuriyasavad
   bio: >
 
@@ -298,7 +340,9 @@
 
     - วิเคราะห์ issues ที่ตรวจพบ และสามารถกำหนดงานให้กับคนในทีมได้อีกด้วย
 
-- talk: Concurrent python
+- title: Concurrent Python
+  tags:
+    - Concurrency
   description: >
     Abstract:
     Some people tends to choose the library or framework without understanding
@@ -325,20 +369,35 @@
 
     - ตัวอย่างการใช้งาน code example, library example
 
+  language: th
+  file: ./Pycon Room2/16/2 Ukrid Kuldiloke .mp4
   speaker: Ukrid Kuldiloke
 
-- talk: API ไม่เสร็จ แต่หน้าบ้านต้องเสร็จนะครับ
+- title: API ไม่เสร็จ แต่หน้าบ้านต้องเสร็จนะครับ
   description:
     เอา python มาช่วยทำ api ปลอม ๆ ให้หน้าบ้านเรียก
     เพื่อเอาข้อมูลไปแสดงหน้าบ้านให้ได้ก่อน
     จะอ้างว่า api ไม่เสร็จหน้าบ้านไม่เสร็จไม่ได้
+  tags:
+    - Backend
+    - Python
+    - API
+    - Front end
+  language: th
   speaker: |
       Wasith Theerapattrathamrong
       https://twitter.com/PH41
   bio: >
       Use be be a developer like you, then I took an arrow to the knee.
 
-- talk: Photographic Identification of Sea Turtle using Python and OpenCV
+- title: Photographic Identification of Sea Turtle using Python and OpenCV
+  tags:
+    - Python
+    - Image Processing
+    - Image Identification
+    - OpenCV
+    - intermediate
+    - parallel programming
   description: >
     Abstract:
     Recognition of individuals within a population is a key issue for most
@@ -357,6 +416,7 @@
     OpenCV to assist users for identification using facial photograph is
     addressed. The experimental result could show the performance and promising
     of the idea.
+  language: en
   speaker: |
       Natapon Pantuwong
       https://twitter.com/nathan_hunt
@@ -373,7 +433,7 @@
     Moreover, fundamental algorithms about signal processing, image processing
     and computer vision are also included in his research fields.
 
-- talk: Writing a good frontend test cases using RobotFramework
+- title: Writing a good frontend test cases using RobotFramework
   description: >
     Abstract:
     Some web-developers work on the backend and some on the frontend but after
@@ -392,6 +452,12 @@
     much more awesome experience. Another part of the talk would be describing
     a single keyword base and some yaml scripts to make the test-cases more
     reusable.
+  tags:
+    - robotframework
+    - front-end
+    - Python
+  file: ./Pycon Room1/16/9_Min Khant zaw.mp4
+  language: en
   speaker: |
       Min Khant Zaw
       https://twitter.com/amazingburman
@@ -404,8 +470,10 @@
     to British Synth Pop and spitting out all the crappy codes I can come up
     with in Sublime Text.
 
-- talk: >
+- title: >
     DIY: Python with partially charged batteries
+  tags:
+    - Python
   description: >
     Abstract:
     We discuss re-implement some features of standard Python library using a
@@ -433,11 +501,22 @@
 
     Throughout the process of re-implementing these features, we should gain
     more in-depth understanding the mechanisms inside Python.
+  language: th
+  file: ./Pycon Room2/17/6 Watcharapol Watcharawisetkul .mp4
   speaker: |
       Watcharapol Watcharawisetkul
       https://twitter.com/groupw66
 
-- talk: A journey from Monolith into Microservices architecture
+- title: A journey from Monolith into Microservices architecture
+  tags:
+    - Backend
+    - Python
+    - architecture
+    - message driven
+    - microservices architecture
+    - event notification system
+    - e-commerce
+    - AWS
   description: >
     Abstract:
     My personal experience as a witness of each evolution steps of an
@@ -456,6 +535,8 @@
     of time during that period. Explaining how we gradually pull
     functionalities out of the legacy system. What kind of challenges have we
     faced along the way. What have we learned so far.
+  file: ./Pycon Room3/Track 3_05 Pinnapong Silpsakulsuk 2.mp4
+  language: en
   speaker: |
       Pinnapong Silpsakulsuk
       https://twitter.com/icmpecho
@@ -464,7 +545,9 @@
     from a small embedded system board to a large complex system in the cloud.
     Interested in software development practices and software architecture.
 
-- talk: How to make a better environment using Python
+- title: How to make a better environment using Python
+  tags:
+    - Python
   description: >
     Abstract:
     This talk is for someone who wanto to improve the around environment better
@@ -500,11 +583,16 @@
     - Why Python is a better tool when improving little problem
 
     - The use case of Python: How to improve the development environment
+      language: en
   speaker: |
       omega
       https://twitter.com/equal_001
 
-- talk: Django Backend from zero to deployment
+- title: Django Backend from zero to deployment
+  tags:
+    - Backend
+    - Web
+    - Python
   description: >
     Here are the topics
 
@@ -519,13 +607,15 @@
     5. Deploy (Docker)
 
     This talk will not cover `Gitlab-runner`, AWS EC2, S3/CloudFront, route53
+  language: en
+  file: ./Pycon Room2/17/4 El .mp4
   speaker: El
   bio: >
     Django REST lover and ReactJS beginner. Implement & code ~10 projects from
     last year. Struggling to get all 3 skills. They are DevOps, Backend, and
     Frontend in order to lead multiple teams.
 
-- talk: Powerful geographic web framework GeoDjango
+- title: Powerful geographic web framework GeoDjango
   description: >
     Abstract:
     This talk is for software engineers who wants to develop a product with
@@ -555,13 +645,19 @@
     The talk gives you my knowledge to develop applications using location
     information more easily with GeoDjango.
 
+  language: en
+  file: ./Pycon Room1/17/7_Mitsuki Sugiya.mp4
   speaker: |
       Mitsuki Sugiya
       https://twitter.com/equal_001
+  tags:
+    - Python
+    - Django
   bio: >
     I'm working in Japan as a web applications engineer, Pythonista.
 
-- talk: Python as First Programming Language - By Student For Student
+- title: Python as First Programming Language - By Student For Student
+  tags:
   description: >
     ผมจะเล่าเกี่ยวกับการใช้ Python ในการสอนหนังสือ
     เรื่องการนำไปประยุกต์ในการเรียนการสอนครับ
@@ -572,6 +668,7 @@
     python ประมาณ 1 ปีที่แล้ว ผมอยากแชร์ความสนุกของการศึกษาpython
     และวิธีการที่ผมจะสามารถใช้สอนเด็กๆ ให้สนใจ programming
 
+  language: th
   speaker: P. Sankaew
   bio: >
     I'm just student. That want to improve Thailand's Education System.
@@ -580,7 +677,7 @@
     Junior Science Talent Project Scholarship.
     Co-Founder of RANTERT and ZexterLAB.
 
-- talk: AI in Security, Finance, and eCommerce
+- title: AI in Security, Finance, and eCommerce
   description: >
     Abstract:
     Using AI (particularly in field of computer vision and face recognition)
@@ -606,9 +703,20 @@
     machine learning, particularly in areas of payment transfers, ecommerce
     transactions ...
 
+  file: ./Pycon Room3/Track 3_01 TaeWoo Kim 2.mp4
+  language: en
   speaker: |
       TaeWoo Kim
       https://twitter.com/taewookim
+  tags:
+    - ML
+    - Big Data
+    - Python
+    - IoT
+    - Web
+    - face recognition
+    - tensorflow
+    - keras
   bio: >
     15 Years in Engineering & Data in NYC / Silicon Valley
 
@@ -629,7 +737,10 @@
         - `Contributor to Yahoo SMB Advisors
         <https://smallbusiness.yahoo.com/advisor/confessions-reformed-black-hat-ppc-marketer-cpc-arbitrage-190531966.html>`_
 
-- talk: Logo Detection Using PyTorch
+- title: Logo Detection Using PyTorch
+  tags:
+    - Python
+    - ML
   description: >
     Abstract:
     "Ad Tech" is the use of digital technologies by vendors, brands,  and their
@@ -651,6 +762,8 @@
     Convolutional Neural Network (CNN) , learn the effect of data size, augment
     the data when we don't have much, and use the transfer learning technique
     to improve the model.
+  language: en
+  file: ./Pycon Room2/17/2 Nithiroj Tripatarasit .mp4
   speaker: |
     Nithiroj Tripatarasit
   bio: >
@@ -679,7 +792,10 @@
     - `Deep Learning Workshops by Google Developer Experts
     <https://drive.google.com/file/d/197ONJWkT6qgf5CzEL1UJlxr9P9gW5Rbz/view?usp=sharing>`_
 
-- talk: Flask ณ Kaidee
+- title: Flask ณ Kaidee
+  tags:
+    - Backend
+    - Python
   description: >
     Abstract:
     ที่ขายดีมีคนมาลงขายของหลายหมื่นชิ้นและมีการเข้าใช้งานรวมกว่า
@@ -701,6 +817,8 @@
     ภาษา: ไทย
     เหมาะสำหรับ: บุคคลทั่วไป, ผู้ที่ยังไม่เคยใช้งาน Flask ในทราฟฟิคสูงๆ,
     หรืออยากฟังประสบการ์ณการใช้งานจากทีมอื่น
+  language: th
+  file: ./Pycon Room2/16/7 Poohdish Rattanavijai .mp4
   speaker: |
       Poohdish Rattanavijai
       https://twitter.com/RobGThai
@@ -723,7 +841,7 @@
 
     - happen to be Software Architect at Kaidee.com
 
-- talk: Python + XPath = Extra Parsing Power
+- title: Python + XPath = Extra Parsing Power
   description: >
     Abstract:
     Python offers powerful string and nested data tools. One can parse HTML/XML
@@ -769,7 +887,14 @@
     highlight that it does not particularly matter which package you learn – it
     matters that you learn when to employ XPath and a proper DOM.
 
+  language: en
+  file: ./Pycon Room1/17/7_Jonathan Reiter.mp4
   speaker: Jonathan Reiter
+  tags:
+    - Python
+    - big data
+    - web
+    - intermediate
   bio: >
     Jon is Managing Director of Data Finnovation, a Singapore-based startup
     that is changing the way the financial services industry handles data.
@@ -781,7 +906,9 @@
     where he earned an ScM in Computer Science and an A.B. in both Mathematical
     Economics and Computer Science.
 
-- talk: Introduce syntax and history of Python from 2.4 to 3.6
+- title: Introduce syntax and history of Python from 2.4 to 3.6
+  tags:
+    - Python
   description: >
     Abstract:
     I will introduce the new syntax and functions between Python 2.4 and Python
@@ -807,6 +934,8 @@
     I will introduce those features and grammar that I think are important
     while comparing the grammar and functions incorporated in Python 2.4 and
     now.
+  language: en
+  file: ./Pycon Room2/17/7 Manabu Terada .mp4
   speaker: |
       Manabu TERADA
       https://twitter.com/terapyon
@@ -819,7 +948,17 @@
     Group. He was Guest Associate Professor of Hitotsubashi University in 2011,
     and he became a PSF Contributing member in September 2017.
 
-- talk: A JS developer tries python, escapes from Jupyter to build a product
+- title: A JS developer tries python, escapes from Jupyter to build a product
+  tags:
+    - Web
+    - Small Data
+    - Jupyter
+    - IPython
+    - Bokeh
+    - D3
+    - Design
+    - Product
+    - User Research
   description: >
     Abstract:
     Jupyter notebooks are great to prototype ideas, but aren’t shippable
@@ -845,6 +984,8 @@
     how it can fit into the wider picture of product development in the
     trenches of a startup.
 
+  language: en
+  file: ./Pycon Room2/17/5 Richard Washer .mp4
   speaker: |
       Richard Washer
       https://twitter.com/richardwasher
@@ -855,7 +996,7 @@
     projects in large companies. We're based in London, UK, but I'm from New
     Zealand!
 
-- talk: The power of Jupyter notebooks
+- title: The power of Jupyter notebooks
   description: >
     Abstract:
     I'll give a visually interesting talk on Jupyter, to show how:
@@ -904,13 +1045,24 @@
     exciting, and to remove the barrier to entry of it being hard to set up an
     environment.
 
+  language: en
+  file: ./Pycon Room2/16/4 Mike Amy .mp4
   speaker: Mike Amy
+  tags:
+    - Python
+    - Jupyter
+    - Explosions
+    - Mind-bendingness
   bio: >
     These days I pretend I'm a lazy layabout but actually I am always working
     on some kind of weird software projects. In a previous life I helped save
     the world at the UN. I'm also helping to (dis)organise this event.
 
-- talk: Python for Life Sciences
+- title: Python for Life Sciences
+  tags:
+    - Python
+    - ML
+    - bioinformatics
   description: >
     Abstract:
     Python has gained increasing popularity among bioinformatics researchers
@@ -931,6 +1083,9 @@
     tools in bioinformatics. Finally, in the third part, I will talk about two
     Biological data analysis tasks solved with Python, namely molecular
     sequence analysis and molecular structure analysis.
+# file: ./Pycon Room1/16/3_Kulwadee.mp4
+  file: ./Pycon Room1/16/Kulwadee.mp4
+  language: en
   speaker: Kulwadee Somboonviwat
   bio: >
     I am a researcher who loves using Python. My current interests include
@@ -941,7 +1096,7 @@
     helped them analyzing biological data by using Python as the main language.
     I speak Thai, English, and also some Japanese. :-)
 
-- talk: CoderDojo - a free programming club for kids
+- title: CoderDojo - a free programming club for kids
   description: >
     Abstract:
     CoderDojo is a community organized free programming club for kids aged
@@ -956,9 +1111,13 @@
     operating CoderDojo for a year and why community-driven education is the
     future.
 
+  file: ./Pycon Room3/Track 3_07 Mishari Muqbil 2.mp4
+  language: en
   speaker: |
       Mishari Muqbil
       https://twitter.com/mishari
+  tags:
+    - education
   bio: >
     Mishari has been using Linux since 1994, coordinator with the distributed
     computing effort to break RC5-56 in 1997, built Thailand's largest
@@ -982,7 +1141,13 @@
 
     * Cycling
 
-- talk: Rage Against The Learning Machine (A New Hope)
+- title: Rage Against The Learning Machine (A New Hope)
+  tags:
+    - ML
+    - intermediate
+    - big data
+    - machine learning
+    - Python
   description: >
     Abstract:
     This talk, aims to make machine learning simple, fun and accessible to
@@ -997,6 +1162,8 @@
     recognition to transportation. This talk, aims to make machine learning
     simple, fun and accessible to anyone with working examples covering couple
     of tools.
+  file: ./Pycon Room1/16/5_Errazudin.mp4
+  language: en
   speaker: |
       errazudin ishak
       https://twitter.com/errazudin
@@ -1008,7 +1175,7 @@
     in his dream or try to help his little daughter with her super tough
     kindergarten homework.
 
-- talk: Template-matching in NumPy.
+- title: Template-matching in NumPy.
   description: >
     Abstract:
     The sequence of nucleotides in a DNA can be represented as a
@@ -1027,6 +1194,10 @@
     Finally, I consider alternative solutions and compare them with that of
     NumPy.
 
+  tags:
+    - Python
+    - Big Data
+  language: en
   speaker: |
       Adam Gardiner
       https://twitter.com/lomyenSEA
@@ -1037,13 +1208,15 @@
       how to code is an essential part of digital literacy, so everyone should
       get the chance to learn how to code at least once in their life.
 
-- talk: Introduction to serverless Python with AWS Lambda
+- title: Introduction to serverless Python with AWS Lambda
   description: >
     Abstract:
     You can do so much with a single Python function: from answering web
     requests to building chatbots.
+
     And we can do that completely without maintaining a server, using
     Functions-as-a-Service!
+
     Let's look at the pros and cons — hint: billing is special! — and look at a
     chatbot built with an AWS Lambda.
 
@@ -1062,10 +1235,17 @@
     Finally, I'll demo how to answer an HTTP request with a AWS Lambda
     function, for example to build a chatbot or answer a SMS.
 
+  language: en
+  file: ./Pycon Room1/17/2_Murat Knecht.mp4
   speaker: |
       Murat Knecht
       https://twitter.com/muratknecht
 
+  tags:
+    - FaaS
+    - devops
+    - AWS
+    - AWS Lambda
   bio: >
     *You are smart, motivated and have a unique perspective* — that's my
     premise as CTO of `engageSPARK <http://engagespark.com>`_. Originally I'm
@@ -1088,8 +1268,15 @@
     willing to share some of your knowledge and uniqueness. :) In any case,
     always glad to help out with sightseeing tips and a cold beverage.
 
-- talk: >
+- title: >
     Hy: Running a webapp with LISP on Python
+  file: ./Pycon Room1/16/16_2.mp4
+  tags:
+    - lisp
+    - runtime
+    - languages
+    - demo
+    - hylang
   description: >
     Abstract:
     Python is not only a language, it's also a runtime!
@@ -1108,6 +1295,7 @@
     In this Lightning Talk I'll demo a small Flask webapp written in Hy,
     and show how Hy macros allow us to express our intention clearly.
 
+  language: en
   speaker: |
       Murat Knecht
       https://twitter.com/muratknecht
@@ -1134,7 +1322,11 @@
     willing to share some of your knowledge and uniqueness. :) In any case,
     always glad to help out with sightseeing tips and a cold beverage.
 
-- talk: Using Python to build a smart contract in NEO blockchain
+- title: Using Python to build a smart contract in NEO blockchain
+  tags:
+    - Blockchain
+    - IoT
+    - Python
   description: >
     Abstract:
     Smart contracts can go beyond the payment method in proposing to embed
@@ -1165,6 +1357,9 @@
     after this talk you will know more about the blockchain development and
     kick-off the idea for your next project.
 
+# file: ./Pycon Room1/16/2_Pisuth.mp4
+  file: ./Pycon Room1/16/Pisuth.mp4
+  language: en
   speaker: Pisuth Daengthongdee
   bio: >
     Pisuth turns himself into a blockchain developer with extensive skills on
@@ -1174,7 +1369,13 @@
     received two international blockchain dev awards in 2018 and has strong
     passion on blockchain technology and distributed economy.
 
-- talk: A Beginner's Guide to Deep Natural Language Processing with PyTorch
+  tags:
+    - ML
+    - NLP
+    - Python
+    - AI
+    - DeepLearning
+    - PyTorch
   description: >
     Abstract:
     Are you a newbie in NLP? Have you recently been intrigued by the hype of
@@ -1198,6 +1399,8 @@
     (intermediate: especially classes and objects), university calculus
     (basic), and linguistics (very basic).
 
+  language: en
+  file: ./Pycon Room2/16/1 Prachya Boonkwan .mp4
   speaker: Prachya Boonkwan
   bio: >
     Prachya Boonkwan is a computational linguist and a computer scientist with
@@ -1211,7 +1414,10 @@
     parsing, statistical machine translation, natural language processing,
     machine learning, and formal syntax.
 
-- talk: Teaching and Learning with Python
+- title: Teaching and Learning with Python
+  tags:
+    - Python
+    - Education
   description: >
     Abstract:
     Python is a great language for teaching (and learning!) computer science.
@@ -1231,6 +1437,8 @@
     lessons I've taught with them. I'll also discuss education best practices
     and how learners can apply them to their own self-education.
 
+  file: ./Pycon Room3/Track 3_04 Michael Delfino 2.mp4
+  language: en
   speaker: |
       Michael Delfino
       https://twitter.com/michaeldelfino
@@ -1241,7 +1449,9 @@
     CS. I'm currently teaching at an international school in Bangkok. I am part
     Thai but born and raised in America in the state of Kentucky.
 
-- talk: Learning Python via on-line resources
+- title: Learning Python via on-line resources
+  tags:
+    - Python
   description: >
     Abstract:
     So you heard the name "Python" and now want to "speak" the language? This
@@ -1259,6 +1469,8 @@
     who are already well-versed in other programming languages. In this talk,
     the speaker will share experiences on a subset of them.
 
+  file: ./Pycon Room3/Track 3_08 Surasak Watthanayontkit 2.mp4
+  language: en
   speaker: Surasak Watthanayontkit
   bio: >
     Earned a B.Eng. nearly 20 years ago, when the vocabularies like "Deep
@@ -1277,7 +1489,15 @@
     full time job) He also does endurance sports like long distance running
     (a.k.a. marathons), triathlons, and high-altitude trekking
 
-- talk: Talk to your Python app - using LINE!
+- title: Talk to your Python app - using LINE!
+  tags:
+    - Python
+    - API
+    - Line
+    - Line messenger
+    - open APIs
+    - human interaction
+    - Twilio
   description: >
     Abstract:
     "LINE" is by far the most popular tool in Thailand for instant
@@ -1301,6 +1521,8 @@
 
     * Python Requests Library
 
+  language: en
+  file: ./Pycon Room2/17/8 Uli .mp4
   speaker: |
       Uli
       https://twitter.com/u1i
@@ -1308,7 +1530,11 @@
     Data & Automation Geek, based in Singapore. Python, Git, Redis, HTTP.
     Worked for companies including Red Hat, Microsoft, IBM, Playboy and Yahoo!
 
-- talk: Aaaarrgghh, Spider! Web scraping with Scrapy
+- title: Aaaarrgghh, Spider! Web scraping with Scrapy
+  tags:
+    - Python
+    - Scrapy
+    - web scraping
   description: >
     A quick yet reasonably thorough introduction to Scrapy, the high-level web
     crawling & scraping framework for Python. Includes a demo, cause I like
@@ -1331,6 +1557,8 @@
     Slides from the previous version of this talk:
     https://speakerdeck.com/citizen428/aaaarrgghh-spider-web-scraping-with-scrapy
 
+  language: en
+  file: ./Pycon Room1/17/5_Michael.mp4
   speaker: |
       Michael Kohl
       https://twitter.com/citizen428
@@ -1338,7 +1566,11 @@
     Ruby developer since ~2003. Py-curious, Love FP. I talk a lot about
     programming.
 
-- talk: Pythonic Functional Programming with Coconut
+- title: Pythonic Functional Programming with Coconut
+  tags:
+    - Python
+    - ML
+    - functional programming
   description: >
     Abstract:
     Writing functional-style Python can be challenging ranging from minor
@@ -1359,6 +1591,8 @@
     in Python, and demonstrates how Coconut addresses the problems. In
     particular, we will start with a basic coding problem, and move on to
     designing a machine-learning pipeline with a functional approach.
+  file: ./Pycon Room3/Track 3_02 Anthony Khong 2.mp4
+  language: en
   speaker: Anthony Khong
   bio: >
     I am a data scientist in Agoda, an innovative accommodation website that
@@ -1370,7 +1604,12 @@
     been actively trying to marry the two for years. My other passion include
     high-performance computing, Bayesian statistics and Vim.
 
-- talk: Monitoring your Python Application
+- title: Monitoring your Python Application
+  tags:
+    - Python
+    - application performance monitoring
+    - apm
+    - Backend
   description: >
     Abstract:
     Often late, the time to debug that particular bug/issue occurring in
@@ -1390,6 +1629,8 @@
     Elasticsearch, what else you can use (ex. Infrastructure Monitoring,
     Machine Learning).
 
+  file: ./Pycon Room3/Track 3_03 Aravind Putrevu 2.mp4
+  language: en
   speaker: |
       Aravind Putrevu
       https://twitter.com/aravindputrevu
@@ -1404,7 +1645,15 @@
     He has deep interest in Machine Learning, Security Incident Analysis and
     IoT tech. In his free time, he plays around Raspi or a Arduino.
 
-- talk: Object detection and Human recognition with YOLO in Python
+- title: Object detection and Human recognition with YOLO in Python
+  tags:
+    - Python
+    - ML
+    - YOLO
+    - Computer Vision
+    - Object detection
+    - Human recognition
+  file: ./Pycon Room1/16/4_Kajal.mp4
   description: >
     Abstract:
     New research papers for object detection coming out every other day made
@@ -1413,6 +1662,7 @@
     explanation behind the choice of YOLO,challenges faced and how to overcome
     them.
 
+  language: en
   speaker: |
       Kajal Puri
       https://twitter.com/Agirlhasnofame
@@ -1425,8 +1675,11 @@
     when she is not reading about AI Apocalypse, she can be found writing
     poetry. She tweets at @Agirlhasnofame
 
-- talk: >
+- title: >
     PyThaiNLP : Thai natural language processing in Python.
+  tags:
+    - Python
+    - NLP
   description: >
     Abstract:
     I build open source natural Language toolkit for thai language.
@@ -1438,12 +1691,22 @@
 
     GitHub : https://github.com/PyThaiNLP/pythainlp
 
+  file: ./Pycon Room1/16/16_6.mp4
+  language: th
   speaker: Wannaphong Phatthiyaphaibun
   bio: I am a PyThaiNLP founder.
 
-- talk: >
+- title: >
     Python for Self-Trackers: How to Visualize and Better Understand Your Life
     in Data
+  tags:
+    - ML
+    - Python
+    - data science
+    - data visualization
+    - machine learning
+    - data processing
+    - statistics
   description: >
     Abstract:
     Can personal data help us become more productive, healthier, and happier?
@@ -1491,6 +1754,8 @@
     science tools to engage, visualize, find patterns, and make predictions
     with your data.
 
+  language: en
+  file: ./Pycon Room2/17/3 Mark Koester .mp4
   speaker: |
       Mark Koester
       https://twitter.com/markwkoester
@@ -1521,7 +1786,7 @@
 
     * https://www.facebook.com/markwkoester
 
-- talk: การพัฒนาหุ่นยนต์ด้วยภาษา Python Developing robot with python
+- title: การพัฒนาหุ่นยนต์ด้วยภาษา Python Developing robot with python
   description: >
     Abstract:
     ผมกำลังทำงานอยู่ในบริษัทหุ่นยนต์สัญชาติไทย ก็เลยอยากจะแชร์ความรู้เกี่ยวกับ การพัฒนาหุ่นยนต์
@@ -1539,7 +1804,11 @@
     Processing, Visualization Data, Simulation for AUV (Autonomus Underwater
     Vehicle), pros, cons
 
+  language: en
   speaker: Sippakorn Widsankun
+  tags:
+    - Python
+    - Robotics
   bio: >
     - Robotics Programmer
 
@@ -1551,9 +1820,15 @@
 
     - Alcoholic Atheist
 
-- talk: >
+- title: >
     Playing with Social Network, Geo-Spatial, Financial Flow, and Banking
     System Data: Graph-Theoretic Computation in Python
+  tags:
+    - Python
+    - Graph-Theoretic Computation
+    - Quantitative Analytics
+    - Financial Application
+    - Categorical Variables
   description: >
     Abstract:
     Data scientists increasingly encounter problems whereby data objects
@@ -1574,6 +1849,8 @@
     from the network connectivity patterns, either to provide insights in and
     of themselves, or as pre-processing to further machine learning task down
     the line.
+  language: en
+  file: ./Pycon Room1/17/4_Poomjai Nacaskul.mp4
   speaker: Poomjai Nacaskul, PhD, DIC, CFA
   bio: >
     - (Bachelor's) Physics & Economics (double major), Case Western Reserve
@@ -1591,7 +1868,14 @@
     - (SCB - current) FSVP, Quantitative Models & Enterprise Analytics,
     Business Intelligence, Transformation Group
 
-- talk: Creating amazing APIs in Flask with Flask RESTplus
+- title: Creating amazing APIs in Flask with Flask RESTplus
+  tags:
+    - flask-restplus
+    - rest-api
+    - Python
+    - Backend
+    - flask
+    - Web
   description: >
     Abstract:
     In this session, I will talk about how we can use Flask with Flask RESTplus
@@ -1610,6 +1894,8 @@
     and basically anything else you can imagine. In this talk, I will share my
     hard gained knowledge with code snippets on how to quickly get started and
     do all these amazing things in Flask RESTplus.
+  file: ./Pycon Room1/16/8_AVI.mp4
+  language: en
   speaker: |
       Avi Aryan
       https://twitter.com/aviaryan123
@@ -1622,7 +1908,16 @@
     Blockchain based social media startup called HapRamp which aims to
     revolutionalize the social media ecosystem in India.
 
-- talk: Build dynamically scaled highly available python application with MySQL
+- title: Build dynamically scaled highly available python application with MySQL
+  tags:
+    - MySQL
+    - HA
+    - Realtime
+    - Database
+    - backend
+    - Scalling
+    - Web
+    - Big Data
   description: >
     Abstract:
     In today's world, loads are ever changing while providing service
@@ -1641,6 +1936,8 @@
     Finally, we will do a live demo of both to show in real life how you can
     use them both with your Python application.
 
+  language: en
+  file: ./Pycon Room2/16/3 Ronen Baram .mp4
   speaker: Ronen Baram
   bio: >
     With more then 25 years in the IT industry, with strong focus on open
@@ -1651,7 +1948,7 @@
     Have a great passion to talk, learn and share knowledge.
     Overall nice person, given the morning coffee was reasonable.
 
-- talk: Building a sustainable codebases with Type Annotations
+- title: Building a sustainable codebases with Type Annotations
   description: >
     Abstract:
     Have you ever need to figure out which type of variable and arguments is?.
@@ -1670,6 +1967,10 @@
     embrace type annotation to our development team and also some common
     pitfalls you might want to avoid.
 
+  tags:
+    - Python
+  language: en
+  file: ./Pycon Room1/17/3_Yothin.mp4
   speaker: |
       Yothin Muangsommuk
       https://twitter.com/yothinix
@@ -1678,7 +1979,10 @@
     2010 with love on Pythonic way and the zen of Python. While he's not doing
     Python stuff, he's a Trekkie.
 
-- talk: Artisanal Async Adventures
+- title: Artisanal Async Adventures
+  tags:
+    - async
+    - Web
   description: >
     Abstract:
     Asynchronous networking may seem hard to understand at first, in this talk
@@ -1698,6 +2002,8 @@
     connections at once. By the end, you should see that asynchronous code is
     not magical at all, but nevertheless incredibly useful.
 
+  file: ./Pycon Room1/16/7_Jonas.mp4
+  language: en
   speaker: |
       Jonas Obrist 
       https://twitter.com/ojiidotch
@@ -1708,4 +2014,318 @@
     involved with the popular open source Content Management System django CMS.
     Nowadays I work primarily with the Tornado framework and various asyncio
     libraries.
+
+- title: PyCons in APAC
+  tags:
+      - Python
+      - PyCon
+      - APAC
+  description: >
+      Lightning Talk
+
+      This talk gives an overview of PyCons in the Asia-Pacific region, since 2008.
+  file: ./Pycon Room1/16/16_3.mp4
+  language: en
+  speaker: Iqbal Abdullah
+  bio: >
+      Day job is running Xoxzo Inc, a cloud telephony platform based in Tokyo.
+
+      Helped found PyCon JP and PyCon MY.
+- title: FOSSASIA introduction
+  tags:
+      - FOSSASIA
+  description: >
+      This talk introduces the FOSSASIA organisation, an organisation
+      developing software applications for social change, using a wide range of
+      technologies.
+
+      https://fossasia.org/
+      https://www.fossasia.tw/
+      https://join.fossasia.tw/
+  file: ./Pycon Room1/16/16_1.mp4
+  language: en
+  speaker: |
+      Noah
+      https://twitter.com/noahcse
+  bio: >
+      FOSSASIA volunteer.
+
+- title: >
+    Modern Open Source: Challenges and Opportunities
+  tags:
+      - FOSS
+      - Data science
+  description: >
+    Modern Open Source: Challenges and Opportunities
+
+    Community-led Open Source and You
+
+    This keynote gives a broad overview of the social, commercial and
+    technological context of the open source software development.
+
+    In closing, Wes introduces URSA LABS, an innovation lab to support the
+    creation of data science tools.
+    https://ursalabs.org
+
+# file: ./Pycon Room1/16/Mck.mp4
+  file: ./Pycon Room1/16/1_WES.mp4
+  language: en
+  speaker: |
+    Wes McKinney
+    http://wesmckinney.com
+  bio: >
+    Wes McKinney has been creating fast, easy-to-use data wrangling and
+    statistical computing tools, mostly in the Python programming language,
+    since 2007. He is best known for creating the pandas project and writing
+    the book Python for Data Analysis.
+
+    He is a PMC member of the Apache Arrow and Parquet projects in The
+    Apache Software Foundation.
+
+- title: Python's Scientific Ecosystem
+  tags:
+      - FOSS
+      - Science
+      - PyData
+  description: >
+    Lightning Talk
+
+    Introducing NumFocus, an organisation to support Python's scientific
+    ecosystem, and the associated PyData network of meetups.
+
+    https://numfocus.org/
+    https://pydata.org/delhi2017/
+
+  file: ./Pycon Room1/16/16_4.mp4
+  language: en
+  speaker: |
+      Manoj Pandey
+      https://twitter.com/onlyrealmvp
+  bio: >
+      Founder and Organizer for PyData Delhi.
+      Keynote and international speaker at many Python conferences around the
+      world.
+      To-be Software Engineer at Yelp!
+
+- title: Creating a Startup
+  tags:
+    - Business
+    - Startup
+  description: >
+    Tiwa talks about what it takes to create a startup, what distinguishes SMEs
+    and Startups.
+
+    https://www.kaidee.com
+  file: ./Pycon Room1/17/17_10.mp4
+  language: en
+  speaker: |
+      Tiwa York
+      https://twitter.com/tiwa
+  bio: >
+    Tiwa York is the Head Coach of Kaidee (a.k.a CEO). He is passionate about
+    changing lives through trading second hand goods, startups, and building
+    great teams.
+
+    Along with a team of 5 awesome people, Tiwa founded an online marketplace
+    which is now known as Kaidee in 2011. Today, Kaidee is a C2C online
+    marketplace with 200 thousand monthly sellers, listing 1.8 million items
+    for sale and reaching 7 million people per month. In 2016, 2 million items
+    were sold via Kaidee valued at over 2.4 billion USD. 
+
+    Tiwa has been recognized for his passion, his leadership, and his efforts
+    to build the team and culture at Kaidee. Prior to his current role, he
+    worked in digital advertising with leadership roles in Admax Network and
+    Omnicom Media Group.
+
+- title: Studying Thai with programming
+  tags:
+    - Python
+    - Education
+  description: >
+      Lightning Talk
+
+      Writing code to assist in learning to speak Thai: flash cards,
+      chatbot, numbers in Thai, word matching games.
+  file: ./Pycon Room1/17/17_4.mp4
+  language: th
+  speaker: |
+      Michael Delfino
+      https://twitter.com/michaeldelfino
+  bio: >
+    I'm an educator with a background in computer science. I've worked as a
+    firmware engineer at a large corporation and as a software developer at a
+    small firm and taught at innovative high schools teaching mathematics and
+    CS. I'm currently teaching at an international school in Bangkok. I am part
+    Thai but born and raised in America in the state of Kentucky.
+
+- title: Learning Python 
+  tags:
+      - Python
+      - Education
+  description: >
+      Lightning Talk
+
+      Meen tells how he learned programming, despite not having computers at school.
+  language: th
+  file: ./Pycon Room1/17/17_1.mp4
+  speaker: Meen
+  bio: >
+      # TODO
+
+- title: Python Events in Asia
+  tags:
+      - Python
+      - PyCon
+  description: >
+      Lightning Talk
+
+      Introducing regional PyCons and other Python-related events.
+  language: en
+  file: ./Pycon Room1/17/17_3.mp4
+  speaker: |
+      Noah
+      https://twitter.com/noahcse
+  bio: >
+      FOSSASIA volunteer.
+
+- title: Python Software Foundation
+  tags:
+      - Python
+      - PSF
+  description: >
+    Lightning Talk
+
+    Younggun introduces what the Python Software Foundation does, how to join
+    it, and what membership entails.
+
+    https://www.python.org/
+  language: en
+  file: ./Pycon Room1/17/17_8.mp4
+  speaker: |
+      Younggun Kim
+      https://twitter.com/scari_net
+  bio: >
+      PyCon Korea Organizer
+      (former) PSF Board Director
+      a mediocre software engineer
+      a frequent PyCon traveler
+
+- title: Introducing TOKYO, Japan
+  tags:
+      - Python
+      - Tokyo
+  description: >
+      Lightning Talk
+
+      Announcing PyCon JP, 15-18 September, 2018
+      and PloneConf, 5-11 November, 2018
+      both in Ota City Industrial Plaza (PiO), Tokyo!
+
+      https://www.pycon.jp/
+      https://2018.ploneconf.org/
+  language: en
+  file: ./Pycon Room1/17/17_2.mp4
+  speaker: |
+      Manabu TERADA
+      https://twitter.com/terapyon
+  bio: >
+    Manabu is the founder and CEO of CMS Communications Inc., a Tokyo-based
+    professional Plone and Python development company.
+
+    Manabu has contributed east Asian language functions to Plone. He has been
+    Board chair of PyCon Japan and is a core member of the Japan Plone Users
+    Group. He was Guest Associate Professor of Hitotsubashi University in 2011,
+    and he became a PSF Contributing member in September 2017.
+
+- title: The Hungry Bot
+  tags:
+      - Python
+  description: >
+      Lightning Talk
+
+      Showing the result of running image recognition algorithms (in this case,
+      the Computer Vision API on Azure) against his own Instagram feed and
+      getting back a word cloud.
+
+      http://hacks.sotong.io
+  language: en
+  file: ./Pycon Room1/17/17_5.mp4
+  speaker: |
+      Uli
+      https://twitter.com/u1i
+  bio: >
+    Data & Automation Geek, based in Singapore. Python, Git, Redis, HTTP.
+    Worked for companies including Red Hat, Microsoft, IBM, Playboy and Yahoo!
+
+- title: Sequence Labeling with python-crfsuite
+  tags:
+      - Python
+      - NLP
+  description: >
+      Lightning Talk
+
+      Labeling sequences (any kind of sequences), using Python. E.g. using
+      python-crfsuite, sklearn-crfsuite, PyStruct, pytorch-crf, and others.
+
+      Not as trendy as "deep learning", but ..
+
+      - quite reliable, used in leading linguistic packages,
+
+      - can give good results on limited training data (provided you can
+      specify features, which requires domain knowledge),
+
+      - but computationally intensive.
+
+      Colab Notebook:
+      https://bit.ly/crf-wordseg
+      https://bit.ly/crf-wordseg-slides
+  language: en
+  file: ./Pycon Room1/17/17_9.mp4
+  speaker: |
+      Arthit Suriywongkul
+      https://twitter.com/bact
+  bio: >
+
+- title: The near awesomeness of NumPy
+  tags:
+      - Python
+      - NumPy
+  description: >
+      Lightning Talk
+
+      The near awesomeness of NumPy: why NumPy is useful for scientific
+      computing.
+
+  language: en
+  file: ./Pycon Room1/17/17_7.mp4
+  speaker: |
+      # TODO
+  bio: >
+      # TODO
+
+- title: >
+    AutoBuddy: A Home Automation System
+  tags:
+      - Python
+      - IoT
+      - asyncio
+      - Home Automation
+  description: >
+    Lightning Talk
+
+    AutoBuddy is a home automation system build almost entirely with Python. It
+    uses asyncio and thus required that I created/adapted a number of libraries
+    to use asyncio throughout. AutoBuddy grew organically through hit and
+    misses. 
+
+  language: en
+  file: ./Pycon Room1/17/17_6.mp4
+  speaker: |
+    François Wautier
+    francois@wautier.eu
+  bio: >
+    I have been a software engineer for over 30 years. I used the Internet
+    before the World Wide Web existed. I still love the stuff. Now, Home
+    Automation is my hobby even though my wife and kids keeps complaining about
+    it. I wrote AutoBuddy, so I think I am the best person to talk about it. 
 
