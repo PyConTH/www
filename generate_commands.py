@@ -49,8 +49,6 @@ with open('commands.sh', 'w') as commands:
         meta = {}
         meta.update(META_TMPL)
         meta.update(talk)
-        import pdb
-        pdb.set_trace()
         fn = talk['file']
         if "/17/" in fn:
             meta['recordingdate'] = "2018-06-17"
