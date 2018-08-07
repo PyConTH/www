@@ -54,6 +54,9 @@
   speaker: |
       Watcharapol Watcharawisetkul
       https://twitter.com/groupw66
+  bio: >
+     Programmer: Specialized in problem solving, algorithm and data structure.
+     Interested in robotics. 
   description: >
     Abstract:
     Have you ever felt that Python has let you down? Or have you ever found
@@ -77,6 +80,8 @@
     - What happens when you mix generator functions with with-statements?
 
     - and more!!
+
+    https://github.com/groupw66/talks-pycon-th-2018
 
 - title: How many coin in your piggy bank with micro-python & 3D-Printer
   tags:
@@ -146,6 +151,7 @@
     - ML
     - Python
   language: en
+  file: ./Pycon Room3/Track 3_08 Surasak Watthanayontkit 2.mp4
   speaker: Surasak Watthanayontkit
   bio: >
     Earned a B.Eng. nearly 20 years ago, when the vocabularies like "Deep
@@ -370,6 +376,8 @@
     - ตัวอย่างการใช้งาน code example, library example
 
   language: th
+  bio:
+      https://www.facebook.com/ukrid.kuldiloke/
   file: ./Pycon Room2/16/2 Ukrid Kuldiloke .mp4
   speaker: Ukrid Kuldiloke
 
@@ -503,6 +511,9 @@
     more in-depth understanding the mechanisms inside Python.
   language: th
   file: ./Pycon Room2/17/6 Watcharapol Watcharawisetkul .mp4
+  bio: >
+     Programmer: Specialized in problem solving, algorithm and data structure.
+     Interested in robotics. 
   speaker: |
       Watcharapol Watcharawisetkul
       https://twitter.com/groupw66
@@ -535,6 +546,8 @@
     of time during that period. Explaining how we gradually pull
     functionalities out of the legacy system. What kind of challenges have we
     faced along the way. What have we learned so far.
+
+    https://github.com/groupw66/talks-pycon-th-2018
   file: ./Pycon Room3/Track 3_05 Pinnapong Silpsakulsuk 2.mp4
   language: en
   speaker: |
@@ -583,9 +596,15 @@
     - Why Python is a better tool when improving little problem
 
     - The use case of Python: How to improve the development environment
-      language: en
+  language: en
+  bio: >
+       I am working in Japan as a web applications engineer, Pythonista, a
+       motorcycle rider (SWM GRAN MILANO 400), hobbyist drawing illustrations.
+       At University, I was studying to analyze non-language information using
+       motion capture system. I love IT, my all friends, my country and
+       Japanese animation culture.
   speaker: |
-      omega
+      Mitsuki Sugiya
       https://twitter.com/equal_001
 
 - title: Django Backend from zero to deployment
@@ -654,7 +673,11 @@
     - Python
     - Django
   bio: >
-    I'm working in Japan as a web applications engineer, Pythonista.
+       I am working in Japan as a web applications engineer, Pythonista, a
+       motorcycle rider (SWM GRAN MILANO 400), hobbyist drawing illustrations.
+       At University, I was studying to analyze non-language information using
+       motion capture system. I love IT, my all friends, my country and
+       Japanese animation culture.
 
 - title: Python as First Programming Language - By Student For Student
   tags:
