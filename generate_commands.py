@@ -4,7 +4,7 @@
 import json
 import yaml
 
-TALKS = yaml.load(open('talks-retry.yaml'))
+TALKS = yaml.load(open('talks.yaml'))
 
 desc = """
 PyCon Thailand: https://2018.th.pycon.org/
