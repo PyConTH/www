@@ -4,23 +4,24 @@
 import json
 import yaml
 
-TALKS = yaml.load(open('sample.yaml'))
+TALKS = yaml.load(open('talks.yaml'))
 
 desc = """
+PyCon Thailand: https://2018.th.pycon.org/
+
 {title}
 
-Speaker:
-{speaker}
-
-Bio:
-{bio}
+Speaker: {speaker}
 
 ------------
 
 Description:
 {description}
 
+------------
 
+Bio:
+{bio}
 """
 
 META_TMPL = {
@@ -49,6 +50,9 @@ with open('commands.sh', 'w') as commands:
         meta = {}
         meta.update(META_TMPL)
         meta.update(talk)
+        if 'file' not in talk:
+            commands.write('# "{}" missing\n'.format(talk['title']))
+            continue
         fn = talk['file']
         if "/17/" in fn:
             meta['recordingdate'] = "2018-06-17"
