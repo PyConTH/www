@@ -137,30 +137,30 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/buy-tickets/", "ซื้อตั๋ว"),
-        ((
-            (
-	       ("/presentation-advice/", "Presentation Advice"),
-               ("/submit-talk/", "ส่งข้อเสนอการพูดคุยของคุณ (ปิดรับแล้ว)"),
-
-#               ("/speakers/", "Speakers"),
-#              ("/keynotes/", "Keynotes"),
-#              ("/about/", "About"),
-               ("/code-war/", "Code War (Friday)"),
-               ("/party/", "ปาร์ตี้ (Saturday)"),
-               ("/staff/", "เจ้าหน้าที่"),
-               ("/code-of-conduct/", "หลักจริยธรรม"),
-#               ("/contact/", "Contact"),
-            ),
-           "งาน"
-         (
-            (
-#              ("/sponsors/", "Sponsors"),
-               ("/sponsorship/", "ผู้สนับสนุน"),),
-           "ผู้สนับสนุน"
-           ),
-        ('/venue/', 'สถานที่'),
-        ('/p  )"/schedule/", "ตารางเวลาการพูด"),
+#         ("/buy-tickets/", "ซื้อตั๋ว"),
+#         ((
+#             (
+# 	       ("/presentation-advice/", "Presentation Advice"),
+#                ("/submit-talk/", "ส่งข้อเสนอการพูดคุยของคุณ (ปิดรับแล้ว)"),
+# 
+# #               ("/speakers/", "Speakers"),
+# #              ("/keynotes/", "Keynotes"),
+# #              ("/about/", "About"),
+#                ("/code-war/", "Code War (Friday)"),
+#                ("/party/", "ปาร์ตี้ (Saturday)"),
+#                ("/staff/", "เจ้าหน้าที่"),
+#                ("/code-of-conduct/", "หลักจริยธรรม"),
+# #               ("/contact/", "Contact"),
+#             ),
+#            "งาน"
+#          (
+#             (
+# #              ("/sponsors/", "Sponsors"),
+#                ("/sponsorship/", "ผู้สนับสนุน"),),
+#            "ผู้สนับสนุน"
+#            ),
+#         ('/venue/', 'สถานที่'),
+#         ("/schedule/", "ตารางเวลาการพูด"),
         ("/archive.html", "คลังโพสต์"),
         ("/categories/", "แท็ก"),
         ("/rss.xml", "ฟีด RSS"),
@@ -310,7 +310,7 @@ TIMEZONE = "Asia/Bangkok"
 # Date format used to display post dates. (translatable)
 # Used by babel.dates, CLDR style: http://cldr.unicode.org/translation/date-time
 # You can also use 'full', 'long', 'medium', or 'short'
-DATE_FORMAT = '%Y-%m-%d %H:%M'
+DATE_FORMAT = 'YYYY-MM-dd HH:mm'
 
 # Date format used to display post dates, if local dates are used. (translatable)
 # Used by moment.js: https://momentjs.com/docs/#/displaying/format/
@@ -1035,7 +1035,7 @@ COMMENT_SYSTEM_ID = ""
 # WARNING: if a page would conflict with the index file (usually
 #          caused by setting slug to `index`), the PAGE_INDEX
 #          will not be generated for that directory.
-# PAGE_INDEX = False
+PAGE_INDEX = False
 # Enable comments on pages (i.e. not posts)?
 # COMMENTS_IN_PAGES = False
 # Enable comments on picture gallery pages?
