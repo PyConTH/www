@@ -60,6 +60,7 @@ BLOG_DESCRIPTION = {"en": "Conference website for PyCon Thailand", "th": "เว
 # ja        Japanese [NOT jp]
 # ko        Korean
 # lt        Lithuanian
+# ml        Malayalam
 # nb        Norwegian (Bokmål)
 # nl        Dutch
 # pa        Punjabi
@@ -74,9 +75,11 @@ BLOG_DESCRIPTION = {"en": "Conference website for PyCon Thailand", "th": "เว
 # sr_latin  Serbian (Latin)
 # sv        Swedish
 # te        Telugu
+# th        Thai
 # tr        Turkish [NOT tr_TR]
 # uk        Ukrainian
 # ur        Urdu
+# vi        Vietnamese
 # zh_cn     Chinese (Simplified)
 # zh_tw     Chinese (Traditional)
 #
@@ -95,8 +98,6 @@ DEFAULT_LANG = "th"
 TRANSLATIONS = {
     DEFAULT_LANG: "",
     "en": "en",
-    # Example for another language:
-    # "es": "./es",
 }
 
 # What will translated input files be named like?
@@ -137,8 +138,7 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/buy-tickets/", "ซื้อตั๋ว"),
-        ("/schedule/", "ตารางเวลาการพูด"),
-        (
+        ((
             (
 	       ("/presentation-advice/", "Presentation Advice"),
                ("/submit-talk/", "ส่งข้อเสนอการพูดคุยของคุณ (ปิดรับแล้ว)"),
@@ -153,23 +153,19 @@ NAVIGATION_LINKS = {
 #               ("/contact/", "Contact"),
             ),
            "งาน"
-           ),
-#       ( TODO: translate
-#           ( TODO: translate
-#               ("/en/accommodation/", "Hotels and accommodation",), TODO: translate
-#               ("/en/transportation/", "Transportation (trains and taxis)",), TODO: translate
-#           ), TODO: translate
-#          "Bangkok" TODO: translate
-#          ), TODO: translate
-        (
+         (
             (
 #              ("/sponsors/", "Sponsors"),
                ("/sponsorship/", "ผู้สนับสนุน"),),
            "ผู้สนับสนุน"
            ),
         ('/venue/', 'สถานที่'),
-        ('/posts/', 'ข่าว')
+        ('/p  )"/schedule/", "ตารางเวลาการพูด"),
+        ("/archive.html", "คลังโพสต์"),
+        ("/categories/", "แท็ก"),
+        ("/rss.xml", "ฟีด RSS"),
     ),
+
     "en": (
         ("/en/buy-tickets/", "Buy Tickets"),
         ("/en/schedule/", "Talk Schedule"),
@@ -202,85 +198,50 @@ NAVIGATION_LINKS = {
             ),
            "Venue"
            ),
-        ('/en/posts/', 'News')
-        ),
+        ('/en/posts/', 'News'),
+        ("/en/archive.html", "Archive"),
+        ("/en/categories/", "Tags"),
+        ("/en/rss.xml", "RSS feed"),
+    ),
 }
 
-#xxx    DEFAULT_LANG: (
-#xxx            (
-#xxx                (
-#xxx                ("/about/", "About"),
-#xxx                ("/code-of-conduct/", "Code of Conduct"),
-#xxx                ("/staff/", "Staff"),
-#xxx                ("/contact/", "Contact"),),
-#xxx            "About"
-#xxx            ),
-#xxx            (
-#xxx                ("/sponsorship/", "Sponsorship"),
-#xxx            "Sponsorship"
-#xxx            ),
-#xxx            (
-#xxx                (("/venue/", "Venue"),
-#xxx                ("/transportation/", "Transportation"),),
-#xxx            "Venue"
-#xxx            ),
-#xxx            (
-#xxx                (("/call-for-papers/", "Call for Papers"),
-#xxx                ("/how-to-propose/", "How to propose"),),
-#xxx            "Call for Papers"
-#xxx            ),
-#xxx            (
-#xxx                ("/registration/", "Registration"),
-#xxx            "Registration"
-#xxx            ),
-#xxx            ("/rss.xml", "RSS feed"),
-#xxx        ),
-#xxx    "th": (
-#xxx            (
-#xxx                (
-#xxx                ("/about/", "TBD About"),
-#xxx                ("/code-of-conduct/", "TBD Code of Conduct"),
-#xxx                ("/staff/", "TBD Staff"),
-#xxx                ("/contact/", "TBD Contact"),),
-#xxx            "About"
-#xxx            ),
-#xxx            (
-#xxx                ("/sponsorship/", "TBD Sponsorship"),
-#xxx            "Sponsorship"
-#xxx            ),
-#xxx            (
-#xxx                (("/venue/", "TBD Venue"),
-#xxx                ("/transportation/", "TBD Transportation"),),
-#xxx            "Venue"
-#xxx            ),
-#xxx            (
-#xxx                (("/call-for-papers/", "TBD Call for Papers"),
-#xxx                ("/how-to-propose/", "TBD How to propose"),),
-#xxx            "Call for Papers"
-#xxx            ),
-#xxx            (
-#xxx                ("/registration/", "TBD Registration"),
-#xxx            "Registration"
-#xxx            ),
-#xxx    ),
-
-#       (
-#           (
-#               ("/schedule/", "Schedule"),
-#               ("/keynotes/", "Keynotes"),
-#               ("/talks/", "Talks"),
-#           "Programme"
-#           ),
-#       ("/archive.html", "Archive"),
-#       ("/categories/", "Tags"),
+# Alternative navigation links. Works the same way NAVIGATION_LINKS does,
+# although themes may not always support them. (translatable)
+# (Bootstrap 4: right-side of navbar, Bootblog 4: right side of title)
+NAVIGATION_ALT_LINKS = {
+    DEFAULT_LANG: {}
+}
 
 # Name of the theme to use.
-# THEME = "bootstrap3"
-THEME = "pyconth"
+THEME = "pyconth" 
+# (based on bootblog4)
 
 # Primary color of your theme. This will be used to customize your theme and
 # auto-generate related colors in POSTS_SECTION_COLORS. Must be a HEX value.
 THEME_COLOR = '#5670d4'
+
+# Theme configuration. Fully theme-dependent. (translatable)
+# Examples below are for bootblog4.
+# bootblog4 supports: featured_large featured_small featured_on_mobile
+#                     featured_large_image_on_mobile featured_strip_html sidebar
+# bootstrap4 supports: navbar_light (defaults to False)
+THEME_CONFIG = {
+    DEFAULT_LANG: {
+        # Show the latest featured post in a large box, with the previewimage as its background.
+        'featured_large': False,
+        # Show the first (remaining) two featured posts in small boxes.
+        'featured_small': False,
+        # Show featured posts on mobile.
+        'featured_on_mobile': True,
+        # Show image in `featured_large` on mobile.
+        # `featured_small` displays them only on desktop.
+        'featured_large_image_on_mobile': True,
+        # Strip HTML from featured post text.
+        'featured_strip_html': False,
+        # Contents of the sidebar, If empty, the sidebar is not displayed.
+        'sidebar': ''
+    }
+}
 
 # POSTS and PAGES contains (wildcard, destination, template) tuples.
 # (translatable)
@@ -339,7 +300,7 @@ PAGES = (
 # (e.g. 'Europe/Zurich')
 # Also, if you want to use a different time zone in some of your posts,
 # you can use the ISO 8601/RFC 3339 format (ex. 2012-03-30T23:00:00+02:00)
-TIMEZONE = "UTC+7"
+TIMEZONE = "Asia/Bangkok"
 
 # If you want to use ISO 8601 (also valid RFC 3339) throughout Nikola
 # (especially in new_post), set this to True.
@@ -347,11 +308,12 @@ TIMEZONE = "UTC+7"
 # FORCE_ISO8601 = False
 
 # Date format used to display post dates. (translatable)
-# (str used by datetime.datetime.strftime)
-# DATE_FORMAT = '%Y-%m-%d %H:%M'
+# Used by babel.dates, CLDR style: http://cldr.unicode.org/translation/date-time
+# You can also use 'full', 'long', 'medium', or 'short'
+DATE_FORMAT = '%Y-%m-%d %H:%M'
 
 # Date format used to display post dates, if local dates are used. (translatable)
-# (str used by moment.js)
+# Used by moment.js: https://momentjs.com/docs/#/displaying/format/
 # JS_DATE_FORMAT = 'YYYY-MM-DD HH:mm'
 
 # Date fanciness.
@@ -360,23 +322,12 @@ TIMEZONE = "UTC+7"
 # 1 = using JS_DATE_FORMAT and local user time (via moment.js)
 # 2 = using a string like “2 days ago”
 #
-# Your theme must support it, bootstrap and bootstrap3 already do.
-DATE_FANCINESS = 2
+# Your theme must support it, Bootstrap already does.
+# DATE_FANCINESS = 2
 
-# While Nikola can select a sensible locale for each language,
-# sometimes explicit control can come handy.
-# In this file we express locales in the string form that
-# python's locales will accept in your OS, by example
-# "en_US.utf8" in Unix-like OS, "English_United States" in Windows.
-# LOCALES = dict mapping language --> explicit locale for the languages
-# in TRANSLATIONS. You can omit one or more keys.
-# LOCALE_FALLBACK = locale to use when an explicit locale is unavailable
-# LOCALE_DEFAULT = locale to use for languages not mentioned in LOCALES; if
-# not set the default Nikola mapping is used.
-
+# Customize the locale/region used for a language.
+# For example, to use British instead of US English: LOCALES = {'en': 'en_GB'}
 # LOCALES = {}
-# LOCALE_FALLBACK = None
-# LOCALE_DEFAULT = None
 
 # One or more folders containing files to be copied as-is into the output.
 # The format is a dictionary of {source: relative destination}.
@@ -451,86 +402,13 @@ COMPILERS = {
 # already contains the text), set this to False.
 # SHOW_BLOG_TITLE = True
 
-# Writes tag cloud data in form of tag_cloud_data.json.
-WRITE_TAG_CLOUD = False
-
-# Generate pages for each section. The site must have at least two sections
-# for this option to take effect. It wouldn't build for just one section.
-POSTS_SECTIONS = True
-
-# Setting this to False generates a list page instead of an index. Indexes
-# are the default and will apply GENERATE_ATOM if set.
-# POSTS_SECTIONS_ARE_INDEXES = True
-
-# Final locations are:
-# output / TRANSLATION[lang] / SECTION_PATH / SECTION_NAME / index.html (list of posts for a section)
-# output / TRANSLATION[lang] / SECTION_PATH / SECTION_NAME / rss.xml (RSS feed for a section)
-# (translatable)
-# SECTION_PATH = ""
-
-# Each post and section page will have an associated color that can be used
-# to style them with a recognizable color detail across your site. A color
-# is assigned to  each section based on shifting the hue of your THEME_COLOR
-# at least 7.5 % while leaving the lightness and saturation untouched in the
-# HUSL colorspace. You can overwrite colors by assigning them colors in HEX.
-# POSTS_SECTION_COLORS = {
-#     DEFAULT_LANG: {
-#         'posts':  '#49b11bf',
-#         'reviews':   '#ffe200',
-#     },
-# }
-
-# Associate a description with a section. For use in meta description on
-# section index pages or elsewhere in themes.
-# POSTS_SECTION_DESCRIPTIONS = {
-#     DEFAULT_LANG: {
-#         'how-to': 'Learn how-to things properly with these amazing tutorials.',
-#     },
-# }
-
-# Sections are determined by their output directory as set in POSTS by default,
-# but can alternatively be determined from file metadata instead.
-# POSTS_SECTION_FROM_META = False
-
-# Names are determined from the output directory name automatically or the
-# metadata label. Unless overwritten below, names will use title cased and
-# hyphens replaced by spaces.
-# POSTS_SECTION_NAME = {
-#    DEFAULT_LANG: {
-#        'posts': 'Blog Posts',
-#        'uncategorized': 'Odds and Ends',
-#    },
-# }
-
-# Titles for per-section index pages. Can be either one string where "{name}"
-# is substituted or the POSTS_SECTION_NAME, or a dict of sections. Note
-# that the INDEX_PAGES option is also applied to section page titles.
-# POSTS_SECTION_TITLE = {
-#     DEFAULT_LANG: {
-#         'how-to': 'How-to and Tutorials',
-#     },
-# }
-
-# A list of dictionaries specifying sections which translate to each other.
-# For example:
-#   [
-#     {'en': 'private', 'de': 'Privat'},
-#     {'en': 'work', 'fr': 'travail', 'de': 'Arbeit'},
-#   ]
-# POSTS_SECTION_TRANSLATIONS = []
-
-# If set to True, a section in a language will be treated as a translation
-# of the literally same section in all other languages. Enable this if you
-# do not translate sections, for example.
-# POSTS_SECTION_TRANSLATIONS_ADD_DEFAULTS = True
-
 # Paths for different autogenerated bits. These are combined with the
 # translation paths.
 
 # Final locations are:
 # output / TRANSLATION[lang] / TAG_PATH / index.html (list of tags)
 # output / TRANSLATION[lang] / TAG_PATH / tag.html (list of posts for a tag)
-# output / TRANSLATION[lang] / TAG_PATH / tag.xml (RSS feed for a tag)
+# output / TRANSLATION[lang] / TAG_PATH / tag RSS_EXTENSION (RSS feed for a tag)
 # (translatable)
 # TAG_PATH = "categories"
 
@@ -549,7 +427,7 @@ POSTS_SECTIONS = True
 # Set descriptions for tag pages to make them more interesting. The
 # default is no description. The value is used in the meta description
 # and displayed underneath the tag list or index page’s title.
-# TAG_PAGES_DESCRIPTIONS = {
+# TAG_DESCRIPTIONS = {
 #    DEFAULT_LANG: {
 #        "blogging": "Meta-blog posts about blogging about blogging.",
 #        "open source": "My contributions to my many, varied, ever-changing, and eternal libre software projects."
@@ -557,7 +435,7 @@ POSTS_SECTIONS = True
 # }
 
 # Set special titles for tag pages. The default is "Posts about TAG".
-# TAG_PAGES_TITLES = {
+# TAG_TITLES = {
 #    DEFAULT_LANG: {
 #        "blogging": "Meta-posts about blogging",
 #        "open source": "Posts about open source software"
@@ -565,7 +443,7 @@ POSTS_SECTIONS = True
 # }
 
 # If you do not want to display a tag publicly, you can mark it as hidden.
-# The tag will not be displayed on the tag list page, the tag cloud and posts.
+# The tag will not be displayed on the tag list page and posts.
 # Tag pages will still be generated.
 HIDDEN_TAGS = ['mathjax']
 
@@ -577,7 +455,11 @@ HIDDEN_TAGS = ['mathjax']
 
 # A list of dictionaries specifying tags which translate to each other.
 # Format: a list of dicts {language: translation, language2: translation2, …}
-# See POSTS_SECTION_TRANSLATIONS example above.
+# For example:
+#   [
+#     {'en': 'private', 'de': 'Privat'},
+#     {'en': 'work', 'fr': 'travail', 'de': 'Arbeit'},
+#   ]
 # TAG_TRANSLATIONS = []
 
 # If set to True, a tag in a language will be treated as a translation
@@ -588,7 +470,7 @@ HIDDEN_TAGS = ['mathjax']
 # Final locations are:
 # output / TRANSLATION[lang] / CATEGORY_PATH / index.html (list of categories)
 # output / TRANSLATION[lang] / CATEGORY_PATH / CATEGORY_PREFIX category.html (list of posts for a category)
-# output / TRANSLATION[lang] / CATEGORY_PATH / CATEGORY_PREFIX category.xml (RSS feed for a category)
+# output / TRANSLATION[lang] / CATEGORY_PATH / CATEGORY_PREFIX category RSS_EXTENSION (RSS feed for a category)
 # (translatable)
 # CATEGORY_PATH = "categories"
 # CATEGORY_PREFIX = "cat_"
@@ -618,7 +500,7 @@ CATEGORY_OUTPUT_FLAT_HIERARCHY = False
 # Set descriptions for category pages to make them more interesting. The
 # default is no description. The value is used in the meta description
 # and displayed underneath the category list or index page’s title.
-# CATEGORY_PAGES_DESCRIPTIONS = {
+# CATEGORY_DESCRIPTIONS = {
 #    DEFAULT_LANG: {
 #        "blogging": "Meta-blog posts about blogging about blogging.",
 #        "open source": "My contributions to my many, varied, ever-changing, and eternal libre software projects."
@@ -626,7 +508,7 @@ CATEGORY_OUTPUT_FLAT_HIERARCHY = False
 # }
 
 # Set special titles for category pages. The default is "Posts about CATEGORY".
-# CATEGORY_PAGES_TITLES = {
+# CATEGORY_TITLES = {
 #    DEFAULT_LANG: {
 #        "blogging": "Meta-posts about blogging",
 #        "open source": "Posts about open source software"
@@ -640,13 +522,44 @@ HIDDEN_CATEGORIES = []
 
 # A list of dictionaries specifying categories which translate to each other.
 # Format: a list of dicts {language: translation, language2: translation2, …}
-# See POSTS_SECTION_TRANSLATIONS example above.
+# See TAG_TRANSLATIONS example above.
 # CATEGORY_TRANSLATIONS = []
 
 # If set to True, a category in a language will be treated as a translation
 # of the literally same category in all other languages. Enable this if you
 # do not translate categories, for example.
 # CATEGORY_TRANSLATIONS_ADD_DEFAULTS = True
+
+# If no category is specified in a post, the destination path of the post
+# can be used in its place. This replaces the sections feature. Using
+# category hierarchies is recommended.
+# CATEGORY_DESTPATH_AS_DEFAULT = False
+
+# If True, the prefix will be trimmed from the category name, eg. if the
+# POSTS destination is "foo/bar", and the path is "foo/bar/baz/quux",
+# the category will be "baz/quux" (or "baz" if only the first directory is considered).
+# Note that prefixes coming from translations are always ignored.
+# CATEGORY_DESTPATH_TRIM_PREFIX = False
+
+# If True, only the first directory of a path will be used.
+# CATEGORY_DESTPATH_FIRST_DIRECTORY_ONLY = True
+
+# Map paths to prettier category names. (translatable)
+# CATEGORY_DESTPATH_NAMES = {
+#    DEFAULT_LANG: {
+#        'webdev': 'Web Development',
+#        'webdev/django': 'Web Development/Django',
+#        'random': 'Odds and Ends',
+#    },
+# }
+
+# By default, category indexes will appear in CATEGORY_PATH and use
+# CATEGORY_PREFIX. If this is enabled, those settings will be ignored (except
+# for the index) and instead, they will follow destination paths (eg. category
+# 'foo' might appear in 'posts/foo'). If the category does not come from a
+# destpath, first entry in POSTS followed by the category name will be used.
+# For this setting, category hierarchies are required and cannot be flattened.
+# CATEGORY_PAGES_FOLLOW_DESTPATH = False
 
 # If ENABLE_AUTHOR_PAGES is set to True and there is more than one
 # author, author pages are generated.
@@ -655,7 +568,7 @@ HIDDEN_CATEGORIES = []
 # Path to author pages. Final locations are:
 # output / TRANSLATION[lang] / AUTHOR_PATH / index.html (list of authors)
 # output / TRANSLATION[lang] / AUTHOR_PATH / author.html (list of posts by an author)
-# output / TRANSLATION[lang] / AUTHOR_PATH / author.xml (RSS feed for an author)
+# output / TRANSLATION[lang] / AUTHOR_PATH / author RSS_EXTENSION (RSS feed for an author)
 # (translatable)
 # AUTHOR_PATH = "authors"
 
@@ -721,20 +634,29 @@ FRONT_INDEX_HEADER = {
 # absolute: a complete URL (that includes the SITE_URL)
 # URL_TYPE = 'rel_path'
 
-# If USE_BASE_TAG is True, then all HTML files will include
-# something like <base href=http://foo.var.com/baz/bat> to help
-# the browser resolve relative links.
-# Most people don’t need this tag; major websites don’t use it. Use
-# only if you know what you’re doing. If this is True, your website
-# will not be fully usable by manually opening .html files in your web
-# browser (`nikola serve` or `nikola auto` is mandatory). Also, if you
-# have mirrors of your site, they will point to SITE_URL everywhere.
-USE_BASE_TAG = False
+# Extension for RSS feed files
+# RSS_EXTENSION = ".xml"
+
+# RSS filename base (without extension); used for indexes and galleries.
+# (translatable)
+# RSS_FILENAME_BASE = "rss"
 
 # Final location for the blog main RSS feed is:
-# output / TRANSLATION[lang] / RSS_PATH / rss.xml
+# output / TRANSLATION[lang] / RSS_PATH / RSS_FILENAME_BASE RSS_EXTENSION
 # (translatable)
 # RSS_PATH = ""
+
+# Final location for the blog main Atom feed is:
+# output / TRANSLATION[lang] / ATOM_PATH / ATOM_FILENAME_BASE ATOM_EXTENSION
+# (translatable)
+# ATOM_PATH = ""
+
+# Atom filename base (without extension); used for indexes.
+# (translatable)
+ATOM_FILENAME_BASE = "feed"
+
+# Extension for Atom feed files
+# ATOM_EXTENSION = ".atom"
 
 # Slug the Tag URL. Easier for users to type, special characters are
 # often removed or replaced as well.
@@ -919,6 +841,10 @@ GITHUB_COMMIT_SOURCE = True
 # Embedded thumbnail information:
 # EXIF_WHITELIST['1st'] = ["*"]
 
+# If set to True, any ICC profile will be copied when an image is thumbnailed or
+# resized.
+# PRESERVE_ICC_PROFILES = False
+
 # Folders containing images to be used in normal posts or pages.
 # IMAGE_FOLDERS is a dictionary of the form {"source": "destination"},
 # where "source" is the folder containing the images to be published, and
@@ -1014,7 +940,7 @@ IMAGE_FOLDERS = {'images': 'images'}
 # <link rel="name" href="file" sizes="size"/>
 FAVICONS = (
     ("icon", "/favicon.ico", "16x16"),
-#    ("icon", "/icon_128x128.png", "128x128"),
+#     ("icon", "/icon_128x128.png", "128x128"),
 )
 
 # Show teasers (instead of full posts) in indexes? Defaults to False.
@@ -1061,205 +987,7 @@ LICENSE = ""
 
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
-# CONTENT_FOOTER = 'Contents &copy; {date}         <a href="mailto:{email}">{author}</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         {license}'
-
-CONTENT_FOOTER = {
-	"en": """
-<div class="container">
-  <div class="text-center">
-    <h1>Gold Sponsors</h1>
-    <hr/>
-    <div class="row">
-      <div class="col col-sm-4">
-        <div style="background-color:#FFFFFF;border:4px solid #DFDFDF;width:280px;height:120px;display:flex;justify-content:center;align-items:center;margin-left:auto;margin-right:auto;padding:10px;">
-          <a href="https://www.proteus-tech.com/" alt="Proteus Technologies" style="width:100%;height:100%;background-image:url(/proteus-logo.svg);background-size:contain;background-repeat:no-repeat;background-position:center;">
-              </a>
-        </div>
-      </div>
-      <div class="col col-sm-4">
-        <div style="background-color:#FFFFFF;border:4px solid #DFDFDF;width:280px;height:120px;display:flex;justify-content:center;align-items:center;margin-left:auto;margin-right:auto;padding:10px;">
-          <a href="https://kaidee.com/" alt="Kaidee" style="width:100%;height:100%;background-image:url(/Kaidee_LOGO.svg);background-size:contain;background-repeat:no-repeat;background-position:center;">
-              </a>
-        </div>
-      </div>
-      <div class="col col-sm-4">
-        <div style="background-color:#FFFFFF;border:4px solid #DFDFDF;width:280px;height:120px;display:flex;justify-content:center;align-items:center;margin-left:auto;margin-right:auto;padding:10px;">
-          <a href="https://newlogic.io/" alt="Newlogic" style="width:100%;height:100%;background-image:url(/newlogic-logo.png);background-size:contain;background-repeat:no-repeat;background-position:center;">
-              </a>
-        </div>
-      </div>
-    <div class="row">
-    &nbsp;
-    </div>
-      <div class="col col-sm-4">
-        <div style="background-color:#FFFFFF;border:4px solid #DFDFDF;width:280px;height:120px;display:flex;justify-content:center;align-items:center;margin-left:auto;margin-right:auto;padding:10px;">
-          <a href="https://www.elastic.co/" alt="Elastic" style="width:100%;height:100%;background-image:url(/logo-elastic.svg);background-size:contain;background-repeat:no-repeat;background-position:center;">
-              </a>
-        </div>
-      </div>
-      <div class="col col-sm-4">
-        <div style="background-color:#FFFFFF;border:4px solid #DFDFDF;width:280px;height:120px;display:flex;justify-content:center;align-items:center;margin-left:auto;margin-right:auto;padding:10px;">
-          <a href="https://www.cloudflare.com/" alt="Cloudflare" style="width:100%;height:100%;background-image:url(/cf-logo-h.svg);background-size:contain;background-repeat:no-repeat;background-position:center;">
-              </a>
-        </div>
-      </div>
-    </div>
-    <h2>Silver Sponsors</h2> <!-- TODO: translate -->
-    <hr/>
-    <div class="row">
-      <div class="col col-sm-4">
-        <div style="background-color:#FFFFFF;border:4px solid #DFDFDF;width:252px;height:108px;display:flex;justify-content:center;align-items:center;margin-left:auto;margin-right:auto;padding:10px;">
-          <a href="https://www.acommerce.asia/" alt="ACommerce" style="width:100%;height:100%;background-image:url(/acommerce_logo1.png);background-size:contain;background-repeat:no-repeat;background-position:center;">
-              </a>
-        </div>
-      </div>
-      <div class="col col-sm-4">
-        <div style="background-color:#FFFFFF;border:4px solid #DFDFDF;width:252px;height:108px;display:flex;justify-content:center;align-items:center;margin-left:auto;margin-right:auto;padding:10px;">
-          <a href="https://www.mysql.com/" alt="MySQL" style="width:100%;height:100%;background-image:url(/MySQL-clr.png);background-size:contain;background-repeat:no-repeat;background-position:center;">
-              </a>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<p>&nbsp;</p>
-<div class="navbar-inverse row" style="
-    color: white;
-">
-  <div class="container">
-    <div class="col-md-2">
-        <img src="/logo.png" class="img-responsive" alt="PyCon Thailand" />
-    </div>
-    <div class="col-md-3">
-        <h3>About</h3>
-        PyCon Thailand is a conference about the programming language Python.
-        It is a community effort driven by the members of the Python Community in Bangkok.
-        <br>
-        Co-Organised with <br>
-        <a href="https://thaiprogrammer.org/"><img src="/tpalogo.png" alt="Thai Programming Association"></a>
-    </div>
-    <div class="col-md-4">
-        <h3>When &amp; Where</h3>
-        <h4>When:</h4>
-        June 16-17 2018
-        <h4>Where:</h4>
-        <a href="/venue">Knowledge Exchange Center – KX</a> <br>
-        10/1 Krung Thonburi Road <br>
-        Khwaeng Bang Lamphu Lang <br>
-        Thon Buri <br>
-        Bangkok <br>
-        10600
-    </div>
-    <div class="col-md-3">
-        <h3>Get Social</h3>
-        <a href="https://twitter.com/pyconthailand"><i class="fa fa-twitter fa-fw"></i> Twitter</a><br>
-        <a href="https://www.facebook.com/pyconthailand/"><i class="fa fa-facebook fa-fw"></i> Facebook</a><br>
-        <a href="https://www.meetup.com/ThaiPy-Bangkok-Python-Meetup/events/248920463/"><i class="fa fa-meetup fa-fw"></i> Meetup</a><br>
-        <a href="mailto:contact@pyconthailand.org"><i class="fa fa-envelope fa-fw"></i> Contact</a><br>
-    </div>
-  </div>
-</div>
-<!--Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a> -->
-""",
-"th": """
-<div class="container">
-  <div class="text-center">
-    <h1>ผู้สนับสนุน</h1>
-    <hr/>
-    <div class="row">
-      <div class="col col-sm-4">
-        <div style="background-color:#FFFFFF;border:4px solid #DFDFDF;width:280px;height:120px;display:flex;justify-content:center;align-items:center;margin-left:auto;margin-right:auto;padding:10px;">
-          <a href="https://www.proteus-tech.com/" alt="Proteus Technologies" style="width:100%;height:100%;background-image:url(/proteus-logo.svg);background-size:contain;background-repeat:no-repeat;background-position:center;">
-              </a>
-        </div>
-      </div>
-      <div class="col col-sm-4">
-        <div style="background-color:#FFFFFF;border:4px solid #DFDFDF;width:280px;height:120px;display:flex;justify-content:center;align-items:center;margin-left:auto;margin-right:auto;padding:10px;">
-          <a href="https://kaidee.com/" alt="Kaidee" style="width:100%;height:100%;background-image:url(/Kaidee_LOGO.svg);background-size:contain;background-repeat:no-repeat;background-position:center;">
-              </a>
-        </div>
-      </div>
-      <div class="col col-sm-4">
-        <div style="background-color:#FFFFFF;border:4px solid #DFDFDF;width:280px;height:120px;display:flex;justify-content:center;align-items:center;margin-left:auto;margin-right:auto;padding:10px;">
-          <a href="https://newlogic.io/" alt="Newlogic" style="width:100%;height:100%;background-image:url(/newlogic-logo.png);background-size:contain;background-repeat:no-repeat;background-position:center;">
-              </a>
-        </div>
-      </div>
-    <div class="row">
-    &nbsp;
-    </div>
-      <div class="col col-sm-4">
-        <div style="background-color:#FFFFFF;border:4px solid #DFDFDF;width:280px;height:120px;display:flex;justify-content:center;align-items:center;margin-left:auto;margin-right:auto;padding:10px;">
-          <a href="https://www.elastic.co/" alt="Elastic" style="width:100%;height:100%;background-image:url(/logo-elastic.svg);background-size:contain;background-repeat:no-repeat;background-position:center;">
-              </a>
-        </div>
-      </div>
-      <div class="col col-sm-4">
-        <div style="background-color:#FFFFFF;border:4px solid #DFDFDF;width:280px;height:120px;display:flex;justify-content:center;align-items:center;margin-left:auto;margin-right:auto;padding:10px;">
-          <a href="https://www.cloudflare.com/" alt="Cloudflare" style="width:100%;height:100%;background-image:url(/cf-logo-h.svg);background-size:contain;background-repeat:no-repeat;background-position:center;">
-              </a>
-        </div>
-      </div>
-    </div>
-    <h2>Silver Sponsors</h2> <!-- TODO: translate -->
-    <hr/>
-    <div class="row">
-      <div class="col col-sm-4">
-        <div style="background-color:#FFFFFF;border:4px solid #DFDFDF;width:252px;height:108px;display:flex;justify-content:center;align-items:center;margin-left:auto;margin-right:auto;padding:10px;">
-          <a href="https://www.acommerce.asia/" alt="ACommerce" style="width:100%;height:100%;background-image:url(/acommerce_logo1.png);background-size:contain;background-repeat:no-repeat;background-position:center;">
-              </a>
-        </div>
-      </div>
-      <div class="col col-sm-4">
-        <div style="background-color:#FFFFFF;border:4px solid #DFDFDF;width:252px;height:108px;display:flex;justify-content:center;align-items:center;margin-left:auto;margin-right:auto;padding:10px;">
-          <a href="https://www.mysql.com/" alt="MySQL" style="width:100%;height:100%;background-image:url(/MySQL-clr.png);background-size:contain;background-repeat:no-repeat;background-position:center;">
-              </a>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<p>&nbsp;</p>
-<div class="navbar-inverse row" style="
-    color: white;
-">
-  <div class="container">
-    <div class="col-md-2">
-        <img src="/logo.png" class="img-responsive" alt="PyCon Thailand" />
-    </div>
-    <div class="col-md-3">
-        <h3>About</h3>
-        PyCon Thailand คือ งานสัมนาเกี่ยวกับภาษาที่ใช้เขียนโปรแกรม (Python programming language)เป็นสังคมที่ขับเคลื่อนโดยสมาชิกของกลุ่ม
-        Python ในกรุงเทพมหานคร
-        <!-- PyCon Thailand คือ งานสัมนาเกี่ยวกับภาษา Python เป็นงานที่ถูกขับเคลื่อนโดยกลุ่มของนักพัฒนาภาษา Python ในกรุงเทพ -->
-        <br>
-        Co-Organised with <br>
-        <a href="https://thaiprogrammer.org/"><img src="/tpalogo.png" alt="Thai Programming Association"></a>
-    </div>
-    <div class="col-md-4">
-        <h3>เวลาและสถานที่่</h3>
-        <h4>เวลา:</h4>
-        16-17 มิถุนายน 2561
-        <h4>สถานที่:</h4>
-        <a href="/venue">อาคารเคเอกซ์ (Knowledge Exchange Center – KX)</a> <br>
-        ถนนกรุงธนบุรี<br>
-        แขวงบางลำภูล่าง <br>
-        ธนบุรี<br>
-        กรุงเทพมหานคร<br>
-        10600
-    </div>
-    <div class="col-md-3">
-        <h3>ติดต่อเรา</h3>
-        <a href="https://twitter.com/pyconthailand"><i class="fa fa-twitter fa-fw"></i> Twitter</a><br>
-        <a href="https://www.facebook.com/pyconthailand/"><i class="fa fa-facebook fa-fw"></i> Facebook</a><br>
-        <a href="https://www.meetup.com/ThaiPy-Bangkok-Python-Meetup/events/248920463/"><i class="fa fa-meetup fa-fw"></i> Meetup</a><br>
-        <a href="mailto:contact@pyconthailand.org"><i class="fa fa-envelope fa-fw"></i> Contact</a><br>
-    </div>
-  </div>
-</div>
-<!--Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a> -->
-"""
-}
+CONTENT_FOOTER = 'Contents &copy; {date}         <a href="mailto:{email}">{author}</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         {license}'
 
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
 # for translatability, as dicts are not formattable.  Nikola will
@@ -1294,7 +1022,7 @@ RSS_COPYRIGHT_FORMATS = CONTENT_FOOTER_FORMATS
 
 # To use comments, you can choose between different third party comment
 # systems.  The following comment systems are supported by Nikola:
-#   disqus, facebook, googleplus, intensedebate, isso, livefyre, muut
+#   disqus, facebook, intensedebate, isso, livefyre, muut
 # You can leave this option blank to disable comments.
 COMMENT_SYSTEM = ""
 # And you also need to add your COMMENT_SYSTEM_ID which
@@ -1323,14 +1051,6 @@ COMMENT_SYSTEM_ID = ""
 # (Uses the INDEX_FILE setting, so if that is, say, default.html,
 # it will instead /foo/default.html => /foo)
 STRIP_INDEXES = True
-
-# Should the sitemap list directories which only include other directories
-# and no files.
-# Default to True
-# If this is False
-# e.g. /2012 includes only /01, /02, /03, /04, ...: don't add it to the sitemap
-# if /2012 includes any files (including index.html)... add it to the sitemap
-# SITEMAP_INCLUDE_FILELESS_DIRS = True
 
 # List of files relative to the server root (!) that will be asked to be excluded
 # from indexing and other robotic spidering. * is supported. Will only be effective
@@ -1392,9 +1112,10 @@ PRETTY_URLS = True
 # KATEX_AUTO_RENDER = """
 # delimiters: [
 #     {left: "$$", right: "$$", display: true},
-#     {left: "\\\[", right: "\\\]", display: true},
+#     {left: "\\\\[", right: "\\\\]", display: true},
+#     {left: "\\\\begin{equation*}", right: "\\\\end{equation*}", display: true},
 #     {left: "$", right: "$", display: false},
-#     {left: "\\\(", right: "\\\)", display: false}
+#     {left: "\\\\(", right: "\\\\)", display: false}
 # ]
 # """
 
@@ -1411,6 +1132,11 @@ PRETTY_URLS = True
 #       with the MarkdownExtension class and should not be added here.
 # The default is ['fenced_code', 'codehilite']
 MARKDOWN_EXTENSIONS = ['markdown.extensions.fenced_code', 'markdown.extensions.codehilite', 'markdown.extensions.extra']
+
+# Options to be passed to markdown extensions (See https://python-markdown.github.io/reference/)
+# Default is {} (no config at all)
+# MARKDOWN_EXTENSION_CONFIGS = {}
+
 
 # Extra options to pass to the pandoc command.
 # by default, it's empty, is a list of strings, for example
@@ -1438,7 +1164,7 @@ MARKDOWN_EXTENSIONS = ['markdown.extensions.fenced_code', 'markdown.extensions.c
 # """
 
 # Show link to source for the posts?
-SHOW_SOURCELINK = False
+# SHOW_SOURCELINK = True
 # Copy the source files for your pages?
 # Setting it to False implies SHOW_SOURCELINK = False
 # COPY_SOURCES = True
@@ -1469,12 +1195,6 @@ SHOW_SOURCELINK = False
 
 # Number of posts in Atom and RSS feeds.
 # FEED_LENGTH = 10
-
-# Include preview image as a <figure><img></figure> at the top of the entry.
-# Requires FEED_PLAIN = False. If the preview image is found in the content,
-# it will not be included again. Image will be included as-is, aim to optmize
-# the image source for Feedly, Apple News, Flipboard, and other popular clients.
-# FEED_PREVIEWIMAGE = True
 
 # RSS_LINK is a HTML fragment to link the RSS or Atom feeds. If set to None,
 # the base.tmpl will use the feed Nikola generates. However, you may want to
@@ -1541,7 +1261,11 @@ SHOW_SOURCELINK = False
 # EXTRA_HEAD_DATA = ""
 EXTRA_HEAD_DATA = '''
 <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-
+'''
+# Google Analytics or whatever else you use. Added to the bottom of <body>
+# in the default template (base.tmpl).
+# (translatable)
+BODY_END = """
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-116219382-1"></script>
 <script>
@@ -1551,11 +1275,7 @@ EXTRA_HEAD_DATA = '''
 
   gtag('config', 'UA-116219382-1');
 </script>
-'''
-# Google Analytics or whatever else you use. Added to the bottom of <body>
-# in the default template (base.tmpl).
-# (translatable)
-# BODY_END = ""
+"""
 
 # The possibility to extract metadata from the filename by using a
 # regular expression.
@@ -1576,7 +1296,9 @@ EXTRA_HEAD_DATA = '''
 # Should titles fetched from file metadata be unslugified (made prettier?)
 # FILE_METADATA_UNSLUGIFY_TITLES = True
 
-# If enabled, extract metadata from docinfo fields in reST documents
+# If enabled, extract metadata from docinfo fields in reST documents.
+# If your text files start with a level 1 heading, it will be treated as the
+# document title and will be removed from the text.
 # USE_REST_DOCINFO_METADATA = False
 
 # If enabled, hide docinfo fields in reST document output
@@ -1593,13 +1315,21 @@ EXTRA_HEAD_DATA = '''
 # }
 # Other examples: https://getnikola.com/handbook.html#mapping-metadata-from-other-formats
 
+# Map metadata between types/values. (Runs after METADATA_MAPPING.)
+# Supported formats: nikola, yaml, toml, rest_docinfo, markdown_metadata
+# The value on the right should be a dict of callables.
+# METADATA_VALUE_MAPPING = {}
+# Examples:
+# METADATA_VALUE_MAPPING = {
+#     "yaml": {"keywords": lambda value: ', '.join(value)},  # yaml: 'keywords' list -> str
+#     "nikola": {
+#         "widgets": lambda value: value.split(', '),  # nikola: 'widgets' comma-separated string -> list
+#         "tags": str.lower  # nikola: force lowercase 'tags' (input would be string)
+#      }
+# }
+
 # Additional metadata that is added to a post when creating a new_post
 # ADDITIONAL_METADATA = {}
-
-# Nikola supports Open Graph Protocol data for enhancing link sharing and
-# discoverability of your site on Facebook, Google+, and other services.
-# Open Graph is enabled by default.
-# USE_OPEN_GRAPH = True
 
 # Nikola supports Twitter Card summaries, but they are disabled by default.
 # They make it possible for you to attach media to Tweets that link
@@ -1620,9 +1350,9 @@ EXTRA_HEAD_DATA = '''
 #     # 'creator': '@username',     # Username for the content creator / author.
 # }
 
-# If webassets is installed, bundle JS and CSS into single files to make
-# site loading faster in a HTTP/1.1 environment but is not recommended for
-# HTTP/2.0 when caching is used. Defaults to True.
+# Bundle JS and CSS into single files to make site loading faster in a HTTP/1.1
+# environment but is not recommended for HTTP/2.0 when caching is used.
+# Defaults to True.
 # USE_BUNDLES = True
 
 # Plugins you don't want to use. Be careful :-)
@@ -1661,17 +1391,20 @@ EXTRA_HEAD_DATA = '''
 # (defaults to 1.)
 # DEMOTE_HEADERS = 1
 
-# Docutils, by default, will perform a transform in your documents
-# extracting unique titles at the top of your document and turning
-# them into metadata. This surprises a lot of people, and setting
-# this option to True will prevent it.
-# NO_DOCUTILS_TITLE_TRANSFORM = False
-
 # If you don’t like slugified file names ([a-z0-9] and a literal dash),
 # and would prefer to use all the characters your file system allows.
 # USE WITH CARE!  This is also not guaranteed to be perfect, and may
 # sometimes crash Nikola, your web server, or eat your cat.
 # USE_SLUGIFY = True
+
+# If set to True, the tags 'draft', 'mathjax' and 'private' have special
+# meaning. If set to False, these tags are handled like regular tags.
+USE_TAG_METADATA = False
+
+# If set to True, a warning is issued if one of the 'draft', 'mathjax'
+# and 'private' tags are found in a post. Useful for checking that
+# migration was successful.
+WARN_ABOUT_TAG_METADATA = False
 
 # Templates will use those filters, along with the defaults.
 # Consult your engine's documentation on filters if you need help defining
