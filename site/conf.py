@@ -167,37 +167,37 @@ NAVIGATION_LINKS = {
     ),
 
     "en": (
-        ("/en/buy-tickets/", "Buy Tickets"),
-        ("/en/schedule/", "Talk Schedule"),
-        (
-            (
-	       ("/en/presentation-advice/", "Presentation Advice"),
-               ("/en/submit-talk/", "Submit Talk Proposal (closed)"),
-#              ("/speakers/", "Speakers"),
-#              ("/keynotes/", "Keynotes"),
-#              ("/about/", "About"),
-               ("/en/code-war/", "Code War (Friday)"),
-               ("/en/party/", "Party (Saturday)"),
-               ("/en/staff/", "Staff"),
-               ("/en/code-of-conduct/", "Code of Conduct"),
-#              ("/contact/", "Contact"),
-            ),
-           "Event"
-           ),
-        (
-            (
-#              ("/sponsors/", "Sponsors"),
-               ("/en/sponsorship/", "Sponsorship"),),
-           "Sponsorship"
-           ),
-        (
-            (
-                ("/en/venue/", "Conference venue",),
-                ("/en/venue/#accommodation", "Hotels and accommodation",),
-                ("/en/venue/#transportation", "Transportation (trains and taxis)",),
-            ),
-           "Venue"
-           ),
+#         ("/en/buy-tickets/", "Buy Tickets"),
+#         ("/en/schedule/", "Talk Schedule"),
+#         (
+#             (
+# 	       ("/en/presentation-advice/", "Presentation Advice"),
+#                ("/en/submit-talk/", "Submit Talk Proposal (closed)"),
+# #              ("/speakers/", "Speakers"),
+# #              ("/keynotes/", "Keynotes"),
+# #              ("/about/", "About"),
+#                ("/en/code-war/", "Code War (Friday)"),
+#                ("/en/party/", "Party (Saturday)"),
+#                ("/en/staff/", "Staff"),
+#                ("/en/code-of-conduct/", "Code of Conduct"),
+# #              ("/contact/", "Contact"),
+#             ),
+#            "Event"
+#            ),
+#         (
+#             (
+# #              ("/sponsors/", "Sponsors"),
+#                ("/en/sponsorship/", "Sponsorship"),),
+#            "Sponsorship"
+#            ),
+#         (
+#             (
+#                 ("/en/venue/", "Conference venue",),
+#                 ("/en/venue/#accommodation", "Hotels and accommodation",),
+#                 ("/en/venue/#transportation", "Transportation (trains and taxis)",),
+#             ),
+#            "Venue"
+#            ),
         ('/en/posts/', 'News'),
         ("/en/archive.html", "Archive"),
         ("/en/categories/", "Tags"),
@@ -621,6 +621,7 @@ FRONT_INDEX_HEADER = {
 # output / TRANSLATION[lang] / ARCHIVE_PATH / YEAR / MONTH / index.html
 # output / TRANSLATION[lang] / ARCHIVE_PATH / YEAR / MONTH / DAY / index.html
 # ARCHIVE_PATH = ""
+ARCHIVE_PATH = "archive"
 # ARCHIVE_FILENAME = "archive.html"
 
 # If ARCHIVES_ARE_INDEXES is set to True, each archive page which contains a list
