@@ -28,6 +28,9 @@
 .. role:: advanced
    :class: advanced fa fa-graduation-cap
 
+.. role:: youtube
+   :class: fa fa-youtube fa-fw
+
 .. contents::
 
 All sessions are on *level 10* of the venue. Lunch will be on *level 9*.
@@ -71,6 +74,7 @@ Saturday, 16 June
 
    * - 09:10
      - Keynote Speech: `Wes McKinney`_: `Modern Open Source: Challenges and Opportunities`_
+       |Modern Open Source Challenges and Opportunities (video)|_
      - :blank:`Keynote Speech: Wes McKinney`
      - :blank:`Keynote Speech: Wes McKinney`
 
@@ -84,7 +88,9 @@ Saturday, 16 June
        :beginner:`Beginner`
      - `A Beginner's Guide to Deep Natural Language Processing with PyTorch`_ :speaker:`Prachya Boonkwan` 
        :intermediate:`Intermediate`
+       |A Beginner's Guide to Deep Natural Language Processing with PyTorch (video)|_
      - `AI in Security, Finance, and eCommerce`_ :speaker:`TaeWoo Kim`
+       |AI in Security, Finance, and eCommerce (video)|_
 
    * - 11:10
      - :break:`break` :break-title:`Dog Kennel`
@@ -94,17 +100,22 @@ Saturday, 16 June
    * - 11:20
      - `Python for Life Sciences`_ :speaker:`Kulwadee Somboonviwat` 
        :intermediate:`Intermediate`
+       |Python for Life Sciences (video)|_
      - `Concurrent python`_ :speaker:`Ukrid Kuldiloke` 
        :intermediate:`Intermediate` :thai:`Thai`
+       |Concurrent Python (video)|_
      - `Pythonic Functional Programming with Coconut`_ :speaker:`Anthony Khong` 
        :advanced:`Advanced`
+       |Pythonic Functional Programming with Coconut (video)|_
 
    * - 11:55
      - `Object detection and Human recognition with YOLO in Python`_ :speaker:`Kajal Puri` 
        :beginner:`Beginner`
      - `Build dynamically scaled highly available python application with MySQL`_ :speaker:`Ronen Baram`
+       |Build dynamically scaled highly available python application with MySQL (video)|_
      - `Monitoring your Python Application`_ :speaker:`Aravind Putrevu` 
        :beginner:`Beginner`
+       |Monitoring your Python Application (video)|_
 
    * - 12:40
      - :break:`lunch break (catered, level 9)` :break-title:`Spam, Spam, Egg, Bacon and Spam`
@@ -114,15 +125,19 @@ Saturday, 16 June
    * - 13:40
      - `Rage Against The Learning Machine (A New Hope)`_ :speaker:`errazudin ishak` 
        :intermediate:`Intermediate`
+       |Rage Against The Learning Machine (A New Hope) (video)|_
      - `การพัฒนาหุ่นยนต์ด้วยภาษา Python Developing robot with python`_ :speaker:`Sippakorn Widsankun` 
        :beginner:`Beginner` :thai:`Thai`
      - `Teaching and Learning with Python`_ :speaker:`Michael Delfino`
+       |Teaching and Learning with Python (video)|_
 
    * - 14:15
      - `Python Software Development for Hollywood Blockbuster Movie VFX in Thailand`_ :speaker:`Xye`
      - `The power of Jupyter notebooks`_ :speaker:`Mike Amy` 
        :beginner:`Beginner`
-     - `A journey from Monolith into Microservices architecture`_ :speaker:`Pinnapong Silpsakulsuk`
+       |The power of Jupyter notebooks (video)|_
+     - `A journey from Monolith into Microservices architecture`_ :speaker:`Pinnapong Silpsakulsuk` 
+       |A journey from Monolith into Microservices architecture (video)|_
 
    * - 15:00
      - :break:`break` :break-title:`Cycling Tour`
@@ -131,23 +146,32 @@ Saturday, 16 June
 
    * - 15:10
      - `Artisanal Async Adventures`_ :speaker:`Jonas Obrist`
-     - `Image Classification using Deep Learning in Python`_ :speaker:`Sandeep Saurabh`
-     - `How many coin in your piggy bank with micro-python & 3D-Printer`_ :speaker:`Montri Sroymukda`
+       |Artisanal Async Adventures (video)|_
+     - `Image Classification using Deep Learning in Python`_ :speaker:`Sandeep Saurabh` 
+       |Image Classification using Deep Learning in Python (video)|_
+     - `How many coin in your piggy bank with micro-python & 3D-Printer`_ :speaker:`Montri Sroymukda` 
        :thai:`Thai`
+       |How many coin in your piggy bank with micro-python & 3D-Printer (video)|_
 
    * - 15:45
      - `Creating amazing APIs in Flask with Flask RESTplus`_ :speaker:`Avi Aryan` 
        :intermediate:`Intermediate`
+       |Creating amazing APIs in Flask with Flask RESTplus (video)|_
      - `Unimaginable Things in Python`_ :speaker:`Watcharapol Watcharawisetkul` 
        :thai:`Thai`
+       |Unimaginable Things in Python [Thai] (video)|_
      - `CoderDojo - a free programming club for kids`_ :speaker:`Mishari Muqbil`
+       |CoderDojo - a free programming club for kids (video)|_
 
    * - 16:20
-     - `Writing a good frontend test cases using RobotFramework`_ :speaker:`Min Khant Zaw`
+     - `Writing a good frontend test cases using RobotFramework`_ :speaker:`Min Khant Zaw` 
+       |Writing a good frontend test cases using RobotFramework (video)|_
      - `Flask ณ Kaidee`_ :speaker:`Poohdish Rattanavijai` 
        :beginner:`Beginner` :thai:`Thai`
+       |Flask ณ Kaidee (video)|_
      - `Deep Learning in the Household`_ :speaker:`Surasak Watthanayontkit` 
        :beginner:`Beginner`
+       |Deep learning in the household (video)|_
 
    * - 16:50
      - :break:`break` :break-title:`Ministry of Silly Walks`
@@ -192,15 +216,19 @@ Sunday, 17 June
      - :blank:`Registration Opens`
 
    * - 09:00
-     - `Attack of Pythons: Gotchas and Landmines in Python`_ :speaker:`Manoj Pandey`
+     - `Attack of Pythons: Gotchas and Landmines in Python`_ :speaker:`Manoj Pandey` 
+       |Attack of Pythons Gotchas and Landmines in Python (video)|_
      - `Alternative way for build async server`_ :speaker:`Phatthana Batt Tongon` 
        :intermediate:`Intermediate` :thai:`Thai`
+       |Alternative way for build async server (video)|_
      - :blank:`Your mother was a hamster and your father smelt of elderberries`
 
    * - 09:35
      - `Introduction to serverless Python with AWS Lambda`_ :speaker:`Murat Knecht` 
        :beginner:`Beginner`
+       |Introduction to serverless Python with AWS Lambda (video)|_
      - `Logo Detection Using PyTorch`_ :speaker:`Nithiroj Tripatarasit`
+       |Logo Detection Using PyTorch (video)|_
      - :blank:`Your mother was a hamster and your father smelt of elderberries`
 
    * - 10:05
@@ -211,7 +239,9 @@ Sunday, 17 June
    * - 10:25
      - `Building a sustainable codebases with Type Annotations`_ :speaker:`Yothin Muangsommuk` 
        :intermediate:`Intermediate`
+       |Building a sustainable codebases with Type Annotations (video)|_
      - `Python for Self-Trackers: How to Visualize and Better Understand Your Life in Data`_ :speaker:`Mark Koester`
+       |Python for Self-Trackers How to Visualize and Better Understand Your Life in Data (video)|_
      - :blank:`Your mother was a hamster and your father smelt of elderberries`
 
    * - 11:10
@@ -221,8 +251,10 @@ Sunday, 17 June
 
    * - 11:20
      - `Playing with Social Network, Geo-Spatial, Financial Flow, and Banking System Data: Graph-Theoretic Computation in Python`_ :speaker:`Poomjai Nacaskul, PhD, DIC, CFA`
+       |Graph-Theoretic Computation in Python (video)|_
      - `Django Backend from zero to deployment`_ :speaker:`El` 
        :beginner:`Beginner`
+       |Django Backend from zero to deployment (video)|_
      - `Why I Fell in Love with Tavern (and why I'm staying)`_ :speaker:`Lovely Banquil` 
        :workshop:`Workshop` :beginner:`Beginner`
 
@@ -234,7 +266,9 @@ Sunday, 17 June
    * - 12:15
      - `Aaaarrgghh, Spider! Web scraping with Scrapy`_ :speaker:`Michael Kohl` 
        :intermediate:`Intermediate`
-     - `A JS developer tries python, escapes from Jupyter to build a product`_ :speaker:`Richard Washer`
+       |Aaaarrgghh, Spider! Web scraping with Scrapy (video)|_
+     - `A JS developer tries python, escapes from Jupyter to build a product`_ :speaker:`Richard Washer` 
+       |A JS developer tries python, escapes from Jupyter to build a product (video)|_
      - :blank:`Why I Fell in Love with Tavern (and why I'm staying)`
 
    * - 12:45
@@ -243,9 +277,12 @@ Sunday, 17 June
      - :blank:`Salmon Mousse /  Lunch Break`
 
    * - 13:45
-     - `Enabling Blockchain Energy Trading among Smart Buildings through the Use of Multi-Agent Systems and Internet of Things Devices`_ :speaker:`Dr. Warodom Khamphanchai`
+     - `Enabling Blockchain Energy Trading among Smart Buildings through the Use of Multi-Agent Systems and Internet of Things Devices`_ 
+       :speaker:`Dr. Warodom Khamphanchai`
+       |Enabling Blockchain Energy Trading among Smart Buildings ... (video)|_
      - `DIY: Python with partially charged batteries`_ :speaker:`Watcharapol Watcharawisetkul` 
        :thai:`Thai`
+       |DIY Python with partially charged batteries (video)|_
      - `Elasticsearch with Python`_ :speaker:`Elastic / Jongmin Kim - Developer Advocate / Evangelist` 
        :workshop:`Workshop` :beginner:`Beginner`
 
@@ -257,14 +294,18 @@ Sunday, 17 June
    * - 14:40
      - `Python + XPath = Extra Parsing Power`_ :speaker:`Jonathan Reiter` 
        :intermediate:`Intermediate`
-     - `Introduce syntax and history of Python from 2.4 to 3.6`_ :speaker:`Manabu TERADA`
+       |Python + XPath = Extra Parsing Power (video)|_
+     - `Introduce syntax and history of Python from 2.4 to 3.6`_ :speaker:`Manabu TERADA` 
+       |Introduce syntax and history of Python from 2.4 to 3.6 (video)|_
      - :blank:`Elasticsearch with Python`
 
    * - 15:15
      - `Powerful geographic web framework GeoDjango`_ :speaker:`Mitsuki Sugiya` 
        :beginner:`Beginner`
+       |Powerful geographic web framework GeoDjango (video)|_
      - `Talk to your Python app - using LINE!`_ :speaker:`Uli` 
        :intermediate:`Intermediate`
+       |Talk to your Python app - using LINE! (video)|_
      - :blank:`Dead Parrot`
 
    * - 15:45
@@ -357,3 +398,230 @@ Fill it out! Compete for the grand prize! Or for fame!
 .. _Wes McKinney: ../keynotes#wes-mckinney
 .. _Modern Open Source\: Challenges and Opportunities: ../keynotes#wes-mckinney
 .. _Tiwa York: ../keynotes#tiwa-york
+
+
+Lightning talks
+---------------
+
+
+- |PyThaiNLP  Thai natural language processing in Python. (video)|_
+- |PyCons in APAC (video)|_
+- |FOSSASIA introduction (video)|_
+- |Python's Scientific Ecosystem (video)|_
+- |Creating a Startup (video)|_
+- |Studying Thai with programming (video)|_
+- |Python Events in Asia (video)|_
+- |Python Software Foundation (video)|_
+- |Introducing TOKYO, Japan (video)|_
+- |The Hungry Bot (video)|_
+- |Sequence Labeling with python-crfsuite (video)|_
+- |The near awesomeness of NumPy (video)|_
+- |AutoBuddy A Home Automation System (video)|_
+- |Hy Running a webapp with LISP on Python (video)|_
+
+.. |Attack of Pythons Gotchas and Landmines in Python (video)| replace:: :youtube:`Video`
+.. _Attack of Pythons Gotchas and Landmines in Python (video): https://www.youtube.com/watch?v=u5AKobUPCas&?list=PLTv50MjNM7OpbcJbEs7EtfYGzliyPcMrV
+
+
+.. |Unimaginable Things in Python [Thai] (video)| replace:: :youtube:`Video`
+.. _Unimaginable Things in Python [Thai] (video): https://www.youtube.com/watch?v=SEjZyx3_wDY&?list=PLTv50MjNM7OpbcJbEs7EtfYGzliyPcMrV
+
+
+.. |How many coin in your piggy bank with micro-python & 3D-Printer (video)| replace:: :youtube:`Video`
+.. _How many coin in your piggy bank with micro-python & 3D-Printer (video): https://www.youtube.com/watch?v=Ze4VUVuQxHk&?list=PLTv50MjNM7OpbcJbEs7EtfYGzliyPcMrV
+
+
+.. |Image Classification using Deep Learning in Python (video)| replace:: :youtube:`Video`
+.. _Image Classification using Deep Learning in Python (video): https://www.youtube.com/watch?v=NaZPw-TmWEw&?list=PLTv50MjNM7OpbcJbEs7EtfYGzliyPcMrV
+
+
+.. |Deep learning in the household (video)| replace:: :youtube:`Video`
+.. _Deep learning in the household (video): https://www.youtube.com/watch?v=W2Hfqb5zNeM&?list=PLTv50MjNM7OpbcJbEs7EtfYGzliyPcMrV
+
+
+.. |Alternative way for build async server (video)| replace:: :youtube:`Video`
+.. _Alternative way for build async server (video): https://www.youtube.com/watch?v=pV2mC8HS3U8&?list=PLTv50MjNM7OpbcJbEs7EtfYGzliyPcMrV
+
+.. |Continuous code quality with sonarqube (video)| replace:: :youtube:`Video`
+.. _Continuous code quality with sonarqube (video): https://www.youtube.com/watch?v=IYSt96OAGyA&?list=PLTv50MjNM7OpbcJbEs7EtfYGzliyPcMrV
+
+
+.. |Concurrent Python (video)| replace:: :youtube:`Video`
+.. _Concurrent Python (video): https://www.youtube.com/watch?v=tHaA8iCOjis&?list=PLTv50MjNM7OpbcJbEs7EtfYGzliyPcMrV
+
+
+.. |Writing a good frontend test cases using RobotFramework (video)| replace:: :youtube:`Video`
+.. _Writing a good frontend test cases using RobotFramework (video): https://www.youtube.com/watch?v=zfk_q_bFsug&?list=PLTv50MjNM7OpbcJbEs7EtfYGzliyPcMrV
+
+
+.. |DIY Python with partially charged batteries (video)| replace:: :youtube:`Video`
+.. _DIY Python with partially charged batteries (video): https://www.youtube.com/watch?v=ivxwQ-DLAq0&?list=PLTv50MjNM7OpbcJbEs7EtfYGzliyPcMrV
+
+
+.. |A journey from Monolith into Microservices architecture (video)| replace:: :youtube:`Video`
+.. _A journey from Monolith into Microservices architecture (video): https://www.youtube.com/watch?v=kriJB5-gPhY&?list=PLTv50MjNM7OpbcJbEs7EtfYGzliyPcMrV
+
+
+.. |Django Backend from zero to deployment (video)| replace:: :youtube:`Video`
+.. _Django Backend from zero to deployment (video): https://www.youtube.com/watch?v=0Bfdny0tONc&?list=PLTv50MjNM7OpbcJbEs7EtfYGzliyPcMrV
+
+
+.. |Powerful geographic web framework GeoDjango (video)| replace:: :youtube:`Video`
+.. _Powerful geographic web framework GeoDjango (video): https://www.youtube.com/watch?v=Kx3XImifOi4&?list=PLTv50MjNM7OpbcJbEs7EtfYGzliyPcMrV
+
+
+.. |Flask ณ Kaidee (video)| replace:: :youtube:`Video`
+.. _Flask ณ Kaidee (video): https://www.youtube.com/watch?v=Q8BpFURl03M&?list=PLTv50MjNM7OpbcJbEs7EtfYGzliyPcMrV
+
+
+.. |Python + XPath = Extra Parsing Power (video)| replace:: :youtube:`Video`
+.. _Python + XPath = Extra Parsing Power (video): https://www.youtube.com/watch?v=WswN2V9D2rQ&?list=PLTv50MjNM7OpbcJbEs7EtfYGzliyPcMrV
+
+
+.. |Introduce syntax and history of Python from 2.4 to 3.6 (video)| replace:: :youtube:`Video`
+.. _Introduce syntax and history of Python from 2.4 to 3.6 (video): https://www.youtube.com/watch?v=-tTTt8XBcJ4&?list=PLTv50MjNM7OpbcJbEs7EtfYGzliyPcMrV
+
+
+.. |A JS developer tries python, escapes from Jupyter to build a product (video)| replace:: :youtube:`Video`
+.. _A JS developer tries python, escapes from Jupyter to build a product (video): https://www.youtube.com/watch?v=cBP-oP0Xjzs&?list=PLTv50MjNM7OpbcJbEs7EtfYGzliyPcMrV
+
+
+.. |The power of Jupyter notebooks (video)| replace:: :youtube:`Video`
+.. _The power of Jupyter notebooks (video): https://www.youtube.com/watch?v=ZQcmEqnkDXY&?list=PLTv50MjNM7OpbcJbEs7EtfYGzliyPcMrV
+
+
+.. |Python for Life Sciences (video)| replace:: :youtube:`Video`
+.. _Python for Life Sciences (video): https://www.youtube.com/watch?v=ypH9SODAn-8&?list=PLTv50MjNM7OpbcJbEs7EtfYGzliyPcMrV
+
+
+.. |CoderDojo - a free programming club for kids (video)| replace:: :youtube:`Video`
+.. _CoderDojo - a free programming club for kids (video): https://www.youtube.com/watch?v=luhbpb6NMxc&?list=PLTv50MjNM7OpbcJbEs7EtfYGzliyPcMrV
+
+
+.. |Rage Against The Learning Machine (A New Hope) (video)| replace:: :youtube:`Video`
+.. _Rage Against The Learning Machine (A New Hope) (video): https://www.youtube.com/watch?v=NbQ_RR1X-KI&?list=PLTv50MjNM7OpbcJbEs7EtfYGzliyPcMrV
+
+
+.. |A Beginner's Guide to Deep Natural Language Processing with PyTorch (video)| replace:: :youtube:`Video`
+.. _A Beginner's Guide to Deep Natural Language Processing with PyTorch (video): https://www.youtube.com/watch?v=H7LQmrw7GhE&?list=PLTv50MjNM7OpbcJbEs7EtfYGzliyPcMrV
+
+
+.. |Teaching and Learning with Python (video)| replace:: :youtube:`Video`
+.. _Teaching and Learning with Python (video): https://www.youtube.com/watch?v=9-Bf3YAwedg&?list=PLTv50MjNM7OpbcJbEs7EtfYGzliyPcMrV
+
+
+.. |Talk to your Python app - using LINE! (video)| replace:: :youtube:`Video`
+.. _Talk to your Python app - using LINE! (video): https://www.youtube.com/watch?v=Z8iwaVizc-Y&?list=PLTv50MjNM7OpbcJbEs7EtfYGzliyPcMrV
+
+
+.. |Aaaarrgghh, Spider! Web scraping with Scrapy (video)| replace:: :youtube:`Video`
+.. _Aaaarrgghh, Spider! Web scraping with Scrapy (video): https://www.youtube.com/watch?v=S7LTJjDxS_Y&?list=PLTv50MjNM7OpbcJbEs7EtfYGzliyPcMrV
+
+
+.. |Pythonic Functional Programming with Coconut (video)| replace:: :youtube:`Video`
+.. _Pythonic Functional Programming with Coconut (video): https://www.youtube.com/watch?v=24DWw6Ozkvo&?list=PLTv50MjNM7OpbcJbEs7EtfYGzliyPcMrV
+
+
+.. |Monitoring your Python Application (video)| replace:: :youtube:`Video`
+.. _Monitoring your Python Application (video): https://www.youtube.com/watch?v=3VGJ4nxyCZs&?list=PLTv50MjNM7OpbcJbEs7EtfYGzliyPcMrV
+
+
+.. |PyThaiNLP  Thai natural language processing in Python. (video)| replace:: :youtube:`PyThaiNLP  Thai natural language processing in Python.`
+.. _PyThaiNLP  Thai natural language processing in Python. (video): https://www.youtube.com/watch?v=fKM9lTcyXLA&?list=PLTv50MjNM7OpbcJbEs7EtfYGzliyPcMrV
+
+
+.. |Creating amazing APIs in Flask with Flask RESTplus (video)| replace:: :youtube:`Video`
+.. _Creating amazing APIs in Flask with Flask RESTplus (video): https://www.youtube.com/watch?v=hftiDvdCh4c&?list=PLTv50MjNM7OpbcJbEs7EtfYGzliyPcMrV
+
+
+.. |Build dynamically scaled highly available python application with MySQL (video)| replace:: :youtube:`Video`
+.. _Build dynamically scaled highly available python application with MySQL (video): https://www.youtube.com/watch?v=G5018C0kIuM&?list=PLTv50MjNM7OpbcJbEs7EtfYGzliyPcMrV
+
+
+.. |Building a sustainable codebases with Type Annotations (video)| replace:: :youtube:`Video`
+.. _Building a sustainable codebases with Type Annotations (video): https://www.youtube.com/watch?v=r3R1VQa4xPk&?list=PLTv50MjNM7OpbcJbEs7EtfYGzliyPcMrV
+
+
+.. |Artisanal Async Adventures (video)| replace:: :youtube:`Video`
+.. _Artisanal Async Adventures (video): https://www.youtube.com/watch?v=jEZ__hyl7Eg&?list=PLTv50MjNM7OpbcJbEs7EtfYGzliyPcMrV
+
+
+.. |PyCons in APAC (video)| replace:: :youtube:`PyCons in APAC`
+.. _PyCons in APAC (video): https://www.youtube.com/watch?v=j0EIxICtKd4&?list=PLTv50MjNM7OpbcJbEs7EtfYGzliyPcMrV
+
+
+.. |FOSSASIA introduction (video)| replace:: :youtube:`FOSSASIA introduction`
+.. _FOSSASIA introduction (video): https://www.youtube.com/watch?v=qvs_vZ_n6e0&?list=PLTv50MjNM7OpbcJbEs7EtfYGzliyPcMrV
+
+
+.. |Modern Open Source Challenges and Opportunities (video)| replace:: :youtube:`Video`
+.. _Modern Open Source Challenges and Opportunities (video): https://www.youtube.com/watch?v=dVB7RRu2Yo0&?list=PLTv50MjNM7OpbcJbEs7EtfYGzliyPcMrV
+
+
+.. |Python's Scientific Ecosystem (video)| replace:: :youtube:`Python's Scientific Ecosystem`
+.. _Python's Scientific Ecosystem (video): https://www.youtube.com/watch?v=lZ4lun8RNVw&?list=PLTv50MjNM7OpbcJbEs7EtfYGzliyPcMrV
+
+
+.. |Creating a Startup (video)| replace:: :youtube:`Creating a Startup`
+.. _Creating a Startup (video): https://www.youtube.com/watch?v=b_P2X7jBhIA&?list=PLTv50MjNM7OpbcJbEs7EtfYGzliyPcMrV
+
+
+.. |Studying Thai with programming (video)| replace:: :youtube:`Studying Thai with programming`
+.. _Studying Thai with programming (video): https://www.youtube.com/watch?v=4SJXvbsACwo&?list=PLTv50MjNM7OpbcJbEs7EtfYGzliyPcMrV
+
+
+.. |Python Events in Asia (video)| replace:: :youtube:`Python Events in Asia`
+.. _Python Events in Asia (video): https://www.youtube.com/watch?v=T10xitkbfEU&?list=PLTv50MjNM7OpbcJbEs7EtfYGzliyPcMrV
+
+
+.. |Python Software Foundation (video)| replace:: :youtube:`Python Software Foundation`
+.. _Python Software Foundation (video): https://www.youtube.com/watch?v=UoQdqmqRxc4&?list=PLTv50MjNM7OpbcJbEs7EtfYGzliyPcMrV
+
+
+.. |Introducing TOKYO, Japan (video)| replace:: :youtube:`Introducing TOKYO, Japan`
+.. _Introducing TOKYO, Japan (video): https://www.youtube.com/watch?v=44s2VlGE7FM&?list=PLTv50MjNM7OpbcJbEs7EtfYGzliyPcMrV
+
+
+.. |The Hungry Bot (video)| replace:: :youtube:`The Hungry Bot`
+.. _The Hungry Bot (video): https://www.youtube.com/watch?v=cXmIUXExLME&?list=PLTv50MjNM7OpbcJbEs7EtfYGzliyPcMrV
+
+
+.. |Sequence Labeling with python-crfsuite (video)| replace:: :youtube:`Sequence Labeling with python-crfsuite`
+.. _Sequence Labeling with python-crfsuite (video): https://www.youtube.com/watch?v=s4hZplSq-jo&?list=PLTv50MjNM7OpbcJbEs7EtfYGzliyPcMrV
+
+
+.. |The near awesomeness of NumPy (video)| replace:: :youtube:`The near awesomeness of NumPy`
+.. _The near awesomeness of NumPy (video): https://www.youtube.com/watch?v=7L44vaNlULE&?list=PLTv50MjNM7OpbcJbEs7EtfYGzliyPcMrV
+
+
+.. |AutoBuddy A Home Automation System (video)| replace:: :youtube:`AutoBuddy A Home Automation System`
+.. _AutoBuddy A Home Automation System (video): https://www.youtube.com/watch?v=OjaRm5-vH1M&?list=PLTv50MjNM7OpbcJbEs7EtfYGzliyPcMrV
+
+
+.. |Enabling Blockchain Energy Trading among Smart Buildings ... (video)| replace:: :youtube:`Video`
+.. _Enabling Blockchain Energy Trading among Smart Buildings ... (video): https://www.youtube.com/watch?v=Q3KyLEaX3rk&?list=PLTv50MjNM7OpbcJbEs7EtfYGzliyPcMrV
+
+
+.. |AI in Security, Finance, and eCommerce (video)| replace:: :youtube:`Video`
+.. _AI in Security, Finance, and eCommerce (video): https://www.youtube.com/watch?v=W2IkJjPXTDY&?list=PLTv50MjNM7OpbcJbEs7EtfYGzliyPcMrV
+
+
+.. |Logo Detection Using PyTorch (video)| replace:: :youtube:`Video`
+.. _Logo Detection Using PyTorch (video): https://www.youtube.com/watch?v=TIRe2nFobxE&?list=PLTv50MjNM7OpbcJbEs7EtfYGzliyPcMrV
+
+
+.. |Hy Running a webapp with LISP on Python (video)| replace:: :youtube:`Hy Running a webapp with LISP on Python`
+.. _Hy Running a webapp with LISP on Python (video): https://www.youtube.com/watch?v=Bwmz-Z2SQeo&?list=PLTv50MjNM7OpbcJbEs7EtfYGzliyPcMrV
+
+
+.. |Python for Self-Trackers How to Visualize and Better Understand Your Life in Data (video)| replace:: :youtube:`Video`
+.. _Python for Self-Trackers How to Visualize and Better Understand Your Life in Data (video): https://www.youtube.com/watch?v=wHuHC1VflZ8&?list=PLTv50MjNM7OpbcJbEs7EtfYGzliyPcMrV
+
+
+.. |Graph-Theoretic Computation in Python (video)| replace:: :youtube:`Video`
+.. _Graph-Theoretic Computation in Python (video): https://www.youtube.com/watch?v=1-aSxYDiyZM&?list=PLTv50MjNM7OpbcJbEs7EtfYGzliyPcMrV
+
+
+.. |Introduction to serverless Python with AWS Lambda (video)| replace:: :youtube:`Video`
+.. _Introduction to serverless Python with AWS Lambda (video): https://www.youtube.com/watch?v=NPsp_MwhUiI&?list=PLTv50MjNM7OpbcJbEs7EtfYGzliyPcMrV
+
