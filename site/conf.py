@@ -161,6 +161,19 @@ NAVIGATION_LINKS = {
 #            ),
 #         ('/venue/', 'สถานที่'),
 #         ("/schedule/", "ตารางเวลาการพูด"),
+        (
+            (
+                ('/2018/', 'TODO translate: PyCon 2018'),
+                ('/2018/code-war', 'TODO translate: Code War'),
+                ('/2018/keynotes', 'TODO translate: Keynotes'),
+                ('/2018/party', 'TODO translate: Party'),
+                ('/2018/schedule', "TODO translate: Last year's schedule (with links to YouTube)"),
+                ('/2018/sponsorship', 'TODO translate: Sponsorship'),
+                ('/2018/staff', 'TODO translate: Staff'),
+                ('/2018/talks', 'TODO translate: Talks'),
+            ),
+            'PyCon 2018'
+        ),
         ("/archive.html", "คลังโพสต์"),
         ("/categories/", "แท็ก"),
         ("/rss.xml", "ฟีด RSS"),
@@ -198,6 +211,23 @@ NAVIGATION_LINKS = {
 #             ),
 #            "Venue"
 #            ),
+        (
+            (
+                ('/en/2018/', 'PyCon 2018'),
+                ('/en/2018/code-war', 'Code War'),
+                ('/en/2018/keynotes', 'Keynotes'),
+                ('/en/2018/party', 'Party'),
+#               ('/en/2018/pycon-thailand', ''),
+                ('/en/2018/schedule', "Last year's schedule (with links to YouTube)"),
+                ('/en/2018/sponsorship', 'Sponsorship'),
+                ('/en/2018/staff', 'Staff'),
+#               ('/en/2018/staff-procedure-for-incident-handling', ''),
+#               ('/en/2018/submit-talk', ''),
+                ('/en/2018/talks', 'Talks'),
+#               ('/en/2018/venue', ''),
+            ),
+            'PyCon 2018'
+        ),
         ('/en/posts/', 'News'),
         ("/en/archive.html", "Archive"),
         ("/en/categories/", "Tags"),
