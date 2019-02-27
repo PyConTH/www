@@ -137,36 +137,41 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-#         ("/buy-tickets/", "ซื้อตั๋ว"),
-#         ((
+        ("/buy-tickets/", "ซื้อตั๋ว"),
+        ("/schedule/", "ตารางเวลาการพูด"),
+        (
+            (
+                ("/presentation-advice/", "TODO translate: Presentation Advice"),
+                ("/submit-talk/", "ส่งข้อเสนอการพูดคุยของคุณ (ปิดรับแล้ว)"),
+                ("/speakers/", "TODO translate: Speakers"),
+                ("/keynotes/", "TODO translate: Keynotes"),
+                ("/about/", "TODO translate: About"),
+                ("/code-war/", "TODO translate: Code War"),
+                ("/party/", "ปาร์ตี้"),
+                ("/staff/", "เจ้าหน้าที่"),
+                ("/code-of-conduct/", "หลักจริยธรรม"),
+                ("/contact/", "TODO translate: Contact"),
+            ),
+            "งาน"
+        ),
+        ("/sponsorship/", "ผู้สนับสนุน"),
+#         (
 #             (
-# 	       ("/presentation-advice/", "Presentation Advice"),
-#                ("/submit-talk/", "ส่งข้อเสนอการพูดคุยของคุณ (ปิดรับแล้ว)"),
-# 
-# #               ("/speakers/", "Speakers"),
-# #              ("/keynotes/", "Keynotes"),
-# #              ("/about/", "About"),
-#                ("/code-war/", "Code War (Friday)"),
-#                ("/party/", "ปาร์ตี้ (Saturday)"),
-#                ("/staff/", "เจ้าหน้าที่"),
-#                ("/code-of-conduct/", "หลักจริยธรรม"),
-# #               ("/contact/", "Contact"),
+#                 ("/sponsors/", "TODO translate: Sponsors"),
+#                 ("/sponsorship/", "ผู้สนับสนุน"),
 #             ),
-#            "งาน"
-#          (
-#             (
-# #              ("/sponsors/", "Sponsors"),
-#                ("/sponsorship/", "ผู้สนับสนุน"),),
-#            "ผู้สนับสนุน"
-#            ),
-#         ('/venue/', 'สถานที่'),
-#         ("/schedule/", "ตารางเวลาการพูด"),
+#             "ผู้สนับสนุน"
+#         ),
+        ('/venue/', 'สถานที่'),
+        ("/archive.html", "คลังโพสต์"),
+        ("/categories/", "แท็ก"),
+        ("/rss.xml", "ฟีด RSS"),
         (
             (
                 ('/2018/', 'TODO translate: PyCon 2018'),
                 ('/2018/code-war', 'TODO translate: Code War'),
                 ('/2018/keynotes', 'TODO translate: Keynotes'),
-                ('/2018/party', 'TODO translate: Party'),
+                ('/2018/party', 'ปาร์ตี้'),
                 ('/2018/schedule', "TODO translate: Last year's schedule (with links to YouTube)"),
                 ('/2018/sponsorship', 'TODO translate: Sponsorship'),
                 ('/2018/staff', 'TODO translate: Staff'),
@@ -174,43 +179,47 @@ NAVIGATION_LINKS = {
             ),
             'PyCon 2018'
         ),
-        ("/archive.html", "คลังโพสต์"),
-        ("/categories/", "แท็ก"),
-        ("/rss.xml", "ฟีด RSS"),
     ),
 
     "en": (
-#         ("/en/buy-tickets/", "Buy Tickets"),
-#         ("/en/schedule/", "Talk Schedule"),
-#         (
-#             (
-# 	       ("/en/presentation-advice/", "Presentation Advice"),
-#                ("/en/submit-talk/", "Submit Talk Proposal (closed)"),
-# #              ("/speakers/", "Speakers"),
-# #              ("/keynotes/", "Keynotes"),
-# #              ("/about/", "About"),
-#                ("/en/code-war/", "Code War (Friday)"),
-#                ("/en/party/", "Party (Saturday)"),
-#                ("/en/staff/", "Staff"),
-#                ("/en/code-of-conduct/", "Code of Conduct"),
-# #              ("/contact/", "Contact"),
-#             ),
-#            "Event"
+          ("/en/buy-tickets/", "Buy Tickets"),
+          ("/en/schedule/", "Talk Schedule"),
+          (
+              (
+                  ("/en/presentation-advice/", "Presentation Advice"),
+                  ("/en/submit-talk/", "Submit Talk Proposal"),
+                  ("/speakers/", "Speakers"),
+                  ("/keynotes/", "Keynotes"),
+                  ("/about/", "About"),
+#                 ("/en/code-war/", "Code War (Friday)"),
+                  ("/en/party/", "Party"),
+                  ("/en/staff/", "Staff"),
+                  ("/en/code-of-conduct/", "Code of Conduct"),
+                  ("/contact/", "Contact"),
+              ),
+              "Event"
+             ),
+        ("/en/sponsorship/", "Sponsorship"),
+#        (
+#            (
+#                ("/sponsors/", "Sponsors"),
+#                ("/en/sponsorship/", "Sponsorship"),
 #            ),
-#         (
-#             (
-# #              ("/sponsors/", "Sponsors"),
-#                ("/en/sponsorship/", "Sponsorship"),),
 #            "Sponsorship"
+#        ),
+        ("/en/venue/", "Conference venue",),
+#        (
+#            (
+#                ("/en/venue/", "Conference venue",),
+#                ("/en/venue/#accommodation", "Hotels and accommodation",),
+#                ("/en/venue/#transportation", "Transportation (trains and taxis)",),
 #            ),
-#         (
-#             (
-#                 ("/en/venue/", "Conference venue",),
-#                 ("/en/venue/#accommodation", "Hotels and accommodation",),
-#                 ("/en/venue/#transportation", "Transportation (trains and taxis)",),
-#             ),
-#            "Venue"
-#            ),
+#           "Venue"
+#        ),
+        ('/en/posts/', 'News'),
+        ("/en/archive.html", "Archive"),
+        ("/en/categories/", "Tags"),
+        ("/en/rss.xml", "RSS feed"),
         (
             (
                 ('/en/2018/', 'PyCon 2018'),
@@ -228,10 +237,6 @@ NAVIGATION_LINKS = {
             ),
             'PyCon 2018'
         ),
-        ('/en/posts/', 'News'),
-        ("/en/archive.html", "Archive"),
-        ("/en/categories/", "Tags"),
-        ("/en/rss.xml", "RSS feed"),
     ),
 }
 
