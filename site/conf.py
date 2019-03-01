@@ -137,45 +137,45 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/buy-tickets/", "ซื้อตั๋ว"),
+        ("/buy-tickets/", "ซื้อบัตร"),
         ("/schedule/", "ตารางเวลาการพูด"),
         (
             (
-                ("/presentation-advice/", "TODO translate: Presentation Advice"),
+                ("/presentation-advice/", "คำแนะนำในการนำเสนอ"),
                 ("/submit-talk/", "ส่งข้อเสนอการพูดคุยของคุณ (ปิดรับแล้ว)"),
-                ("/speakers/", "TODO translate: Speakers"),
-                ("/keynotes/", "TODO translate: Keynotes"),
-                ("/about/", "TODO translate: About"),
-                ("/code-war/", "TODO translate: Code War"),
+                ("/speakers/", "ผู้บรรยาย"),
+                ("/keynotes/", "แก่นเรื่อง"),
+                ("/about/", "เกี่ยวกับ"),
+                ("/code-war/", "Code War"),
                 ("/party/", "ปาร์ตี้"),
                 ("/staff/", "เจ้าหน้าที่"),
                 ("/code-of-conduct/", "หลักจริยธรรม"),
-                ("/contact/", "TODO translate: Contact"),
+                ("/contact/", "ติดต่อ"),
             ),
             "งาน"
         ),
         ("/sponsorship/", "ผู้สนับสนุน"),
 #         (
 #             (
-#                 ("/sponsors/", "TODO translate: Sponsors"),
-#                 ("/sponsorship/", "ผู้สนับสนุน"),
+#                 ("/sponsors/", "ผู้สนับสนุน"),
+#                 ("/sponsorship/", "การสนับสนุน"),
 #             ),
 #             "ผู้สนับสนุน"
 #         ),
         ('/venue/', 'สถานที่'),
-#       ("/archive.html", "คลังโพสต์"),
-        ("/categories/", "แท็ก"),
+        ("/archive.html", "คลังโพสต์"),
+        ("/categories/", "หมวดหมู่"),
         ("/rss.xml", "ฟีด RSS"),
         (
             (
-                ('/2018/', 'TODO translate: PyCon 2018'),
-                ('/2018/code-war', 'TODO translate: Code War'),
-                ('/2018/keynotes', 'TODO translate: Keynotes'),
+                ('/2018/', 'PyCon 2018'),
+                ('/2018/code-war', 'Code War'),
+                ('/2018/keynotes', 'แก่นเรื่อง'),
                 ('/2018/party', 'ปาร์ตี้'),
-                ('/2018/schedule', "TODO translate: Last year's schedule (with links to YouTube)"),
-                ('/2018/sponsorship', 'TODO translate: Sponsorship'),
-                ('/2018/staff', 'TODO translate: Staff'),
-                ('/2018/talks', 'TODO translate: Talks'),
+                ('/2018/schedule', "ตารางเวลาการพูด"),
+                ('/2018/sponsorship', 'การสนับสนุน'),
+                ('/2018/staff', 'ทีมงาน'),
+                ('/2018/talks', 'สนทนา'),
             ),
             'PyCon 2018'
         ),
@@ -227,7 +227,7 @@ NAVIGATION_LINKS = {
                 ('/en/2018/keynotes', 'Keynotes'),
                 ('/en/2018/party', 'Party'),
 #               ('/en/2018/pycon-thailand', ''),
-                ('/en/2018/schedule', "Last year's schedule (with links to YouTube)"),
+                ('/en/2018/schedule', "Last year's schedule"),
                 ('/en/2018/sponsorship', 'Sponsorship'),
                 ('/en/2018/staff', 'Staff'),
 #               ('/en/2018/staff-procedure-for-incident-handling', ''),
