@@ -12,13 +12,6 @@
 
    .. raw:: html
 
-      <div class="jumbotron jumbotron-fluid container-fluid"
-            style="//background: url(/tut-tuk-456876_1280.jpg);
-       background-position-y: -160px;
-       background-position-x: -142px;">
-
-       <div class="col-sm"> </div>
-
        <div class="col-sm">
           <img src="/pycon-logo.svg" alt="Pycon Thailand Logo">
        </div>
