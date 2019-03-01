@@ -8,49 +8,50 @@
 .. type: text
 
 
+.. container:: row jumbotron
 
-.. raw:: html
+   .. raw:: html
 
-   <div class="jumbotron jumbotron-fluid container-fluid"
-         style="//background: url(/tut-tuk-456876_1280.jpg);
-    background-position-y: -160px;
-    background-position-x: -142px;">
+      <div class="jumbotron jumbotron-fluid container-fluid"
+            style="//background: url(/tut-tuk-456876_1280.jpg);
+       background-position-y: -160px;
+       background-position-x: -142px;">
 
-    <div class="col-md-1"> </div>
+       <div class="col-sm"> </div>
 
-    <div class="col-md-3">
-       <img src="/pycon-logo.svg" alt="Pycon Thailand Logo">
-    </div>
-    <div class="col-md-1"> </div>
-    <div class="col-md-7">
-    <div class="admonition admonition-pycon-thailand-2018 text-center"
-    style="    background-color: rgba(255,255,255,0.55);">
-        <h1 class="admonition-title"><a href="/">PyCon Thailand 2018</a></h1>
-        <p>June 16 & June 17<br>
-        Bangkok</p>
-        <ul class="list-inline banner-social-buttons last">
-            <li>
-                <a href="https://twitter.com/pyconthailand" class="btn btn-default btn-lg" target="_blank"><i class="fa fa-twitter fa-fw"></i></a>
-            </li>
-            <li>
-                <a href="https://www.facebook.com/pyconthailand/" class="btn btn-default btn-lg" target="_blank"><i class="fa fa-facebook fa-fw"></i></a>
-            </li>
-            <li>
-                <a href="https://www.meetup.com/ThaiPy-Bangkok-Python-Meetup/events/248920463/" class="btn btn-default btn-lg" target="_blank"><i class="fa fa-meetup fa-fw"></i></a>
-            </li>
-        </ul>
-    </div>
-    </div>
-    <div class="col-md-1"> </div>
-   </div>
+       <div class="col-sm">
+          <img src="/pycon-logo.svg" alt="Pycon Thailand Logo">
+       </div>
+       <div class="col-sm"> </div>
+       <div class="col-sm">
+       <div class="container admonition admonition-pycon-thailand-2018 text-center"
+       style="    background-color: rgba(255,255,255,0.55);">
+           <h1 class="admonition-title"><a href="/">PyCon Thailand 2018</a></h1>
+           <p>June 16 & June 17<br>
+           Bangkok</p>
+           <ul class="list-inline banner-social-buttons last">
+               <li class="list-inline-item">
+                   <a href="https://twitter.com/pyconthailand" class="btn btn-default btn-lg" target="_blank"><i class="fa fa-twitter fa-fw"></i></a>
+               </li>
+               <li class="list-inline-item">
+                   <a href="https://www.facebook.com/pyconthailand/" class="btn btn-default btn-lg" target="_blank"><i class="fa fa-facebook fa-fw"></i></a>
+               </li>
+               <li class="list-inline-item">
+                   <a href="https://www.meetup.com/ThaiPy-Bangkok-Python-Meetup/events/248920463/" class="btn btn-default btn-lg" target="_blank"><i class="fa fa-meetup fa-fw"></i></a>
+               </li>
+           </ul>
+       </div>
+       </div>
+       <div class="col-sm"> </div>
+      </div>
 
 
 Code War
 ========
 
-.. container:: jumbotron
+.. container:: row jumbotron
 
-   .. class:: col-md-8
+   .. class:: col-sm
 
       For everyone who's in town the day before, we're having a fun
       codewar event on the evening of Friday, 15 June. 
@@ -61,7 +62,7 @@ Code War
 Latest News
 ===========
 
-.. container:: jumbotron
+.. container:: row jumbotron
 
     .. post-list::
        :stop: 3
@@ -70,17 +71,17 @@ Latest News
 Meet Our Keynote Speakers!
 ==========================
 
-.. container:: jumbotron
+.. container:: row jumbotron
 
 
-    .. class:: img-circle img-responsive col-md-4
+    .. class:: img-circle img-responsive col-sm
 
               .. image:: /wes-2017-01-12-small.png
                      :alt: Wes McKinney (portrait)
                      :align: left
                      :width: 200px
 
-    .. class:: col-md-8
+    .. class:: col-sm
 
        .. raw:: html
 
@@ -96,16 +97,16 @@ Meet Our Keynote Speakers!
        Apache Software Foundation.
 
 
-.. container:: jumbotron
+.. container:: row jumbotron
 
-    .. class:: img-circle img-responsive col-md-4
+    .. class:: img-circle img-responsive col-sm
 
               .. image:: /tiwa-york.jpeg
                      :alt: Tiwa York (portrait)
                      :align: left
                      :width: 200px
 
-    .. class:: col-md-8
+    .. class:: col-sm
 
        .. raw:: html
 
@@ -118,9 +119,9 @@ Meet Our Keynote Speakers!
 Schedule
 ===============
 
-.. container:: jumbotron
+.. container:: row jumbotron
 
-  .. class:: col-md-8
+  .. class:: col-sm
 
     Wow.
     Thanks for the heap of submissions. Check out the `schedule <../schedule>`_!
@@ -129,9 +130,9 @@ Schedule
 Sponsors
 ========
 
-.. container:: jumbotron clearfix
+.. container:: row jumbotron clearfix
 
-  .. container:: col-md-6
+  .. container:: col-sm
      Visit the sponsorship page to download the prospectus and register your interest:
 
      .. raw:: html
