@@ -8,7 +8,7 @@ ${base.html_headstart()}
 </%block>
 ${template_hooks['extra_head']()}
 </head>
-<body class="${' '.join(pagekind)} path-${'-'.join([p for p in permalink.replace('/'+lang+'/', '', 1).split('/') if p])}">
+<body class="${' '.join(pagekind)} path-${'-'.join([p for p in permalink.replace('/'+lang+'/', '', 1).split('/') if p] or ['frontpage'])}">
 <a href="#content" class="sr-only sr-only-focusable">${messages("Skip to main content")}</a>
 
 <!-- Menubar -->
