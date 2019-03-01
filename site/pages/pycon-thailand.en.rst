@@ -16,15 +16,15 @@
        </div>
        <div class="col-sm"> </div>
        <div class="col-sm">
-       <div class="admonition admonition-pycon-thailand-2018 text-center"
+       <div class="container admonition admonition-pycon-thailand-2018 text-center"
        style="    background-color: rgba(255,255,255,0.55);">
            <h1 class="admonition-title"><a href="/">PyCon Thailand 2019</a></h1>
 
            <ul class="list-inline banner-social-buttons last">
-               <li>
+               <li class="list-inline-item">
                    <a href="https://twitter.com/pyconthailand" class="btn btn-default btn-lg" target="_blank"><i class="fa fa-twitter fa-fw"></i></a>
                </li>
-               <li>
+               <li class="list-inline-item">
                    <a href="https://www.facebook.com/pyconthailand/" class="btn btn-default btn-lg" target="_blank"><i class="fa fa-facebook fa-fw"></i></a>
                </li>
            </ul>
