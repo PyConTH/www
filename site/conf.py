@@ -163,7 +163,7 @@ NAVIGATION_LINKS = {
 #             "ผู้สนับสนุน"
 #         ),
         ('/venue/', 'สถานที่'),
-        ("/archive.html", "คลังโพสต์"),
+#       ("/archive.html", "คลังโพสต์"),
         ("/categories/", "แท็ก"),
         ("/rss.xml", "ฟีด RSS"),
         (
@@ -217,7 +217,7 @@ NAVIGATION_LINKS = {
 #           "Venue"
 #        ),
         ('/en/posts/', 'News'),
-        ("/en/archive.html", "Archive"),
+#       ("/en/archive.html", "Archive"),
         ("/en/categories/", "Tags"),
         ("/en/rss.xml", "RSS feed"),
         (
