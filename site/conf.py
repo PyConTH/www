@@ -248,7 +248,7 @@ NAVIGATION_ALT_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "pyconth" 
+THEME = "pyconth"
 # (based on bootblog4)
 
 # Primary color of your theme. This will be used to customize your theme and
@@ -1031,9 +1031,9 @@ CONTENT_FOOTER = """
     <hr/>
     <p>TBA</p>
   </div>
-  <div class="container">
-    <div class="col-md">
-        <img src="/logo.png" class="img-responsive" alt="PyCon Thailand" />
+  <div class="row">
+    <div class="col-md text-center">
+        <img src="/logo.png" class="footer-logo" alt="PyCon Thailand" />
     </div>
     <div class="col-md">
       {about}
@@ -1077,7 +1077,7 @@ CONTENT_FOOTER_FORMATS = {
                 PyCon Thailand คือ งานสัมนาเกี่ยวกับภาษาที่ใช้เขียนโปรแกรม (Python programming language)เป็นสังคมที่ขับเคลื่อนโดยสมาชิกของกลุ่ม
                 Python ในกรุงเทพมหานคร
             """,
-            "when_where": """ 
+            "when_where": """
                 <h3>เวลาและสถานที่่</h3>
                 TBA
             """,
