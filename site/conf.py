@@ -817,7 +817,7 @@ GITHUB_COMMIT_SOURCE = True
 #
 from nikola import filters
 def diazoit(infile):
-    return filters.runinplace(r'diazorun -o %2 -r rules.xml %1', infile)
+    return filters.runinplace(r'diazorun -o %2 -r ../rules.xml %1', infile)
 FILTERS = {
      ".html": "diazoit",
 
