@@ -1023,7 +1023,36 @@ LICENSE = ""
 
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
-CONTENT_FOOTER = 'Contents &copy; {date}         <a href="mailto:{email}">{author}</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         {license}'
+# CONTENT_FOOTER = 'Contents &copy; {date}         <a href="mailto:{email}">{author}</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         {license}'
+CONTENT_FOOTER = """
+<div class="container">
+  <div class="text-center">
+    <h1>{sponsors_heading}</h1>
+    <hr/>
+    <p>TBA</p>
+  </div>
+  <div class="container">
+    <div class="col-md">
+        <img src="/logo.png" class="img-responsive" alt="PyCon Thailand" />
+    </div>
+    <div class="col-md">
+      {about}
+    </div>
+    <div class="col-md">
+      {when_where}
+    </div>
+    <div class="col-md">
+      {social}
+        <h3>{social}</h3>
+        <a href="https://twitter.com/pyconthailand"><i class="fa fa-twitter fa-fw"></i> Twitter</a><br>
+        <a href="https://www.facebook.com/pyconthailand/"><i class="fa fa-facebook fa-fw"></i> Facebook</a><br>
+        <a href="https://www.meetup.com/ThaiPy-Bangkok-Python-Meetup/events/248920463/"><i class="fa fa-meetup fa-fw"></i> Meetup</a><br>
+        <a href="mailto:contact@pyconthailand.org"><i class="fa fa-envelope fa-fw"></i> Contact</a><br>
+    </div>
+  </div>
+</div>
+<!--Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a> -->
+"""
 
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
 # for translatability, as dicts are not formattable.  Nikola will
@@ -1042,6 +1071,41 @@ CONTENT_FOOTER_FORMATS = {
     DEFAULT_LANG: (
         (),
         {
+            "sponsors_heading": "ผู้สนับสนุน",
+            "about": """
+                <h3>About</h3>
+                PyCon Thailand คือ งานสัมนาเกี่ยวกับภาษาที่ใช้เขียนโปรแกรม (Python programming language)เป็นสังคมที่ขับเคลื่อนโดยสมาชิกของกลุ่ม
+                Python ในกรุงเทพมหานคร
+            """,
+            "when_where": """ 
+                <h3>เวลาและสถานที่่</h3>
+                TBA
+            """,
+            "social": """
+                ติดต่อเรา
+            """,
+            "email": BLOG_EMAIL,
+            "author": BLOG_AUTHOR,
+            "date": time.gmtime().tm_year,
+            "license": LICENSE
+        }
+    ),
+    'en': (
+        (),
+        {
+            "sponsors_heading": "Sponsors",
+            "about": """
+                <h3>About</h3>
+                PyCon Thailand is a conference about the programming language Python.
+                It is a community effort driven by the members of the Python Community in Bangkok.
+            """,
+            "when_where": """
+                <h3>When &amp; Where</h3>
+                <p>TBA</p>
+            """,
+            "social": """
+                Get Social
+            """,
             "email": BLOG_EMAIL,
             "author": BLOG_AUTHOR,
             "date": time.gmtime().tm_year,
