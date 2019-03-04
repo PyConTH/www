@@ -815,9 +815,27 @@ GITHUB_COMMIT_SOURCE = True
 # Many filters are shipped with Nikola. A list is available in the manual:
 # <https://getnikola.com/handbook.html#post-processing-filters>
 #
-from nikola import filters
+
+#from nikola import filters
+#def diazoit(infile):
+#    return filters.runinplace(r'diazorun -o %2 -r ../rules.xml %1', infile)
+
+from lxml import etree
+from diazo.compiler import compile_theme
+
+absolute_prefix = "/static"
+
+rules = "themes/rules.xml"
+theme = "themes/theme.html"
+
+compiled_theme = compile_theme(rules, theme, absolute_prefix=absolute_prefix)
+transform = etree.XSLT(compiled_theme)
+
 def diazoit(infile):
-    return filters.runinplace(r'diazorun -o %2 -r ../rules.xml %1', infile)
+    content = etree.parse(infile)
+    transformed = transform(content)
+    return etree.tostring(transformed)
+
 FILTERS = {
      ".html": "diazoit",
 
