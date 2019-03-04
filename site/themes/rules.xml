@@ -4,5 +4,7 @@
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
     <theme href="theme.html" />
+    <!-- do nothing -->
+    <replace theme="/html" content="/html" />
 
 </rules>

@@ -19,8 +19,10 @@
 # 
 # # Deploy Preview context: All Deploy Previews
 # # will inherit these settings.
-# [context.deploy-preview.environment]
-#   ACCESS_TOKEN = "not so secret"
+[context.deploy-preview.environment]
+#  ACCESS_TOKEN = "not so secret"
+   NIKOLA_DEBUG = "1"
+   NIKOLA_SHOW_TRACEBACKS = "1'
 # 
 # # Branch Deploy context: All deploys that are not in
 # # an active Deploy Preview will inherit these settings.
