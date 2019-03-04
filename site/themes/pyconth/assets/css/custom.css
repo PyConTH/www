@@ -27,6 +27,16 @@ a.btn > i.fa {
     max-width: 400px;
 }
 
+/* img */
+.footer-logo {
+    max-width: 75%;
+}
+
+/* footer */
+footer#footer {
+    margin-bottom: 2rem;
+}
+
 body.path-2018 header, body.path-frontpage header {
     display: none;
 }
