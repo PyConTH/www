@@ -1,4 +1,4 @@
-PyYAML
+ruamel.yaml
 webassets
 nikola
 diazo
