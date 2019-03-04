@@ -9,12 +9,10 @@
 
 .. container:: jumbotron
 
-    .. class:: row
+    .. raw:: html
 
-        .. raw:: html
-
-            {{% front_panel
-                event_heading='PyCon Thailand 2019' %}}
+        {{% front_panel
+            event_heading='PyCon Thailand 2019' %}}
 
 
 

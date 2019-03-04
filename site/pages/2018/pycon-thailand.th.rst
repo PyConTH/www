@@ -8,35 +8,15 @@
 .. type: text
 
 
-.. container:: row jumbotron
+.. container:: jumbotron
 
-   .. raw:: html
+    .. raw:: html
 
-       <div class="col-sm">
-          <img src="/pycon-logo.svg" alt="Pycon Thailand Logo">
-       </div>
-       <div class="col-sm"> </div>
-       <div class="col-sm">
-       <div class="container admonition admonition-pycon-thailand-2018 text-center"
-       style="    background-color: rgba(255,255,255,0.55);">
-           <h1 class="admonition-title"><a href="/">PyCon Thailand 2018</a></h1>
-           <p>16-17 มิถุนายน<br>
-           กรุงเทพมหานคร</p>
-           <ul class="list-inline banner-social-buttons last">
-               <li class="list-inline-item">
-                   <a href="https://twitter.com/pyconthailand" class="btn btn-default btn-lg" target="_blank"><i class="fa fa-twitter fa-fw"></i></a>
-               </li>
-               <li class="list-inline-item">
-                   <a href="https://www.facebook.com/pyconthailand/" class="btn btn-default btn-lg" target="_blank"><i class="fa fa-facebook fa-fw"></i></a>
-               </li>
-               <li class="list-inline-item">
-                   <a href="https://www.meetup.com/ThaiPy-Bangkok-Python-Meetup/events/248920463/" class="btn btn-default btn-lg" target="_blank"><i class="fa fa-meetup fa-fw"></i></a>
-               </li>
-           </ul>
-       </div>
-       </div>
-       <div class="col-sm"> </div>
-      </div>
+        {{% front_panel
+            event_heading='PyCon Thailand 2018'
+            meetup_id='248920463'
+            event_date='16-17 มิถุนายน'
+            location='กรุงเทพมหานคร' %}}
 
 
 Code War
@@ -47,7 +27,7 @@ Code War
    .. class:: col-sm
 
       For everyone who's in town the day before, we're having a fun
-      codewar event on the evening of Friday, 15 June. 
+      codewar event on the evening of Friday, 15 June.
       Check the `Code War <../code-war>`_ page for details.
 
 
