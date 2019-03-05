@@ -166,19 +166,6 @@ NAVIGATION_LINKS = {
         ("/archive/archive.html", "คลังโพสต์"),
         ("/categories/", "หมวดหมู่"),
         ("/rss.xml", "ฟีด RSS"),
-        (
-            (
-                ('/2018/', 'PyCon 2018'),
-                ('/2018/code-war', 'Code War'),
-                ('/2018/keynotes', 'แก่นเรื่อง'),
-                ('/2018/party', 'ปาร์ตี้'),
-                ('/2018/schedule', "ตารางเวลาการพูด"),
-                ('/2018/sponsorship', 'การสนับสนุน'),
-                ('/2018/staff', 'ทีมงาน'),
-                ('/2018/talks', 'สนทนา'),
-            ),
-            'PyCon 2018'
-        ),
     ),
 
     "en": (
@@ -220,23 +207,6 @@ NAVIGATION_LINKS = {
         ("/en/archive/archive.html", "Archive"),
         ("/en/categories/", "Tags"),
         ("/en/rss.xml", "RSS feed"),
-        (
-            (
-                ('/en/2018/', 'PyCon 2018'),
-                ('/en/2018/code-war', 'Code War'),
-                ('/en/2018/keynotes', 'Keynotes'),
-                ('/en/2018/party', 'Party'),
-#               ('/en/2018/pycon-thailand', ''),
-                ('/en/2018/schedule', "Last year's schedule"),
-                ('/en/2018/sponsorship', 'Sponsorship'),
-                ('/en/2018/staff', 'Staff'),
-#               ('/en/2018/staff-procedure-for-incident-handling', ''),
-#               ('/en/2018/submit-talk', ''),
-                ('/en/2018/talks', 'Talks'),
-#               ('/en/2018/venue', ''),
-            ),
-            'PyCon 2018'
-        ),
     ),
 }
 
