@@ -10,7 +10,7 @@
 
 We have enough teams competing but not enough audience on friday 6:30-10pm!
 
-RSVP via https://th.pycon.org/code-war/
+RSVP via `Code War <link://slug/code-war>`_
 
 Please join us for some light entertainment and free pizza and non-alcoholic drinks. Code War a light hearted event many enjoyed at BKK/Hack last year and each PyCon Australia conference.
 

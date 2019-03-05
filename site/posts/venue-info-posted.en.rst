@@ -11,7 +11,7 @@ We've gathered some info about `accommodation and transportation`_,
 including how to get to the venue from the airport, where to get a SIM card (at the airport!),
 and where to stay. All the mentioned places are in a list of `Google placemarks`_. 
 
-.. _accommodation and transportation: /en/venue
+.. _accommodation and transportation: link://filename/pages/2018/venue.th.rst
 .. _Google placemarks: https://www.google.com/maps/placelists/list/10AVZ09RRblPyf72xyLPatQghauY?hl=en
 
 There are plenty of options, from 350 baht (just over US$10) to one luxury hotel at around 7000 baht (more than US$200).

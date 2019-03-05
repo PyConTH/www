@@ -20,8 +20,8 @@
 แน่นอนว่ามันจะมีสิ่งต่างๆที่ทำให้ทุกคนสนุกสนานและนอกจากนี้ สถานที่จัดงานยังเต็มไปด้วยสถานที่สำหรับการพบปะพูดคุยมากกว่าสี่ชั้น 
 มาพบกันที่สีลม สถานที่ที่ดีที่สุดของกรุงเทพและเพลิดเพลินไปกับวงดนตรีอินดี้ที่ดีที่สุดของไทย 
 
-รายละเอียดและวิธีการเดินทาง : `PyCon Official Party </party>`_ page
+รายละเอียดและวิธีการเดินทาง : `PyCon Official Party <link://filename/pages/2018/party.th.rst>`_ page
 
-.. _Kijjaz: ../../party#kijjaz
-.. _DCNXTR: ../../party#dcnxtr
-.. _Orbital XX: ../../party#orbital-xx
+.. _Kijjaz: link://filename/pages/2018/party.th.rst#kijjaz
+.. _DCNXTR: link://filename/pages/2018/party.th.rst#dcnxtr
+.. _Orbital XX: link://filename/pages/2018/party.th.rst#orbital-xx

@@ -28,8 +28,8 @@ to hangout and talk more quietly across its four floors of space if you prefer
 that. Come check out Silom, a great part of Bangkok and get the best sampling of
 Thailand’s indie music scene that you’re ever likely to find.
 
-Full Details and how to get there on the `PyCon Official Party </party>`_ page
+Full Details and how to get there on the `PyCon Official Party <link://filename/pages/2018/party.th.rst>`_ page
 
-.. _Kijjaz: ../../party#kijjaz
-.. _DCNXTR: ../../party#dcnxtr
-.. _Orbital XX: ../../party#orbital-xx
+.. _Kijjaz: link://filename/pages/2018/party.th.rst#kijjaz
+.. _DCNXTR: link://filename/pages/2018/party.th.rst#dcnxtr
+.. _Orbital XX: link://filename/pages/2018/party.th.rst#orbital-xx
