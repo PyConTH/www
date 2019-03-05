@@ -6,30 +6,70 @@
 .. link:
 .. description:
 .. type: text
+.. template: homepage.tmpl
 
-.. container:: jumbotron
+.. raw:: html
 
-    .. raw:: html
-
-        {{% front_panel
-            event_heading='PyCon Thailand 2019' %}}
-
-
-Coming soon
-===========
-
-.. container:: jumbotron row
-
-   .. class:: col-sm
-
-      Preparations for PyCon Thailand 2019 are underway, watch this space!
+    <div class="section first">
+    {{% front_panel
+    event_heading='PyCon Thailand 2019' %}}
+    </div>
 
 
-ข่าวล่าสุด
-===========
+.. raw:: html
 
-.. container:: jumbotron
+    <div class="section second">
+    {{% front_panel
+    event_heading='PyCon Thailand 2019' %}}
+    </div>
 
-    .. post-list::
-       :stop: 3
+
+.. raw:: html
+
+    <div class="section third">
+    {{% front_panel
+    event_heading='PyCon Thailand 2019' %}}
+    </div>
+
+
+.. raw:: html
+
+    <div class="section fp-auto-height fourth">
+    {{% front_panel
+    event_heading='PyCon Thailand 2019' %}}
+    {{% front_panel
+    event_heading='PyCon Thailand 2019' %}}
+    {{% front_panel
+    event_heading='PyCon Thailand 2019' %}}
+    </div>
+
+
+
+
+
+
+
+
+
+.. {{% front_panel
+..     event_heading='PyCon Thailand 2019' %}}
+
+
+.. Coming soon
+.. ===========
+
+.. .. container:: jumbotron
+
+..    .. class:: col-sm
+
+..       Preparations for PyCon Thailand 2019 are underway, watch this space!
+
+
+.. ข่าวล่าสุด
+.. ===========
+
+.. .. container:: jumbotron
+
+..     .. post-list::
+..        :stop: 3
 

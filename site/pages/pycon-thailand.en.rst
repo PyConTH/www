@@ -7,19 +7,14 @@
 .. description:
 .. type: text
 
-.. container:: jumbotron
-
-    .. raw:: html
-
-        {{% front_panel
-            event_heading='PyCon Thailand 2019' %}}
-
+{{% front_panel
+    event_heading='PyCon Thailand 2019' %}}
 
 
 Coming soon
 ===========
 
-.. container:: jumbotron row
+.. container:: jumbotron
 
    .. class:: col-sm
 

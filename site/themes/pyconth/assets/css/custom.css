@@ -14,6 +14,19 @@ a.btn > i.fa {
     margin: 0.5rem 0;
 }
 
+/* fullpage */
+.navbar {
+    z-index: 999;
+}
+
+.section.first {
+    background-color: palegreen;
+}
+
+.section.third {
+    background-color: grey;
+}
+
 /* navbar */
 .navbar-inverse {
     background-color: #b5a0ac;
