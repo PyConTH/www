@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>PyCon Thailand</title><link>https://th.pycon.org/</link><description>เว็บไซต์ทางการของการสัมมนา PyCon Thailand</description><atom:link href="https://th.pycon.org/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>th</language><copyright>Contents © 2018 &lt;a href="mailto:jean.jordaan+pyconth@gmail.com"&gt;PyCon Thailand team&lt;/a&gt; </copyright><lastBuildDate>Wed, 15 Aug 2018 03:29:19 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Monty Python quiz</title><link>https://th.pycon.org/posts/monty-python-quiz/</link><dc:creator>PyCon Thailand team</dc:creator><description>&lt;div&gt;&lt;p&gt;The Monty Python quiz has been published!&lt;/p&gt;
+&lt;p&gt;To refresh your memory, here are the titles of the breaks:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;The Spanish Inquisition&lt;/li&gt;
+&lt;li&gt;Dog Kennel&lt;/li&gt;
+&lt;li&gt;Spam, Spam, Egg, Bacon and Spam&lt;/li&gt;
+&lt;li&gt;Cycling Tour&lt;/li&gt;
+&lt;li&gt;Ministry of Silly Walks&lt;/li&gt;
+&lt;li&gt;Fish Slapping Dance&lt;/li&gt;
+&lt;li&gt;Exploding Penguins on TV Set&lt;/li&gt;
+&lt;li&gt;Lumberjack Song&lt;/li&gt;
+&lt;li&gt;Salmon Mousse&lt;/li&gt;
+&lt;li&gt;Machine that goes "Ping!"&lt;/li&gt;
+&lt;li&gt;Ni!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Your mission, should you choose to accept it, is to identify some details of
+the context of those references.&lt;/p&gt;
+&lt;p&gt;Here is the &lt;a class="reference external" href="https://www.surveymonkey.com/r/P8ZH839"&gt;quiz for Day 1&lt;/a&gt;,
+and another &lt;a class="reference external" href="https://www.surveymonkey.com/r/PLDK25P"&gt;quiz for Day 2&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Give it a try and win fame and fortune ;-)&lt;/p&gt;&lt;/div&gt;</description><guid>https://th.pycon.org/posts/monty-python-quiz/</guid><pubDate>Sun, 17 Jun 2018 02:13:35 GMT</pubDate></item><item><title>พร้อมกันหรือยังสำหรับครั้งแรกของ Pycon Thailand?</title><link>https://th.pycon.org/posts/final-logisticsth/</link><dc:creator>PyCon Thailand team</dc:creator><description>&lt;div&gt;&lt;p&gt;พวกเราหวังว่าคุณจะรู้สึกตื่นเต้นเช่นเดียวกันกับพวกเราของการเริ่มต้น Pycon ครั้งแรกของประเทศไทย!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;มาร่วมงาน pre-conference ของพวกเรา &lt;a href="https://th.pycon.org/code-war"&gt;Fri warm-up event&lt;/a&gt; ในคืนนี้ ตั้งแต่เวลา 18.30 น. เป็นต้นไป https://th.pycon.org/code-war/. มีพิซ่าให้ทานฟรี และคุณสามารถ เชิญเพื่อนๆของคุณมาเข้าร่วมได้เนื่องจากเรามีพื้นที่ พิซซ่า และเครื่องดื่มรองรับเพียงพอ&lt;/li&gt;
+&lt;li&gt;นอกจากนี้ยังมีงาน PyLadies event ซึ่งจัดขึ้นเป็นพิเศษเพื่อสีสันและหลากหลาย ในวันพรุ่งนี้(วันเสาร์) เวลา 7 โมงเช้า - ลงทะเบียนเข้าร่วมงานได้ที่ https://th.pycon.org/talks/#pyladies-breakfast &lt;/li&gt;
+&lt;li&gt;จุดลงทะเบียนเริ่มตั้งแต่เวลา 8 โมงเช้า และ Keynote คนแรก เริ่มเวลา 9 โมงเช้า  https://th.pycon.org/en/schedule&lt;/li&gt;
+&lt;li&gt;กรุณาปริ้นส์บัตรเข้าร่วมงานของคุณพร้อมเขียนเบอร์โทรศัพท์ไปด้วยเพื่อความรวดเร็วในการลงทะเบียน&lt;/li&gt;
+&lt;li&gt;ถ้าบัตรเข้าร่วมงานของคุณเป็นบัตรประเภทนักเรียนนักศึกษา กรุณานำบัตรนักเรียนนักศึกษาของคุณมาแสดงด้วย(รวมทั้งบัตรนานาชาติ)&lt;/li&gt;
+&lt;li&gt;เรามีที่จอดรถให้ฟรีแต่ในจำนวนจำกัด ไม่สามารถรองรับได้สำหรับทุกคน เราขอแนะนำให้ท่านเดินทางโดย รถไฟฟ้า เพราะการจราจรค่อนข้างหนาแน่นในเช้าวันเสาร์&lt;/li&gt;
+&lt;li&gt;ที่นี่ - https://th.pycon.org/en/venue/.&lt;/li&gt;
+&lt;li&gt;อาหารกลางวัน , เสิร์ฟชาช่วงเช้า , อาหารว่างยามบ่าย , น้ำดื่ม , กาแฟ/เครื่องดื่ม ทั้งหมดจะถูกจัดเตรียมไว้ให้และรวมในราคาบัตรแล้ว&lt;/li&gt;
+&lt;li&gt;คุณอาจจะกลับดึกในคืนวันพรุ่งนี้ งานปาร์ตี้ของเราเริ่มอย่างเป็นทางการในเวลาหนึ่งทุ่มตรง https://th.pycon.org/party/&lt;/li&gt;
+&lt;li&gt;อย่าลืมว่า ผู้ถือบัตรทั้งหมดจะได้รับเสื้อยืด Pycon ฟรี ดังนั้นคุณไม่ต้องนำเสื้อมาเผื่อเปลี่ยน!&lt;/li&gt;
+&lt;li&gt;มีฟรีพิซซ่าและเบียร์ &lt;/li&gt;
+&lt;li&gt;ถ้าคุณเข้าร่วมเวิร์คชอปในวันอาทิตย์ อย่าลืมนำ Laptop และ สายชาร์ตของคุณมาด้วย&lt;/li&gt;
+&lt;li&gt;WiFi จัดเตรียมให้คือ : KX_T_Event: user:kx16kce password:whun16&lt;/li&gt;
+&lt;li&gt;ถ้าคุณใช้ social media กรุณาติดแฮ็ชแท็ก #pyconth. ที่ blog/FB/tweet และที่อื่น ๆ  &lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid>https://th.pycon.org/posts/final-logisticsth/</guid><pubDate>Fri, 15 Jun 2018 06:00:00 GMT</pubDate></item><item><title>Join Code War event!</title><link>https://th.pycon.org/posts/join-code-war-event/</link><dc:creator>PyCon Thailand team</dc:creator><description>&lt;div&gt;&lt;p&gt;ขอเชิญทุกคนเข้าร่วมชมการการแข่งขัน Code war ที่จะจัดขึ้นในวันศุกร์นี้เวลา 18.30-22.00 น&lt;/p&gt;
+&lt;p&gt;ยืนยันการเข้าร่วมงานผ่านเว็บไซต์ :  &lt;a class="reference external" href="https://th.pycon.org/code-war/"&gt;https://th.pycon.org/code-war/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;มาร่วมชมการแข่งขันที่จัดขึ้นเพื่อความสนุกสนานและรับพิซซ่าพร้อมเครื่องดื่มไม่มีแอลกอฮอล์ฟรี Code war เป็นกิจกรรมที่ทำให้ผู้เข้าร่วมงานสนุกสนานและเพลิดเพลิน ซึ่งกิจกรรมนี้เคยจัดขึ้นในงาน BKK/Hack ในปีที่แล้ว และในงาน PyCon Australia conference ของทุกๆปี&lt;/p&gt;
+&lt;p&gt;คุณจะมาเข้าร่วมชมหรือจะนำ Laptop มาเล่นไปพร้อมกับทีมบนเวที หรือจะมาเข้าร่วมในรอบคัดเลือกและอาจจะพบว่าคุณทำได้มากกว่าที่คิด&lt;/p&gt;
+&lt;p&gt;ซึ่งตามกฎแล้วคุณสามารถใช้อินเตอร์เน็ตได้&lt;/p&gt;
+&lt;p&gt;ในการเข้าร่วมกิจกรรมนี้ไม่จำเป็นต้องใช้บัตรเข้าร่วมงาน Pycon Thailand&lt;/p&gt;&lt;/div&gt;</description><guid>https://th.pycon.org/posts/join-code-war-event/</guid><pubDate>Thu, 14 Jun 2018 09:55:38 GMT</pubDate></item><item><title>มาร่วมทานอาหารเช้าด้วยกันที่งาน PyLadies Breakfast ในวันเสาร์นี้ค่ะ!</title><link>https://th.pycon.org/posts/pyladies-inviteth/</link><dc:creator>PyCon Thailand team</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;ในวันเสาร์ที่ 16 มิถุนายน 2561 เวลา 7.30 - 8.30น. ที่ชั้น 10 Knowledge Exchange Center (สถานที่เดียวกับงาน PyCon Thailand) ค่ะ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;เราขอเชิญทุกท่านมาพูดคุยแลกเปลี่ยน แนะนำตัวเองให้คนอื่นรู้จัก และทานอาหารเช้าอร่อยๆ จิบกาแฟชิวๆ ก่อนเริ่มงาน PyCon Thailand ในวันเสาร์นี้ งานนี้จัดขึ้นเพื่อให้คุณผู้หญิงที่จะมาร่วมงาน PyCon ไม่ว่าจะเป็นผู้หญิง ผู้หญิงข้ามเพศ หรือ ผู้ที่ไม่มีการแบ่งหรือจำกัดกรอบทางเพศ ได้มาพูดคุยแลกเปลี่ยนกัน แต่คุณผู้ชายก็สามารถมาร่วมงานได้ในฐานะแขกรับเชิญ +1 ของผู้ร่วมงานผู้หญิงค่ะ &lt;/p&gt;
+&lt;p&gt;งาน PyLadies Breakfast จัดขึ้นโดย Newlogic ในวันเสาร์ที่ 16 มิถุนายน 2559 เวลา 7.30 - 8.30น. ที่ชั้น 10 Knowledge Exchange Center (สถานที่เดียวกับงาน PyCon Thailand) &lt;/p&gt;
+&lt;p&gt;ลงทะเบียนเข้าร่วมงานที่: &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://goo.gl/forms/J9gj9IOB9TaySd323"&gt;https://goo.gl/forms/J9gj9IOB9TaySd323&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;เราหวังว่าจะได้พบกับทุกๆ คนในเช้าวันเสาร์นี้นะคะ&lt;/p&gt;
+&lt;p&gt;&lt;img alt="PyLadies" src="https://th.pycon.org/pylady_geek_wordmark_standard.png"&gt;&lt;/p&gt;&lt;/div&gt;</description><guid>https://th.pycon.org/posts/pyladies-inviteth/</guid><pubDate>Thu, 14 Jun 2018 04:20:00 GMT</pubDate></item><item><title>PyCon Sat Party</title><link>https://th.pycon.org/posts/pycon-party/</link><dc:creator>PyCon Thailand team</dc:creator><description>&lt;div&gt;&lt;p&gt;ชวนทุกท่านมาร่วมงานปาร์ตี้ หลังจาก Talk สุดท้ายจบลงในคืนวันเสาร์!&lt;/p&gt;
+&lt;p&gt;เรามีพิซซ่าและเครื่องดื่ม ในเวลาหนึ่งทุ่มครึ่ง ( ฟรีเครื่องดื่มแก้วแรก -- soft drink, น้ำดื่ม, เบียร์ไทย และ เหล้าไทย ) หลังจากนั้น เรามีการแสดงสดเพลงสไตล์ Electronic 3 การแสดงที่ยอดเยี่ยม
+ประกอบด้วย&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://th.pycon.org/party#kijjaz"&gt;Kijjaz&lt;/a&gt; (กิจจ๊าซ) หนึ่งในนักเล่นคีย์บอร์ดที่ได้รับความสนใจมากที่สุด และมีความชอบส่วนตัวใน program music กับ microcontroller และจะมาสร้างการแสดงพิเศษเพื่อพวกเราโดยเฉพาะ&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://th.pycon.org/party#dcnxtr"&gt;DCNXTR&lt;/a&gt; (De connextor) วง Electronic ที่ดีที่สุดของประเทศไทย  -- เป็นทั้ง innovative และ เต้นได้ในเวลาเดียวกัน ซึ่งจะให้คุณพบกับประสบการณ์ที่ไม่เคยมีมาก่อน&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://th.pycon.org/party#orbital-xx"&gt;Orbital XX&lt;/a&gt; หนึ่งในวงที่มีเพลง Electronic ที่มาแรงที่สุดในกรุงเทพ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;แน่นอนว่ามันจะมีสิ่งต่างๆที่ทำให้ทุกคนสนุกสนานและนอกจากนี้ สถานที่จัดงานยังเต็มไปด้วยสถานที่สำหรับการพบปะพูดคุยมากกว่าสี่ชั้น
+มาพบกันที่สีลม สถานที่ที่ดีที่สุดของกรุงเทพและเพลิดเพลินไปกับวงดนตรีอินดี้ที่ดีที่สุดของไทย&lt;/p&gt;
+&lt;p&gt;รายละเอียดและวิธีการเดินทาง : &lt;a class="reference external" href="https://th.pycon.org/party"&gt;PyCon Official Party&lt;/a&gt; page&lt;/p&gt;&lt;/div&gt;</description><guid>https://th.pycon.org/posts/pycon-party/</guid><pubDate>Tue, 12 Jun 2018 13:41:09 GMT</pubDate></item><item><title>Tickets sold out!</title><link>https://th.pycon.org/posts/tickets-sold-out/</link><dc:creator>PyCon Thailand team</dc:creator><description>&lt;p&gt;ตั๋วหมดแล้ว! เราขอขอบคุณเสียงตอบรับที่มีอย่างล้นหลาม
+ถ้าคุณซื้อตั๋วไม่ทันในปีนี้ เราหวังว่าจะได้เจอคุณในปีหน้า&lt;/p&gt;</description><guid>https://th.pycon.org/posts/tickets-sold-out/</guid><pubDate>Thu, 07 Jun 2018 04:20:42 GMT</pubDate></item><item><title>เปิดรับอาสาสมัคร</title><link>https://th.pycon.org/posts/volunteer-recruitment/</link><dc:creator>PyCon Thailand team</dc:creator><description>&lt;div&gt;&lt;p&gt;ทีมงาน PyConTH กำลังมองหา อาสาสมัครเพื่อที่จะช่วยขับเคลื่อนงานทั้งสองวัน
+โดยมีรายละเอียดงานที่ต้องการความช่วยเหลือดังนี้&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Session Chair&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;เป็นผู้ดูแลจัดการในห้อง conference แต่ละ track หน้าที่ของ session chair หลักๆมีดังต่อไปนี้&lt;/p&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;แนะนำตัว Speaker ซึ่งไม่ต้องยาวเพียงแค่แนะนำชื่อ ประเทศบ้านเกิด และชื่อ talk เท่านั้น&lt;/li&gt;
+&lt;li&gt;เช็คเรื่องเวลาในแต่ละ session และเตือน speaker เมื่อใกล้ถึงช่วงของ Q&amp;amp;A Session&lt;/li&gt;
+&lt;li&gt;ช่วย speaker เก็บของลงจากเวที (สายไมค์ แลปทอป และอื่นๆ) และ ประกาศช่วงถัดไปซึ่งอาจจะเป็น
+lightning talk, ช่วงพัก หรือเหตุการ์อื่นๆตามเหมาะสม&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Session Runner&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;เป็นผู้ที่จัดการเรื่องเกี่ยวกับ speaker ก่อนที่จะส่งตัวเข้าไปในห้อง session และเป็นคนที่ได้อยู่กับ speaker มากที่สุดอีกด้วย
+หน้าที่หลักๆ มีดังนี้&lt;/p&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;ตามตัว speaker ให้มายังห้องพักก่อนเวลา 15 นาที&lt;/li&gt;
+&lt;li&gt;ช่วย speaker เตรียมตัวก่อนขึ้นเวที เช็คแลปทอปและสายต่างๆ&lt;/li&gt;
+&lt;li&gt;Brief speaker เล็กน้อยว่าคิวบนเวทีเป็นอย่างไรบ้าง&lt;/li&gt;
+&lt;li&gt;พา speaker เข้าไปห้อง session และช่วย setup แลปทอปของเขา&lt;/li&gt;
+&lt;li&gt;จากนั้นก็ส่งต่อให้ session chair ดำเนินการ&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Registration&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;ช่วยจัดการการลงทะเบียนเข้างาน เป็นหน้าที่ที่จะได้พบปะและพูดคุยกับผู้คนได้เยอะที่สุด หน้าที่หลักๆคือการรับ
+ลงทะเบียนและแจกของที่ระลึกให้ผู้เข้าร่วมงาน ซึ่งเป็นตำแหน่งที่สามารถเลือกทำเป็นกะได้ (แค่ครึ่งเช้าหรือบ่าย)&lt;/p&gt;
+&lt;p&gt;ถ้าเกิดคุณอ่านแล้วสนใจล่ะก็ &lt;a class="reference external" href="https://goo.gl/forms/DY1vCXJPBAmvukfg1"&gt;สมัครได้ที่ลิ้งค์นี้เลย&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;พวกเรารอคุณอยู่นะ!&lt;/p&gt;&lt;/div&gt;</description><guid>https://th.pycon.org/posts/volunteer-recruitment/</guid><pubDate>Sun, 27 May 2018 11:04:50 GMT</pubDate></item><item><title>Try our Monty Python Quiz.</title><link>https://th.pycon.org/posts/preliminary-quizth/</link><dc:creator>PyCon Thailand team</dc:creator><description>&lt;p&gt;The schedule contains references to &lt;em&gt;Monty Python&lt;/em&gt;, from whence the name &lt;strong&gt;Python&lt;/strong&gt; came. Just for fun, a preliminary &lt;a href="https://www.surveymonkey.com/r/9JJSMJG"&gt;Quiz can be taken&lt;/a&gt;.
+So go ahead and take it.&lt;/p&gt;</description><guid>https://th.pycon.org/posts/preliminary-quizth/</guid><pubDate>Sun, 27 May 2018 09:20:00 GMT</pubDate></item><item><title>Schedule Published.</title><link>https://th.pycon.org/posts/schedule-publishedth/</link><dc:creator>PyCon Thailand team</dc:creator><description>&lt;div&gt;&lt;p&gt;We have now published a &lt;a href="https://th.pycon.org/schedule"&gt;preliminary schedule of PyCon Thailand&lt;/a&gt;.
+There may still be a few changes, so subscribe to our website to be notified when the schedule is changing.&lt;/p&gt;
+&lt;p&gt;Don't forget to buy your ticket!&lt;/p&gt;&lt;/div&gt;</description><guid>https://th.pycon.org/posts/schedule-publishedth/</guid><pubDate>Fri, 25 May 2018 13:20:00 GMT</pubDate></item><item><title>ข้อมูลเกี่ยวกับสถานที่และการเดินทาง</title><link>https://th.pycon.org/posts/venue-info-posted/</link><dc:creator>PyCon Thailand team</dc:creator><description>&lt;div&gt;&lt;p&gt;เราได้รวบรวมข้อมูลเกี่ยวกับที่พักและการเดินทางรวมถึงวิธีเดินทางจากสนามบินไปยังสถานที่จัดงาน (&lt;a class="reference external" href="https://th.pycon.org/venue"&gt;venue&lt;/a&gt;, สถานที่รับซิมการ์ด (ที่สนามบิน) และการเดินทางไปยังที่พัก  โดยสถานที่ดังกล่าวทั้งหมดอยู่ในรายการของ &lt;a class="reference external" href="https://www.google.com/maps/placelists/list/10AVZ09RRblPyf72xyLPatQghauY?hl=en"&gt;Google Placemarks&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;มีทางเลือกมากมายจาก 350 บาท (ไม่เกิน 10 เหรียญสหรัฐ) ไปจนถึงโรงแรมหรูที่มีราคาประมาณ 7000 บาท (มากกว่า 200 เหรียญสหรัฐ) มีโฮสเทลอย่างน้อย 10 แห่ง ในระยะเดินได้ 10 นาทีไปยังสถานที่จัดงาน มีทั้งแบบหอพักและห้องส่วนตัว&lt;/p&gt;
+&lt;p&gt;สถานที่จัดงานตั้งอยู่แนวรถไฟฟ้าบีทีเอสดังนั้นจึงยังสามารถเลือกพักเข้าใกล้ใจกลางเมืองได้อีกด้วย เรามี Placemarks สำหรับโซนสยามและสาทรด้วยเช่นกัน&lt;/p&gt;
+&lt;p&gt;นอกจากนี้ยังมีแผนสำหรับกิจกรรมที่น่าสนใจบางอย่างที่เราจะประกาศทันทีเมื่อทุกอย่างได้ข้อสรุปแล้ว&lt;/p&gt;
+&lt;p&gt;พวกเราตั้งหน้าตั้งตารอที่จะพบกับทุกท่าน!&lt;/p&gt;&lt;/div&gt;</description><guid>https://th.pycon.org/posts/venue-info-posted/</guid><pubDate>Mon, 14 May 2018 13:41:09 GMT</pubDate></item></channel></rss>

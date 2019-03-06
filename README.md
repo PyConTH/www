@@ -10,7 +10,7 @@ To see the preview, click on **Details** to the right of the _**deploy/netlify**
 ## How to build
 
 ```
-pip install webassets nikola
+pip install --user ruamel.yaml webassets nikola
 cd site
 nikola build
 ```
