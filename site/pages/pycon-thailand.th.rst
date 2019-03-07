@@ -12,8 +12,12 @@
     .. raw:: html
 
         {{% front_panel
-            event_heading='PyCon Thailand 2019' %}}
+            event_heading='PyCon Thailand 2019'
+            event_date='15 & 16 June 2019'
+            location='<a href="/th/venue/">True Digital Park</a>'
+            %}}
 
+.. TODO: translate
 
 Coming soon
 ===========
