@@ -70,8 +70,10 @@ navbar-dark bg-dark
     <div class="body-content">
         <!--Body content-->
         ${template_hooks['page_header']()}
-        ## <%block name="content"></%block>
-        <%block name="content_post"></%block>
+        <!--front page content-->
+        <%block name="front_page"></%block>
+        <!--all others content-->
+        <%block name="content"></%block>
         <!--End of body content-->
 
         <footer id="footer">
