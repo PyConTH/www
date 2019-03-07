@@ -1048,8 +1048,11 @@ CONTENT_FOOTER_FORMATS = {
                 Python ในกรุงเทพมหานคร
             """,
             "when_where": """
-                <h3>เวลาและสถานที่่</h3>
-                TBA
+            <h3>เวลาและสถานที่่</h3>
+            <p>`True Digital Park <https://www.facebook.com/TrueDigitalPark/>`_
+            </p>
+            <p>101 Sukhumvit Road, Bangkok 10260, Thailand
+            </p>
             """,
             "social": """
                 ติดต่อเรา
@@ -1070,8 +1073,11 @@ CONTENT_FOOTER_FORMATS = {
                 It is a community effort driven by the members of the Python Community in Bangkok.
             """,
             "when_where": """
-                <h3>When &amp; Where</h3>
-                <p>TBA</p>
+            <h3>When &amp; Where</h3>
+            <p>`True Digital Park <https://www.facebook.com/TrueDigitalPark/>`_
+            </p>
+            <p>101 Sukhumvit Road, Bangkok 10260, Thailand
+            </p>
             """,
             "social": """
                 Get Social
