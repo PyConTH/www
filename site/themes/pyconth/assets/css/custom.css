@@ -2,7 +2,6 @@
 img.home-logo {
     max-width: 85%;
 }
-
 .admonition-title {
     margin-top: 1rem;
     margin-bottom: 0.75rem;
@@ -40,17 +39,28 @@ a.btn > i.fa {
     color: #3b91d0;
     font-size: 20px;
 }
+.first {
+    background-image: url("/first_section_bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 /*Keynote section*/
+.second {
+    background-image: url("/bg-01.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
 .keynote {
     padding: 0 50px;
     position: relative;
 }
 .keynote .keynote-title {
-    font-size: 36px;
+    font-size: 48px;
     color: #063B61;
     position: relative;
     display: inline-block;
-    margin-bottom: 40px;
+    /* margin-bottom: 40px; */
+    margin-top: 40px;
 }
 .keynote .image-bg {
     position: absolute;
@@ -61,48 +71,60 @@ a.btn > i.fa {
     width: 100%;
     height: auto;
 }
-
-    .keynote .keynote-title:before {
-        content: "";
-        position: absolute;
-        bottom: 0;
-        left: 0;
-        background: #A9173F;
-        width: 200px;
-        height: 3px;
-    }
-    .keynote .keynote-title:after {
-        content: "";
-        position: absolute;
-        bottom: -10px;
-        right: 0;
-        background: #A9173F;
-        width: 150px;
-        height: 3px;
-    }
-.keynote .section-Wes {
+/* .keynote .keynote-title:before {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background: #A9173F;
+    width: 200px;
+    height: 3px;
+} */
+.keynote .keynote-title:after {
+    content: "";
+    position: absolute;
+    bottom: 8px;
+    right: -32px;
+    background: #A9173F;
+    width: 45px;
+    height: 4px;
+}
+.keynote .speaker {
     padding-top: 50px;
 }
-.keynote .section-tiwa {
+/* .keynote .section-tiwa {
     padding-top: 50px;
     text-align: right;
+} */
+/* .keynote .speaker .profile {
+    margin-left: 4rem;
+} */
+.keynote [class*="img-responsive"] {
+    object-fit: cover;
+    border-top: 4px solid #A9173F;
+    border-radius: 0;
+    max-width: 60%;
 }
-.keynote [class*="section"] 
-    .name {
-        font-size: 24px;
-        color: #1C6698;
-    }
-.keynote [class*="section"] 
-    .website a {
-        font-size: 24px;
-        color: #B33255;
-    }
-.keynote [class*="section"] 
-    .content {
-        font-size: 24px;
-        color: #7D8890;
-    }
+.keynote .speaker .name {
+    font-size: 18px;
+    margin: 0;
+    margin-top: 0.75rem;
+}
+.keynote .speaker .org {
+    font-size: 0.85rem;
+    margin: 0;
+}
+.keynote .speaker .website a {
+    font-size: 12px;
+    color: black;
+    margin-top: 0.5rem;
+}
+.keynote .speaker .content {
+    font-size: 18px;
+    color: #7D8890;
+}
 .keynote [class*="section"] p { margin-bottom: 10px;}
+
 /*Code War Section*/
 .section.third .code-war {
     color: #fff;
@@ -149,7 +171,7 @@ a.btn > i.fa {
     font-weight: bold;
     padding: 5px;
 }
-    
+
 .section-lastest-news .date {
     color: #1B6598;
     margin-bottom: 10px;
@@ -210,14 +232,10 @@ footer {
                 footer .about ul li a {
                     color: #fff;
                 }
-                     
+
 /* fullpage */
 .navbar {
     z-index: 999;
-}
-
-.section.first {
-    background-color: palegreen;
 }
 
 .section.third {
