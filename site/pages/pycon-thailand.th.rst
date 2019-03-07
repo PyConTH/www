@@ -171,7 +171,7 @@
             </div>
         </section>
     </div>
-    <div class="section fifth ">
+    <section class="section fifth ">
         <div style="display: none;">
             {{% front_panel
             event_heading='PyCon Thailand 2019' %}}
@@ -197,7 +197,29 @@
             </div>
         </setion>
     </section>
-
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-5 about">
+                    <p>About</p>
+                    <p>Pycon Thailand is a conference about<br>the programming language Python.<br>
+                    It is a community effort driven by <br> the members of the Python Community<br>in Bangkok
+                    </p>
+                    <ul>
+                        <li><a href="#"><i class="fa-fw fa fa-facebook"></i></a></li>
+                        <li><a href="#"><i class="fa-fw fa fa-twitter"></i></a></li>
+                    </ul>
+                </div>
+                <div class="col-md-2">
+                    <img src="logo2019.png">
+                </div>
+                <div class="col-md-5 when-where">
+                <p>June 16 - 17 2018</p>
+                <p>Knowledge Exchange Center - KX<br>10/1 Krung Thonburi Road<br> Khwaeng Bang Lamphu Lang<br>THon Buri Bangkok 10600</p>
+                </div>
+            </div>
+        </div>
+    </footer>
 
 
 
