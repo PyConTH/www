@@ -44,6 +44,18 @@ a.btn > i.fa {
     background-repeat: no-repeat;
     background-size: cover;
 }
+/* news section */
+.news-section {
+    background-image: url("/upside_down_city.png");
+    background-repeat: repeat-x;
+    background-size: 100%;
+    background-position: top;
+}
+
+.news {
+    text-align: center;
+}
+
 /*Keynote section*/
 .second {
     background-image: url("/bg-01.png");
