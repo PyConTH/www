@@ -1,0 +1,43 @@
+<div class="row">
+  <div class="col-sm-3 offset-sm-1">
+    <img class="home-logo" src="/pycon-logo.svg" alt="Pycon Thailand Logo">
+  </div>
+
+  <div class="col-sm-6 offset-sm-1">
+    <div class="container admonition admonition-pycon-thailand-2018 text-center"
+                      style="background-color: rgba(255,255,255,0.55);">
+
+      <h1 class="admonition-title">
+        <a href="/">${ event_heading }</a>
+      </h1>
+
+      % if event_date and location:
+        <p>
+          ${event_date}
+          <br/>
+          ${location}
+        </p>
+      % endif
+
+      <ul class="list-inline banner-social-buttons last">
+        <li class="list-inline-item">
+          <a href="https://twitter.com/pyconthailand" class="btn btn-secondary btn-lg" target="_blank">
+            <i class="fa fa-twitter fa-fw"/>
+          </a>
+        </li>
+        <li class="list-inline-item">
+          <a href="https://www.facebook.com/pyconthailand/" class="btn btn-secondary btn-lg" target="_blank">
+            <i class="fa fa-facebook fa-fw"/>
+          </a>
+        </li>
+        % if meetup_id:
+          <li class="list-inline-item">
+            <a href="https://www.meetup.com/ThaiPy-Bangkok-Python-Meetup/events/${meetup_id}/" class="btn btn-secondary btn-lg" target="_blank">
+              <i class="fa fa-meetup fa-fw"/>
+            </a>
+          </li>
+        % endif
+      </ul>
+    </div>
+  </div>
+</div>

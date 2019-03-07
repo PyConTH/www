@@ -46,13 +46,13 @@ META_TMPL = {
 
 with open('commands.sh', 'w') as commands:
     for talk in TALKS:
+        if 'file' not in talk:
+            commands.write('# "{}" missing\n'.format(talk['title']))
+            continue
         talk['description'] = desc.format(**talk)
         meta = {}
         meta.update(META_TMPL)
         meta.update(talk)
-        if 'file' not in talk:
-            commands.write('# "{}" missing\n'.format(talk['title']))
-            continue
         fn = talk['file']
         if "/17/" in fn:
             meta['recordingdate'] = "2018-06-17"
