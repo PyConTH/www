@@ -51,16 +51,11 @@
             </div>
             <div class="countdown col-sm-12">
                 <div class="col-sm-12">
-                    <!-- TODO
                     <h1 class="countdown-title red-prepostline">
                         PYCON THAILAND จะเริ่มใน
                     </h1>
-                    <h1 class="countdown-timer">
+                    <h1 class="countdown-timer" id="countdown-timer">
                         100 days 23 hrs 30 min 10 sec
-                    </h1>
-                    -->
-                    <h1 class="countdown-title red-prepostline">
-                        PYCON THAILAND STARTS SOON
                     </h1>
                     <a href="#" class="btn-primary btn-lg get-ticket-btn">
                         ขอรับตั๋ว
@@ -197,3 +192,25 @@
         </div>
     </footer>
 </section>
+
+<script>
+        // for countdown timer
+        var targetDate = new Date("June 15, 2019 8:00:00").getTime();
+
+        var counter = setInterval(() => {
+            var now = new Date().getTime();
+            var diff = targetDate - now;
+
+            var d = Math.floor(diff / (1000 * 60 * 60 * 24));
+            var h = Math.floor((diff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+            var m = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60));
+            var s = Math.floor((diff % (1000 * 60)) / 1000);
+
+            document.getElementById("countdown-timer").innerHTML = `${d} วัน ${h} ชั่วโมง ${m} นาที ${s} วินาที`;
+
+            if (diff < 0) {
+                clearInterval(counter);
+                document.getElementById("countdown-timer").innerHTML = "ตอนนี้!";
+            }
+        }, 1000);
+    </script>
