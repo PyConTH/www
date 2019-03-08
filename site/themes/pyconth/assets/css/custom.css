@@ -1,49 +1,85 @@
-/* home page */
-img.home-logo {
-    max-width: 85%;
-}
-.admonition-title {
-    margin-top: 1rem;
-    margin-bottom: 0.75rem;
+/* shared */
+[class*=title] {
+    font-size: 48px;
+    color: #000;
+    position: relative;
+    display: inline-block;
+    /* margin-bottom: 40px; */
+    margin-top: 40px;
 }
 
-a.btn > i.fa {
-    font-size: 20px;
-    vertical-align: middle;
-    margin: 0.5rem 0;
-}
-.home-logo, .section.first.fp-section .admonition{
-    margin-left: auto;
-    margin-right: auto;
-    position: relative;
-    top: 50%;
-    transform: translateY(-50%);
-}
-.admonition .admonition-date {
-    color: #fff;
-    text-align: center;
-    font-size: 28px;
-    font-weight: bold;
-}
-.admonition .admonition-title a {
-    color: #fff;
-    margin-bottom: 15px;
-    font-size: 36px;
-    font-weight: bold;
-}
-.admonition .list-inline-item a {
-    background: #fff;
-    border: #fff;
-}
-.admonition .list-inline-item a i {
-    color: #3b91d0;
-    font-size: 20px;
-}
+/* home page */
 .first {
     background-image: url("/first_section_bg.png");
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100% 100%;
 }
+.first .main-title {
+    font-size: 104px;
+    position: relative;
+    width: fit-content;
+}
+.first .when, .first .place, .first .edition {
+    font-size: 22px;
+    position: absolute;
+}
+.first .when {
+    left: 10px;
+    top: 5px;
+}
+.first .place {
+    right: 150px;
+    bottom: -10px;
+}
+.first .edition {
+    right: 160px;
+    top: 5px;
+}
+.first .invitation {
+    font-size: 16px;
+    width: 35%;
+    text-align: right;
+    margin-top: 30px;
+}
+.first .img-responsive {
+    width: 25%;
+    margin-left: 80px;
+}
+
+/* news section */
+.news-section {
+    background-image: url("/upside_down_city.png");
+    background-repeat: repeat-x;
+    background-size: 100%;
+    background-position: top;
+    padding-top: 40px;
+}
+
+.news, .countdown {
+    text-align: center;
+}
+.news .news-title {
+    margin-bottom: 40px;
+}
+.news .schedule p {
+    text-align: left;
+}
+.schedule .event-description {
+    font-size: 18px;
+    margin-left: 20px;
+}
+
+.countdown-title {
+    font-size: 20px;
+}
+.countdown-timer {
+    margin-top: 25px;
+    margin-bottom: 40px;
+}
+.get-ticket-btn {
+    background-color: #A9173F;
+}
+
 /*Keynote section*/
 .second {
     background-image: url("/bg-01.png");
@@ -54,14 +90,14 @@ a.btn > i.fa {
     padding: 0 50px;
     position: relative;
 }
-.keynote .keynote-title {
+/* .countdown-title, .news-title, .keynote-title {
     font-size: 48px;
-    color: #063B61;
+    color: #000;
     position: relative;
     display: inline-block;
     /* margin-bottom: 40px; */
     margin-top: 40px;
-}
+} */
 .keynote .image-bg {
     position: absolute;
     bottom: 0;
@@ -80,7 +116,7 @@ a.btn > i.fa {
     width: 200px;
     height: 3px;
 } */
-.keynote .keynote-title:after {
+.red-underline:after {
     content: "";
     position: absolute;
     bottom: 8px;
