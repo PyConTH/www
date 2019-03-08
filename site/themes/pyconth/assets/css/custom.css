@@ -1,8 +1,42 @@
 /* home page */
-img.home-logo {
-    max-width: 85%;
+.first {
+    background-image: url("/first_section_bg.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
 }
-.admonition-title {
+.first .main-title {
+    font-size: 104px;
+    position: relative;
+    width: fit-content;
+}
+.first .when, .first .place, .first .edition {
+    font-size: 22px;
+    position: absolute;
+}
+.first .when {
+    left: 10px;
+    top: 5px;
+}
+.first .place {
+    right: 150px;
+    bottom: -10px;
+}
+.first .edition {
+    right: 160px;
+    top: 5px;
+}
+.first .invitation {
+    font-size: 16px;
+    width: 35%;
+    text-align: right;
+    margin-top: 30px;
+}
+.first .img-responsive {
+    width: 25%;
+    margin-left: 80px;
+}
+
+/* .admonition-title {
     margin-top: 1rem;
     margin-bottom: 0.75rem;
 }
@@ -38,12 +72,8 @@ a.btn > i.fa {
 .admonition .list-inline-item a i {
     color: #3b91d0;
     font-size: 20px;
-}
-.first {
-    background-image: url("/first_section_bg.png");
-    background-repeat: no-repeat;
-    background-size: cover;
-}
+} */
+
 /* news section */
 .news-section {
     background-image: url("/upside_down_city.png");
