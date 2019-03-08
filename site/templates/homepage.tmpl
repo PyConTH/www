@@ -1,0 +1,21 @@
+<%inherit file="base.tmpl"/>
+
+<%block name="front_page">
+  <div id="fullpage">
+    ${post.text()}
+  </div>
+
+  <script>
+    // for fullpage.js
+    new fullpage('#fullpage', {
+      css3: true,
+      scrollingSpeed: 1000,
+      navigation: true,
+      slidesNavigation: true,
+      responsiveHeight: 330,
+      fitToSection: true,
+      paddingBottom: '4rem',
+      scrollOverflow: true,
+    });
+  </script>
+</%block>
