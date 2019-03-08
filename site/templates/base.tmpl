@@ -7,13 +7,18 @@ ${base.html_headstart()}
 ### Leave this block alone.
 </%block>
 ${template_hooks['extra_head']()}
+
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.0.4/fullpage.min.css" />
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.0.4/vendors/scrolloverflow.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.0.4/fullpage.min.js"></script>
+
 </head>
 <body class="${' '.join(pagekind)} path-${'-'.join([p for p in permalink.replace('/'+lang+'/', '', 1).split('/') if p] or ['frontpage'])}">
 <a href="#content" class="sr-only sr-only-focusable">${messages("Skip to main content")}</a>
 
 <!-- Menubar -->
 
-<nav class="navbar navbar-expand-md static-top mb-4
+<nav class="navbar navbar-expand-md static-top
 % if theme_config.get('navbar_light'):
 navbar-light bg-light
 % else:
@@ -61,11 +66,12 @@ navbar-dark bg-dark
 
 <!-- End of Menubar -->
 
-<div class="container" id="content" role="main">
+<div id="content" role="main">
     <div class="body-content">
         <!--Body content-->
         ${template_hooks['page_header']()}
-        <%block name="content"></%block>
+        ## <%block name="content"></%block>
+        <%block name="content_post"></%block>
         <!--End of body content-->
 
         <footer id="footer">
