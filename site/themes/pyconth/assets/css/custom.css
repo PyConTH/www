@@ -332,11 +332,12 @@ body {
 /*section sponsor*/
 
 .sponsor-section {
-  background-image: linear-gradient(
-    45deg,
-    rgba(50, 50, 50, 1) 0%,
-    rgba(0, 0, 0, 1) 100%
-  );
+  /* background-image: radial-gradient( */
+  /*   45deg, */
+  /*   rgba(50, 50, 50, 1) 0%, */
+  /*   rgba(0, 0, 0, 1) 100% */
+  /* ); */
+  background: radial-gradient(rgba(50, 50, 50, 1), rgba(0, 0, 0, 1));
   padding-top: 25px;
 }
 
