@@ -676,3 +676,7 @@ body[class*="schedule"] table.table.day2 tr:nth-of-type(15) {
 .w-full {
   width: 100%;
 }
+
+.section {
+  overflow: hidden;
+}
