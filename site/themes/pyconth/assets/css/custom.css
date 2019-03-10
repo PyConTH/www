@@ -1,141 +1,149 @@
 /* shared */
 
-[class*=title] {
-    font-size: 48px;
-    color: #000;
-    position: relative;
-    display: inline-block;
-    /* margin-bottom: 40px; */
-    margin-top: 40px;
+[class*="title"] {
+  font-size: 48px;
+  color: #000;
+  position: relative;
+  display: inline-block;
+  /* margin-bottom: 40px; */
+  margin-top: 40px;
 }
 
 .red-followline:after {
-    content: "";
-    position: absolute;
-    bottom: 8px;
-    right: -32px;
-    background-color: #A9173F;
-    width: 45px;
-    height: 4px;
+  content: "";
+  position: absolute;
+  bottom: 8px;
+  right: -32px;
+  background-color: #a9173f;
+  width: 45px;
+  height: 4px;
 }
 
 .red-prepostline:before {
-    content: "";
-    position: absolute;
-    bottom: 0px;
-    width: 50px;
-    left: -65px;
-    background-color: #A9173F;
-    height: 4px;
+  content: "";
+  position: absolute;
+  bottom: 0px;
+  width: 50px;
+  left: -65px;
+  background-color: #a9173f;
+  height: 4px;
 }
 
 .red-prepostline:after {
-    content: "";
-    position: absolute;
-    bottom: 0px;
-    width: 50px;
-    right: -65px;
-    background-color: #A9173F;
-    height: 4px;
+  content: "";
+  position: absolute;
+  bottom: 0px;
+  width: 50px;
+  right: -65px;
+  background-color: #a9173f;
+  height: 4px;
 }
 
 /* home page */
 
 .first {
-    background-image: url("/first_section_bg.png");
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
+  background-image: url("/first_section_bg.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
 }
 
 .first .main-title {
-    font-size: 104px;
-    position: relative;
-    width: fit-content;
+  font-size: 104px;
+  position: relative;
+  width: fit-content;
 }
 
-.first .when, .first .place, .first .edition {
-    font-size: 22px;
-    position: absolute;
+.first .when,
+.first .place,
+.first .edition {
+  font-size: 22px;
+  position: absolute;
 }
 
 .first .when {
-    left: 10px;
-    top: 5px;
+  left: 10px;
+  top: 5px;
 }
 
 .first .place {
-    right: 150px;
-    bottom: -10px;
+  right: 150px;
+  bottom: -10px;
 }
 
 .first .edition {
-    right: 160px;
-    top: 5px;
+  right: 160px;
+  top: 5px;
 }
 
 .first .invitation {
-    font-size: 16px;
-    width: 35%;
-    text-align: right;
-    margin-top: 30px;
+  font-size: 16px;
+  width: 35%;
+  text-align: right;
+  margin-top: 30px;
 }
 
 .first .img-responsive {
-    width: 25%;
-    margin-left: 80px;
+  width: 25%;
+  margin-left: 80px;
+}
+
+.palm-trees {
+  position: relative;
+  bottom: 0;
 }
 
 /* news section */
 
 .news-section {
-    background-image: url("/upside_down_city.png");
-    background-repeat: repeat-x;
-    background-size: 100%;
-    background-position: top;
-    padding-top: 40px;
+  background-image: url("/upside_down_city.png");
+  background-repeat: repeat-x;
+  background-size: 100%;
+  background-position: top;
+  padding-top: 40px;
 }
 
-.news, .countdown {
-    text-align: center;
+.news,
+.countdown {
+  text-align: center;
 }
 
 .news .news-title {
-    margin-bottom: 40px;
+  margin-bottom: 40px;
 }
 
 .news .schedule p {
-    text-align: left;
+  text-align: left;
 }
 
 .schedule .event-description {
-    font-size: 18px;
-    margin-left: 20px;
+  font-size: 18px;
+  margin-left: 20px;
 }
 
 .countdown-title {
-    font-size: 20px;
+  font-size: 20px;
 }
 
 .countdown-timer {
-    margin-top: 25px;
-    margin-bottom: 40px;
+  margin-top: 25px;
+  margin-bottom: 40px;
 }
 
 .get-ticket-btn {
-    background-color: #A9173F;
+  background-color: #a9173f;
 }
 
 /*Keynote section*/
 
 .second {
-    background-image: url("/bg-01.png");
-    background-repeat: no-repeat;
-    background-position: right;
+  background-image: url("/bg-01.png");
+  background-repeat: no-repeat;
+  background-position: right;
 }
 
 .keynote {
-    padding: 0 50px;
-    position: relative;
+  padding: 0 50px;
+  position: relative;
 }
 
 /* .countdown-title, .news-title, .keynote-title {
@@ -147,14 +155,14 @@
 } */
 
 .keynote .image-bg {
-    position: absolute;
-    bottom: 0;
-    right: 0;
+  position: absolute;
+  bottom: 0;
+  right: 0;
 }
 
 .keynote .image-bg img {
-    width: 100%;
-    height: auto;
+  width: 100%;
+  height: auto;
 }
 
 /* .keynote .keynote-title:before {
@@ -168,40 +176,40 @@
 } */
 
 .keynote .speaker {
-    padding-top: 50px;
+  padding-top: 50px;
 }
 
 .keynote [class*="img-responsive"] {
-    object-fit: cover;
-    border-top: 4px solid #A9173F;
-    border-radius: 0;
-    max-width: 60%;
+  object-fit: cover;
+  border-top: 4px solid #a9173f;
+  border-radius: 0;
+  max-width: 60%;
 }
 
 .keynote .speaker .name {
-    font-size: 18px;
-    margin: 0;
-    margin-top: 0.75rem;
+  font-size: 18px;
+  margin: 0;
+  margin-top: 0.75rem;
 }
 
 .keynote .speaker .org {
-    font-size: 0.85rem;
-    margin: 0;
+  font-size: 0.85rem;
+  margin: 0;
 }
 
 .keynote .speaker .website a {
-    font-size: 12px;
-    color: black;
-    margin-top: 0.5rem;
+  font-size: 12px;
+  color: black;
+  margin-top: 0.5rem;
 }
 
 .keynote .speaker .content {
-    font-size: 18px;
-    color: #7D8890;
+  font-size: 18px;
+  color: #7d8890;
 }
 
 .keynote [class*="section"] p {
-    margin-bottom: 10px;
+  margin-bottom: 10px;
 }
 
 /*Code War Section*/
@@ -282,193 +290,201 @@
 /*section sponsor*/
 
 .sponsor-section {
-    background-image: linear-gradient(45deg, rgba(50, 50, 50, 1) 0%, rgba(0, 0, 0, 1) 100%);
-    ;
-    padding-top: 25px;
+  background-image: linear-gradient(
+    45deg,
+    rgba(50, 50, 50, 1) 0%,
+    rgba(0, 0, 0, 1) 100%
+  );
+  padding-top: 25px;
 }
 
-.sponsor-section [class*=title] {
-    color: white;
+.sponsor-section [class*="title"] {
+  color: white;
 }
 
 .sponsor-section .welcome-submission-title {
-    font-size: 32px;
+  font-size: 32px;
 }
 
-.welcome-submission, .sponsor {
-    text-align: center;
+.welcome-submission,
+.sponsor {
+  text-align: center;
 }
 
 .welcome-submission-text {
-    margin: 45px;
-    padding: 0 20px;
-    color: white;
-    font-size: 18px;
-    text-align: left;
+  margin: 45px;
+  padding: 0 20px;
+  color: white;
+  font-size: 18px;
+  text-align: left;
 }
 
 .welcome-submission {
-    border-bottom: 2px solid white;
-    padding-bottom: 60px;
+  border-bottom: 2px solid white;
+  padding-bottom: 60px;
 }
 
 .sponsor-section .sponsor-title {
-    padding-top: 14px;
-    padding-bottom: 36px;
-    font-size: 20px;
+  padding-top: 14px;
+  padding-bottom: 36px;
+  font-size: 20px;
 }
 .sponsor img {
-    margin-bottom: 30px;
+  margin-bottom: 30px;
 }
 
 /*Footer*/
 
 footer {
-    background: #053A60;
-    padding: 20px 0;
-    color: #fff;
+  background: #053a60;
+  padding: 20px 0;
+  color: #fff;
 }
 
 footer .about {
-    text-align: right;
+  text-align: right;
 }
 
 footer .about ul {
-    list-style: none;
-    padding: 0;
-    text-align: right;
-    overflow: hidden;
+  list-style: none;
+  padding: 0;
+  text-align: right;
+  overflow: hidden;
 }
 
 footer .about ul li {
-    display: inline-block;
-    text-align: right;
+  display: inline-block;
+  text-align: right;
 }
 
 footer .about ul li a {
-    color: #fff;
+  color: #fff;
 }
 
 /* fullpage */
 
 .navbar {
-    z-index: 999;
+  z-index: 999;
 }
 
 .section.third {
-    background-color: grey;
+  background-color: grey;
 }
 
 /* navbar */
 
 .navbar-inverse {
-    background-color: #b5a0ac;
-    border-color: #511c39;
+  background-color: #b5a0ac;
+  border-color: #511c39;
 }
 
-.main_index.posts article img, .pyladies-inviteth article img {
-    height: auto;
-    width: auto;
-    max-width: 400px;
+.main_index.posts article img,
+.pyladies-inviteth article img {
+  height: auto;
+  width: auto;
+  max-width: 400px;
 }
 
 /* img */
 
 .footer-logo {
-    max-width: 75%;
+  max-width: 75%;
 }
 
 /* footer */
 
 footer#footer {
-    margin-bottom: 2rem;
+  margin-bottom: 2rem;
 }
 
-body.path-2018 header, body.path-frontpage header {
-    display: none;
+body.path-2018 header,
+body.path-frontpage header {
+  display: none;
 }
 
 /* body[class*="schedule"] table.table td { height: 1px; }
 body[class*="schedule"] table.table td span.pyladies { display: block; height: 100%; background: green; }
 */
 
-body[class*="schedule"] table, body[class*="schedule"] th, body[class*="schedule"] td {
-    border-left: none;
-    border-right: none;
+body[class*="schedule"] table,
+body[class*="schedule"] th,
+body[class*="schedule"] td {
+  border-left: none;
+  border-right: none;
 }
 
 body[class*="schedule"] table a {
-    font-weight: bold;
-    color: black;
+  font-weight: bold;
+  color: black;
 }
 
 span.pyladies {
-    color: #fff2cc;
+  color: #fff2cc;
 }
 
 span.blank {
-    display: none;
+  display: none;
 }
 
 span.break {
-    color: #689f54;
-    font-variant: small-caps;
-    font-weight: bold;
+  color: #689f54;
+  font-variant: small-caps;
+  font-weight: bold;
 }
 
 span.break-title {
-    color: #689f54;
-    font-size: smaller;
-    font-style: italic;
+  color: #689f54;
+  font-size: smaller;
+  font-style: italic;
 }
 
 span.registration {
-    color: #333;
+  color: #333;
 }
 
 span.other {
-    color: #333;
+  color: #333;
 }
 
 span.beginner {
-    color: #c9daf8;
+  color: #c9daf8;
 }
 
 span.intermediate {
-    color: #e6b8af;
+  color: #e6b8af;
 }
 
 span.advanced {
-    color: #d9d2e9;
+  color: #d9d2e9;
 }
 
 span.thai {
-    color: #00f;
-    font-variant: small-caps;
+  color: #00f;
+  font-variant: small-caps;
 }
 
 span.small-caps {
-    font-variant: small-caps;
+  font-variant: small-caps;
 }
 
 span.fa {
-    color: #7272e4;
+  color: #7272e4;
 }
 
 table.table .fa:before {
-    margin-right: 5px;
+  margin-right: 5px;
 }
 
 /* 1   * - 07:30 - Registration / :other:`PyLadies` */
 
 body[class*="schedule"] table.table.day1 tbody tr:nth-of-type(1) {
-    background-color: #ffe6e6;
+  background-color: #ffe6e6;
 }
 
 /* 2   * - 08:00 - Registration */
 
 body[class*="schedule"] table.table.day1 tr:nth-of-type(2) {
-    background-color: rgba(181, 160, 172, .3);
+  background-color: rgba(181, 160, 172, 0.3);
 }
 
 /* 3   * - 09:00 - :other:`Welcome and Introduction: Dylan Jay` */
@@ -478,7 +494,7 @@ body[class*="schedule"] table.table.day1 tr:nth-of-type(2) {
 /* 5   * - 09:55 - :break:`The Spanish Inquisition / Break` */
 
 body[class*="schedule"] table.table.day1 tr:nth-of-type(5) {
-    background-color: rgba(181, 160, 172, .2);
+  background-color: rgba(181, 160, 172, 0.2);
 }
 
 /* 6   * - 10:25 - `Using Python to build a smart contract in NEO blockchain`_ :beginner:`Beginner` */
@@ -486,7 +502,7 @@ body[class*="schedule"] table.table.day1 tr:nth-of-type(5) {
 /* 7   * - 11:10 - :break:`Dog Kennel / Break` */
 
 body[class*="schedule"] table.table.day1 tr:nth-of-type(7) {
-    background-color: rgba(181, 160, 172, .2);
+  background-color: rgba(181, 160, 172, 0.2);
 }
 
 /* 8   * - 11:20 - `Python for Life Sciences`_ :intermediate:`Intermediate` */
@@ -496,7 +512,7 @@ body[class*="schedule"] table.table.day1 tr:nth-of-type(7) {
 /* 10   * - 12:40 - :break:`Spam, Spam, Egg, Bacon and Spam / Lunch Break` */
 
 body[class*="schedule"] table.table.day1 tr:nth-of-type(10) {
-    background-color: rgba(181, 160, 172, .2);
+  background-color: rgba(181, 160, 172, 0.2);
 }
 
 /* 11  * - 13:40 - `Rage Against The Learning Machine (A New Hope)`_ :intermediate:`Intermediate` */
@@ -506,7 +522,7 @@ body[class*="schedule"] table.table.day1 tr:nth-of-type(10) {
 /* 13  * - 15:00 - :break:`Cycling Tour / Break` */
 
 body[class*="schedule"] table.table.day1 tr:nth-of-type(13) {
-    background-color: rgba(181, 160, 172, .2);
+  background-color: rgba(181, 160, 172, 0.2);
 }
 
 /* 14  * - 15:10 - `Artisanal Async Adventures`_ */
@@ -518,7 +534,7 @@ body[class*="schedule"] table.table.day1 tr:nth-of-type(13) {
 /* 17  * - 16:50 - :break:`Ministry of Silly Walks / Break` */
 
 body[class*="schedule"] table.table.day1 tr:nth-of-type(17) {
-    background-color: rgba(181, 160, 172, .2);
+  background-color: rgba(181, 160, 172, 0.2);
 }
 
 /* 18  * - 17:05 - Lightning Talks */
@@ -528,7 +544,7 @@ body[class*="schedule"] table.table.day1 tr:nth-of-type(17) {
 /* 1    * - 08:30 - :other:`Registration Opens /  Welcome Coffee` */
 
 body[class*="schedule"] table.table.day2 tbody tr:nth-of-type(1) {
-    background-color: rgba(181, 160, 172, .3);
+  background-color: rgba(181, 160, 172, 0.3);
 }
 
 /* 2    * - 09:10 - `Attack of Pythons: Gotchas and Landmines in Python`_ */
@@ -536,7 +552,7 @@ body[class*="schedule"] table.table.day2 tbody tr:nth-of-type(1) {
 /* 3    * - 09:40 - :break:`Fish Slapping Dance / Break` */
 
 body[class*="schedule"] table.table.day2 tr:nth-of-type(4) {
-    background-color: rgba(181, 160, 172, .2);
+  background-color: rgba(181, 160, 172, 0.2);
 }
 
 /* 4    * - 09:50 - `Introduction to serverless Python with AWS Lambda`_ :beginner:`Beginner` */
@@ -546,85 +562,85 @@ body[class*="schedule"] table.table.day2 tr:nth-of-type(4) {
 /* 6    * - 11:10 - :break:`Exploding Penguins on TV Set / Break` */
 
 body[class*="schedule"] table.table.day2 tr:nth-of-type(6) {
-    background-color: rgba(181, 160, 172, .2);
+  background-color: rgba(181, 160, 172, 0.2);
 }
 
 /* 7    * - 11:20 - `Playing with Social Network, Geo-Spatial, Financial Flow, and Banking System Data: Graph-Theoretic Computation in Python`_ */
 
 body[class*="schedule"] table.table.day2 tr:nth-of-type(7) td:nth-of-type(3) {
-    background-color: rgba(181, 160, 272, .2);
+  background-color: rgba(181, 160, 272, 0.2);
 }
 
 /* 8    * - 12:05 - :break:`Lumberjack Song / Break` */
 
 body[class*="schedule"] table.table.day2 tr:nth-of-type(8) th {
-    background-color: rgba(181, 160, 172, .2);
+  background-color: rgba(181, 160, 172, 0.2);
 }
 
 body[class*="schedule"] table.table.day2 tr:nth-of-type(8) td:nth-of-type(1) {
-    background-color: rgba(181, 160, 172, .2);
+  background-color: rgba(181, 160, 172, 0.2);
 }
 
 body[class*="schedule"] table.table.day2 tr:nth-of-type(8) td:nth-of-type(2) {
-    background-color: rgba(181, 160, 172, .2);
+  background-color: rgba(181, 160, 172, 0.2);
 }
 
 body[class*="schedule"] table.table.day2 tr:nth-of-type(8) td:nth-of-type(3) {
-    background-color: rgba(181, 160, 272, .2);
+  background-color: rgba(181, 160, 272, 0.2);
 }
 
 /* 9    * - 12:15 - `Aaaarrgghh, Spider! Web scraping with Scrapy`_ :intermediate:`Intermediate` */
 
 body[class*="schedule"] table.table.day2 tr:nth-of-type(9) td:nth-of-type(3) {
-    background-color: rgba(181, 160, 272, .2);
+  background-color: rgba(181, 160, 272, 0.2);
 }
 
 /* 10   * - 12:45 - :break:`Salmon Mousse /  Lunch Break` */
 
 body[class*="schedule"] table.table.day2 tr:nth-of-type(10) {
-    background-color: rgba(181, 160, 172, .2);
+  background-color: rgba(181, 160, 172, 0.2);
 }
 
 /* 11   * - 13:45 - `Enabling Blockchain Energy Trading among Smart Buildings through the Use of Multi-Agent Systems and Internet of Things Devices`_ */
 
 body[class*="schedule"] table.table.day2 tr:nth-of-type(11) td:nth-of-type(3) {
-    background-color: rgba(181, 160, 272, .2);
+  background-color: rgba(181, 160, 272, 0.2);
 }
 
 /* 12   * - 14:30 - :break:`Machine that goes "Ping!" / Break` */
 
 body[class*="schedule"] table.table.day2 tr:nth-of-type(12) th {
-    background-color: rgba(181, 160, 172, .2);
+  background-color: rgba(181, 160, 172, 0.2);
 }
 
 body[class*="schedule"] table.table.day2 tr:nth-of-type(12) td:nth-of-type(1) {
-    background-color: rgba(181, 160, 172, .2);
+  background-color: rgba(181, 160, 172, 0.2);
 }
 
 body[class*="schedule"] table.table.day2 tr:nth-of-type(12) td:nth-of-type(2) {
-    background-color: rgba(181, 160, 172, .2);
+  background-color: rgba(181, 160, 172, 0.2);
 }
 
 body[class*="schedule"] table.table.day2 tr:nth-of-type(12) td:nth-of-type(3) {
-    background-color: rgba(181, 160, 272, .2);
+  background-color: rgba(181, 160, 272, 0.2);
 }
 
 /* 13   * - 14:40 - `Python + XPath = Extra Parsing Power`_ :intermediate:`Intermediate` */
 
 body[class*="schedule"] table.table.day2 tr:nth-of-type(13) td:nth-of-type(3) {
-    background-color: rgba(181, 160, 272, .2);
+  background-color: rgba(181, 160, 272, 0.2);
 }
 
 /* 14    * - 15:15 - `Powerful geographic web framework GeoDjango`_ :beginner:`Beginner` */
 
 body[class*="schedule"] table.table.day2 tr:nth-of-type(14) td:nth-of-type(3) {
-    background-color: rgba(181, 160, 272, .2);
+  background-color: rgba(181, 160, 272, 0.2);
 }
 
 /* 15    * - 15:45 - :break:`Ni! / Break` */
 
 body[class*="schedule"] table.table.day2 tr:nth-of-type(15) {
-    background-color: rgba(181, 160, 172, .2);
+  background-color: rgba(181, 160, 172, 0.2);
 }
 
 /* 16    * - 15:55 - Lightning Talks */
