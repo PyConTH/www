@@ -146,6 +146,33 @@ body {
 
 .get-ticket-btn {
   background-color: #a9173f;
+  padding: 1rem;
+  padding-right: 3rem;
+  text-transform: uppercase;
+  position: relative;
+}
+
+.get-ticket-btn:after {
+  content: ">";
+  background-color: #d72861;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 1rem;
+  border-top-right-radius: 0.3rem;
+  border-bottom-right-radius: 0.3rem;
+}
+
+.get-ticket-btn > a {
+  font-weight: bolder;
+  text-decoration: none;
+  color: white;
+}
+
+.get-ticket-btn:hover {
+  text-decoration: none;
+  background-color: #d72861;
 }
 
 /*Keynote section*/
