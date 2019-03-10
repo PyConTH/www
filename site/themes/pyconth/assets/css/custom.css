@@ -1,4 +1,8 @@
 /* shared */
+body {
+  font-family: "Istok Web", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif;
+}
 
 [class*="title"] {
   font-size: 48px;
