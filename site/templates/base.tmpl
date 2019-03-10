@@ -8,10 +8,6 @@ ${base.html_headstart()}
 </%block>
 ${template_hooks['extra_head']()}
 
-<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.0.4/fullpage.min.css" />
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.0.4/vendors/scrolloverflow.js"></script>
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.0.4/fullpage.min.js"></script>
-
 </head>
 <body class="${' '.join(pagekind)} path-${'-'.join([p for p in permalink.replace('/'+lang+'/', '', 1).split('/') if p] or ['frontpage'])}">
 <a href="#content" class="sr-only sr-only-focusable">${messages("Skip to main content")}</a>
