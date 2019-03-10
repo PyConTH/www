@@ -105,15 +105,11 @@ body {
 
 /* news section */
 
-.news-section {
-  background-image: url("/upside_down_city.png");
-  background-repeat: repeat-x;
-  background-size: 100%;
-  background-position: top;
-  padding-top: 40px;
+.upside-down-city {
+  width: 100%;
+  max-height: 16rem;
 }
 
-.news,
 .countdown {
   text-align: center;
 }
@@ -124,6 +120,14 @@ body {
 
 .news .schedule p {
   text-align: left;
+}
+
+.schedule ul {
+  list-style-type: none;
+}
+
+.schedule ul li a {
+  color: var(--primary);
 }
 
 .schedule .event-description {

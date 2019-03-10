@@ -47,28 +47,29 @@
 
 <!-- news -->
 <div class="section news-section">
-  <div class="container">
-    <div class="row">
-      <div class="news col-sm-12">
-        <div class="col-sm-12">
-          <h2 class="news-title red-followline">News</h2>
-        </div>
-        <div class="col-sm-6 offset-sm-3 schedule">
-          {{% post-list stop=3 %}} {{% /post-list %}}
-        </div>
+  <div class="row">
+    <img
+      alt="upside down city"
+      class="upside-down-city"
+      src="/upside_down_city.png"
+    />
+    <div class="news mx-auto -mt-6 max-w-md text-center">
+      <h2 class="news-title red-followline italic mt-0">News</h2>
+      <div class="schedule list-reset text-left text-lg">
+        {{% post-list stop=3 %}} {{% /post-list %}}
       </div>
-      <div class="countdown col-sm-12">
-        <div class="col-sm-12">
-          <h2 class="countdown-title red-prepostline">
-            PYCON THAILAND STARTS IN
-          </h2>
-          <h2 class="countdown-timer" id="countdown-timer">
-            100 days 23 hrs 30 min 10 sec
-          </h2>
-          <span class="btn-primary btn-lg get-ticket-btn">
-            {{% doc %}}Buy tickets{{% /doc %}}
-          </span>
-        </div>
+    </div>
+    <div class="countdown col-sm-12">
+      <div class="col-sm-12">
+        <h2 class="countdown-title red-prepostline font-bold">
+          PYCON THAILAND STARTS IN
+        </h2>
+        <h2 class="countdown-timer" id="countdown-timer">
+          100 days 23 hrs 30 min 10 sec
+        </h2>
+        <span class="btn-primary btn-lg get-ticket-btn">
+          {{% doc %}}Buy tickets{{% /doc %}}
+        </span>
       </div>
     </div>
   </div>
