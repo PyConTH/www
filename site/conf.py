@@ -998,9 +998,7 @@ CONTENT_FOOTER = """
 <div class="container">
   <div class="text-center">
     <h1 class="text-white">{sponsors_heading}</h1>
-    <p>
-      <a class="btn-primary btn-lg get-ticket-btn text-sm block my-4 font-bold" href="{sponsor_link}">{sponsor_link_text}</a>
-    </p>
+    <a class="btn-primary btn-lg get-ticket-btn text-sm block my-4 font-bold max-w-sm mx-auto" href="{sponsor_link}">{sponsor_link_text}</a>
   </div>
   <div class="row mx-4 my-4">
     <div class="row">
