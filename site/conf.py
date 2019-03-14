@@ -999,7 +999,8 @@ CONTENT_FOOTER = """
   <div class="text-center">
     <h1>{sponsors_heading}</h1>
     <hr/>
-    <p>TBA</p>
+    <p><a class="btn btn-primary btn-lg active" href="{sponsor_link}">{sponsor_link_text}</a>
+    </p>
   </div>
   <div class="row">
     <div class="col-md text-center">
@@ -1042,6 +1043,8 @@ CONTENT_FOOTER_FORMATS = {
         (),
         {
             "sponsors_heading": "ผู้สนับสนุน",
+            "sponsor_link_text": "Sponsor PyCon Thailand Now",
+            "sponsor_link": "/sponsorship",
             "about": """
                 <h3>About</h3>
                 PyCon Thailand คือ งานสัมนาเกี่ยวกับภาษาที่ใช้เขียนโปรแกรม (Python programming language)เป็นสังคมที่ขับเคลื่อนโดยสมาชิกของกลุ่ม
@@ -1067,6 +1070,8 @@ CONTENT_FOOTER_FORMATS = {
         (),
         {
             "sponsors_heading": "Sponsors",
+            "sponsor_link_text": "Sponsor PyCon Thailand Now",
+            "sponsor_link": "/en/sponsorship",
             "about": """
                 <h3>About</h3>
                 PyCon Thailand is a conference about the programming language Python.
