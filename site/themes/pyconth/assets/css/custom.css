@@ -819,3 +819,7 @@ header {
 .post-list-item a {
   text-align: right;
 }
+
+.header-column {
+  min-width: 40rem;
+}
