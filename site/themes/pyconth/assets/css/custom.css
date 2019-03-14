@@ -92,6 +92,7 @@ body {
   font-style: italic;
   text-align: right;
   z-index: 10;
+  padding-right: 0.5rem;
 }
 
 .first .img-responsive {
@@ -121,8 +122,16 @@ body {
 }
 
 .upside-down-city {
-  width: 100%;
+  width: 1000px;
   max-height: 16rem;
+  max-width: 1000px;
+}
+
+@media (min-width: 1000px) {
+  .upside-down-city {
+    width: 100%;
+    max-width: 100%;
+  }
 }
 
 .countdown {
