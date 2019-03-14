@@ -1,11 +1,13 @@
 /* shared */
 :root {
-  --font-primary: "open sans", cursive;
+  --font-primary: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif;
+  --font-secondary: "Montserrat", Garamond, "Hoefler Text", Palatino,
+    "Palatino Linotype", serif;
 }
 
 body {
-  font-family: "Istok Web", -apple-system, BlinkMacSystemFont, "Segoe UI",
-    Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-family: var(--font-primary);
 }
 
 [class*="title"] {
