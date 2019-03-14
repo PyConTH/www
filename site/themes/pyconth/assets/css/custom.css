@@ -759,3 +759,11 @@ article {
   font-weight: var(--font-extrabold);
   text-transform: uppercase;
 }
+
+.dropdown-menu {
+  border: 1px solid var(--black);
+}
+
+.dropdown-item {
+  color: var(--black);
+}
