@@ -995,36 +995,59 @@ LICENSE = ""
 # (translatable)
 # CONTENT_FOOTER = 'Contents &copy; {date}         <a href="mailto:{email}">{author}</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         {license}'
 CONTENT_FOOTER = """
-<div class="container">
-  <div class="text-center">
-    <h1 class="text-white">{sponsors_heading}</h1>
-    <a class="btn-primary btn-lg get-ticket-btn text-sm inline-block my-4 font-bold max-w-sm mx-auto" href="{sponsor_link}">{sponsor_link_text}</a>
-  </div>
-  <div class="row mx-4 my-4">
-    <div class="row" style="align-items: flex-start;">
-      <div class="about w-full mx-4 text-white">
-        <p>
-          {about}
+
+<div class="w-full bg-footer">
+  <div class="flex p-4 about-wrapper">
+    <div class="w-full block lg:w-2/5">
+      <div class="about-block">
+        <div class="flex items-center">
+          <img class="about-inline-img" src="/logo2019.png" alt="Pycon 2019 Logo" />
+          <div class="about-block-right">
+            <h3 class="about-header mx-4">About</h3>
+            <p class="about-text">
+              {about} Vitae suscipit tellus mauris a diam maecenas sed enim ut sem viverra aliquet eget sit amet tellus
+              cras adipiscing. Hendrerit dolor magna eget est lorem ipsum dolor sit amet, consectetur.
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="about-block">
+        <h3 class="about-header ml-24">Co-Organized By</h3>
+        <img class="block" alt="Thai Programmer's Association Logo" src="/tpalogo.png" />
+      </div>
+    </div>
+
+    <div class="w-full block lg:w-1/5 about-second-block">
+      <div class="about-block">
+        <h3 class="about-header">When</h3>
+        <p class="about-text">
+          {when}
         </p>
       </div>
-      <img
-        alt="PyCon 2019 naga logo"
-        class="mx-auto my-16 footer-logo"
-        src="/logo2019.png"
-      />
+      <div class="about-block">
+        <h3 class="about-header">Where</h3>
+        <p class="about-text">{where}</p>
+      </div>
+      <div class="about-block">
+        <h3 class="about-header">GPS</h3>
+        <p class="about-text"><a href="https://goo.gl/maps/LVsoGsUkKcS2">https://goo.gl/maps/LVsoGsUkKcS2</a></p>
+      </div>
     </div>
-    <div class="flex justify-between w-full ">
-      <div class="when-where text-white">
-        {when_where}
-      </div>
 
-      <div class="mx-4">
-          <h3 class="text-white">{social}</h3>
-          <a class="text-white" href="https://twitter.com/pyconthailand"><i class="fa fa-twitter fa-fw"></i> Twitter</a><br>
-          <a class="text-white" href="https://www.facebook.com/pyconthailand/"><i class="fa fa-facebook fa-fw"></i> Facebook</a><br>
-          <a class="text-white" href="https://www.meetup.com/ThaiPy-Bangkok-Python-Meetup/events/248920463/"><i class="fa fa-meetup fa-fw"></i> Meetup</a><br>
-          <a class="text-white" href="mailto:contact@pyconthailand.org"><i class="fa fa-envelope fa-fw"></i> Contact</a><br>
-      </div>
+    <div class="w-full lg:w-2/5 about-coconut">
+      <h3 class="about-header">Social</h3>
+      <a href="mailto:contact@pyconthailand.org">
+        <img src="/email-coconut-s.png" alt="Email" class="coconut coconut-email"
+      /></a>
+      <a href="https://twitter.com/pyconthailand">
+        <img src="/twitter-coconut-s.png" alt="Twitter" class="coconut coconut-twitter" />
+      </a>
+      <a href="https://www.facebook.com/pyconthailand/">
+        <img src="/facebook-coconut-s.png" alt="Facebook" class="coconut coconut-facebook"
+      /></a>
+      <a href="https://www.meetup.com/ThaiPy-Bangkok-Python-Meetup/events/248920463/">
+        <img src="/meetup-coconut-s.png" alt="Meetup" class="coconut coconut-meetup"
+      /></a>
     </div>
   </div>
 </div>

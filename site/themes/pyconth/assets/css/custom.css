@@ -419,7 +419,7 @@ body {
 
 footer {
   background: #053a60;
-  padding: 20px 0;
+  padding: 0;
   color: #fff;
 }
 
@@ -476,7 +476,8 @@ footer .about ul li a {
 /* footer */
 
 footer#footer {
-  margin-bottom: 2rem;
+  padding: 0;
+  color: initial;
 }
 
 body.path-2018 header,
@@ -1028,4 +1029,98 @@ header {
     transform: rotateX(0deg);
     z-index: 5;
   }
+}
+
+.about-header {
+  font-family: var(--font-secondary);
+  font-weight: var(--font-bold);
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  margin-left: 2.5rem;
+}
+
+.about-text {
+  font-family: var(--font-secondary);
+}
+
+.about-block a {
+  color: var(--black);
+  text-decoration: underline;
+}
+
+.bg-footer {
+  /* background: radial-gradient(yellow, orange); */
+
+background: url('/footer-coconut-tree2.png') right bottom no-repeat , radial-gradient(yellow, orange);
+  position: relative;
+}
+
+
+.about-wrapper  { 
+
+  flex-direction: column;
+}
+@media (min-width: 992px) {
+  .about-wrapper {
+    flex-direction: row;
+  }
+}
+.about-inline-img {
+  width: 70px;
+  height: 70px;
+  margin-right: 1rem;
+}
+
+.about-header {
+  margin-bottom: 0.5rem;
+}
+
+.about-text a{
+  color: var(--black);
+  text-decoration: underline;
+}
+
+
+.about-block {
+  margin-bottom: 2rem;
+}
+
+.about-second-block {
+
+   padding-left: 0;
+}
+@media (min-width: 992px) {
+ .about-second-block {
+   padding-left: 2rem;
+  }
+}
+.about-coconut {
+  min-height: 279px;
+  position: relative;
+}
+
+.coconut {
+  position: absolute;
+  /* width: 70px;
+  height: 70px; */
+}
+
+.coconut-facebook {
+  right: 191px;
+  bottom: 100px;
+}
+
+.coconut-twitter {
+  bottom: 0;
+  right: 127px;
+}
+
+.coconut-meetup {
+  bottom: 71px;
+  right: -16px;
+}
+
+.coconut-email {
+    right: 64px;
+  bottom: 161px;
 }
