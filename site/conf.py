@@ -1001,7 +1001,7 @@ CONTENT_FOOTER = """
     <a class="btn-primary btn-lg get-ticket-btn text-sm block my-4 font-bold max-w-sm mx-auto" href="{sponsor_link}">{sponsor_link_text}</a>
   </div>
   <div class="row mx-4 my-4">
-    <div class="row">
+    <div class="row" style="align-items: flex-start;">
       <div class="about w-full mx-4 text-white">
         <p>
           {about}
