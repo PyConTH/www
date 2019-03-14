@@ -1051,9 +1051,17 @@ CONTENT_FOOTER_FORMATS = {
             "sponsor_link_text": "Sponsor PyCon Thailand Now",
             "sponsor_link": "/sponsorship",
             "about": """
-                <h3>About</h3>
                 PyCon Thailand คือ งานสัมนาเกี่ยวกับภาษาที่ใช้เขียนโปรแกรม (Python programming language)เป็นสังคมที่ขับเคลื่อนโดยสมาชิกของกลุ่ม
                 Python ในกรุงเทพมหานคร
+            """,
+            "when_title": "เวลา",
+            "when": "15 - 16 มิถุนายน 2562",
+            "where_title": "สถานที่่",
+            "where": """
+            <p><a href="https://www.facebook.com/TrueDigitalPark/">True Digital Park</a>
+            </p>
+            <p>101 Sukhumvit Road, Bangkok 10260, Thailand
+            </p>
             """,
             "when_where": """
             <h3>เวลาและสถานที่่</h3>
@@ -1078,9 +1086,17 @@ CONTENT_FOOTER_FORMATS = {
             "sponsor_link_text": "Sponsor PyCon Thailand Now",
             "sponsor_link": "/en/sponsorship",
             "about": """
-                <h3>About</h3>
                 PyCon Thailand is a conference about the programming language Python.
                 It is a community effort driven by the members of the Python Community in Bangkok.
+            """,
+            "when_title": "When",
+            "when": "15 - 16 June 2019",
+            "where_title": "Where",
+            "where": """
+            <p><a href="https://www.facebook.com/TrueDigitalPark/">True Digital Park</a>
+            </p>
+            <p>101 Sukhumvit Road, Bangkok 10260, Thailand
+            </p>
             """,
             "when_where": """
             <h3>When &amp; Where</h3>
