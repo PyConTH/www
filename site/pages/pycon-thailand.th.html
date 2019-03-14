@@ -1,0 +1,187 @@
+<!--
+.. title: PyCon Thailand 2019
+.. slug: index
+.. date: 2019-02-17 12:20:00 UTC+07:00
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. template: homepage.tmpl
+-->
+
+<!-- frontpage -->
+<div class="section first pt-10">
+    <div class="container">
+        <div class="">
+            <div class="mx-auto my-10 max-w-md">
+                <div class="flex justify-between w-full text-lg">
+                    <p class="when">15-16 มิถุนายน 2562</p>
+                    <p class="edition">ครั้งที่ 2</p>
+                </div>
+
+                <div
+                    class="flex flex-wrap justify-between w-full font-bold text-3xl lg:text-5xl"
+                >
+                    <h1>Pycon</h1>
+                    <h1>Thailand</h1>
+                </div>
+                <p class="text-lg text-right">กรุงเทพ</p>
+            </div>
+
+            <div class="mx-auto mt-10 max-w-md relative">
+                <p class="invitation">
+                    Pycon is back! Join us for a two day <br />conference for developers
+                    in the <br />heart of Bangkok.
+                </p>
+                <img alt="PyCon 2019 naga logo" class="sun-logo" src="/logo2019.png" />
+                <img
+                    alt="Palm Trees"
+                    class="palm-trees relative pin-b"
+                    src="/palm-trees.png"
+                />
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- news -->
+<div class="section news-section">
+    <div class="row">
+        <img
+            alt="upside down city"
+            class="upside-down-city"
+            src="/upside_down_city.png"
+        />
+        <div class="news mx-auto -mt-6 max-w-md text-center">
+            <h2 class="news-title red-followline italic mt-0">แจ้งข่าว</h2>
+            <div class="schedule list-reset text-left text-lg">
+                {{% post-list stop=3 %}} {{% /post-list %}}
+            </div>
+        </div>
+        <div class="countdown col-sm-12 my-8">
+            <div class="col-sm-12">
+                <h2 class="countdown-title red-prepostline font-bold">
+                    PYCON THAILAND จะเริ่มใน
+                </h2>
+                <h2 class="countdown-timer" id="countdown-timer">
+                    100 days 23 hrs 30 min 10 sec
+                </h2>
+                <span class="btn-primary btn-lg get-ticket-btn">
+                    {{% doc %}}ขอรับตั๋ว <buy-tickets>{{% /doc %}}
+                </span>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- keynote -->
+<div class="section second min-h-screen">
+  <div class="keynote mx-8">
+    <h2 class="keynote-title red-followline">Keynote Speakers</h2>
+    <div class="col-sm-12">
+      <!--
+        TODO
+        <section class="row speaker">
+            <div class="col-sm-3">
+                <img class="img-responsive" src="tiwa-york.jpeg">
+                <p class="name">
+                    Wes Mckinney
+                </p>
+                <p class="org">
+                    KAIDEE<br/>headcoach
+                </p>
+                <p class="website">
+                    <a href="#">http://wesmckinney.com</a>
+                </p>
+            </div>
+            <article class="col-sm-8">
+                <p class="content">
+                    Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut,
+                </p>
+            </article>
+        </section>
+      -->
+    </div>
+  </div>
+</div>
+
+<!-- sponsor -->
+
+<section class="section sponsor-section fp-auto-height">
+  <div class="container">
+    <div class="row">
+      <section class="welcome-submission w-full">
+        <div class="col-sm-12">
+          <h2 class="welcome-submission-title red-prepostline font-bold">
+            WE WELCOME YOUR SUBMISSION!
+          </h2>
+          <p class="welcome-submission-text text-sm">
+            Join our keynote speakers for the 2nd edition of Pycon Thailand.
+            We're open to submission for papers now!
+          </p>
+        </div>
+        <span href="#" class="btn-primary btn-lg get-ticket-btn">
+          {{% doc %}}Sponsorship{{% /doc %}}
+        </span>
+      </section>
+      <!--
+        TODO
+        <section class="sponsor col-sm-12">
+            <h2 class="sponsor-title">GOLD SPONSOR</h2>
+            <div class="row">
+                <div class="col-sm-4 rounded">
+                    <a href="#"><img class="img-responsive" src="newlogic-logo.png"></a>
+                </div>
+                <div class="col-sm-4 rounded">
+                    <a href="#"><img class="img-responsive" src="newlogic-logo.png"></a>
+                </div>
+                <div class="col-sm-4 rounded">
+                    <a href="#"><img class="img-responsive" src="newlogic-logo.png"></a>
+                </div>
+                <div class="col-sm-4 rounded">
+                    <a href="#"><img class="img-responsive" src="newlogic-logo.png"></a>
+                </div>
+                <div class="col-sm-4 rounded">
+                    <a href="#"><img class="img-responsive" src="newlogic-logo.png"></a>
+                </div>
+            </div>
+            <h2 class="sponsor-title">SILVER SPONSOR</h2>
+            <div class="row">
+                <div class="col-sm-4 rounded">
+                    <a href="#"><img class="img-responsive" src="newlogic-logo.png"></a>
+                </div>
+                <div class="col-sm-4 rounded">
+                    <a href="#"><img class="img-responsive" src="newlogic-logo.png"></a>
+                </div>
+                <div class="col-sm-4 rounded">
+                    <a href="#"><img class="img-responsive" src="newlogic-logo.png"></a>
+                </div>
+            </div>
+            -->
+        </section>
+    </div>
+  </div>
+</section>
+
+<script>
+        // for countdown timer
+        var targetDate = new Date("June 15, 2019 8:00:00").getTime();
+
+        var counter = setInterval(() => {
+            var now = new Date().getTime();
+            var diff = targetDate - now;
+
+            var d = Math.floor(diff / (1000 * 60 * 60 * 24));
+            var h = Math.floor((diff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+            var m = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60));
+            var s = Math.floor((diff % (1000 * 60)) / 1000);
+
+            document.getElementById("countdown-timer").innerHTML = `${d} วัน ${h} ชั่วโมง ${m} นาที ${s} วินาที`;
+
+            if (diff < 0) {
+                clearInterval(counter);
+                document.getElementById("countdown-timer").innerHTML = "ตอนนี้!";
+            }
+        }, 1000);
+    </script>

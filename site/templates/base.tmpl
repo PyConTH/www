@@ -7,13 +7,17 @@ ${base.html_headstart()}
 ### Leave this block alone.
 </%block>
 ${template_hooks['extra_head']()}
+
+<link href="https://fonts.googleapis.com/css?family=Istok+Web:400,400i,700,700i" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/tailwindcss/dist/tailwind.min.css" rel="stylesheet">
+
 </head>
 <body class="${' '.join(pagekind)} path-${'-'.join([p for p in permalink.replace('/'+lang+'/', '', 1).split('/') if p] or ['frontpage'])}">
 <a href="#content" class="sr-only sr-only-focusable">${messages("Skip to main content")}</a>
 
 <!-- Menubar -->
 
-<nav class="navbar navbar-expand-md static-top mb-4
+<nav class="navbar navbar-expand-md static-top
 % if theme_config.get('navbar_light'):
 navbar-light bg-light
 % else:
@@ -61,10 +65,13 @@ navbar-dark bg-dark
 
 <!-- End of Menubar -->
 
-<div class="container" id="content" role="main">
+<div id="content" role="main">
     <div class="body-content">
         <!--Body content-->
         ${template_hooks['page_header']()}
+        <!--front page content-->
+        <%block name="front_page"></%block>
+        <!--all others content-->
         <%block name="content"></%block>
         <!--End of body content-->
 

@@ -997,32 +997,37 @@ LICENSE = ""
 CONTENT_FOOTER = """
 <div class="container">
   <div class="text-center">
-    <h1>{sponsors_heading}</h1>
-    <hr/>
-    <p><a class="btn btn-primary btn-lg active" href="{sponsor_link}">{sponsor_link_text}</a>
-    </p>
+    <h1 class="text-white">{sponsors_heading}</h1>
+    <a class="btn-primary btn-lg get-ticket-btn text-sm block my-4 font-bold max-w-sm mx-auto" href="{sponsor_link}">{sponsor_link_text}</a>
   </div>
-  <div class="row">
-    <div class="col-md text-center">
-        <img src="/logo.png" class="footer-logo" alt="PyCon Thailand" />
+  <div class="row mx-4 my-4">
+    <div class="row" style="align-items: flex-start;">
+      <div class="about w-full mx-4 text-white">
+        <p>
+          {about}
+        </p>
+      </div>
+      <img
+        alt="PyCon 2019 naga logo"
+        class="max-w-xs max-h-xs mx-auto py-16"
+        src="/logo2019.png"
+      />
     </div>
-    <div class="col-md">
-      {about}
-    </div>
-    <div class="col-md">
-      {when_where}
-    </div>
-    <div class="col-md">
-      {social}
-        <h3>{social}</h3>
-        <a href="https://twitter.com/pyconthailand"><i class="fa fa-twitter fa-fw"></i> Twitter</a><br>
-        <a href="https://www.facebook.com/pyconthailand/"><i class="fa fa-facebook fa-fw"></i> Facebook</a><br>
-        <a href="https://www.meetup.com/ThaiPy-Bangkok-Python-Meetup/events/248920463/"><i class="fa fa-meetup fa-fw"></i> Meetup</a><br>
-        <a href="mailto:contact@pyconthailand.org"><i class="fa fa-envelope fa-fw"></i> Contact</a><br>
+    <div class="flex justify-between w-full ">
+      <div class="when-where text-white">
+        {when_where}
+      </div>
+
+      <div class="mx-4">
+          <h3 class="text-white">{social}</h3>
+          <a class="text-white" href="https://twitter.com/pyconthailand"><i class="fa fa-twitter fa-fw"></i> Twitter</a><br>
+          <a class="text-white" href="https://www.facebook.com/pyconthailand/"><i class="fa fa-facebook fa-fw"></i> Facebook</a><br>
+          <a class="text-white" href="https://www.meetup.com/ThaiPy-Bangkok-Python-Meetup/events/248920463/"><i class="fa fa-meetup fa-fw"></i> Meetup</a><br>
+          <a class="text-white" href="mailto:contact@pyconthailand.org"><i class="fa fa-envelope fa-fw"></i> Contact</a><br>
+      </div>
     </div>
   </div>
 </div>
-<!--Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a> -->
 """
 
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
@@ -1052,7 +1057,7 @@ CONTENT_FOOTER_FORMATS = {
             """,
             "when_where": """
             <h3>เวลาและสถานที่่</h3>
-            <p>`True Digital Park <https://www.facebook.com/TrueDigitalPark/>`_
+            <p><a href="https://www.facebook.com/TrueDigitalPark/">True Digital Park</a>
             </p>
             <p>101 Sukhumvit Road, Bangkok 10260, Thailand
             </p>
@@ -1079,7 +1084,7 @@ CONTENT_FOOTER_FORMATS = {
             """,
             "when_where": """
             <h3>When &amp; Where</h3>
-            <p>`True Digital Park <https://www.facebook.com/TrueDigitalPark/>`_
+            <p><a href="https://www.facebook.com/TrueDigitalPark/">True Digital Park</a>
             </p>
             <p>101 Sukhumvit Road, Bangkok 10260, Thailand
             </p>
