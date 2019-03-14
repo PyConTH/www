@@ -794,3 +794,18 @@ header {
   font-size: 20px;
   text-align: right;
 }
+
+.post-list {
+  margin: 1em;
+  padding: 0;
+}
+
+.post-list-item {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 2rem;
+}
+
+.post-list-item a {
+  text-align: right;
+}
