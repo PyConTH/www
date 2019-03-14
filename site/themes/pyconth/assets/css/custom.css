@@ -73,7 +73,10 @@ body {
 /* home page */
 
 .first {
-  background: radial-gradient(yellow, orange);
+  background-image: url("/first_section_bg.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  min-height: calc(100vh - 54px);
 }
 
 .first .main-title {
@@ -114,15 +117,7 @@ body {
   margin-left: 80px;
 }
 
-.sun-logo {
-  position: absolute;
-  width: 10rem;
-  height: 10rem;
-  /* top: -10%; */
-  left: 20%;
-}
-
-.palm-trees {
+.palm-trees-logo {
   position: relative;
   bottom: 0;
   left: 50%;
