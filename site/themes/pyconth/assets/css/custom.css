@@ -43,8 +43,8 @@ body {
 .red-followline:after {
   content: "";
   position: absolute;
-  bottom: 8px;
-  right: -32px;
+  bottom: 10px;
+  right: -50px;
   background-color: #a9173f;
   width: 45px;
   height: 4px;
