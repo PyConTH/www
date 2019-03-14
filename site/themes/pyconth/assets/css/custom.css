@@ -1,9 +1,17 @@
 /* shared */
+@font-face {
+  font-family: "FC Active";
+  src: local("FC Active Regular"), local("FCActiveRegular"),
+    url("/FCActiveRegular.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
 :root {
   --font-primary: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI",
-    Roboto, "Helvetica Neue", Arial, sans-serif;
+    Roboto, "Helvetica Neue", Arial, "FC Active", sans-serif;
   --font-secondary: "Montserrat", Garamond, "Hoefler Text", Palatino,
-    "Palatino Linotype", serif;
+    "Palatino Linotype", "FC Active", serif;
   --font-bold: 700;
   --font-extrabold: 800;
 
