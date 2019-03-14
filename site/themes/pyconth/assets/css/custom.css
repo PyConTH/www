@@ -723,8 +723,9 @@ body[class*="schedule"] table.table.day2 tr:nth-of-type(15) {
 }
 
 article {
-  margin: 0 auto;
-  max-width: 90%;
+  margin: 2em auto;
+  max-width: 90ch;
+  min-height: 60vh;
 }
 
 .footer-logo {
@@ -766,4 +767,11 @@ article {
 
 .dropdown-item {
   color: var(--black);
+}
+
+/* Make content not abut sides on mobile */
+.e-content,
+header {
+  margin-left: 1em;
+  margin-right: 1em;
 }
