@@ -998,7 +998,7 @@ CONTENT_FOOTER = """
 <div class="container">
   <div class="text-center">
     <h1 class="text-white">{sponsors_heading}</h1>
-    <a class="btn-primary btn-lg get-ticket-btn text-sm block my-4 font-bold max-w-sm mx-auto" href="{sponsor_link}">{sponsor_link_text}</a>
+    <a class="btn-primary btn-lg get-ticket-btn text-sm inline-block my-4 font-bold max-w-sm mx-auto" href="{sponsor_link}">{sponsor_link_text}</a>
   </div>
   <div class="row mx-4 my-4">
     <div class="row" style="align-items: flex-start;">
@@ -1009,7 +1009,7 @@ CONTENT_FOOTER = """
       </div>
       <img
         alt="PyCon 2019 naga logo"
-        class="max-w-xs max-h-xs mx-auto py-16"
+        class="mx-auto my-16 footer-logo"
         src="/logo2019.png"
       />
     </div>

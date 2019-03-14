@@ -712,3 +712,8 @@ article {
   margin: 0 auto;
   max-width: 90%;
 }
+
+.footer-logo {
+  width: 200px;
+  height: 200px;
+}
