@@ -57,8 +57,48 @@
                 <h2 class="countdown-title red-prepostline font-bold">
                     PYCON THAILAND จะเริ่มใน
                 </h2>
+                <div class="flip-clock my-8">
+                  <div class="flip-clock__unit">
+                    <span class="flip-clock__piece">
+                      <span class="flip-clock__card flip-card">
+                        <b class="flip-card__top" id="d"></b>
+                        <b class="flip-card__bottom" id="d2"></b>
+                      </span>
+                    </span>
+                    <span class="flip-clock__slot">วัน</span>
+                  </div>
+
+                  <div class="flip-clock__unit">
+                    <span class="flip-clock__piece">
+                      <span class="flip-clock__card flip-card">
+                        <b class="flip-card__top" id="h"></b>
+                        <b class="flip-card__bottom" id="h2"></b>
+                      </span>
+                    </span>
+                    <span class="flip-clock__slot">ชั่วโมง</span>
+                  </div>
+
+                  <div class="flip-clock__unit">
+                    <span class="flip-clock__piece">
+                      <span class="flip-clock__card flip-card">
+                        <b class="flip-card__top" id="m"></b>
+                        <b class="flip-card__bottom" id="m2"></b>
+                      </span>
+                    </span>
+                    <span class="flip-clock__slot">นาที</span>
+                  </div>
+
+                  <div class="flip-clock__unit">
+                    <span class="flip-clock__piece">
+                      <span class="flip-clock__card flip-card">
+                        <b class="flip-card__top" id="s"></b>
+                        <b class="flip-card__bottom" id="s2"></b>
+                      </span>
+                    </span>
+                    <span class="flip-clock__slot">วินาที</span> <span id="h"></span>
+                  </div>
+                </div>
                 <h2 class="countdown-timer" id="countdown-timer">
-                    100 days 23 hrs 30 min 10 sec
                 </h2>
                 <span class="btn-primary btn-lg get-ticket-btn">
                     {{% doc %}}ขอรับตั๋ว <buy-tickets>{{% /doc %}}
@@ -169,11 +209,19 @@
             var m = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60));
             var s = Math.floor((diff % (1000 * 60)) / 1000);
 
-            document.getElementById("countdown-timer").innerHTML = `${d} วัน ${h} ชั่วโมง ${m} นาที ${s} วินาที`;
+            document.getElementById("d").innerHTML = `${d}`;
+            document.getElementById("h").innerHTML = `${h}`;
+            document.getElementById("m").innerHTML = `${m}`;
+            document.getElementById("s").innerHTML = `${s}`;
+            document.getElementById("d2").dataset.value = `${d}`;
+            document.getElementById("h2").dataset.value = `${h}`;
+            document.getElementById("m2").dataset.value = `${m}`;
+            document.getElementById("s2").dataset.value = `${s}`;
 
             if (diff < 0) {
                 clearInterval(counter);
                 document.getElementById("countdown-timer").innerHTML = "ตอนนี้!";
+                document.querySelector(".flip-clock").remove();
             }
         }, 1000);
     </script>

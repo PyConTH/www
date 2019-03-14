@@ -839,3 +839,193 @@ header {
 .header-column {
   min-width: 40rem;
 }
+
+/* ---------------------------------------------------------------------------*/
+/* Flipping countdown clock */
+/* ---------------------------------------------------------------------------*/
+
+.flip-clock {
+  text-align: center;
+  -webkit-perspective: 600px;
+  perspective: 600px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+}
+.flip-clock *,
+.flip-clock *:before,
+.flip-clock *:after {
+  box-sizing: border-box;
+}
+.flip-clock__piece {
+  display: inline-block;
+  margin: 0 0.2vw;
+}
+.flip-clock__unit {
+  display: inline;
+}
+@media (min-width: 1000px) {
+  .flip-clock__piece {
+    margin: 0 5px;
+  }
+}
+.flip-clock__slot {
+  font-size: 1rem;
+  line-height: 1.5;
+  display: block;
+}
+.flip-card {
+  display: block;
+  position: relative;
+  padding-bottom: 0.72em;
+  font-size: 2.25rem;
+  line-height: 0.95;
+}
+@media (min-width: 1000px) {
+  .flip-clock__slot {
+    font-size: 1.2rem;
+  }
+  .flip-card {
+    font-size: 3rem;
+  }
+}
+/*////////////////////////////////////////*/
+.flip-card__top,
+.flip-card__bottom,
+.flip-card__back-bottom,
+.flip-card__back::before,
+.flip-card__back::after {
+  display: block;
+  height: 0.72em;
+  color: #ccc;
+  background: #222;
+  padding: 0.23em 0.25em 0.4em;
+  border-radius: 0.15em 0.15em 0 0;
+  backface-visiblity: hidden;
+  -webkit-transform-style: preserve-3d;
+  transform-style: preserve-3d;
+  width: 1.8em;
+}
+.flip-card__bottom,
+.flip-card__back-bottom {
+  color: #fff;
+  position: absolute;
+  top: 50%;
+  left: 0;
+  border-top: solid 1px #000;
+  background: #393939;
+  border-radius: 0 0 0.15em 0.15em;
+  pointer-events: none;
+  overflow: hidden;
+  z-index: 2;
+}
+.flip-card__back-bottom {
+  z-index: 1;
+}
+.flip-card__bottom::after,
+.flip-card__back-bottom::after {
+  display: block;
+  margin-top: -0.72em;
+}
+.flip-card__back::before,
+.flip-card__bottom::after,
+.flip-card__back-bottom::after {
+  content: attr(data-value);
+}
+.flip-card__back {
+  position: absolute;
+  top: 0;
+  height: 100%;
+  left: 0%;
+  pointer-events: none;
+}
+.flip-card__back::before {
+  position: relative;
+  overflow: hidden;
+  z-index: -1;
+}
+.flip .flip-card__back::before {
+  z-index: 1;
+  -webkit-animation: flipTop 0.3s cubic-bezier(0.37, 0.01, 0.94, 0.35);
+  animation: flipTop 0.3s cubic-bezier(0.37, 0.01, 0.94, 0.35);
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+  -webkit-transform-origin: center bottom;
+  transform-origin: center bottom;
+}
+.flip .flip-card__bottom {
+  -webkit-transform-origin: center top;
+  transform-origin: center top;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+  -webkit-animation: flipBottom 0.6s cubic-bezier(0.15, 0.45, 0.28, 1);
+  animation: flipBottom 0.6s cubic-bezier(0.15, 0.45, 0.28, 1);
+}
+@-webkit-keyframes flipTop {
+  0% {
+    -webkit-transform: rotateX(0deg);
+    transform: rotateX(0deg);
+    z-index: 2;
+  }
+  0%,
+  99% {
+    opacity: 1;
+  }
+  100% {
+    -webkit-transform: rotateX(-90deg);
+    transform: rotateX(-90deg);
+    opacity: 0;
+  }
+}
+@keyframes flipTop {
+  0% {
+    -webkit-transform: rotateX(0deg);
+    transform: rotateX(0deg);
+    z-index: 2;
+  }
+  0%,
+  99% {
+    opacity: 1;
+  }
+  100% {
+    -webkit-transform: rotateX(-90deg);
+    transform: rotateX(-90deg);
+    opacity: 0;
+  }
+}
+@-webkit-keyframes flipBottom {
+  0%,
+  50% {
+    z-index: -1;
+    -webkit-transform: rotateX(90deg);
+    transform: rotateX(90deg);
+    opacity: 0;
+  }
+  51% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 1;
+    -webkit-transform: rotateX(0deg);
+    transform: rotateX(0deg);
+    z-index: 5;
+  }
+}
+@keyframes flipBottom {
+  0%,
+  50% {
+    z-index: -1;
+    -webkit-transform: rotateX(90deg);
+    transform: rotateX(90deg);
+    opacity: 0;
+  }
+  51% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 1;
+    -webkit-transform: rotateX(0deg);
+    transform: rotateX(0deg);
+    z-index: 5;
+  }
+}
