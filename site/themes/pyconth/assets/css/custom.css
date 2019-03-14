@@ -759,6 +759,8 @@ article {
   font-family: var(--font-secondary);
   font-weight: var(--font-extrabold);
   text-transform: uppercase;
+  font-size: 46px;
+  letter-spacing: 4px;
 }
 
 .dropdown-menu {
@@ -774,4 +776,21 @@ article {
 header {
   margin-left: 1em;
   margin-right: 1em;
+}
+
+.bangkok {
+  font-family: var(--font-secondary);
+  font-size: 24px;
+  letter-spacing: 3px;
+}
+
+.when {
+  font-family: var(--font-secondary);
+  font-size: 20px;
+}
+
+.edition {
+  font-family: var(--font-secondary);
+  font-size: 20px;
+  text-align: right;
 }
