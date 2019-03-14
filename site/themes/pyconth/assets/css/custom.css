@@ -6,6 +6,9 @@
     "Palatino Linotype", serif;
   --font-bold: 700;
   --font-extrabold: 800;
+
+  --black: #22292f;
+  --orange: #ffc400;
 }
 
 body {
