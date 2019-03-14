@@ -740,14 +740,14 @@ article {
 .navbar-nav > .nav-item > .nav-link {
   font-family: var(--font-primary);
   font-weight: bold;
-  color: #22292f;
+  color: var(--black);
   font-size: 0.8rem;
 }
 
 .navbar-brand {
   font-family: var(--font-primary);
   font-weight: bold;
-  color: #22292f;
+  color: var(--black);
   font-size: 0.8rem;
 }
 
