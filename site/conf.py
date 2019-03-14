@@ -1057,7 +1057,7 @@ CONTENT_FOOTER_FORMATS = {
             """,
             "when_where": """
             <h3>เวลาและสถานที่่</h3>
-            <p>`True Digital Park <https://www.facebook.com/TrueDigitalPark/>`_
+            <p><a href="https://www.facebook.com/TrueDigitalPark/">True Digital Park</a>
             </p>
             <p>101 Sukhumvit Road, Bangkok 10260, Thailand
             </p>
@@ -1084,7 +1084,7 @@ CONTENT_FOOTER_FORMATS = {
             """,
             "when_where": """
             <h3>When &amp; Where</h3>
-            <p>`True Digital Park <https://www.facebook.com/TrueDigitalPark/>`_
+            <p><a href="https://www.facebook.com/TrueDigitalPark/">True Digital Park</a>
             </p>
             <p>101 Sukhumvit Road, Bangkok 10260, Thailand
             </p>
