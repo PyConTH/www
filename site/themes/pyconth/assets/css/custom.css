@@ -112,6 +112,9 @@ body {
 }
 
 /* news section */
+.news-section {
+  background: #f2f2f2;
+}
 
 .upside-down-city {
   width: 100%;
