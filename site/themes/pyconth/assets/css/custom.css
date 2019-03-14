@@ -707,3 +707,8 @@ body[class*="schedule"] table.table.day2 tr:nth-of-type(15) {
 .section {
   overflow: hidden;
 }
+
+article {
+  margin: 0 auto;
+  max-width: 90%;
+}
