@@ -73,9 +73,7 @@ body {
 /* home page */
 
 .first {
-  background-image: url("/first_section_bg.png");
-  background-repeat: no-repeat;
-  background-size: 100% 100%;
+  background: radial-gradient(yellow, orange);
 }
 
 .first .main-title {
