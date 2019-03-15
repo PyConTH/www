@@ -8,7 +8,7 @@ ${base.html_headstart()}
 </%block>
 ${template_hooks['extra_head']()}
 
-<link href="https://fonts.googleapis.com/css?family=Istok+Web:400,400i,700,700i" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Montserrat:400,700,800|Open+Sans:400,700,700i" rel="stylesheet">
 <link href="https://cdn.jsdelivr.net/npm/tailwindcss/dist/tailwind.min.css" rel="stylesheet">
 
 </head>
@@ -17,35 +17,22 @@ ${template_hooks['extra_head']()}
 
 <!-- Menubar -->
 
-<nav class="navbar navbar-expand-md static-top
-% if theme_config.get('navbar_light'):
-navbar-light bg-light
-% else:
-navbar-dark bg-dark
-% endif
-">
-    <div class="container"><!-- This keeps the margins nice -->
-        <a class="navbar-brand" href="${abs_link(_link("root", None, lang))}">
-        %if logo_url:
-            <img src="${logo_url}" alt="${blog_title|h}" id="logo" class="d-inline-block align-top">
-        %endif
-
-        % if show_blog_title:
-            <span id="blog-title">${blog_title|h}</span>
-        % endif
+<nav class="navbar navbar-expand-md static-top">
+    <div class="container">
+        <a class="navbar-brand text-black" href="${abs_link(_link("root", None, lang))}">
+            <span id="blog-title">HOME</span>
         </a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#bs-navbar" aria-controls="bs-navbar" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
+
+        <button class="navbar-toggler border-black" type="button" data-toggle="collapse" data-target="#bs-navbar" aria-controls="bs-navbar" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon border-black"></span>
         </button>
+
 
         <div class="collapse navbar-collapse" id="bs-navbar">
             <ul class="navbar-nav mr-auto">
                 ${base.html_navigation_links_entries(navigation_links)}
                 ${template_hooks['menu']()}
             </ul>
-            %if search_form:
-                ${search_form}
-            %endif
 
             <ul class="navbar-nav navbar-right">
                 ${base.html_navigation_links_entries(navigation_alt_links)}
