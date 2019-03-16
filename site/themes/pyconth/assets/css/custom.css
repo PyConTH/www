@@ -25,6 +25,9 @@
 
   --black: #22292f;
   --orange: #ffc400;
+  --red: #a71d42;
+  --red-lighter: #ff799d;
+  --red-darker: #671229;
 }
 
 body {
@@ -73,9 +76,13 @@ body {
 /* home page */
 
 .first {
-  background-image: url("/first_section_bg.png");
-  background-repeat: no-repeat;
-  background-size: 100% 100%;
+  background-image: radial-gradient(
+    circle at bottom center,
+    yellow,
+    var(--orange) 60%,
+    var(--orange)
+  );
+  /* background-size: 100% 100%; */
   min-height: calc(100vh - 54px);
 }
 
@@ -177,15 +184,16 @@ body {
   margin-bottom: 40px;
 }
 
-.get-ticket-btn {
+.btn-primary {
+  font-weight: bold;
   background-color: #a9173f;
   padding: 1rem;
-  padding-right: 3rem;
+  padding-right: 3.5rem;
   text-transform: uppercase;
   position: relative;
 }
 
-.get-ticket-btn:after {
+.btn-primary:after {
   content: ">";
   background-color: #d72861;
   height: 100%;
@@ -197,13 +205,46 @@ body {
   border-bottom-right-radius: 0.3rem;
 }
 
-.get-ticket-btn > a {
+.btn-primary > a {
   font-weight: bolder;
   text-decoration: none;
   color: white;
 }
 
-.get-ticket-btn:hover {
+.btn-primary:hover {
+  text-decoration: none;
+  background-color: #d72861;
+}
+
+.btn-primary:not(:disabled):not(.disabled):active,
+.btn-primary:not(:disabled):not(.disabled).active {
+  font-weight: bold;
+  border-color: #a9173f;
+  background-color: #a9173f;
+  padding: 1rem;
+  padding-right: 3.5rem;
+  text-transform: uppercase;
+  position: relative;
+}
+.btn-primary:not(:disabled):not(.disabled).active:after {
+  content: ">";
+  background-color: #d72861;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 1rem;
+  border-top-right-radius: 0.3rem;
+  border-bottom-right-radius: 0.3rem;
+}
+
+.btn-primary:not(:disabled):not(.disabled).active > a {
+  font-weight: bolder;
+  text-decoration: none;
+  color: white;
+}
+
+.btn-primary:not(:disabled):not(.disabled).active:hover {
   text-decoration: none;
   background-color: #d72861;
 }
@@ -279,7 +320,10 @@ body {
 
 .keynote .speaker .content {
   font-size: 18px;
-  color: #7d8890;
+  color: var(--black);
+  padding: 1rem;
+  background: rgba(220, 220, 220, 0.8);
+  border-radius: 5px;
 }
 
 .keynote [class*="section"] p {
@@ -745,7 +789,20 @@ body[class*="schedule"] table.table.day2 tr:nth-of-type(15) {
 article {
   margin: 2em auto;
   max-width: 90ch;
-  min-height: 60vh;
+  min-height: 40vh;
+}
+
+.post-text h2 {
+  font-weight: bold;
+  font-style: italic;
+  font-size: 1.2rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+.post-text p {
+  font-size: 1rem;
+  margin-bottom: 1rem;
 }
 
 .footer-logo {
@@ -754,14 +811,19 @@ article {
 }
 
 .navbar {
-  background: #ffc400;
+  background: var(--orange);
 }
 
 .navbar-nav > .nav-item > .nav-link {
   font-family: var(--font-primary);
   font-weight: bold;
   color: var(--black);
-  font-size: 0.8rem;
+  font-size: 1rem;
+}
+
+.navbar-nav {
+  display: flex;
+  align-items: center;
 }
 
 .navbar-brand {
@@ -787,8 +849,9 @@ article {
   border: 1px solid var(--black);
 }
 
-.dropdown-item {
+.dropdown-menu > .dropdown-item {
   color: var(--black);
+  font-size: 1rem;
 }
 
 /* Make content not abut sides on mobile */
@@ -1044,13 +1107,12 @@ header {
 .bg-footer {
   /* background: radial-gradient(yellow, orange); */
 
-background: url('/footer-coconut-tree2.png') right bottom no-repeat , radial-gradient(yellow, orange);
+  background: url("/footer-coconut-tree2.png") right bottom no-repeat,
+    radial-gradient(yellow, orange);
   position: relative;
 }
 
-
-.about-wrapper  { 
-
+.about-wrapper {
   flex-direction: column;
 }
 @media (min-width: 992px) {
@@ -1068,23 +1130,21 @@ background: url('/footer-coconut-tree2.png') right bottom no-repeat , radial-gra
   margin-bottom: 0.5rem;
 }
 
-.about-text a{
+.about-text a {
   color: var(--black);
   text-decoration: underline;
 }
-
 
 .about-block {
   margin-bottom: 3rem;
 }
 
 .about-second-block {
-
-   padding-left: 0;
+  padding-left: 0;
 }
 @media (min-width: 992px) {
- .about-second-block {
-   padding-left: 2rem;
+  .about-second-block {
+    padding-left: 2rem;
   }
 }
 .about-coconut {
@@ -1114,6 +1174,24 @@ background: url('/footer-coconut-tree2.png') right bottom no-repeat , radial-gra
 }
 
 .coconut-email {
-    right: 64px;
+  right: 64px;
   bottom: 161px;
+}
+
+a {
+  color: var(--red);
+}
+
+a:hover {
+  color: var(--red-darker);
+}
+
+.docutils {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+hr {
+  border-top: 2px solid rgba(0, 0, 0, 0.2);
 }

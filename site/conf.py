@@ -1005,8 +1005,7 @@ CONTENT_FOOTER = """
           <div class="about-block-right">
             <h3 class="about-header mx-4">About</h3>
             <p class="about-text">
-              {about} Vitae suscipit tellus mauris a diam maecenas sed enim ut sem viverra aliquet eget sit amet tellus
-              cras adipiscing. Hendrerit dolor magna eget est lorem ipsum dolor sit amet, consectetur.
+              {about}
             </p>
           </div>
         </div>
