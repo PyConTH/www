@@ -14,6 +14,5 @@ Submission is open to anyone with any level of expertise. Whether you’ve start
 
 Start preparing now and send us your proposal! 
 
-For more information, check out the link on 
-https://www.papercall.io/pyconth19
+For more information, visit [PyCon Thailand 2019 Papercall](https://www.papercall.io/pyconth19)
 
