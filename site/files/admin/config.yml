@@ -1,12 +1,13 @@
 backend:
   name: git-gateway
   branch: master
-display_url: https://serene-mestorf-5c91d0.netlify.com
+site_url: https://th.pycon.org/
+publish_mode: editorial_workflow
 media_folder: "images/uploads"
-public_folder: "/images/uploads"
 collections:
   - name: "posts" # Used in routes, e.g., /admin/collections/blog
     label: "Posts" # Used in the UI
+    label_singular: "Post" # Used in the UI
     description: >
       Posts (blog entries), visible in indexes and RSS feeds.
     folder: "site/posts" # The path to the folder where the documents are stored

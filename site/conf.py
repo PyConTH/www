@@ -1017,33 +1017,61 @@ LICENSE = ""
 # (translatable)
 # CONTENT_FOOTER = 'Contents &copy; {date}         <a href="mailto:{email}">{author}</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         {license}'
 CONTENT_FOOTER = """
-<div class="container">
-  <div class="text-center">
-    <h1>{sponsors_heading}</h1>
-    <hr/>
-    <p>TBA</p>
-  </div>
-  <div class="row">
-    <div class="col-md text-center">
-        <img src="/logo.png" class="footer-logo" alt="PyCon Thailand" />
+
+<div class="w-full bg-footer">
+  <div class="flex p-4 about-wrapper">
+    <div class="w-full block lg:w-2/5">
+      <div class="about-block">
+        <div class="flex items-center">
+          <img class="about-inline-img" src="/logo2019.png" alt="Pycon 2019 Logo" />
+          <div class="about-block-right">
+            <h3 class="about-header mx-4">About</h3>
+            <p class="about-text">
+              {about}
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="about-block">
+        <h3 class="about-header ml-24">Co-Organized By</h3>
+        <img class="block" alt="Thai Programmer's Association Logo" src="/tpalogo.png" />
+      </div>
     </div>
-    <div class="col-md">
-      {about}
+
+    <div class="w-full block lg:w-1/5 about-second-block">
+      <div class="about-block">
+        <h3 class="about-header">When</h3>
+        <p class="about-text">
+          {when}
+        </p>
+      </div>
+      <div class="about-block">
+        <h3 class="about-header">Where</h3>
+        <p class="about-text">{where}</p>
+      </div>
+      <div class="about-block">
+        <h3 class="about-header">GPS</h3>
+        <p class="about-text"><a href="https://goo.gl/maps/LVsoGsUkKcS2">https://goo.gl/maps/LVsoGsUkKcS2</a></p>
+      </div>
     </div>
-    <div class="col-md">
-      {when_where}
-    </div>
-    <div class="col-md">
-      {social}
-        <h3>{social}</h3>
-        <a href="https://twitter.com/pyconthailand"><i class="fa fa-twitter fa-fw"></i> Twitter</a><br>
-        <a href="https://www.facebook.com/pyconthailand/"><i class="fa fa-facebook fa-fw"></i> Facebook</a><br>
-        <a href="https://www.meetup.com/ThaiPy-Bangkok-Python-Meetup/events/248920463/"><i class="fa fa-meetup fa-fw"></i> Meetup</a><br>
-        <a href="mailto:contact@pyconthailand.org"><i class="fa fa-envelope fa-fw"></i> Contact</a><br>
+
+    <div class="w-full lg:w-2/5 about-coconut">
+      <h3 class="about-header">Social</h3>
+      <a href="mailto:contact@pyconthailand.org">
+        <img src="/email-coconut-s.png" alt="Email" class="coconut coconut-email"
+      /></a>
+      <a href="https://twitter.com/pyconthailand">
+        <img src="/twitter-coconut-s.png" alt="Twitter" class="coconut coconut-twitter" />
+      </a>
+      <a href="https://www.facebook.com/pyconthailand/">
+        <img src="/facebook-coconut-s.png" alt="Facebook" class="coconut coconut-facebook"
+      /></a>
+      <a href="https://www.meetup.com/ThaiPy-Bangkok-Python-Meetup/events/248920463/">
+        <img src="/meetup-coconut-s.png" alt="Meetup" class="coconut coconut-meetup"
+      /></a>
     </div>
   </div>
 </div>
-<!--Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a> -->
 """
 
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
@@ -1064,14 +1092,27 @@ CONTENT_FOOTER_FORMATS = {
         (),
         {
             "sponsors_heading": "ผู้สนับสนุน",
+            "sponsor_link_text": "Sponsor PyCon Thailand Now",
+            "sponsor_link": "/sponsorship",
             "about": """
-                <h3>About</h3>
                 PyCon Thailand คือ งานสัมนาเกี่ยวกับภาษาที่ใช้เขียนโปรแกรม (Python programming language)เป็นสังคมที่ขับเคลื่อนโดยสมาชิกของกลุ่ม
                 Python ในกรุงเทพมหานคร
             """,
+            "when_title": "เวลา",
+            "when": "15 - 16 มิถุนายน 2562",
+            "where_title": "สถานที่่",
+            "where": """
+            <p><a href="https://www.facebook.com/TrueDigitalPark/">True Digital Park</a>
+            </p>
+            <p>101 Sukhumvit Road, Bangkok 10260, Thailand
+            </p>
+            """,
             "when_where": """
-                <h3>เวลาและสถานที่่</h3>
-                TBA
+            <h3>เวลาและสถานที่่</h3>
+            <p><a href="https://www.facebook.com/TrueDigitalPark/">True Digital Park</a>
+            </p>
+            <p>101 Sukhumvit Road, Bangkok 10260, Thailand
+            </p>
             """,
             "social": """
                 ติดต่อเรา
@@ -1086,14 +1127,27 @@ CONTENT_FOOTER_FORMATS = {
         (),
         {
             "sponsors_heading": "Sponsors",
+            "sponsor_link_text": "Sponsor PyCon Thailand Now",
+            "sponsor_link": "/en/sponsorship",
             "about": """
-                <h3>About</h3>
                 PyCon Thailand is a conference about the programming language Python.
                 It is a community effort driven by the members of the Python Community in Bangkok.
             """,
+            "when_title": "When",
+            "when": "15 - 16 June 2019",
+            "where_title": "Where",
+            "where": """
+            <p><a href="https://www.facebook.com/TrueDigitalPark/">True Digital Park</a>
+            </p>
+            <p>101 Sukhumvit Road, Bangkok 10260, Thailand
+            </p>
+            """,
             "when_where": """
-                <h3>When &amp; Where</h3>
-                <p>TBA</p>
+            <h3>When &amp; Where</h3>
+            <p><a href="https://www.facebook.com/TrueDigitalPark/">True Digital Park</a>
+            </p>
+            <p>101 Sukhumvit Road, Bangkok 10260, Thailand
+            </p>
             """,
             "social": """
                 Get Social
