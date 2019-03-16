@@ -142,19 +142,19 @@ NAVIGATION_LINKS = {
         (
             (
                 ("/presentation-advice/", "คำแนะนำในการนำเสนอ"),
-                ("/submit-talk/", "ส่งข้อเสนอการพูดคุยของคุณ (ปิดรับแล้ว)"),
+                ("/#submission", "ส่งข้อเสนอการพูดคุยของคุณ (ปิดรับแล้ว)"),
                 ("/speakers/", "ผู้บรรยาย"),
-                ("/keynotes/", "แก่นเรื่อง"),
-                ("/about/", "เกี่ยวกับ"),
-                ("/code-war/", "Code War"),
+                ("/#keynotes", "แก่นเรื่อง"),
+#                ("/about/", "เกี่ยวกับ"),
+#                ("/code-war/", "Code War"),
                 ("/party/", "ปาร์ตี้"),
                 ("/staff/", "เจ้าหน้าที่"),
                 ("/code-of-conduct/", "หลักจริยธรรม"),
-                ("/contact/", "ติดต่อ"),
+                ("mailto:contact@pyconthailand.org", "ติดต่อ"),
             ),
             "งาน"
         ),
-        ("/sponsorship/", "ผู้สนับสนุน"),
+        ("/#sponsorship", "ผู้สนับสนุน"),
 #         (
 #             (
 #                 ("/sponsors/", "ผู้สนับสนุน"),
@@ -162,9 +162,10 @@ NAVIGATION_LINKS = {
 #             ),
 #             "ผู้สนับสนุน"
 #         ),
+        ('/en/#news', 'News'),
         ('/venue/', 'สถานที่'),
-        ("/archive/archive.html", "คลังโพสต์"),
-        ("/categories/", "หมวดหมู่"),
+        ( ("/pycon2018", "2018"), "คลังโพสต์"),
+#        ("/categories/", "หมวดหมู่"),
         ("/rss.xml", "ฟีด RSS"),
     ),
 
@@ -174,19 +175,19 @@ NAVIGATION_LINKS = {
           (
               (
                   ("/en/presentation-advice/", "Presentation Advice"),
-                  ("/en/submit-talk/", "Submit Talk Proposal"),
-                  ("/speakers/", "Speakers"),
-                  ("/keynotes/", "Keynotes"),
-                  ("/about/", "About"),
+                  ("/en/#submission", "Submit Talk Proposal"),
+                  ("/en/speakers/", "Speakers"),
+                  ("/en/#keynotes", "Keynotes"),
+#                  ("/about/", "About"),
 #                 ("/en/code-war/", "Code War (Friday)"),
                   ("/en/party/", "Party"),
                   ("/en/staff/", "Staff"),
                   ("/en/code-of-conduct/", "Code of Conduct"),
-                  ("/contact/", "Contact"),
+                  ("mailto:contact@pyconthailand.org", "Contact"),
               ),
               "Event"
              ),
-        ("/en/sponsorship/", "Sponsorship"),
+        ("/en/#sponsorship", "Sponsorship"),
 #        (
 #            (
 #                ("/sponsors/", "Sponsors"),
@@ -203,9 +204,9 @@ NAVIGATION_LINKS = {
 #            ),
 #           "Venue"
 #        ),
-        ('/en/posts/', 'News'),
-        ("/en/archive/archive.html", "Archive"),
-        ("/en/categories/", "Tags"),
+        ('/en/#news', 'News'),
+        ( ("/pycon2018/en", "2018"), "Archive"),
+#        ("/en/categories/", "Tags"),
         ("/en/rss.xml", "RSS feed"),
     ),
 }
