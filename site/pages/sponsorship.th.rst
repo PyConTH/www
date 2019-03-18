@@ -52,7 +52,7 @@ Package ของการสนับสนุน
 
     .. raw:: html
 
-          <a class="btn btn-primary btn-lg active" href="Pycon-prospectus.pdf">Download Prospectus</a>
+          <a class="btn btn-primary btn-lg active" href="/Pycon-prospectusv4.pdf">Download Prospectus</a>
 
 ----
 
