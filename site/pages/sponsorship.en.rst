@@ -64,7 +64,7 @@ banners at the venue, as well as sessions, swag and bag inserts.
 
     .. raw:: html
 
-          <a class="btn btn-primary btn-lg active" href="https://l.facebook.com/l.php?u=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1Ayf84EWpICYmpreav3lM1CFrDNpNEJRN%2Fview%3Fusp%3Dsharing%26fbclid%3DIwAR2QZVBdrtSuNMvV3j22vcjMNqrb0kPSqT6zd3Qdssjaha_g3f042UYXLqY&h=AT07spANB4O5wquQm_AOzxbBdg5uXX99lvo8nvdj3hPqvYMz7eAhpDsAoEU1HuXhpThHsmAsN5Eo8ts6HlH17jXndFPqZqMpWvzh-CQ8fsqTY4LbpKTxDaBQRd3KghOrE3YjLtp6">Download Prospectus</a>
+          <a class="btn btn-primary btn-lg active" href="Pycon-prospectus.pdf">Download Prospectus</a>
 
 ----
 

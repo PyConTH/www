@@ -137,65 +137,67 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/buy-tickets/", "ซื้อบัตร"),
+        ('/venue/', 'สถานที่'),
         ("/schedule/", "ตารางเวลาการพูด"),
+        ("/sponsorship/", "ผู้สนับสนุน"),
+        ('/#news', 'ข่าวสาร'),
         (
             (
                 ("/presentation-advice/", "คำแนะนำในการนำเสนอ"),
                 ("/#submission", "ส่งข้อเสนอการพูดคุยของคุณ (ปิดรับแล้ว)"),
                 ("/speakers/", "ผู้บรรยาย"),
                 ("/#keynotes", "แก่นเรื่อง"),
-#                ("/about/", "เกี่ยวกับ"),
-#                ("/code-war/", "Code War"),
+                #                ("/about/", "เกี่ยวกับ"),
+                #                ("/code-war/", "Code War"),
                 ("/party/", "ปาร์ตี้"),
-                ("/staff/", "เจ้าหน้าที่"),
+#                ("/staff/", "เจ้าหน้าที่"),
                 ("/code-of-conduct/", "หลักจริยธรรม"),
                 ("mailto:contact@pyconthailand.org", "ติดต่อ"),
+                ("/pycon2018", "คลังโพสต์ 2018"),
             ),
             "งาน"
         ),
-        ("/#sponsorship", "ผู้สนับสนุน"),
-#         (
+        ("/buy-tickets/", "ซื้อบัตร"),
+        #         (
 #             (
 #                 ("/sponsors/", "ผู้สนับสนุน"),
 #                 ("/sponsorship/", "การสนับสนุน"),
 #             ),
 #             "ผู้สนับสนุน"
 #         ),
-        ('/en/#news', 'News'),
-        ('/venue/', 'สถานที่'),
-        ( ("/pycon2018", "2018"), "คลังโพสต์"),
 #        ("/categories/", "หมวดหมู่"),
-        ("/rss.xml", "ฟีด RSS"),
+#        ("/rss.xml", "ฟีด RSS"),
     ),
 
     "en": (
-          ("/en/buy-tickets/", "Buy Tickets"),
-          ("/en/schedule/", "Talk Schedule"),
-          (
-              (
-                  ("/en/presentation-advice/", "Presentation Advice"),
-                  ("/en/#submission", "Submit Talk Proposal"),
-                  ("/en/speakers/", "Speakers"),
-                  ("/en/#keynotes", "Keynotes"),
-#                  ("/about/", "About"),
-#                 ("/en/code-war/", "Code War (Friday)"),
-                  ("/en/party/", "Party"),
-                  ("/en/staff/", "Staff"),
-                  ("/en/code-of-conduct/", "Code of Conduct"),
-                  ("mailto:contact@pyconthailand.org", "Contact"),
-              ),
-              "Event"
-             ),
-        ("/en/#sponsorship", "Sponsorship"),
-#        (
+        ("/en/venue/", "Venue",),
+        ("/en/schedule/", "Schedule"),
+        ("/en/sponsorship/", "Sponsors"),
+        ('/en/#news', 'News'),
+        (
+            (
+                ("/en/presentation-advice/", "Presentation Advice"),
+                ("/en/#submission", "Submit Talk Proposal"),
+                ("/en/speakers/", "Speakers"),
+                ("/en/#keynotes", "Keynotes"),
+                #                  ("/about/", "About"),
+                #                 ("/en/code-war/", "Code War (Friday)"),
+                ("/en/party/", "Party"),
+#                ("/en/staff/", "Staff"),
+                ("/en/code-of-conduct/", "Code of Conduct"),
+                ("mailto:contact@pyconthailand.org", "Contact"),
+                ("/pycon2018/en", "PyCon Thailand 2018 Archive"),
+            ),
+            "Event"
+        ),
+        ("/en/buy-tickets/", "Tickets"),
+        #        (
 #            (
 #                ("/sponsors/", "Sponsors"),
 #                ("/en/sponsorship/", "Sponsorship"),
 #            ),
 #            "Sponsorship"
 #        ),
-        ("/en/venue/", "Conference venue",),
 #        (
 #            (
 #                ("/en/venue/", "Conference venue",),
@@ -204,10 +206,8 @@ NAVIGATION_LINKS = {
 #            ),
 #           "Venue"
 #        ),
-        ('/en/#news', 'News'),
-        ( ("/pycon2018/en", "2018"), "Archive"),
 #        ("/en/categories/", "Tags"),
-        ("/en/rss.xml", "RSS feed"),
+#        ("/en/rss.xml", "RSS feed"),
     ),
 }
 
@@ -1013,7 +1013,7 @@ CONTENT_FOOTER = """
       </div>
       <div class="about-block">
         <h3 class="about-header ml-24">Co-Organized By</h3>
-        <img class="block" alt="Thai Programmer's Association Logo" src="/tpalogo.png" />
+        <a href="https://www.thaiprogrammer.org/"><img class="block" alt="Thai Programmer's Association Logo" src="/tpalogo.png" /></a>
       </div>
     </div>
 
