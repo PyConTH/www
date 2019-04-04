@@ -1,5 +1,5 @@
 # www
-Conference website
+Conference website: https://th.pycon.org/
 
 Netlify is watching this repo. When you push to it, the site will be built.
 For now, the URL is https://serene-mestorf-5c91d0.netlify.com/ 
