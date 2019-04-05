@@ -18,7 +18,7 @@ Introduction
 
 There are many good references regarding how to give an effective talk — that is, a technical presentation, whether at a conference,
 to your research group, or as an invited speaker at another university or research laboratory.
-This page cannot replace them, but it does briefly note a few issyra very frequently seen in talks.
+This page cannot replace them, but it does briefly note a few problems very frequently seen in talks.
 
 Get feedback by giving a practice talk! One of the most effective ways to improve your work is to see the reactions
 of others and get their ideas and advice.
@@ -140,7 +140,9 @@ Just as you practice your talk, practice answering questions — both the ones t
 When an audience member asks a question, it is a good idea to repeat the question, asking the questioner whether you have understood it, before answering the question. This has three benefits.
 
 You ensure that you have understood the question. When thinking under pressure, it can be far too easy to jump to conclusions, and it is bad to answer a question different than the one that was asked. A related benefit is that you get to frame the question in your own words or from your own viewpoint.
+
 You give yourself a few moments to think about your answer.
+
 If the audience member does not have a microphone, the rest of the audience may not have been able to hear the question clearly.
 Be willing to answer a question with “no” or “I don't know”. You will get into more trouble if you try to blather on or to make up an answer on the fly.
 
