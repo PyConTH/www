@@ -1,3 +1,11 @@
+.. title: How To Give A PyCon Presentation
+.. slug: presentation-advice
+.. date: 2019-04-05 10:22:54 UTC+07:00
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
 
 คำแนะนำการนำเสนอในงาน PyCon ที่จัดทำขึ้นนี้ได้รับอนุญาต Prof. Michael Ernst โดยคุณสามารถอ่านบทความต้นฉบับได้ที่ 
 https://homes.cs.washington.edu/~mernst/advice/giving-talk.html
