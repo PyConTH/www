@@ -2,7 +2,6 @@
 .. slug: venue
 .. date: 2019-04-06 22:56:21 UTC+07:00
 .. type: text
-.. status: draft
 
 True Digital Park is Thailand’s first and Southeast Asia’s largest startup and tech entrepreneurs campus. Spanning over 200,000 sq.m, the emerging innovation district “Bangkok CyberTech”, giving vast expansion opportunities across digital domains and geographic spaces.
 
