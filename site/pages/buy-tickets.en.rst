@@ -22,8 +22,9 @@ Purchase tickets via `Ticket Melon <https://www.ticketmelon.com/thaiprogrammer/p
 .. image:: /earlybirdtickets.png
 
 .. container:: jumbotron clearfix
+
     Get your tickets now
+
     .. raw:: html
 
           <a class="btn btn-primary btn-lg active" href="https://www.ticketmelon.com/thaiprogrammer/pycon2019">Buy Tickets</a>
-          
