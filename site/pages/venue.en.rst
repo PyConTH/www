@@ -5,7 +5,7 @@
 .. category: 
 .. link: 
 .. description: 
-.. type: macro
+.. type: text
 
 True Digital Park
 =================
