@@ -23,7 +23,7 @@
 หากบริษัทของคุณจ่ายให้คุณโปรดทราบว่าคุณสามารถรับใบแจ้งหนี้ภาษีกับตั๋วปกติได้เท่านั้น
 ซื้อตั๋วของคุณผ่านตั๋วเมล่อนตอนนี้!
 
-.. image:: /earlybirdtickets.png
+.. image:: site/files/earlybirdtickets.png
 
 .. container:: jumbotron clearfix
 
