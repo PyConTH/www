@@ -21,11 +21,12 @@ Pycon will be hosting 3 tracks over the 2 days conference Track 1 at the Auditor
 https://www.truedigitalpark.com/
 
 .. image:: /venue/1.jpg
-
+|
 .. image:: /venue/2.jpg
-
+|
 .. image:: /venue/3.jpg
-
+|
 .. image:: /venue/4.jpg
-
+|
 .. image:: /venue/5.jpg
+|
