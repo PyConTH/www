@@ -169,7 +169,6 @@ NAVIGATION_LINKS = {
             ), 
             "Venue"
         ),
-        ("/en/venue/", "Venue",),
         ("/en/schedule/", "Schedule"),
         ("/en/sponsorship/", "Sponsors"),
         ('/en/#news', 'News'),
