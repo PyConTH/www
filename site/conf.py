@@ -158,18 +158,17 @@ NAVIGATION_LINKS = {
             "งาน"
         ),
         ("/buy-tickets/", "ซื้อบัตร"),
-        #         (
-#             (
-#                 ("/sponsors/", "ผู้สนับสนุน"),
-#                 ("/sponsorship/", "การสนับสนุน"),
-#             ),
-#             "ผู้สนับสนุน"
-#         ),
-#        ("/categories/", "หมวดหมู่"),
-#        ("/rss.xml", "ฟีด RSS"),
     ),
 
     "en": (
+        (
+            (
+                ("/en/venue/", "Venue"),
+                ("/en/accommodation/", "Accommodation"),
+                ("/en/transportation/", "Transportation"),
+            ), 
+            "Venue"
+        ),
         ("/en/venue/", "Venue",),
         ("/en/schedule/", "Schedule"),
         ("/en/sponsorship/", "Sponsors"),
@@ -180,10 +179,7 @@ NAVIGATION_LINKS = {
                 ("/en/#submission", "Submit Talk Proposal"),
                 ("/en/speakers/", "Speakers"),
                 ("/en/#keynotes", "Keynotes"),
-                #                  ("/about/", "About"),
-                #                 ("/en/code-war/", "Code War (Friday)"),
                 ("/en/party/", "Party"),
-#                ("/en/staff/", "Staff"),
                 ("/en/code-of-conduct/", "Code of Conduct"),
                 ("mailto:contact@pyconthailand.org", "Contact"),
                 ("/pycon2018/en", "PyCon Thailand 2018 Archive"),
@@ -191,23 +187,6 @@ NAVIGATION_LINKS = {
             "Event"
         ),
         ("/en/buy-tickets/", "Tickets"),
-        #        (
-#            (
-#                ("/sponsors/", "Sponsors"),
-#                ("/en/sponsorship/", "Sponsorship"),
-#            ),
-#            "Sponsorship"
-#        ),
-#        (
-#            (
-#                ("/en/venue/", "Conference venue",),
-#                ("/en/venue/#accommodation", "Hotels and accommodation",),
-#                ("/en/venue/#transportation", "Transportation (trains and taxis)",),
-#            ),
-#           "Venue"
-#        ),
-#        ("/en/categories/", "Tags"),
-#        ("/en/rss.xml", "RSS feed"),
     ),
 }
 
