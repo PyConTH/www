@@ -159,7 +159,6 @@ NAVIGATION_LINKS = {
         ),
         ("/buy-tickets/", "ซื้อบัตร"),
     ),
-
     "en": (
         (
             (
