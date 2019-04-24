@@ -1230,3 +1230,7 @@ a:hover {
 hr {
   border-top: 2px solid rgba(0, 0, 0, 0.2);
 }
+
+p {
+  margin-bottom: 1rem !important;
+}
