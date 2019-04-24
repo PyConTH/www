@@ -1,8 +1,37 @@
 import json
+import datetime as dt
 
-talks = json.load(open('talks.json'))
-accepted_talks = [talk for talk in talks if talk['state'] == 'accepted']
 
+talks = json.load(open('PyCon Thailand 2019 Submissions.json'))
+accepted_talks = [talk for talk in talks if talk['state'] == 'accepted' and talk["confirmed"]]
+accepted_talks.sort(key=lambda x: x["name"])
+
+#talk_page = """
+#.. class:: clearfix
+
+#{title_block}
+
+#Format: {talk_format}
+
+#Abstract
+#--------
+
+#{abstract}
+
+#Description
+#-----------
+
+#{description}
+
+#{name_block}
+
+#Bio
+#---
+
+#{bio}
+
+#-------
+#"""
 talk_page = """
 .. class:: clearfix
 
@@ -14,13 +43,6 @@ Abstract
 --------
 
 {abstract}
-
-Description
------------
-
-{description}
-
-{name_block}
 
 Bio
 ---
@@ -73,6 +95,17 @@ name_block = """
 {link_block}
 """
 
+header = """
+.. title: Speakers
+.. slug: speakers
+.. date: {}
+.. tags: 
+.. category: 
+.. link: 
+.. description: List of confirmed speakers.
+.. type: macro
+"""
+print(header.format(dt.datetime.now().strftime("%Y-%m-%d %H:%M:%S UTC+07:00")))
 
 speakers = {}
 
