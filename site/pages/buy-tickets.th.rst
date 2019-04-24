@@ -1,5 +1,5 @@
 .. title: ซื้อตั๋ว
-.. slug: ซื้อตั๋ว
+.. slug: buy-tickets
 .. date: 2019-04-22 00:00:00 UTC+07:00
 .. tags: 
 .. category: 
