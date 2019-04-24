@@ -1,10 +1,13 @@
 import json
 import datetime as dt
+import html2text
 
 
 talks = json.load(open('PyCon Thailand 2019 Submissions.json'))
 accepted_talks = [talk for talk in talks if talk['state'] == 'accepted' and talk["confirmed"]]
 accepted_talks.sort(key=lambda x: x["name"])
+for x in accepted_talks:
+    x['bio'] = html2text.html2text(x['bio'])
 
 #talk_page = """
 #.. class:: clearfix
