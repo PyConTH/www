@@ -158,7 +158,7 @@ NAVIGATION_LINKS = {
             "งาน"
         ),
         ("/buy-tickets/", "ซื้อบัตร"),
-    ),
+
     "en": (
         (
             (
