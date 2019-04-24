@@ -4,8 +4,9 @@
 .. tags: 
 .. category: 
 .. link: 
-.. description: 
+.. description: Buy tickets
 .. type: text
+
 
 
 ทีมงาน PyCon Thailand และสมาคมโปรแกรมเมอร์แห่งประเทศไทย ยินดีที่จะประกาศให้ทุกคนได้ทราบว่า พวกเราเปิดขายตั๋วเข้าร่วมงานแล้วบน Ticketmelon 
