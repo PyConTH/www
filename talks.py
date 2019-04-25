@@ -1,9 +1,16 @@
 import json
+import datetime as dt
+import html2text
 
-talks = json.load(open('talks.json'))
-accepted_talks = [talk for talk in talks if talk['state'] == 'accepted']
+
+talks = json.load(open('PyCon Thailand 2019 Submissions.json'))
+accepted_talks = [talk for talk in talks if talk['state'] == 'accepted' and talk["confirmed"]]
+accepted_talks.sort(key=lambda x: x["name"])
+for x in accepted_talks:
+    x['bio'] = html2text.html2text(x['bio'])
 
 talk_page = """
+
 .. class:: clearfix
 
 {title_block}
@@ -15,19 +22,11 @@ Abstract
 
 {abstract}
 
-Description
------------
-
-{description}
-
-{name_block}
-
 Bio
 ---
 
 {bio}
 
--------
 """
 
 twitter_block = """
@@ -52,7 +51,7 @@ avatar_block = """
     :alt: {name}
     :height: 200px
     :align: right
-    :class: img-circle img-responsive 
+    :class: img-circle img-responsive
 
 """
 
@@ -73,6 +72,17 @@ name_block = """
 {link_block}
 """
 
+header = """
+.. title: Speakers
+.. slug: speakers
+.. date: {}
+.. tags:
+.. category:
+.. link:
+.. description: List of confirmed speakers.
+.. type: macro
+"""
+print(header.format(dt.datetime.now().strftime("%Y-%m-%d %H:%M:%S UTC+07:00")))
 
 speakers = {}
 
