@@ -1,12 +1,13 @@
 
 .. title: Speakers
 .. slug: speakers
-.. date: 2019-04-24 14:48:38 UTC+07:00
-.. tags: 
-.. category: 
-.. link: 
+.. date: 2019-04-25 15:06:29 UTC+07:00
+.. tags:
+.. category:
+.. link:
 .. description: List of confirmed speakers.
 .. type: macro
+
 
 
 .. class:: clearfix
@@ -41,7 +42,7 @@ Bio
 
 
 
--------
+
 
 
 .. class:: clearfix
@@ -88,7 +89,7 @@ like.
 
 
 
--------
+
 
 
 .. class:: clearfix
@@ -124,7 +125,7 @@ she likes to paint nature, explore new places and anchor live shows
 
 
 
--------
+
 
 
 .. class:: clearfix
@@ -155,7 +156,7 @@ focused in Informatics Engineering from Telkom University.
 
 
 
--------
+
 
 
 .. class:: clearfix
@@ -187,7 +188,7 @@ professionals.
 
 
 
--------
+
 
 
 .. class:: clearfix
@@ -224,7 +225,7 @@ podcast downloader https://github.com/m3nu/upodder
 
 
 
--------
+
 
 
 .. class:: clearfix
@@ -253,7 +254,7 @@ and start-ups.
 
 
 
--------
+
 
 
 .. class:: clearfix
@@ -283,7 +284,7 @@ read a lot of science fiction and hug cats.
 
 
 
--------
+
 
 
 .. class:: clearfix
@@ -312,7 +313,7 @@ time baking sweet treats and watching Rick and Morty.
 
 
 
--------
+
 
 
 .. class:: clearfix
@@ -358,5 +359,4 @@ initiative.
 
 
 
--------
 

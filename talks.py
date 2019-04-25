@@ -9,33 +9,8 @@ accepted_talks.sort(key=lambda x: x["name"])
 for x in accepted_talks:
     x['bio'] = html2text.html2text(x['bio'])
 
-#talk_page = """
-#.. class:: clearfix
-
-#{title_block}
-
-#Format: {talk_format}
-
-#Abstract
-#--------
-
-#{abstract}
-
-#Description
-#-----------
-
-#{description}
-
-#{name_block}
-
-#Bio
-#---
-
-#{bio}
-
-#-------
-#"""
 talk_page = """
+
 .. class:: clearfix
 
 {title_block}
@@ -52,7 +27,6 @@ Bio
 
 {bio}
 
--------
 """
 
 twitter_block = """
@@ -77,7 +51,7 @@ avatar_block = """
     :alt: {name}
     :height: 200px
     :align: right
-    :class: img-circle img-responsive 
+    :class: img-circle img-responsive
 
 """
 
@@ -102,9 +76,9 @@ header = """
 .. title: Speakers
 .. slug: speakers
 .. date: {}
-.. tags: 
-.. category: 
-.. link: 
+.. tags:
+.. category:
+.. link:
 .. description: List of confirmed speakers.
 .. type: macro
 """
