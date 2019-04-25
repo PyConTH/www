@@ -140,7 +140,7 @@ NAVIGATION_LINKS = {
         ('/venue/', 'สถานที่'),
         ("/schedule/", "ตารางเวลาการพูด"),
         ("/sponsorship/", "ผู้สนับสนุน"),
-        ('/#news', 'ข่าวสาร'),
+        ('/posts', 'ข่าวสาร'),
         (
             (
                 ("/presentation-advice/", "คำแนะนำในการนำเสนอ"),
@@ -170,7 +170,7 @@ NAVIGATION_LINKS = {
         ),
         ("/en/schedule/", "Schedule"),
         ("/en/sponsorship/", "Sponsors"),
-        ('/en/#news', 'News'),
+        ('/en/posts', 'News'),
         (
             (
                 ("/en/presentation-advice/", "Presentation Advice"),
