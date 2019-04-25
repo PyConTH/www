@@ -48,7 +48,7 @@ We can't put on a great show without some great sponsors.
 
 Here is your chance to reach the decision makers and developers from hundreds of top companies.
 Pycon Thailand has a capacity of up to 250 attendees and there are sponsorship opportunities to
-fit any budget. Be part of the first ever Python conference in Thailand and help us make history.
+fit any budget. Be part of the one and only international Python conference in Thailand!.
 
 
 Sponsorship packages

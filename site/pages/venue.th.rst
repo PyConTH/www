@@ -1,26 +1,32 @@
-.. title: สถานที่
+.. title: สถานที่จัดงาน
 .. slug: venue
-.. date: 2019-03-07 12:20:00 UTC+07:00
-.. tags:
-.. category:
-.. link:
-.. description:
+.. date: 2019-04-23 22:56:21 UTC+07:00
 .. type: text
 
 True Digital Park
 =================
 
-True Digital Park is Thailand’s first and Southeast Asia’s largest startup and
-tech entrepreneurs campus, spanning over 200,000 sq.m. As a critical driver to
-the development of the startup and innovation ecosystem in Thailand all under
-one roof with startups, entrepreneurs, tech companies investors, accelerators,
-incubators, academies and government agencies. This destination features a wide
-range of world-class business and lifestyle offerings with a combination of
-campus area, lifestyle area and residential area. Situated in the East of
-Bangkok - right off Punnawithi BTS Station and located in the emerging Bangkok
-CyberTech District (Innovation District), giving vast expansion opportunities
-across digital domains and geographical spaces. And because we understand
-location is everything, True Digital Park has branches in Bangkok’s prime area
-with BTS access.
+True Digital Park เป็นสถานที่แห่งแรกในไทยที่เหล่าผู้ก่อตั้ง startup และบริษัทเกี่ยวกับเทคโนโลยี มักจะมารวมตัวกัน มีพื้นที่กว่า 200,000 ตารางเมตร โดยย่านนวัตกรรม Bangkok CyberTech ที่กำลังเกิดขึ้นใหม่นั้น ได้ให้โอกาสมากมายในการขยายตัวเกี่ยวกับดิจิตอล และการขยายตัวในเชิงพื้นที่
+ทรู ดิจิตอล พาร์คเป็นตัวขับเคลื่อนที่สำคัญสำหรับการผลักดันสตาร์ทอัพและนวัตกรรมในประเทศไทยภายใต้ความร่วมมือของเหล่าสตาร์ทอัพ, ผู้ประกอบการ, นักลงทุน, แอซเซเลเรเตอร์, อินคิวเบเตอร์, สถาบันการศึกษา และหน่วยงานรัฐบาล ที่แห่งนี้เป็นศูนย์รวมความหลากหลายของไลฟ์สไตล์และธุรกิจระดับโลกรวมถึงเป็นพื้นที่ที่ผสมผสานระหว่างพื้นที่แห่งการเรียนรู้ ไลฟ์สไตล์ และที่อยู่อาศัย
 
-https://www.truedigitalpark.com/
+ทรู ดิจิตอล พาร์ค ตั้งอยู่ทางตะวันออกของกรุงเทพฯ เดินเพียง 5 นาทีจากสถานีรถไฟฟ้าปุณณวิถีและ 10 นาทีจากใจกลางเมืองอโศก
+ในงาน Pycon นั้นจะมีด้วยกัน 3 track ซึ่งจัดขึ้นในเวลา 2 วัน โดย track ที่ 1 จะจัดขึ้นที่หอประชุม (Auditorium), track ที่ 2 จะจัดขึ้นที่ห้องโถง (Townhall) และใน track ที่ 3 จะจัดขึ้นที่ห้องเวิร์คชอป (Workshop room) ด้วยการที่เป็นพื้นที่เปิด True Digital Park ได้เปิดโอกาสให้เกิดการปฏิสัมพันธ์ทางสังคมระหว่าง ผู้ฟัง ผู้พูด และ สปอนเซอร์ และเรายังมีร้านค้ากว่า 200 ร้านในงาน ได้แก่ร้านหนังสือ ร้านขายยา คาเฟ่ ร้านอาหาร และสวนอาหาร
+สำหรับข้อมูลเพิ่มเติม สามารถดูได้ที่เว็บไซต์ของเรา: https://th.pycon.org/
+
+.. image:: /venue/1.jpg
+
+-----------
+
+.. image:: /venue/2.jpg
+
+-----------
+
+.. image:: /venue/3.jpg
+
+-----------
+
+.. image:: /venue/4.jpg
+
+-----------
+
+.. image:: /venue/5.jpg
