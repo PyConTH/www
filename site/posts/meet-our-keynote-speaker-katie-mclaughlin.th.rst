@@ -1,5 +1,5 @@
 .. title: เตรียมพบกับผู้บรรยายคนสำคัญ Katie McLaughlin!
-.. slug: meet-our-keynote-katie-mclaughlin
+.. slug: meet-our-keynote-speaker-katie-mclaughlin
 .. date: 2019-04-24 22:44:00 UTC+07:00
 .. status: published
 .. type: text
@@ -14,6 +14,6 @@ Katie ได้ทำงานหลายอย่างในช่วงห�
 
 #pyconth2019 #pycon #pycon2019 #python
 
-สำหรับข้อมูลเพิ่มเติม สามารถดูได้ที่ https://th.pycon.org/
+.. image:: /Pycon19-Katie.jpg
 
-.. image:: /russell-poster.png
+สำหรับข้อมูลเพิ่มเติม สามารถดูได้ที่ https://th.pycon.org/
