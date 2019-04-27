@@ -20,7 +20,5 @@ Buy your tickets via Ticket Melon now!
 
 ![early bird tickets final round](/earlybirdticketsfinal.jpg)
 
-It’s gone too fast!
-
 
 Buy your tickets via [Ticket Melon](https://www.ticketmelon.com/thaiprogrammer/pycon2019/) now!
