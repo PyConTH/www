@@ -14,11 +14,10 @@ If you can afford it, we encourage you to purchase a regular ticket as it enable
 You'll be helping us build a Python community event that is accessible to more people.
 If your company is paying for you, please note that you can only get a tax invoice with the regular ticket.
 
-Buy your tickets via Ticket Melon now!
+Buy your tickets via [Ticket Melon](https://www.ticketmelon.com/thaiprogrammer/pycon2019/) now!
 
 #pyconth2019 #pycon #pycon2019 #python
 
 ![early bird tickets final round](/earlybirdticketsfinal.jpg)
 
 
-Buy your tickets via [Ticket Melon](https://www.ticketmelon.com/thaiprogrammer/pycon2019/) now!
