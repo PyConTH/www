@@ -21,4 +21,4 @@ Buy your tickets via Ticket Melon now!
 It’s gone too fast!
 
 
-Buy your tickets via `Ticket Melon<https://www.ticketmelon.com/thaiprogrammer/pycon2019/>`_. now!
+Buy your tickets via `Ticket Melon <https://www.ticketmelon.com/thaiprogrammer/pycon2019/>`_. now!
