@@ -61,4 +61,4 @@ Contact
 
 If your company is interested in sponsoring Python in Thailand
 email us `Email PyCon Sponsorship Team
-<mailto:sponsorship@pythonthailand.org>`_
+<mailto:sponsorship@pyconthailand.org>`_
