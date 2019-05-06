@@ -11,6 +11,6 @@ For those who need to submit tax claims, please note that invoices will be issue
 
 #pyconth2019 #pycon #pycon2019 #python
 
-Get your tickets via Ticket Melon <https://www.ticketmelon.com/thaiprogrammer/pycon2019/>`_ now!
+Get your tickets via `Ticket Melon <https://www.ticketmelon.com/thaiprogrammer/pycon2019/>`_ now!
 
 .. image:: /early_bird_tickets_sold_out.jpg
