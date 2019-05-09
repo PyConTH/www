@@ -18,7 +18,7 @@ Contact us
 Gold Sponsors
 =============
 
-Contact us
+SOLD OUT 
 
 Silver Sponsors
 ===============
