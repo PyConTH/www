@@ -13,12 +13,12 @@ Their funds help to subsidize tickets and make the event a success all round.
 Platinum Sponsors
 =================
 
-Contact us
+SOLD OUT 
 
 Gold Sponsors
 =============
 
-SOLD OUT 
+Contact us
 
 Silver Sponsors
 ===============
