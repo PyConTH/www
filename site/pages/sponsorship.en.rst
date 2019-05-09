@@ -22,7 +22,7 @@ Contact us
 Gold Sponsors
 =============
 
-Contact us
+SOLD OUT
 
 .. class:: text-center
 
