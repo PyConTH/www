@@ -190,6 +190,9 @@ body {
   padding-right: 3.5rem;
   text-transform: uppercase;
   position: relative;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  display: inline-block;
 }
 
 .btn-primary:after {
