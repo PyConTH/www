@@ -1,7 +1,7 @@
 .. title: It’s your last chance to submit your talk! 
 .. slug: last-call-for-talks
 .. date: 2019-05-14 21:58:42 UTC+07:00
-.. type: text
+.. type: micro
 
 
 We thank you for your great support!  We have really good response this year but we’re still open for your ideas if you have not submitted yet. 
