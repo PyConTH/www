@@ -1338,10 +1338,17 @@ p {
 
 .features {
   display: flex;
+  flex-wrap: wrap;
   width: 100%;
   margin-top: 4rem;
   margin-bottom: 4rem;
   justify-content: space-around;
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
+
+.features > .item:not(:last-of-type) {
+  margin-right: 1rem;
 }
 
 .features > .item > img {
