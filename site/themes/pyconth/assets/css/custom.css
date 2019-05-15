@@ -1255,6 +1255,31 @@ p {
   margin-right: 1rem;
 }
 
+.sponsors-card img {
+  margin-left: auto;
+  margin-right: auto;
+}
+.sponsors-link--platinum {
+  width: 50%;
+}
+
+.sponsors-link--gold {
+  width: 33.33%;
+}
+
+.sponsors-link--silver {
+  width: 25%;
+}
+
+.sponsors-link--individual {
+  width: 20%;
+}
+
+.sponsors-link--partner {
+  height: 200px;
+  max-width: 33.33%;
+}
+
 .sponsors-subhead {
   color: var(--grey-light);
   text-transform: uppercase;
@@ -1327,6 +1352,7 @@ p {
   margin-bottom: 1rem;
   font-weight: bold;
 }
+
 .features > .item {
   width: 300px;
 }
