@@ -1280,13 +1280,18 @@ p {
   max-width: 33.33%;
 }
 
-.sponsors-subhead {
+.sponsors-section > .sponsors-subhead {
   color: var(--grey-light);
   text-transform: uppercase;
   font-weight: bolder;
   font-size: 1rem;
   letter-spacing: 1px;
   margin-bottom: 2rem;
+  font-style: normal;
+}
+
+.sponsors-section > .sponsors-subhead--black {
+  color: var(--black);
 }
 
 .sponsors-link:hover .sponsors-card,
