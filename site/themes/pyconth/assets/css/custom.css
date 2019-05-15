@@ -1255,17 +1255,109 @@ p {
   margin-right: 1rem;
 }
 
-.sponsors-subhead {
+.sponsors-card img {
+  margin-left: auto;
+  margin-right: auto;
+}
+.sponsors-link--platinum {
+  width: 50%;
+}
+
+.sponsors-link--gold {
+  width: 33.33%;
+}
+
+.sponsors-link--silver {
+  width: 25%;
+}
+
+.sponsors-link--individual {
+  width: 20%;
+}
+
+.sponsors-link--partner {
+  height: 200px;
+  max-width: 33.33%;
+}
+
+.sponsors-section > .sponsors-subhead {
   color: var(--grey-light);
   text-transform: uppercase;
   font-weight: bolder;
   font-size: 1rem;
   letter-spacing: 1px;
   margin-bottom: 2rem;
+  font-style: normal;
+}
+
+.sponsors-section > .sponsors-subhead--black {
+  color: var(--black);
 }
 
 .sponsors-link:hover .sponsors-card,
 .sponsors-link:focus .sponsors-card {
   background: var(--black);
   transition: 200ms all ease-out;
+}
+
+.schedule-row {
+  display: flex;
+  margin-bottom: 1rem;
+}
+.circle {
+  height: 36px;
+  width: 36px;
+  border: 6px solid black;
+  opacity: 0.25;
+  border-radius: 100%;
+}
+
+.line {
+  height: calc(100% - 36px);
+  border-left: 5px solid black;
+  opacity: 0.25;
+  margin-top: 10px;
+  margin-left: 15px;
+}
+
+.schedule-right {
+  margin-left: 2rem;
+  text-align: left;
+}
+
+.schedule-header {
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 1rem;
+  display: inline-block;
+  font-size: 2rem;
+  line-height: 1;
+  text-transform: uppercase;
+}
+
+.features {
+  display: flex;
+  width: 100%;
+  margin-top: 4rem;
+  margin-bottom: 4rem;
+  justify-content: space-around;
+}
+
+.features > .item > img {
+  margin-bottom: 1rem;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 150px;
+}
+
+.features > .item > h3 {
+  font-size: 1.5rem;
+  text-align: center;
+  margin-bottom: 1rem;
+  font-weight: bold;
+}
+
+.features > .item {
+  width: 300px;
 }
