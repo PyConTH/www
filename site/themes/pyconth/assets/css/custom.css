@@ -1,25 +1,21 @@
 /* shared */
 @font-face {
-  font-family: "FC Active";
-  src: local("FC Active Regular"), local("FCActiveRegular"),
-    url("/FCActiveRegular.woff2") format("woff2");
+  font-family: 'FC Active';
+  src: local('FC Active Regular'), local('FCActiveRegular'), url('/FCActiveRegular.woff2') format('woff2');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
-  font-family: "FC Active";
-  src: local("FC Active Italic"), local("FCActiveItalic"),
-    url("/FCActiveItalic.woff2") format("woff2");
+  font-family: 'FC Active';
+  src: local('FC Active Italic'), local('FCActiveItalic'), url('/FCActiveItalic.woff2') format('woff2');
   font-weight: normal;
   font-style: italic;
 }
 
 :root {
-  --font-primary: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI",
-    Roboto, "Helvetica Neue", Arial, "FC Active", sans-serif;
-  --font-secondary: "Montserrat", Garamond, "Hoefler Text", Palatino,
-    "Palatino Linotype", "FC Active", serif;
+  --font-primary: 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'FC Active', sans-serif;
+  --font-secondary: 'Montserrat', Garamond, 'Hoefler Text', Palatino, 'Palatino Linotype', 'FC Active', serif;
   --font-bold: 700;
   --font-extrabold: 800;
 
@@ -36,14 +32,14 @@ body {
   font-family: var(--font-primary);
 }
 
-[class*="title"] {
+[class*='title'] {
   position: relative;
   display: inline-block;
   margin-top: 40px;
 }
 
 .red-followline:after {
-  content: "";
+  content: '';
   position: absolute;
   bottom: 10px;
   right: -50px;
@@ -53,7 +49,7 @@ body {
 }
 
 .red-prepostline:before {
-  content: "";
+  content: '';
   position: absolute;
   bottom: 0px;
   width: 50px;
@@ -63,7 +59,7 @@ body {
 }
 
 .red-prepostline:after {
-  content: "";
+  content: '';
   position: absolute;
   bottom: 0px;
   width: 50px;
@@ -75,12 +71,7 @@ body {
 /* home page */
 
 .first {
-  background-image: radial-gradient(
-    circle at bottom center,
-    yellow,
-    var(--orange) 60%,
-    var(--orange)
-  );
+  background-image: radial-gradient(circle at bottom center, yellow, var(--orange) 60%, var(--orange));
   /* background-size: 100% 100%; */
   min-height: calc(100vh - 54px);
 }
@@ -196,7 +187,7 @@ body {
 }
 
 .btn-primary:after {
-  content: ">";
+  content: '>';
   background-color: #d72861;
   height: 100%;
   position: absolute;
@@ -229,7 +220,7 @@ body {
   position: relative;
 }
 .btn-primary:not(:disabled):not(.disabled).active:after {
-  content: ">";
+  content: '>';
   background-color: #d72861;
   height: 100%;
   position: absolute;
@@ -254,7 +245,7 @@ body {
 /*Keynote section*/
 
 .second {
-  background-image: url("/bg-01.png");
+  background-image: url('/bg-01.png');
   background-repeat: no-repeat;
   background-position: right;
 }
@@ -296,7 +287,7 @@ body {
   padding-top: 50px;
 }
 
-.keynote [class*="img-responsive"] {
+.keynote [class*='img-responsive'] {
   object-fit: cover;
   border-top: 4px solid #a9173f;
   border-radius: 0;
@@ -328,7 +319,7 @@ body {
   border-radius: 5px;
 }
 
-.keynote [class*="section"] p {
+.keynote [class*='section'] p {
   margin-bottom: 10px;
 }
 
@@ -419,7 +410,7 @@ body {
   padding-top: 25px;
 }
 
-.sponsor-section [class*="title"] {
+.sponsor-section [class*='title'] {
   color: white;
 }
 
@@ -528,14 +519,14 @@ body.path-frontpage header {
 body[class*="schedule"] table.table td span.pyladies { display: block; height: 100%; background: green; }
 */
 
-body[class*="schedule"] table,
-body[class*="schedule"] th,
-body[class*="schedule"] td {
+body[class*='schedule'] table,
+body[class*='schedule'] th,
+body[class*='schedule'] td {
   border-left: none;
   border-right: none;
 }
 
-body[class*="schedule"] table a {
+body[class*='schedule'] table a {
   font-weight: bold;
   color: black;
 }
@@ -599,13 +590,13 @@ table.table .fa:before {
 
 /* 1   * - 07:30 - Registration / :other:`PyLadies` */
 
-body[class*="schedule"] table.table.day1 tbody tr:nth-of-type(1) {
+body[class*='schedule'] table.table.day1 tbody tr:nth-of-type(1) {
   background-color: #ffe6e6;
 }
 
 /* 2   * - 08:00 - Registration */
 
-body[class*="schedule"] table.table.day1 tr:nth-of-type(2) {
+body[class*='schedule'] table.table.day1 tr:nth-of-type(2) {
   background-color: rgba(181, 160, 172, 0.3);
 }
 
@@ -615,7 +606,7 @@ body[class*="schedule"] table.table.day1 tr:nth-of-type(2) {
 
 /* 5   * - 09:55 - :break:`The Spanish Inquisition / Break` */
 
-body[class*="schedule"] table.table.day1 tr:nth-of-type(5) {
+body[class*='schedule'] table.table.day1 tr:nth-of-type(5) {
   background-color: rgba(181, 160, 172, 0.2);
 }
 
@@ -623,7 +614,7 @@ body[class*="schedule"] table.table.day1 tr:nth-of-type(5) {
 
 /* 7   * - 11:10 - :break:`Dog Kennel / Break` */
 
-body[class*="schedule"] table.table.day1 tr:nth-of-type(7) {
+body[class*='schedule'] table.table.day1 tr:nth-of-type(7) {
   background-color: rgba(181, 160, 172, 0.2);
 }
 
@@ -633,7 +624,7 @@ body[class*="schedule"] table.table.day1 tr:nth-of-type(7) {
 
 /* 10   * - 12:40 - :break:`Spam, Spam, Egg, Bacon and Spam / Lunch Break` */
 
-body[class*="schedule"] table.table.day1 tr:nth-of-type(10) {
+body[class*='schedule'] table.table.day1 tr:nth-of-type(10) {
   background-color: rgba(181, 160, 172, 0.2);
 }
 
@@ -643,7 +634,7 @@ body[class*="schedule"] table.table.day1 tr:nth-of-type(10) {
 
 /* 13  * - 15:00 - :break:`Cycling Tour / Break` */
 
-body[class*="schedule"] table.table.day1 tr:nth-of-type(13) {
+body[class*='schedule'] table.table.day1 tr:nth-of-type(13) {
   background-color: rgba(181, 160, 172, 0.2);
 }
 
@@ -655,7 +646,7 @@ body[class*="schedule"] table.table.day1 tr:nth-of-type(13) {
 
 /* 17  * - 16:50 - :break:`Ministry of Silly Walks / Break` */
 
-body[class*="schedule"] table.table.day1 tr:nth-of-type(17) {
+body[class*='schedule'] table.table.day1 tr:nth-of-type(17) {
   background-color: rgba(181, 160, 172, 0.2);
 }
 
@@ -665,7 +656,7 @@ body[class*="schedule"] table.table.day1 tr:nth-of-type(17) {
 
 /* 1    * - 08:30 - :other:`Registration Opens /  Welcome Coffee` */
 
-body[class*="schedule"] table.table.day2 tbody tr:nth-of-type(1) {
+body[class*='schedule'] table.table.day2 tbody tr:nth-of-type(1) {
   background-color: rgba(181, 160, 172, 0.3);
 }
 
@@ -673,7 +664,7 @@ body[class*="schedule"] table.table.day2 tbody tr:nth-of-type(1) {
 
 /* 3    * - 09:40 - :break:`Fish Slapping Dance / Break` */
 
-body[class*="schedule"] table.table.day2 tr:nth-of-type(4) {
+body[class*='schedule'] table.table.day2 tr:nth-of-type(4) {
   background-color: rgba(181, 160, 172, 0.2);
 }
 
@@ -683,85 +674,85 @@ body[class*="schedule"] table.table.day2 tr:nth-of-type(4) {
 
 /* 6    * - 11:10 - :break:`Exploding Penguins on TV Set / Break` */
 
-body[class*="schedule"] table.table.day2 tr:nth-of-type(6) {
+body[class*='schedule'] table.table.day2 tr:nth-of-type(6) {
   background-color: rgba(181, 160, 172, 0.2);
 }
 
 /* 7    * - 11:20 - `Playing with Social Network, Geo-Spatial, Financial Flow, and Banking System Data: Graph-Theoretic Computation in Python`_ */
 
-body[class*="schedule"] table.table.day2 tr:nth-of-type(7) td:nth-of-type(3) {
+body[class*='schedule'] table.table.day2 tr:nth-of-type(7) td:nth-of-type(3) {
   background-color: rgba(181, 160, 272, 0.2);
 }
 
 /* 8    * - 12:05 - :break:`Lumberjack Song / Break` */
 
-body[class*="schedule"] table.table.day2 tr:nth-of-type(8) th {
+body[class*='schedule'] table.table.day2 tr:nth-of-type(8) th {
   background-color: rgba(181, 160, 172, 0.2);
 }
 
-body[class*="schedule"] table.table.day2 tr:nth-of-type(8) td:nth-of-type(1) {
+body[class*='schedule'] table.table.day2 tr:nth-of-type(8) td:nth-of-type(1) {
   background-color: rgba(181, 160, 172, 0.2);
 }
 
-body[class*="schedule"] table.table.day2 tr:nth-of-type(8) td:nth-of-type(2) {
+body[class*='schedule'] table.table.day2 tr:nth-of-type(8) td:nth-of-type(2) {
   background-color: rgba(181, 160, 172, 0.2);
 }
 
-body[class*="schedule"] table.table.day2 tr:nth-of-type(8) td:nth-of-type(3) {
+body[class*='schedule'] table.table.day2 tr:nth-of-type(8) td:nth-of-type(3) {
   background-color: rgba(181, 160, 272, 0.2);
 }
 
 /* 9    * - 12:15 - `Aaaarrgghh, Spider! Web scraping with Scrapy`_ :intermediate:`Intermediate` */
 
-body[class*="schedule"] table.table.day2 tr:nth-of-type(9) td:nth-of-type(3) {
+body[class*='schedule'] table.table.day2 tr:nth-of-type(9) td:nth-of-type(3) {
   background-color: rgba(181, 160, 272, 0.2);
 }
 
 /* 10   * - 12:45 - :break:`Salmon Mousse /  Lunch Break` */
 
-body[class*="schedule"] table.table.day2 tr:nth-of-type(10) {
+body[class*='schedule'] table.table.day2 tr:nth-of-type(10) {
   background-color: rgba(181, 160, 172, 0.2);
 }
 
 /* 11   * - 13:45 - `Enabling Blockchain Energy Trading among Smart Buildings through the Use of Multi-Agent Systems and Internet of Things Devices`_ */
 
-body[class*="schedule"] table.table.day2 tr:nth-of-type(11) td:nth-of-type(3) {
+body[class*='schedule'] table.table.day2 tr:nth-of-type(11) td:nth-of-type(3) {
   background-color: rgba(181, 160, 272, 0.2);
 }
 
 /* 12   * - 14:30 - :break:`Machine that goes "Ping!" / Break` */
 
-body[class*="schedule"] table.table.day2 tr:nth-of-type(12) th {
+body[class*='schedule'] table.table.day2 tr:nth-of-type(12) th {
   background-color: rgba(181, 160, 172, 0.2);
 }
 
-body[class*="schedule"] table.table.day2 tr:nth-of-type(12) td:nth-of-type(1) {
+body[class*='schedule'] table.table.day2 tr:nth-of-type(12) td:nth-of-type(1) {
   background-color: rgba(181, 160, 172, 0.2);
 }
 
-body[class*="schedule"] table.table.day2 tr:nth-of-type(12) td:nth-of-type(2) {
+body[class*='schedule'] table.table.day2 tr:nth-of-type(12) td:nth-of-type(2) {
   background-color: rgba(181, 160, 172, 0.2);
 }
 
-body[class*="schedule"] table.table.day2 tr:nth-of-type(12) td:nth-of-type(3) {
+body[class*='schedule'] table.table.day2 tr:nth-of-type(12) td:nth-of-type(3) {
   background-color: rgba(181, 160, 272, 0.2);
 }
 
 /* 13   * - 14:40 - `Python + XPath = Extra Parsing Power`_ :intermediate:`Intermediate` */
 
-body[class*="schedule"] table.table.day2 tr:nth-of-type(13) td:nth-of-type(3) {
+body[class*='schedule'] table.table.day2 tr:nth-of-type(13) td:nth-of-type(3) {
   background-color: rgba(181, 160, 272, 0.2);
 }
 
 /* 14    * - 15:15 - `Powerful geographic web framework GeoDjango`_ :beginner:`Beginner` */
 
-body[class*="schedule"] table.table.day2 tr:nth-of-type(14) td:nth-of-type(3) {
+body[class*='schedule'] table.table.day2 tr:nth-of-type(14) td:nth-of-type(3) {
   background-color: rgba(181, 160, 272, 0.2);
 }
 
 /* 15    * - 15:45 - :break:`Ni! / Break` */
 
-body[class*="schedule"] table.table.day2 tr:nth-of-type(15) {
+body[class*='schedule'] table.table.day2 tr:nth-of-type(15) {
   background-color: rgba(181, 160, 172, 0.2);
 }
 
@@ -1147,8 +1138,7 @@ header {
 .bg-footer {
   /* background: radial-gradient(yellow, orange); */
 
-  background: url("/footer-coconut-tree2.png") right bottom no-repeat,
-    radial-gradient(yellow, orange);
+  background: url('/footer-coconut-tree2.png') right bottom no-repeat, radial-gradient(yellow, orange);
   position: relative;
 }
 
@@ -1246,21 +1236,38 @@ p {
   margin-bottom: 3rem;
   margin-top: 2rem;
 }
+
+.sponsors-cards {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
 .sponsors-card {
-  background: var(--white);
-  box-shadow: 0 5px 5px rgba(0, 0, 0, 0.2);
-  padding: 1rem;
-  border-radius: 0.5rem;
-  margin-left: 1rem;
-  margin-right: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
 }
 
 .sponsors-card img {
   margin-left: auto;
   margin-right: auto;
 }
+
+.sponsors-link {
+  margin-bottom: 1rem;
+  background: var(--white);
+  box-shadow: 0 5px 5px rgba(0, 0, 0, 0.2);
+  padding: 1rem;
+  border-radius: 0.5rem;
+}
+
 .sponsors-link--platinum {
-  width: 50%;
+  width: 300px;
+  height: 300px;
 }
 
 .sponsors-link--gold {
@@ -1268,16 +1275,18 @@ p {
 }
 
 .sponsors-link--silver {
-  width: 25%;
+  width: 200px;
+  height: 200px;
 }
 
 .sponsors-link--individual {
-  width: 20%;
+  width: 150px;
+  height: 150px;
 }
 
 .sponsors-link--partner {
+  width: 200px;
   height: 200px;
-  max-width: 33.33%;
 }
 
 .sponsors-section > .sponsors-subhead {
@@ -1292,12 +1301,6 @@ p {
 
 .sponsors-section > .sponsors-subhead--black {
   color: var(--black);
-}
-
-.sponsors-link:hover .sponsors-card,
-.sponsors-link:focus .sponsors-card {
-  background: var(--black);
-  transition: 200ms all ease-out;
 }
 
 .schedule-row {
