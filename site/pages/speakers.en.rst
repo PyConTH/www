@@ -1,7 +1,7 @@
 
 .. title: Speakers
 .. slug: speakers
-.. date: 2019-05-16 18:56:59 UTC+07:00
+.. date: 2019-05-16 19:14:38 UTC+07:00
 .. tags:
 .. category:
 .. link:
@@ -39,7 +39,7 @@ Alex Khaerov
 Talk: Kill the mutants, protect your code!
 
 Biography
---------
+---------
 
 **Alex Khaerov** is a development lead at
 [Chainstack](https://chainstack.com), with 9+ years in web services
@@ -85,7 +85,7 @@ Anmol Krishan Sachdeva
 Talk: Understanding and Implementing Generative Adversarial Networks (GANs): One of the BIGGEST Breakthroughs in the Deep Learning Revolution
 
 Biography
---------
+---------
 
   * Currently, working as a Platform Software Engineer at Bigbasket, India (India's largest online food and grocery store).
   * MSc in Advanced Computing (Machine Learning, Artifical Intelligence, Robotics, Cloud Computing, and Computational Neuroscience), University of Bristol, United Kingdom.
@@ -132,7 +132,7 @@ Avi Aryan
 Talk: Cheaply deploy Python apps Heroku-style using Dokku
 
 Biography
---------
+---------
 
 Avi is a full-stack web engineer at Toptal with four years of professional
 experience. He has worked with most of the popular stack used on the web today
@@ -176,7 +176,7 @@ Avneet Kaur
 Talk: Demystifying Conversational AI with Python
 
 Biography
---------
+---------
 
 I am currently researching in the field of NLP and information retrieval as a
 project assistant at IIT Delhi. I am a recent graduate, and had been conferred
@@ -229,7 +229,7 @@ Charin
 Talk: How pyThaiNLP's thai2fit Outperforms Google's BERT: State-of-the-Art Thai Text Classification and Beyond
 
 Biography
---------
+---------
 
 My name is Charin Polpanumas and I am a data scientist with over five years of
 track records in Southeast Asia, Japan, and China. I have delivered data
@@ -276,7 +276,7 @@ Chie Hayashida
 Talk: Understanding of distributed processing in Python
 
 Biography
---------
+---------
 
 Chie Hayashida is a Software Engineer from Japan. She is working at
 Cookpad.Inc which is the worldwide recipe sharing service. She loves
@@ -318,7 +318,7 @@ Drishti Jain
 Talk: When life gives you Orange, make data speak volumes!
 
 Biography
---------
+---------
 
 Drishti is a Computer Engineer at heart and a technology enthusiast. She loves
 to use technology to help the less fortunate. She believes in democratizing
@@ -358,7 +358,7 @@ El
 Talk: Introduction to PyTorch
 
 Biography
---------
+---------
 
 Django REST lover, DevOps and ReactJS beginner. Studying ML in order to build
 my 7yrs old dream. An optical reader machine with text2speech.
@@ -397,7 +397,7 @@ Harley Davidson Karel
 Talk: Security Issues on your Python Code
 
 Biography
---------
+---------
 
 Application Security Consultant, Skilled in Security Requirement Engineering,
 Threat Modeling, Static Application Security Testing, Dynamic Application
@@ -440,7 +440,7 @@ Joe Chasinga
 Talk: Marlin: A Smali to Python Transpiler for Android Hacking
 
 Biography
---------
+---------
 
 I am a lead engineer working on Android and iOS instrumentations at HeadSpin
 Inc., a fast-growing mobile testing startup company based in Palo Alto. I have
@@ -479,7 +479,7 @@ Jonghwa Seo
 Talk: E-commerce for Django
 
 Biography
---------
+---------
 
 I love to develop software using Python/Django, and manage e-commerce website
 in Korea. I lived in Thailand for 4 years, and I taught some CS subjects in
@@ -519,7 +519,7 @@ Jorge Torres
 Talk: Machine Learning Democratization with Python
 
 Biography
---------
+---------
 
 Jorge Torres Is currently Co-founder & CTO of MindsDB and a visiting scholar
 at UC Berkeley researching machine learning automation and explainability. He
@@ -567,7 +567,7 @@ Joshua Arvin Lat
 Talk: Designing and Building Serverless Machine Learning-powered Applications with Python
 
 Biography
---------
+---------
 
 **Joshua Arvin Lat** is the **Chief Technology Officer** (CTO) of **Complete
 Business Online**. He previously served as the **Director for Software
@@ -605,7 +605,7 @@ Kavya NR
 Talk: Using deep learning to raise alarm when bug prone code is pushed
 
 Biography
---------
+---------
 
 Kavya is a Software Development Engineer I at Expedia Group. She completed her
 Bachelor of Technology in Computer Science at IIIT Allahabad in 2017. During
@@ -650,7 +650,7 @@ Korakot Chaovavanich
 Talk: Advanced Google Colaboratory
 
 Biography
---------
+---------
 
 I started working as a data scientist in July, 2016. Though I have been using
 regular expressions to clean data for years, since 1999. I finished an M.Phil
@@ -695,7 +695,7 @@ Manuel Riel
 Talk: Adding a GraphQL API to Django (with Vue.js frontend)
 
 Biography
---------
+---------
 
 I'm a serial online entrepreneur who is always looking to add useful products
 to the world – both open source and paid. My standard toolbox includes Python
@@ -738,7 +738,7 @@ Mark Hollow
 Talk: Python in Production Engineering @ Facebook
 
 Biography
---------
+---------
 
 Mark has worked in IT for over 20 years in Europe and Southeast Asia. His
 experience spans IT operations, software engineering, data systems, product
@@ -779,7 +779,7 @@ Mehul Patel
 Talk: Adding JWT Authentication to Python and Django REST Framework Using Auth0
 
 Biography
---------
+---------
 
 Hi, I'm Mehul Patel and I specialize in Information Technology and Services.
 I’m passionate about what I do. I am a Developer Tech by profession, an open
@@ -835,7 +835,7 @@ Noah
 Talk: Ready to say goodbye to Python 2.7 ! ?
 
 Biography
---------
+---------
 
 Noah, PyCon Nomad Volunteer of FOSSASIA which is a NPO for promoting FOSS and
 open technologies in Asia, volunteer of PyConTW/JP/KR/ID/MY/TH/HK.....and each
@@ -879,7 +879,7 @@ Rae Knowler
 Talk: Hypothesis: Property-Based Testing for Python
 
 Biography
---------
+---------
 
 Rae Knowler is a web developer at Liip in Zürich, where they develop product
 data APIs and work on Open Data projects. They are interested in the
@@ -921,7 +921,7 @@ Rahul Bhatia
 Talk: Visualize the Black Box - An introduction to Interpretable Machine Learning
 
 Biography
---------
+---------
 
 Rahul Bhatia is a self-taught Data Scientist and Full-stack Web Developer. I
 have experience in organizing several talks as a Developer Student Club Lead
@@ -962,7 +962,7 @@ Robert Owen
 Talk: The Buzz about Bees
 
 Biography
---------
+---------
 
 Robert Owen worked for Oracle as Program Director for Asia-Pacific. Before
 that he worked for Ericsson Telecommunications. Robert was a member of the
@@ -1007,7 +1007,7 @@ Sara Iris Garcia
 Talk: Addressing class imbalance in Machine Learning
 
 Biography
---------
+---------
 
 Sara is a seasoned software engineer and a data science enthusiast. She is
 currently undergoing a master in data science in the UK, and a research in
@@ -1042,7 +1042,7 @@ Sarthak Deshwal
 Talk: A resilient, scalable tracing and analysis system for micro-services - HayStack
 
 Biography
---------
+---------
 
 A passionate software developer, Sarthak is a core contributor in Expedia's
 Mobile Team. He weaves the magic in his code with Python, Java, Kotlin, Scala,
@@ -1093,7 +1093,7 @@ Sherin Thomas
 Talk: Production-ize deep learning with PyTorch, RedisAI and Hangar
 
 Biography
---------
+---------
 
 I am working as a part of the development team of [Tensor]werk, an
 infrastructure development company focusing on deep learning deployment
@@ -1140,7 +1140,7 @@ Siddhant Agarwal
 Talk: Bringing Artificial Intelligence to the Edge
 
 Biography
---------
+---------
 
 Siddhant is currently working as Program Coordinator for Google India
 Developer Relations Team. Siddhant Agarwal is an experienced Technology
@@ -1192,7 +1192,7 @@ TUSHAR BANSAL
 Talk: Developing Natural Language Processing Applications Using Python
 
 Biography
---------
+---------
 
 I am a pre final student at The LNM Institute of Information Technology
 pursuing B-Tech in Computer Science Engineering. I have a Deep interest in
@@ -1238,7 +1238,7 @@ Takanori Suzuki
 Talk: Automate the Boring Stuff with Slackbot
 
 Biography
---------
+---------
 
 Takanori is a director of PyCon JP Committee(www.pycon.jp). He is also a
 director of BeProud Inc.(www.beproud.jp), and his title is "Python Climber".
@@ -1281,7 +1281,7 @@ Tilak T
 Talk: Unique ways to Hack into a Python Web Service
 
 Biography
---------
+---------
 
 I work at an Application Security company (we45) and have a unique perspective
 of developing secure and deliberately insecure apps in Python and NodeJS. I
@@ -1330,7 +1330,7 @@ Viral Parmar
 Talk: JWT authentication with Django
 
 Biography
---------
+---------
 
 Viral Parmar is a Serial entrepreneur who runs ComExpo Cyber security company
 as well as Infinite Defense Foundation a non-profit organization in India. He

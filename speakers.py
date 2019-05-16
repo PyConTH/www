@@ -18,7 +18,7 @@ talk_page = """
 Talk: {title}
 
 Biography
---------
+---------
 
 {bio}
 
