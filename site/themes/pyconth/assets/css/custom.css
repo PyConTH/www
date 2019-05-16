@@ -1351,7 +1351,7 @@ p {
 .circle {
   height: 36px;
   width: 36px;
-  border: 6px solid #a9173f;
+  border: 8px solid #a9173f;
   opacity: 0.75;
   border-radius: 100%;
 }
