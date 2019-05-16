@@ -1,5 +1,5 @@
 .. title: 30 Days to GO
-.. slug: en/30-days-to-go
+.. slug: 30-days-to-go
 .. date: 2019-05-16 21:25:42 UTC+07:00
 .. type: micro
 
