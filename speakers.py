@@ -75,7 +75,7 @@ header = """
 .. category:
 .. link:
 .. description: List of confirmed speakers.
-.. type: macro
+.. type: text
 """
 print(header.format(dt.datetime.now().strftime("%Y-%m-%d %H:%M:%S UTC+07:00")))
 

@@ -1,12 +1,12 @@
 
 .. title: Talks
 .. slug: talks
-.. date: 2019-05-16 12:46:19 UTC+07:00
+.. date: 2019-05-16 15:07:53 UTC+07:00
 .. tags:
 .. category:
 .. link:
 .. description: List of confirmed talks.
-.. type: macro
+.. type: text
 
 
 
@@ -145,7 +145,7 @@ Format: Talk (~30-45 minutes)
 Abstract
 --------
 
-Have you ever thought of using data visualization to represent data; but feel that it is a cumbersome process? Worry not – Orange is here to the rescue!
+Have you ever thought of using data visualization to represent data; but feel that it is a cumbersome process? Worry not – Orange is here to the rescue! 
 Come, dive into the world of this magical open source data mining tool that can also be used as a Python library.
 Beginner friendly!
 
@@ -372,7 +372,7 @@ Format: Talk (~30-45 minutes)
 Abstract
 --------
 
-according to PEP 373, we knew Python 2.7 EOL is moved to 2020. in PEP 404, we knew Python 2.8 will never come, which means all versions of Python 2 will be end of official bugfix and support at EOL.
+according to PEP 373, we knew Python 2.7 EOL is moved to 2020. in PEP 404, we knew Python 2.8 will never come, which means all versions of Python 2 will be end of official bugfix and support at EOL.  
 2019, the last year of Python2. let's review how glory memories is in history of Python.
 
 
@@ -596,7 +596,7 @@ Format: Talk (~30-45 minutes)
 Abstract
 --------
 
-Microservices are taking over the world. Rest-framework is accelerating this because of its ease and flexibility.
+Microservices are taking over the world. Rest-framework is accelerating this because of its ease and flexibility. 
 Developers often use and develop REST-based applications because it's exciting to work with. But, they forget about security which leads to compromised and exploited applications.
 
 

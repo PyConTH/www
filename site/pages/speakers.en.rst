@@ -1,12 +1,12 @@
 
 .. title: Speakers
 .. slug: speakers
-.. date: 2019-05-16 12:55:49 UTC+07:00
+.. date: 2019-05-16 15:08:45 UTC+07:00
 .. tags:
 .. category:
 .. link:
 .. description: List of confirmed speakers.
-.. type: macro
+.. type: text
 
 
 
