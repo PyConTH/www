@@ -1,7 +1,7 @@
 
 .. title: Speakers
 .. slug: speakers
-.. date: 2019-04-25 15:06:26 UTC+07:00
+.. date: 2019-05-16 12:55:49 UTC+07:00
 .. tags:
 .. category:
 .. link:
@@ -13,21 +13,79 @@
 .. class:: clearfix
 
 
-
-Understanding and Implementing Generative Adversarial Networks (GANs): One of the BIGGEST Breakthroughs in the Deep Learning Revolution
-=======================================================================================================================================
-
+Alex Khaerov
+============
 
 
-Format: Talk (~30-45 minutes)
 
-Abstract
+.. image:: https://secure.gravatar.com/avatar/320f3b558c773592bba16c976d1b28d1?s=500
+    :alt: Alex Khaerov
+    :height: 200px
+    :align: right
+    :class: img-circle img-responsive
+
+
+
+
+
+.. class:: fa fa-twitter fa-fw
+
+    `hayorov <https://twitter.com/hayorov>`_
+
+
+
+
+
+Talk: Kill the mutants, protect your code!
+
+Biography
 --------
 
-Generative Adversarial Networks are one of the latest advancements in Deep Learning. Interested in knowing how to generate content (images, music, and much more) instead of classifying one into categories? Let's dive into the details of GANs: One of the BIGGEST Breakthroughs in the DL Revolution.
+**Alex Khaerov** is a development lead at
+[Chainstack](https://chainstack.com), with 9+ years in web services
+development across diverse domains. His main passion is building robust, high-
+load and distributed service platforms on top of a multi-cloud environment,
+utilizing all the power of Python and cloud native services. An organized of
+[Moscow Python Conf](https://conf.python.ru) and avid activist of [Singapore
+Python User Group](http://pugs.org.sg/), cloud native enthusiast and member of
+Kubernetes SG community. In his spare time, he speaks publicly at tech
+conferences and secretly codes in Python. Huge fan of laptop stickers.
 
-Bio
----
+
+
+
+
+
+.. class:: clearfix
+
+
+Anmol Krishan Sachdeva
+======================
+
+
+
+.. image:: https://secure.gravatar.com/avatar/0233f28830fe1e51ae0b7783e5838db6?s=500
+    :alt: Anmol Krishan Sachdeva
+    :height: 200px
+    :align: right
+    :class: img-circle img-responsive
+
+
+
+
+
+.. class:: fa fa-twitter fa-fw
+
+    `greatdevaks <https://twitter.com/greatdevaks>`_
+
+
+
+
+
+Talk: Understanding and Implementing Generative Adversarial Networks (GANs): One of the BIGGEST Breakthroughs in the Deep Learning Revolution
+
+Biography
+--------
 
   * Currently, working as a Platform Software Engineer at Bigbasket, India (India's largest online food and grocery store).
   * MSc in Advanced Computing (Machine Learning, Artifical Intelligence, Robotics, Cloud Computing, and Computational Neuroscience), University of Bristol, United Kingdom.
@@ -48,21 +106,77 @@ Bio
 .. class:: clearfix
 
 
-
-Demystifying Conversational AI with Python
-==========================================
-
+Avi Aryan
+=========
 
 
-Format: Talk (~30-45 minutes)
 
-Abstract
+.. image:: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/7286/avi_pic_rajat_720.jpg
+    :alt: Avi Aryan
+    :height: 200px
+    :align: right
+    :class: img-circle img-responsive
+
+
+
+
+
+.. class:: fa fa-twitter fa-fw
+
+    `aviaryan123 <https://twitter.com/aviaryan123>`_
+
+
+
+
+
+Talk: Cheaply deploy Python apps Heroku-style using Dokku
+
+Biography
 --------
 
-“Ok Google, Tell me how do you work?” Have you ever wondered, what goes behind asking a voice assistant to perform a particular action to having the output being delivered to you? Using open source NLP libraries like NLTK, and Spacy, we will learn concepts that form the heart of conversational AI.
+Avi is a full-stack web engineer at Toptal with four years of professional
+experience. He has worked with most of the popular stack used on the web today
+including Python, JavaScript, and Go. He is also a multiple-time Google Summer
+of Code participant, where he mentors budding developers to contribute to
+open-source projects. These days he is working on his Blockchain based social
+media startup called HapRamp which aims to revolutionalize the social media
+ecosystem in India.
 
-Bio
----
+
+
+
+
+
+.. class:: clearfix
+
+
+Avneet Kaur
+===========
+
+
+
+.. image:: https://secure.gravatar.com/avatar/c4b633c794222b514d8881e5839da63a?s=500
+    :alt: Avneet Kaur
+    :height: 200px
+    :align: right
+    :class: img-circle img-responsive
+
+
+
+
+
+.. class:: fa fa-twitter fa-fw
+
+    `TeamSectumsem18 <https://twitter.com/TeamSectumsem18>`_
+
+
+
+
+
+Talk: Demystifying Conversational AI with Python
+
+Biography
+--------
 
 I am currently researching in the field of NLP and information retrieval as a
 project assistant at IIT Delhi. I am a recent graduate, and had been conferred
@@ -95,23 +209,116 @@ like.
 .. class:: clearfix
 
 
-
-When life gives you Orange, make data speak volumes!
-====================================================
-
+Charin
+======
 
 
-Format: Talk (~30-45 minutes)
 
-Abstract
+.. image:: https://secure.gravatar.com/avatar/3e9a402f6a89fb065c37d8867c609e28?s=500
+    :alt: Charin
+    :height: 200px
+    :align: right
+    :class: img-circle img-responsive
+
+
+
+
+
+
+
+Talk: How pyThaiNLP's thai2fit Outperforms Google's BERT: State-of-the-Art Thai Text Classification and Beyond
+
+Biography
 --------
 
-Have you ever thought of using data visualization to represent data; but feel that it is a cumbersome process? Worry not – Orange is here to the rescue! 
-Come, dive into the world of this magical open source data mining tool that can also be used as a Python library.
-Beginner friendly!
+My name is Charin Polpanumas and I am a data scientist with over five years of
+track records in Southeast Asia, Japan, and China. I have delivered data
+products that save millions USD annually at the region's largest online
+retailer, and currently working to transform the healthcare industry in
+Thailand. I am one of the main contributors to
+[pyThaiNLP](https://github.com/PyThaiNLP/pythainlp), the most starred Thai NLP
+library, and the author of [thai2fit (formerly
+thai2vec)](https://github.com/cstorm125/thai2fit), the first and current
+state-of-the-art transfer learning text classification model based on
+[ULMFit](https://arxiv.org/abs/1801.06146).
 
-Bio
----
+
+
+
+
+
+.. class:: clearfix
+
+
+Chie Hayashida
+==============
+
+
+
+.. image:: https://secure.gravatar.com/avatar/7f7abff13e7c5ad15bfa3a823313ef9d?s=500
+    :alt: Chie Hayashida
+    :height: 200px
+    :align: right
+    :class: img-circle img-responsive
+
+
+
+
+
+.. class:: fa fa-twitter fa-fw
+
+    `chie8842 <https://twitter.com/chie8842>`_
+
+
+
+
+
+Talk: Understanding of distributed processing in Python
+
+Biography
+--------
+
+Chie Hayashida is a Software Engineer from Japan. She is working at
+Cookpad.Inc which is the worldwide recipe sharing service. She loves
+programming and computer science. She is highly skilled with DWH architecture
+and ML pipelines. She is a contributor to Apache Spark, Tensorflow, Apache
+Airflow and so on.
+
+
+
+
+
+
+.. class:: clearfix
+
+
+Drishti Jain
+============
+
+
+
+.. image:: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/36129/WhatsApp_Image_2019-04-21_at_8.52.00_PM.jpeg
+    :alt: Drishti Jain
+    :height: 200px
+    :align: right
+    :class: img-circle img-responsive
+
+
+
+
+
+.. class:: fa fa-twitter fa-fw
+
+    `drishtijjain <https://twitter.com/drishtijjain>`_
+
+
+
+
+
+Talk: When life gives you Orange, make data speak volumes!
+
+Biography
+--------
 
 Drishti is a Computer Engineer at heart and a technology enthusiast. She loves
 to use technology to help the less fortunate. She believes in democratizing
@@ -131,21 +338,66 @@ she likes to paint nature, explore new places and anchor live shows
 .. class:: clearfix
 
 
-
-Security Issues on your Python Code
-===================================
-
+El
+==
 
 
-Format: Talk (~30-45 minutes)
 
-Abstract
+.. image:: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/26910/Photo_on_22-2-18_at_13.22.jpg
+    :alt: El
+    :height: 200px
+    :align: right
+    :class: img-circle img-responsive
+
+
+
+
+
+
+
+Talk: Introduction to PyTorch
+
+Biography
 --------
 
-This topic will cover how to find security issue on python code using open source Static Analysis Security Testing. So that developer can found & fixed the security issue since on development stage, without waiting for penetration testing stage
+Django REST lover, DevOps and ReactJS beginner. Studying ML in order to build
+my 7yrs old dream. An optical reader machine with text2speech.
 
-Bio
----
+
+
+
+
+
+.. class:: clearfix
+
+
+Harley Davidson Karel
+=====================
+
+
+
+.. image:: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/28808/David.jpg
+    :alt: Harley Davidson Karel
+    :height: 200px
+    :align: right
+    :class: img-circle img-responsive
+
+
+
+
+
+.. class:: fa fa-twitter fa-fw
+
+    `harleydavidkar1 <https://twitter.com/harleydavidkar1>`_
+
+
+
+
+
+Talk: Security Issues on your Python Code
+
+Biography
+--------
 
 Application Security Consultant, Skilled in Security Requirement Engineering,
 Threat Modeling, Static Application Security Testing, Dynamic Application
@@ -162,21 +414,160 @@ focused in Informatics Engineering from Telkom University.
 .. class:: clearfix
 
 
-
-Designing and Building Serverless Machine Learning-powered Applications with Python
-===================================================================================
-
+Joe Chasinga
+============
 
 
-Format: Talk (~30-45 minutes)
 
-Abstract
+.. image:: https://secure.gravatar.com/avatar/c06b54277a2961c3e0f735aa0c8d85f9?s=500
+    :alt: Joe Chasinga
+    :height: 200px
+    :align: right
+    :class: img-circle img-responsive
+
+
+
+
+
+.. class:: fa fa-twitter fa-fw
+
+    `jochasinga <https://twitter.com/jochasinga>`_
+
+
+
+
+
+Talk: Marlin: A Smali to Python Transpiler for Android Hacking
+
+Biography
 --------
 
-Over the past couple of years, several companies around the world have started to embrace the Serverless movement to design and build modern applications. In this talk, I will bridge the gap between reality and expectations when dealing with Serverless Machine Learning-powered Python applications.
+I am a lead engineer working on Android and iOS instrumentations at HeadSpin
+Inc., a fast-growing mobile testing startup company based in Palo Alto. I have
+years of writing programs in many languages like Go, Python, Erlang,
+JavaScript, Ocaml, Java, Kotlin, and Swift, among others. My experience lies
+in networking for IoTs and interactive applications, compiler, and mobile
+frameworks. Outside of professional settings, I'm the author of RxGo, a
+popular open-source library on Github and I have given talks at MakerFaire NYC
+and Radical Networks in 2015.
 
-Bio
----
+
+
+
+
+
+.. class:: clearfix
+
+
+Jonghwa Seo
+===========
+
+
+
+.. image:: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/45418/pincoin-logo-A2.png
+    :alt: Jonghwa Seo
+    :height: 200px
+    :align: right
+    :class: img-circle img-responsive
+
+
+
+
+
+
+
+Talk: E-commerce for Django
+
+Biography
+--------
+
+I love to develop software using Python/Django, and manage e-commerce website
+in Korea. I lived in Thailand for 4 years, and I taught some CS subjects in
+Naresuan University for 2 years.
+
+
+
+
+
+
+.. class:: clearfix
+
+
+Jorge Torres
+============
+
+
+
+.. image:: https://secure.gravatar.com/avatar/03886c577a1c4d30efa531b8f85aa80f?s=500
+    :alt: Jorge Torres
+    :height: 200px
+    :align: right
+    :class: img-circle img-responsive
+
+
+
+
+
+.. class:: fa fa-twitter fa-fw
+
+    `mindsdb <https://twitter.com/mindsdb>`_
+
+
+
+
+
+Talk: Machine Learning Democratization with Python
+
+Biography
+--------
+
+Jorge Torres Is currently Co-founder & CTO of MindsDB and a visiting scholar
+at UC Berkeley researching machine learning automation and explainability. He
+has worked for a number of data-intensive start-ups, most recently working
+with Aneesh Chopra (the first CTO in the US government) building data systems
+that analyze billions of patients records and lead to highest savings for
+millions of patients, he started his work on scaling solutions using machine
+learning in early 2008 while working as first full time engineer at
+Couchsurfing where he helped grow the company from a few thousand users to a
+few million. Jorge had degrees in electrical engineering & computer science,
+including a masters degree in computer systems (with a focus on applied
+Machine Learning) from the Australian National University.
+
+
+
+
+
+
+.. class:: clearfix
+
+
+Joshua Arvin Lat
+================
+
+
+
+.. image:: https://secure.gravatar.com/avatar/e412f3f4cb20c7070822a6faebf656d1?s=500
+    :alt: Joshua Arvin Lat
+    :height: 200px
+    :align: right
+    :class: img-circle img-responsive
+
+
+
+
+
+.. class:: fa fa-twitter fa-fw
+
+    `mrjoshualat <https://twitter.com/mrjoshualat>`_
+
+
+
+
+
+Talk: Designing and Building Serverless Machine Learning-powered Applications with Python
+
+Biography
+--------
 
 **Joshua Arvin Lat** is the **Chief Technology Officer** (CTO) of **Complete
 Business Online**. He previously served as the **Director for Software
@@ -194,21 +585,78 @@ professionals.
 .. class:: clearfix
 
 
-
-Adding a GraphQL API to Django (with Vue.js frontend)
-=====================================================
-
+Korakot Chaovavanich
+====================
 
 
-Format: Talk (~30-45 minutes)
 
-Abstract
+.. image:: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/25745/fullsizeoutput_b7.jpeg
+    :alt: Korakot Chaovavanich
+    :height: 200px
+    :align: right
+    :class: img-circle img-responsive
+
+
+
+
+
+.. class:: fa fa-twitter fa-fw
+
+    `korakot76422929 <https://twitter.com/korakot76422929>`_
+
+
+
+
+
+Talk: Advanced Google Colaboratory
+
+Biography
 --------
 
-GraphQL is the new standard for client-server API communication, replacing REST in many newer projects. This talk shows you how to quickly add GraphQL to your Django project, test and use it in a simple Vue.js app. Sample code provided.
+I started working as a data scientist in July, 2016. Though I have been using
+regular expressions to clean data for years, since 1999. I finished an M.Phil
+in Computer Speech and Language Processing from University of Cambridge, UK.
+My focus now includes 2 topics: Thai NLP and Google Colaboratory for knowledge
+sharing. My main contributions are for [PyThaiNLP
+project](https://github.com/PyThaiNLP/pythainlp) and Colab notebooks shared on
+[Colab Thailand Facebook
+Group](https://www.facebook.com/groups/colab.thailand/)
 
-Bio
----
+
+
+
+
+
+.. class:: clearfix
+
+
+Manuel Riel
+===========
+
+
+
+.. image:: https://secure.gravatar.com/avatar/24ba35029a2b10d0af542d213cfdaf3c?s=500
+    :alt: Manuel Riel
+    :height: 200px
+    :align: right
+    :class: img-circle img-responsive
+
+
+
+
+
+.. class:: fa fa-twitter fa-fw
+
+    `_m3nu <https://twitter.com/_m3nu>`_
+
+
+
+
+
+Talk: Adding a GraphQL API to Django (with Vue.js frontend)
+
+Biography
+--------
 
 I'm a serial online entrepreneur who is always looking to add useful products
 to the world – both open source and paid. My standard toolbox includes Python
@@ -231,21 +679,27 @@ podcast downloader https://github.com/m3nu/upodder
 .. class:: clearfix
 
 
-
-Python in Production Engineering @ Facebook
-===========================================
-
+Mark Hollow
+===========
 
 
-Format: Talk (~30-45 minutes)
 
-Abstract
+.. image:: https://secure.gravatar.com/avatar/1f9b0b1483c7edc284513caeefa40fb1?s=500
+    :alt: Mark Hollow
+    :height: 200px
+    :align: right
+    :class: img-circle img-responsive
+
+
+
+
+
+
+
+Talk: Python in Production Engineering @ Facebook
+
+Biography
 --------
-
-Production Engineering comes from the belief that operational problems should be solved through software solutions. The engineers who are building the software are the best people to operate that software in production. This talk will introduce PE at Facebook with examples of their python projects.
-
-Bio
----
 
 Mark has worked in IT for over 20 years in Europe and Southeast Asia. His
 experience spans IT operations, software engineering, data systems, product
@@ -260,21 +714,133 @@ and start-ups.
 .. class:: clearfix
 
 
-
-Hypothesis: Property-Based Testing for Python
-=============================================
-
+Mehul Patel
+===========
 
 
-Format: Talk (~30-45 minutes)
 
-Abstract
+.. image:: https://secure.gravatar.com/avatar/8db81b17edc1a9a71515d3dbe6ceeadc?s=500
+    :alt: Mehul Patel
+    :height: 200px
+    :align: right
+    :class: img-circle img-responsive
+
+
+
+
+
+.. class:: fa fa-twitter fa-fw
+
+    `rowdymehul <https://twitter.com/rowdymehul>`_
+
+
+
+
+
+Talk: Adding JWT Authentication to Python and Django REST Framework Using Auth0
+
+Biography
 --------
 
-We all know we should be writing tests, but coming up with tests for every edge case is hard work and you will inevitably miss some. In this talk, I'll show you how to use Hypothesis in your projects to find more bugs than you would imagine.
+Hi, I'm Mehul Patel and I specialize in Information Technology and Services.
+I’m passionate about what I do. I am a Developer Tech by profession, an open
+source enthusiast, Linux geeky and a maker by heart. I hold *Masters in
+Computers Science* and have been working relentlessly and contributing towards
+the open source community in all ways I can. I am an active member of the
+*Mozilla* Community which is a program run by a group of highly trained &
+passionate Mozillians(Tech enthusiasts), who share technical knowledge about
+Firefox, Mozilla, OpenSource and the Web at various regional developer-facing
+events. Currently, I am acting as a Rust Mobilizer in the community and trying
+best to aware people about this awesome and secure programming language. I am
+also part of other opensource peers like WordPress, Red Hat Linux, Debian,
+OpenStack, Auth0 and much more. I also represent Mozilla while being on the
+*Campus Advisory Committee*, a *Reps Mentor* and ambassador at *Auth0*. I have
+been invited as a Technical Speaker at Google DevFest, LinuxCon, Open
+Innovation Summit, MozFest, GNUnify'18 and so on to share and educate tech
+enthusiasts regarding opensource technologies Like Red Hat, WordPress, Rust,
+Virtualization, server securities & hardening and much more. I frequently blog
+at https://medium.com/@rowdymehul List of key talks and publications:
+http://bit.ly/2FVfzDE
 
-Bio
----
+
+
+
+
+
+.. class:: clearfix
+
+
+Noah
+====
+
+
+
+.. image:: https://secure.gravatar.com/avatar/f84b4128e61163fad7751e4dd8ebac50?s=500
+    :alt: Noah
+    :height: 200px
+    :align: right
+    :class: img-circle img-responsive
+
+
+
+
+
+.. class:: fa fa-twitter fa-fw
+
+    `noahcse <https://twitter.com/noahcse>`_
+
+
+
+
+
+Talk: Ready to say goodbye to Python 2.7 ! ?
+
+Biography
+--------
+
+Noah, PyCon Nomad Volunteer of FOSSASIA which is a NPO for promoting FOSS and
+open technologies in Asia, volunteer of PyConTW/JP/KR/ID/MY/TH/HK.....and each
+PyConAPAC since 2015. volunteer and speaker of EuroPython 2018. Managing
+member of PSF, my wish is that connect everyone who enjoy Python, and try to
+promote programming education to young generation or everyone who interested
+in by teaching basic programming skill using Python and R, like be a mentor of
+Hour or Code, or Google Summer of Code with FOSSASIA
+
+
+
+
+
+
+.. class:: clearfix
+
+
+Rae Knowler
+===========
+
+
+
+.. image:: https://secure.gravatar.com/avatar/843df29a0383ee0094a5caa2defd8707?s=500
+    :alt: Rae Knowler
+    :height: 200px
+    :align: right
+    :class: img-circle img-responsive
+
+
+
+
+
+.. class:: fa fa-twitter fa-fw
+
+    `raeknowler <https://twitter.com/raeknowler>`_
+
+
+
+
+
+Talk: Hypothesis: Property-Based Testing for Python
+
+Biography
+--------
 
 Rae Knowler is a web developer at Liip in Zürich, where they develop product
 data APIs and work on Open Data projects. They are interested in the
@@ -290,21 +856,119 @@ read a lot of science fiction and hug cats.
 .. class:: clearfix
 
 
-
-Addressing class imbalance in Machine Learning
-==============================================
-
+Rahul Bhatia
+============
 
 
-Format: Talk (~30-45 minutes)
 
-Abstract
+.. image:: https://secure.gravatar.com/avatar/e16d4591c7f44180024093015eec7512?s=500
+    :alt: Rahul Bhatia
+    :height: 200px
+    :align: right
+    :class: img-circle img-responsive
+
+
+
+
+
+.. class:: fa fa-twitter fa-fw
+
+    `rbhatia46 <https://twitter.com/rbhatia46>`_
+
+
+
+
+
+Talk: Visualize the Black Box - An introduction to Interpretable Machine Learning
+
+Biography
 --------
 
-Creating a machine learning model with an imbalanced dataset can give you misleading results. Get to know the common techniques to address the class imbalance problem in datasets that can help you to deliver better performance.
+Rahul Bhatia is a self-taught Data Scientist and Full-stack Web Developer. I
+have experience in organizing several talks as a Developer Student Club Lead
+at our campus, which is an initiative by Google Developers, promoting the
+developer culture at college campuses throughout several countries through the
+DSC program. I love sharing knowledge with fellow developers and organizing
+and delivering technical sessions. I am currently a Data Science Intern at
+Innovaccer, a healthcare company focused on "Righting the wrongs of healthcare
+technology" I don't listen to a lot of pop music but I love rock music.
+Chester from Linkin Park was my favourite. Apart from that, I am a solo
+traveller and love wadering at new places.
 
-Bio
----
+
+
+
+
+
+.. class:: clearfix
+
+
+Robert Owen
+===========
+
+
+
+.. image:: https://secure.gravatar.com/avatar/3bd96a0518aafe7632c76cccabc3501d?s=500
+    :alt: Robert Owen
+    :height: 200px
+    :align: right
+    :class: img-circle img-responsive
+
+
+
+
+
+
+
+Talk: The Buzz about Bees
+
+Biography
+--------
+
+Robert Owen worked for Oracle as Program Director for Asia-Pacific. Before
+that he worked for Ericsson Telecommunications. Robert was a member of the
+Australian delegation to the International Telecommunications Union, ITU, in
+Geneva, Switzerland where he worked on global telecommunications policy. A few
+years ago he spat his dummy at the amount of work Oracle expected him to do,
+resigned and enrolled for a PhD at the University of Melbourne, Australia. He
+expects to complete his PhD computer modelling infectious animal diseases
+later this year.
+
+
+
+
+
+
+.. class:: clearfix
+
+
+Sara Iris Garcia
+================
+
+
+
+.. image:: https://secure.gravatar.com/avatar/da7607390ad88d1592247079d2381321?s=500
+    :alt: Sara Iris Garcia
+    :height: 200px
+    :align: right
+    :class: img-circle img-responsive
+
+
+
+
+
+.. class:: fa fa-twitter fa-fw
+
+    `montjoile <https://twitter.com/montjoile>`_
+
+
+
+
+
+Talk: Addressing class imbalance in Machine Learning
+
+Biography
+--------
 
 Sara is a seasoned software engineer and a data science enthusiast. She is
 currently undergoing a master in data science in the UK, and a research in
@@ -319,21 +983,170 @@ time baking sweet treats and watching Rick and Morty.
 .. class:: clearfix
 
 
-
-Bringing Artificial Intelligence to the Edge
-============================================
-
+Sarthak Deshwal
+===============
 
 
-Format: Talk (~30-45 minutes)
 
-Abstract
+.. image:: https://secure.gravatar.com/avatar/ebb0ce50f3e93125e7f5fe4406a78723?s=500
+    :alt: Sarthak Deshwal
+    :height: 200px
+    :align: right
+    :class: img-circle img-responsive
+
+
+
+
+
+
+
+Talk: A resilient, scalable tracing and analysis system for micro-services - HayStack
+
+Biography
 --------
 
-This talk focuses on how to develop deep learning inference application at the edge to run the trained model developed using TensorFlow optimally on the edge devices. We can easily run complex deep learning models like SqueezeNet, GoogLeNet & AlexNet on your computer with low processing capability.
+A passionate software developer, Sarthak is a core contributor in Expedia's
+Mobile Team. He weaves the magic in his code with Python, Java, Kotlin, Scala,
+C and JavaScript. Having mastered these languages all by himself, through self
+projects and open source contributions, he knows what it takes to not just
+write code but write code that is readable, efficient and maintainable.
 
-Bio
----
+His current adventure involves developing solutions in android ecosystem,
+internal API(s) and machine learning to help our users have the best
+experience.
+
+Before joining Expedia, he co-founded one startup in India and did internship
+at Samsung R&D;, Bengaluru. He loves sharing his knowledge and learnings from
+his adventures in machine learning projects. He has been speaking extensively
+at internal conferences and now want to spread his knowledge in the open.
+
+
+
+
+
+
+.. class:: clearfix
+
+
+Sarthak Deshwal
+===============
+
+
+
+.. image:: https://secure.gravatar.com/avatar/ebb0ce50f3e93125e7f5fe4406a78723?s=500
+    :alt: Sarthak Deshwal
+    :height: 200px
+    :align: right
+    :class: img-circle img-responsive
+
+
+
+
+
+
+
+Talk: Using deep learning to raise alarm when bug prone code is pushed
+
+Biography
+--------
+
+A passionate software developer, Sarthak is a core contributor in Expedia's
+Mobile Team. He weaves the magic in his code with Python, Java, Kotlin, Scala,
+C and JavaScript. Having mastered these languages all by himself, through self
+projects and open source contributions, he knows what it takes to not just
+write code but write code that is readable, efficient and maintainable.
+
+His current adventure involves developing solutions in android ecosystem,
+internal API(s) and machine learning to help our users have the best
+experience.
+
+Before joining Expedia, he co-founded one startup in India and did internship
+at Samsung R&D;, Bengaluru. He loves sharing his knowledge and learnings from
+his adventures in machine learning projects. He has been speaking extensively
+at internal conferences and now want to spread his knowledge in the open.
+
+
+
+
+
+
+.. class:: clearfix
+
+
+Sherin Thomas
+=============
+
+
+
+.. image:: https://secure.gravatar.com/avatar/c32e9a85da547a9e816d5ff6696957e8?s=500
+    :alt: Sherin Thomas
+    :height: 200px
+    :align: right
+    :class: img-circle img-responsive
+
+
+
+
+
+.. class:: fa fa-twitter fa-fw
+
+    `hhsecond <https://twitter.com/hhsecond>`_
+
+
+
+
+
+Talk: Production-ize deep learning with PyTorch, RedisAI and Hangar
+
+Biography
+--------
+
+I am working as a part of the development team of [Tensor]werk, an
+infrastructure development company focusing on deep learning deployment
+problems. I and my team focus on building open source tools for setting up a
+seamless deep learning workflow. I have been programming since 2012 and
+started using python since 2014 and moved to deep learning in 2015. I am an
+open source enthusiast and I spend most of my research time on improving
+interpretability of AI models using [TuringNetwork](https://turingnetwork.ai).
+I have authored a deep learning book ([yet to
+publish](https://github.com/hhsecond/HandsOnDeepLearningWithPytorch)). I go by
+hhsecond on internet
+
+
+
+
+
+
+.. class:: clearfix
+
+
+Siddhant Agarwal
+================
+
+
+
+.. image:: https://secure.gravatar.com/avatar/0f505af6fbf8c39feefbef8acc442091?s=500
+    :alt: Siddhant Agarwal
+    :height: 200px
+    :align: right
+    :class: img-circle img-responsive
+
+
+
+
+
+.. class:: fa fa-twitter fa-fw
+
+    `sidagarwal04 <https://twitter.com/sidagarwal04>`_
+
+
+
+
+
+Talk: Bringing Artificial Intelligence to the Edge
+
+Biography
+--------
 
 Siddhant is currently working as Program Coordinator for Google India
 Developer Relations Team. Siddhant Agarwal is an experienced Technology
@@ -356,6 +1169,191 @@ Foundation - one of the largest startup ecosystem development organizations in
 India as the Head for Partnerships in the New Delhi cohort and is a Mentor of
 Change with the Atal Innovation Mission – a strategic nation building
 initiative.
+
+
+
+
+
+
+.. class:: clearfix
+
+
+TUSHAR BANSAL
+=============
+
+
+
+.. image:: https://secure.gravatar.com/avatar/702e5bb554b9e0dbcf2412f9d8929aa2?s=500
+    :alt: TUSHAR BANSAL
+    :height: 200px
+    :align: right
+    :class: img-circle img-responsive
+
+
+
+
+
+
+
+Talk: Developing Natural Language Processing Applications Using Python
+
+Biography
+--------
+
+I am a pre final student at The LNM Institute of Information Technology
+pursuing B-Tech in Computer Science Engineering. I have a Deep interest in
+open source technologies, and was selected as Mozilla Open Leader this year. I
+like to code in Python and developing Natural Language Processing applications
+in python. I have studied Information Retrieval as an academic course and my
+my interest in this field grew from there. In this talk I will elaborate on my
+project where I used TWEEPY library of python to extract and evaluate tweets.
+I believe Information Retrieval is a interesting topic and will attract
+audience from all the field and all experience levels.
+
+
+
+
+
+
+.. class:: clearfix
+
+
+Takanori Suzuki
+===============
+
+
+
+.. image:: https://secure.gravatar.com/avatar/5d9cabab536050d85bfa0df9daf856d1?s=500
+    :alt: Takanori Suzuki
+    :height: 200px
+    :align: right
+    :class: img-circle img-responsive
+
+
+
+
+
+.. class:: fa fa-twitter fa-fw
+
+    `takanory <https://twitter.com/takanory>`_
+
+
+
+
+
+Talk: Automate the Boring Stuff with Slackbot
+
+Biography
+--------
+
+Takanori is a director of PyCon JP Committee(www.pycon.jp). He is also a
+director of BeProud Inc.(www.beproud.jp), and his title is "Python Climber".
+Takanori held PyCon JP 2014 to 2016 as the chairperson. Currently he teaches
+Python to beginners as a lecturer at Python Boot Camp(pycamp.pycon.jp) all
+over Japan. In addition, he published several Python books. Tananori plays
+trumpet, climbs boulder, loves Lego and ferrets.
+
+
+
+
+
+
+.. class:: clearfix
+
+
+Tilak T
+=======
+
+
+
+.. image:: https://secure.gravatar.com/avatar/3852521603c21de17cdab3adf97ac91a?s=500
+    :alt: Tilak T
+    :height: 200px
+    :align: right
+    :class: img-circle img-responsive
+
+
+
+
+
+.. class:: fa fa-twitter fa-fw
+
+    `ti1akt <https://twitter.com/ti1akt>`_
+
+
+
+
+
+Talk: Unique ways to Hack into a Python Web Service
+
+Biography
+--------
+
+I work at an Application Security company (we45) and have a unique perspective
+of developing secure and deliberately insecure apps in Python and NodeJS. I
+have contributed to the development of several Web-Applications using Django,
+Djano-Rest-Framework, NodeJs and more, that have been used for Capture the
+Flag Contests inside and outside the organization. And also I am contributed
+multiple OpenSource Projects. In addition, I have extensive experience with
+integrating scanners, SAST and DAST toolsets into our Application
+Vulnerability Correlation and Aggregation product. I have over 7 years of
+development experience and continue to work as a full-stack developer. And
+also I have presented talk in DjangoCon 2018, ISACA Meetup, also gave a
+workshop about container orchestration and Serverless in Lascon, Recently gave
+a talk in DevSecCon Singapore 2019.
+
+
+
+
+
+
+.. class:: clearfix
+
+
+Viral Parmar
+============
+
+
+
+.. image:: https://secure.gravatar.com/avatar/f39b54f90f14174754a7a1671cc8b008?s=500
+    :alt: Viral Parmar
+    :height: 200px
+    :align: right
+    :class: img-circle img-responsive
+
+
+
+
+
+.. class:: fa fa-twitter fa-fw
+
+    `viralparmarhack <https://twitter.com/viralparmarhack>`_
+
+
+
+
+
+Talk: JWT authentication with Django
+
+Biography
+--------
+
+Viral Parmar is a Serial entrepreneur who runs ComExpo Cyber security company
+as well as Infinite Defense Foundation a non-profit organization in India. He
+is a Developer Advocate, Productivity Hacker, Open Source Strategist,
+Technical Evangelist, Community Liaison, International TechSpeaker, he is a
+Cyber Security researcher by profession and open source enthusiast working in
+a field of information security from last three years with the expertise in
+Cyber Crime Investigation, Public Key Infrastructure, Social Engineering, Web
+App Penetration Testing, Digital Forensics and Mobile Security. He found sever
+vulnerability in 150+ well known websites like Intel, your story and solved
+more than 100 cases of cyber-crime & online frauds. He is famous for his
+research Cyber Disorder and Who is spying on you. Trained 150,000+ people till
+now and aware them about privacy and security. Given Seminars and workshops in
+150+ Organizations. He is Working with Mozilla foundation from last 2 years as
+Reps, Mentor in Mozilla Open Leadership Project, Coach(Privacy and Security)
+in MozSprint 2018, also working with L10N project on Pontoon, Rust and WebVR
+projects.
 
 
 
