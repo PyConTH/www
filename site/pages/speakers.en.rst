@@ -1,7 +1,7 @@
 
 .. title: Speakers
 .. slug: speakers
-.. date: 2019-05-16 15:08:45 UTC+07:00
+.. date: 2019-05-16 18:56:59 UTC+07:00
 .. tags:
 .. category:
 .. link:
@@ -585,6 +585,45 @@ professionals.
 .. class:: clearfix
 
 
+Kavya NR
+========
+
+
+
+.. image:: https://secure.gravatar.com/avatar/8f02127116c899618727d568d7846535?s=500
+    :alt: Kavya NR
+    :height: 200px
+    :align: right
+    :class: img-circle img-responsive
+
+
+
+
+
+
+
+Talk: Using deep learning to raise alarm when bug prone code is pushed
+
+Biography
+--------
+
+Kavya is a Software Development Engineer I at Expedia Group. She completed her
+Bachelor of Technology in Computer Science at IIIT Allahabad in 2017. During
+her tenure at Expedia Group she has primarily worked around developing
+solutions in android ecosystem, internal API(s) and machine learning. She had
+also had experience working with services that cloud offers. She is now
+looking to expand her knowledge and share her learnings with a wider audience.
+Kavya has spoken extensively in local meet ups internal to Expedia Group about
+topics relating to Data Science, mobile platform and databases.
+
+
+
+
+
+
+.. class:: clearfix
+
+
 Korakot Chaovavanich
 ====================
 
@@ -1001,51 +1040,6 @@ Sarthak Deshwal
 
 
 Talk: A resilient, scalable tracing and analysis system for micro-services - HayStack
-
-Biography
---------
-
-A passionate software developer, Sarthak is a core contributor in Expedia's
-Mobile Team. He weaves the magic in his code with Python, Java, Kotlin, Scala,
-C and JavaScript. Having mastered these languages all by himself, through self
-projects and open source contributions, he knows what it takes to not just
-write code but write code that is readable, efficient and maintainable.
-
-His current adventure involves developing solutions in android ecosystem,
-internal API(s) and machine learning to help our users have the best
-experience.
-
-Before joining Expedia, he co-founded one startup in India and did internship
-at Samsung R&D;, Bengaluru. He loves sharing his knowledge and learnings from
-his adventures in machine learning projects. He has been speaking extensively
-at internal conferences and now want to spread his knowledge in the open.
-
-
-
-
-
-
-.. class:: clearfix
-
-
-Sarthak Deshwal
-===============
-
-
-
-.. image:: https://secure.gravatar.com/avatar/ebb0ce50f3e93125e7f5fe4406a78723?s=500
-    :alt: Sarthak Deshwal
-    :height: 200px
-    :align: right
-    :class: img-circle img-responsive
-
-
-
-
-
-
-
-Talk: Using deep learning to raise alarm when bug prone code is pushed
 
 Biography
 --------

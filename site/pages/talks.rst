@@ -1,7 +1,7 @@
 
 .. title: Talks
 .. slug: talks
-.. date: 2019-05-16 15:07:53 UTC+07:00
+.. date: 2019-05-16 18:57:13 UTC+07:00
 .. tags:
 .. category:
 .. link:
@@ -281,6 +281,26 @@ Over the past couple of years, several companies around the world have started t
 
 
 
+Using deep learning to raise alarm when bug prone code is pushed
+================================================================
+
+
+by Kavya NR
+
+Format: Talk (~30-45 minutes)
+
+Abstract
+--------
+
+A lot of new code is pushed to code repositories. It is difficult to review every code change with same attention. What if an AI system can predict that 'this' code change might introduce bug and make reviewer more attentive? The talk is about creating such a system using deep learning.
+
+
+
+
+.. class:: clearfix
+
+
+
 Advanced Google Colaboratory
 ============================
 
@@ -474,26 +494,6 @@ Abstract
 --------
 
 Haystack is an Expedia-backed open source distributed tracing project to facilitate detection and remediation of problems in microservices and websites. We will talk about how to set it up on internal infrastructure and monitor micro-services using this with real-time examples.
-
-
-
-
-.. class:: clearfix
-
-
-
-Using deep learning to raise alarm when bug prone code is pushed
-================================================================
-
-
-by Sarthak Deshwal
-
-Format: Talk (~30-45 minutes)
-
-Abstract
---------
-
-A lot of new code is pushed to code repositories. It is difficult to review every code change with same attention. What if an AI system can predict that 'this' code change might introduce bug and make reviewer more attentive? The talk is about creating such a system using deep learning.
 
 
 
