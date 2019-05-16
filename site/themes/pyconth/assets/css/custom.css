@@ -1412,3 +1412,4 @@ p {
 .features > .item {
   width: 300px;
 }
+.schedule-right > p { margin-bottom: 3rem !important; }
