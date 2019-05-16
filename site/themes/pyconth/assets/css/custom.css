@@ -1367,6 +1367,7 @@ p {
 .schedule-right {
   margin-left: 2rem;
   text-align: left;
+  padding-right: 4rem;
 }
 
 .schedule-header {
