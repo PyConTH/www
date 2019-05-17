@@ -7,4 +7,4 @@
 .. description:
 .. type: text
 
-Coming soon, in the meantime, check out the `accepted talks <talks>`_!
+Coming soon, in the meantime, check out the :doc:`accepted talks <talks>`!
