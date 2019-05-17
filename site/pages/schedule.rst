@@ -7,4 +7,4 @@
 .. description:
 .. type: text
 
-Coming soon
+Coming soon, in the meantime, check out the `accepted talks <talks>`_!
