@@ -13,15 +13,14 @@ talk_page = """
 
 .. class:: clearfix
 
-{title_block}
-by {name}
+{name_block}
 
-Format: {talk_format}
+Talk: {title}
 
-Abstract
---------
+Biography
+---------
 
-{abstract}
+{bio}
 
 """
 
@@ -69,13 +68,13 @@ name_block = """
 """
 
 header = """
-.. title: Talks
-.. slug: talks
+.. title: Speakers
+.. slug: speakers
 .. date: {}
 .. tags:
 .. category:
 .. link:
-.. description: List of confirmed talks.
+.. description: List of confirmed speakers.
 .. type: text
 """
 print(header.format(dt.datetime.now().strftime("%Y-%m-%d %H:%M:%S UTC+07:00")))
