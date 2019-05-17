@@ -416,6 +416,8 @@ body {
 
 .sponsor-section .welcome-submission-title {
   font-size: 32px;
+  margin-top: 40px;
+  margin-bottom: 40px;
 }
 
 .welcome-submission,
@@ -1405,7 +1407,7 @@ p {
 
 .features > .item > h3 {
   font-size: 1.5rem;
-  text-align: center;
+  text-align: left;
   margin-bottom: 1rem;
   font-weight: bold;
 }
