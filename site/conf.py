@@ -164,8 +164,8 @@ NAVIGATION_LINKS = {
         (
             (
                 ("/en/venue/", "Venue"),
-                ("/en/accommodation/", "Accommodation"),
-                ("/en/transportation/", "Transportation"),
+                ("/en/venue#accommodation/", "Accommodation"),
+                ("/en/venue#transportation/", "Transportation"),
             ),
             "Venue"
         ),
