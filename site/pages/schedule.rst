@@ -11,12 +11,14 @@ We're working on the best PyCon Thailand yet.
 :doc:`Get your tickets <buy-tickets>`  before
 they run out
 
+
 Events
 ======
 
 - Lunch (sat & sun)
 - Party (Sat evening)
 - Friday welcome party (stay tuned)
+- 9am-5pm Sat & Sun 15-16 June 2019
 
 Keynotes
 ========
@@ -63,4 +65,28 @@ Last :doc:`talks submissions <submit-talk>` accepted on 24th May 2019.
 - (web) "JWT authentication with Django" - Viral Parmar
 - more to come...
 
+
+
+Venue Layout
+============
+
+Pycon will be hosting 3 tracks over the 2 days conference Track 1 at the Auditorium,
+Track 2 at the Townhall and Track 3 at the Workshop room. With an open platform
+space, `True Digital Park <https://www.truedigitalpark.com/>`_. allows plenty of
+mingling space for great social interaction between attendees, speakers and sponsors.
+There are also over 200 retail shops including bookshops, pharmacy, cafes, restaurants and
+food hall onsite.
+
+https://www.truedigitalpark.com/
+
+
+.. image:: /venue/2.jpg
+
+--------
+
+.. image:: /venue/3.jpg
+
+--------
+
+.. image:: /venue/4.jpg
 

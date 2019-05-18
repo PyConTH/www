@@ -37,7 +37,7 @@ lifestyle offerings with a combination of campus area, lifestyle area and reside
 .. image:: /venue/1.jpg
 
 
-Location/Map
+Map
 ============
 
 Situated in the East of Bangkok, `True Digital Park <https://www.truedigitalpark.com/>`_. is
@@ -46,10 +46,8 @@ only 5 mins walk from BTS Punnawithi Station and 10 mins BTS ride from City Cent
 
 .. raw:: html
 
-    </div><!-- 5 --></div><!-- 6 -->
-    <div class="container jumbotron clearfix"><div class="row">
-        <iframe src="https://www.google.com/maps/d/embed?mid=1dIG14LV0MkTsGQtfpQHESYyoxTju7Y0M&hl=en" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
-    </div><!-- 7 --></div><!-- 8 -->
+     <iframe src="https://www.google.com/maps/d/embed?mid=1dIG14LV0MkTsGQtfpQHESYyoxTju7Y0M&hl=en" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
+
 
 
 Transportation
@@ -79,11 +77,21 @@ Google Maps).  Drivers are normally good at turning on their meters, unless
 you're in a major tourist nightlife area like lower Sukhumvit or Silom at
 night. Avoid parked taxis.
 
-`Grab`_ also operates in Bangkok, and tends to be around the same price as taxis.
+On many corners are moto-cy or motocylcle taxis wearing orange vests. For between
+15-80baht they will take you the extra 1-2km you need to go after you get off a BTS,
+often avoiding traffic jams. Ask the price before you get on and hold on tight
+(to the bar behind you, not the driver).
+
+Grab (uber)
+-----------
+
+`Grab`_ also operates in Bangkok, and tends to be a bit more than taxis but often will follow
+GPS so can be easier to explan where to go.
 
 .. _Grab: https://www.grab.com/th/en/
 
-
+They also operate motobikes which will get you there faster by avoiding traffic jams at an
+increased chance of personal injury.
 
 Suvarnabhumi airport
 --------------------
@@ -117,31 +125,6 @@ A taxi to the venue should take around 40 minutes.
 
 
 
-Venue Layout
-============
-
-Pycon will be hosting 3 tracks over the 2 days conference Track 1 at the Auditorium,
-Track 2 at the Townhall and Track 3 at the Workshop room. With an open platform
-space, `True Digital Park <https://www.truedigitalpark.com/>`_. allows plenty of
-mingling space for great social interaction between attendees, speakers and sponsors.
-There are also over 200 retail shops including bookshops, pharmacy, cafes, restaurants and
-food hall onsite.
-
-https://www.truedigitalpark.com/
-
-
-.. image:: /venue/2.jpg
-
---------
-
-.. image:: /venue/3.jpg
-
---------
-
-.. image:: /venue/4.jpg
-
-
-
 Accommodation
 =============
 
@@ -153,10 +136,21 @@ section on Transportation_.
 Hotels
 ------
 
-- T|H|A City Loft Hotel, `www.tha6.com`. Email Info@tha6.com and mention PyCon for a 1000baht rate
-per night
+- T|H|A City Loft Hotel (http://www.tha6.com) has given us a discount rate of 1000baht a night. Email Info@tha6.com and mention PyCon.
 
+see Map_ for other hotel suggestions
 
+Hostels
+-------
+
+Hostels can be found all over bangkok and can be as low as 300baht per night.
+
+see Map_ for hostel suggestions
+
+Eat/Drink/Do
+============
+
+see Map_ for hostel suggestions
 
 Connectivity
 ============
