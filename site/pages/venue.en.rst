@@ -88,7 +88,7 @@ Grab (uber)
 `Grab`_ also operates in Bangkok, and tends to be a bit more than taxis but often will follow
 GPS so can be easier to explan where to go.
 
-.. _Grab: https://www.grab.com/th/en/
+.. _Grab: https://r.grab.com/grabdylanjay
 
 They also operate motobikes which will get you there faster by avoiding traffic jams at an
 increased chance of personal injury.
