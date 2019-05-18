@@ -43,8 +43,6 @@ Location/Map
 Situated in the East of Bangkok, `True Digital Park <https://www.truedigitalpark.com/>`_. is
 only 5 mins walk from BTS Punnawithi Station and 10 mins BTS ride from City Center [Asoke].
 
-.. image:: /venue/5.jpg
-
 
 .. raw:: html
 
@@ -56,6 +54,9 @@ only 5 mins walk from BTS Punnawithi Station and 10 mins BTS ride from City Cent
 
 Transportation
 ==============
+
+.. image:: /venue/5.jpg
+
 
 Train/BTS
 ---------

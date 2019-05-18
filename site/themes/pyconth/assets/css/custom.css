@@ -1212,7 +1212,19 @@ header {
 
 a {
   color: var(--red);
+  text-decoration: underline;
 }
+
+.e-content a {
+  color: var(--red);
+  text-decoration: underline;
+}
+
+.e-content ol, .e-content ul {
+    list-style: disc outside none;
+     padding: 40px;
+}
+
 
 a:hover {
   color: var(--red-darker);
