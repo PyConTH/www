@@ -137,12 +137,9 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ('/venue/', 'สถานที่'),
-        ("/schedule/", "ตารางเวลาการพูด"),
-        ("/sponsorship/", "ผู้สนับสนุน"),
-        ('/posts', 'ข่าวสาร'),
         (
             (
+                ("/schedule/", "ตารางเวลาการพูด"),
                 ("/presentation-advice/", "คำแนะนำในการนำเสนอ"),
                 ("/#submission", "ส่งข้อเสนอการพูดคุยของคุณ (ปิดรับแล้ว)"),
                 ("/speakers/", "ผู้บรรยาย"),
@@ -153,14 +150,39 @@ NAVIGATION_LINKS = {
                 ("/party/", "ปาร์ตี้"),
 #                ("/staff/", "เจ้าหน้าที่"),
                 ("/code-of-conduct/", "หลักจริยธรรม"),
-                ("mailto:contact@pyconthailand.org", "ติดต่อ"),
                 ("/pycon2018", "คลังโพสต์ 2018"),
+                ("mailto:contact@pyconthailand.org", "ติดต่อ"),
             ),
-            "งาน"
+            "ตารางเวลาการพูด"
         ),
+        (
+            (
+                ("/venue/", "สถานที่"),
+                ("/accommodation/", "Accommodation"),
+                ("/transportation/", "Transportation"),
+            ),
+            "สถานที่"
+        ),
+        ("/sponsorship/", "ผู้สนับสนุน"),
+        ('/posts', 'ข่าวสาร'),
         ("/buy-tickets/", "ซื้อบัตร"),
     ),
     "en": (
+        (
+            (
+                ("/en/schedule/", "Schedule"),
+                ("/en/presentation-advice/", "Presentation Advice"),
+                ("/en/#submission", "Submit Talk Proposal"),
+                ("/en/speakers/", "Speakers"),
+                ("/en/talks/", "Talks"),
+                ("/en/#keynotes", "Keynotes"),
+                ("/en/party/", "Party"),
+                ("/en/code-of-conduct/", "Code of Conduct"),
+                ("/pycon2018/en", "PyCon Thailand 2018 Archive"),
+                ("mailto:contact@pyconthailand.org", "Contact"),
+            ),
+            "Schedule"
+        ),
         (
             (
                 ("/en/venue/", "Venue"),
@@ -169,23 +191,8 @@ NAVIGATION_LINKS = {
             ),
             "Venue"
         ),
-        ("/en/schedule/", "Schedule"),
         ("/en/sponsorship/", "Sponsors"),
         ('/en/posts', 'News'),
-        (
-            (
-                ("/en/presentation-advice/", "Presentation Advice"),
-                ("/en/#submission", "Submit Talk Proposal"),
-                ("/en/speakers/", "Speakers"),
-                ("/en/talks/", "Talks"),
-                ("/en/#keynotes", "Keynotes"),
-                ("/en/party/", "Party"),
-                ("/en/code-of-conduct/", "Code of Conduct"),
-                ("mailto:contact@pyconthailand.org", "Contact"),
-                ("/pycon2018/en", "PyCon Thailand 2018 Archive"),
-            ),
-            "Event"
-        ),
         ("/en/buy-tickets/", "Tickets"),
     ),
 }

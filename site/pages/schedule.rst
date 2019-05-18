@@ -7,4 +7,60 @@
 .. description:
 .. type: text
 
-Coming soon, in the meantime, check out the :doc:`accepted talks <talks>`!
+We're working on the best PyCon Thailand yet.
+:doc:`Get your tickets <buy-tickets>`  before
+they run out
+
+Events
+======
+
+- Lunch (sat & sun)
+- Party (Sat evening)
+- Friday welcome party (stay tuned)
+
+Keynotes
+========
+
+- "PyTorch as a modern scientific computing environment" - Adam Paszke (PyTorch)
+- "Python Everywhere?" - Dr Russell Keith-Magee (BeeWare)
+- Katie McLaughlin (PSF)
+- David Cournapeau (scikit-learn)
+
+Talk Highlights
+===============
+
+40+ talks will be accepted. for details see :doc:`accepted talks <talks>`!
+Last :doc:`talks submissions <submit-talk>` accepted on 24th May 2019.
+
+- (security) "Kill the mutants, protect your code!" - Alex Khaerov
+- (code) "Understanding and Implementing Generative Adversarial Networks (GANs): One of the BIGGEST Breakthroughs in the Deep Learning Revolution" - Anmol Krishan Sachdeva
+- (web) "Cheaply deploy Python apps Heroku-style using Dokku" - Avi Aryan
+- (AI) "Demystifying Conversational AI with Python" - Avneet Kaur
+- (NLP) "How pyThaiNLP's thai2fit Outperforms Google's BERT: State-of-the-Art Thai Text Classification and Beyond" - Charin
+- (code) "Understanding of distributed processing in Python" - Chie Hayashida
+- (data) "When life gives you Orange, make data speak volumes!" - Drishti Jain
+- (data) "Introduction to PyTorch" - El
+- (security) "Security Issues on your Python Code" - Harley Davidson Karel
+- (code) "Marlin: A Smali to Python Transpiler for Android Hacking" - Joe Chasinga
+- (web) "E-commerce for Django" - by Jonghwa Seo
+- (AI) "Machine Learning Democratization with Python" - Jorge Torres
+- (AI) "Designing and Building Serverless Machine Learning-powered Applications with Python" - Joshua Arvin Lat
+- (data) "Advanced Google Colaboratory" - Korakot Chaovavanich
+- (web) "Adding a GraphQL API to Django (with Vue.js frontend)" - Manuel Riel
+- (ops) "Python in Production Engineering @ Facebook" - Mark Hollow
+- (web) "Adding JWT Authentication to Python and Django REST Framework Using Auth0" - Mehul Patel
+- (code) "Ready to say goodbye to Python 2.7 ! ?" - Noah
+- (code) "Hypothesis: Property-Based Testing for Python" - Rae Knowler
+- (code) "Visualize the Black Box - An introduction to Interpretable Machine Learning" - Rahul Bhatia
+- (data) "The Buzz about Bees" - Robert Owen
+- (AI) "Addressing class imbalance in Machine Learning" - Sara Iris Garcia
+- (ops) "A resilient, scalable tracing and analysis system for micro-services - HayStack" - Sarthak Deshwal
+- (ops, AI) "Production-ize deep learning with PyTorch, RedisAI and Hangar" - Sherin Thomas
+- (AI) "Bringing Artificial Intelligence to the Edge" - Siddhant Agarwal
+- (NLP) "Developing Natural Language Processing Applications Using Python" - TUSHAR BANSAL
+- (AI) "Automate the Boring Stuff with Slackbot" - Takanori Suzuki
+- (security) "Unique ways to Hack into a Python Web Service" - Tilak T
+- (web) "JWT authentication with Django" - Viral Parmar
+- more to come...
+
+
