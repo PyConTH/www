@@ -70,13 +70,13 @@ body {
 
 /* home page */
 
-.first {
+body.path-frontpage .first {
   background-image: radial-gradient(circle at bottom center, yellow, var(--orange) 60%, var(--orange));
   /* background-size: 100% 100%; */
   min-height: calc(100vh - 54px);
 }
 
-.first .main-title {
+body.path-frontpage .first .main-title {
   font-size: 3rem;
 }
 
@@ -102,14 +102,14 @@ body {
 /*   top: 5px; */
 /* } */
 
-.first .invitation {
+body.path-frontpage .first .invitation {
   font-style: italic;
   text-align: right;
   z-index: 10;
   padding-right: 0.5rem;
 }
 
-.first .img-responsive {
+body.path-frontpage .first .img-responsive {
   width: 25%;
   margin-left: 80px;
 }
@@ -1222,9 +1222,13 @@ a {
 
 .e-content ol, .e-content ul {
     list-style: disc outside none;
-     padding: 40px;
+     padding-left: 40px;
 }
 
+/* undo stupid non specific classnames */
+.e-content .contents .first {
+
+}
 
 a:hover {
   color: var(--red-darker);
