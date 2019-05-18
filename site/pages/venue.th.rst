@@ -54,7 +54,9 @@ You can use cash or buy a travel card, see
 `Getting around Bangkok <http://www.bangkok.com/information-travel-around/bts.htm>`_
 for details.
 
-Google maps works well for public transport directions.
+`Google Maps Directions`_ works well for navigating public transport.
+
+.. _Google Maps Directions: https://www.google.com/maps/dir//True+Digital+Park,+101+Sukhumvit+Rd,+Khwaeng+Bang+Chak,+Prakanong+Krung+Thep+Maha+Nakhon+10260/@13.6859721,100.575982,13z/data=!3m1!4b1!4m9!4m8!1m0!1m5!1m1!1s0x30e29ed269181bb1:0x60c3178ba983c76!2m2!1d100.6110016!2d13.6859746!3e3?authuser=1
 
 Taxis in Bangkok
 ----------------
@@ -85,7 +87,7 @@ increased chance of personal injury.
 Suvarnabhumi airport
 --------------------
 
-To get to the venue from `Suvarnabhumi Airport`_, go down to the basement level
+To get to the venue from `Suvarnabhumi Airport`_ via train, go down to the basement level
 and get the airport link train to `Phaya Thai`_ (45 baht, terminal station).
 The airport link station connects to the `Phaya Thai BTS`_ (skytrain) station.
 
@@ -99,8 +101,8 @@ You can use cash or buy a travel card, see
 `Getting around Bangkok <http://www.bangkok.com/information-travel-around/bts.htm>`_
 for details.
 
-An airport taxi from airport shouldn't cost more than around 300 baht including
-airport surcharge and tolls, and take around an hour, depending on traffic.
+An airport taxi from airport shouldn't cost more than around 250 baht including
+airport surcharge and tolls, and take around 30min, depending on traffic.
 
 Don Mueang airport
 ------------------
