@@ -140,16 +140,13 @@ NAVIGATION_LINKS = {
         (
             (
                 ("/schedule/", "ตารางเวลาการพูด"),
+                ("/#keynotes", "แก่นเรื่อง"),
+                ("/talks/", "สัมมนา"),
+                ("/speakers/", "ผู้บรรยาย"),
+                ("/party/", "ปาร์ตี้"),
+                ("/code-of-conduct/", "หลักจริยธรรม"),
                 ("/presentation-advice/", "คำแนะนำในการนำเสนอ"),
                 ("/#submission", "ส่งข้อเสนอการพูดคุยของคุณ (ปิดรับแล้ว)"),
-                ("/speakers/", "ผู้บรรยาย"),
-                ("/talks/", "สัมมนา"),
-                ("/#keynotes", "แก่นเรื่อง"),
-                #                ("/about/", "เกี่ยวกับ"),
-                #                ("/code-war/", "Code War"),
-                ("/party/", "ปาร์ตี้"),
-#                ("/staff/", "เจ้าหน้าที่"),
-                ("/code-of-conduct/", "หลักจริยธรรม"),
                 ("/pycon2018", "คลังโพสต์ 2018"),
                 ("mailto:contact@pyconthailand.org", "ติดต่อ"),
             ),
@@ -157,9 +154,9 @@ NAVIGATION_LINKS = {
         ),
         (
             (
-                ("/venue/", "สถานที่"),
-                ("/accommodation/", "Accommodation"),
-                ("/transportation/", "Transportation"),
+                ("/venue", "สถานที่"),
+                ("/venue#accommodation", "Accommodation"),
+                ("/venue#transportation", "Transportation"),
             ),
             "สถานที่"
         ),
@@ -171,13 +168,13 @@ NAVIGATION_LINKS = {
         (
             (
                 ("/en/schedule/", "Schedule"),
-                ("/en/presentation-advice/", "Presentation Advice"),
-                ("/en/#submission", "Submit Talk Proposal"),
-                ("/en/speakers/", "Speakers"),
-                ("/en/talks/", "Talks"),
                 ("/en/#keynotes", "Keynotes"),
+                ("/en/talks/", "Talks"),
+                ("/en/speakers/", "Speakers"),
                 ("/en/party/", "Party"),
                 ("/en/code-of-conduct/", "Code of Conduct"),
+                ("/en/#submission", "Submit Talk Proposal"),
+                ("/en/presentation-advice/", "Presentation Advice"),
                 ("/pycon2018/en", "PyCon Thailand 2018 Archive"),
                 ("mailto:contact@pyconthailand.org", "Contact"),
             ),
@@ -185,9 +182,9 @@ NAVIGATION_LINKS = {
         ),
         (
             (
-                ("/en/venue/", "Venue"),
-                ("/en/accommodation/", "Accommodation"),
-                ("/en/transportation/", "Transportation"),
+                ("/en/venue", "Venue"),
+                ("/en/venue#accommodation", "Accommodation"),
+                ("/en/venue#transportation", "Transportation"),
             ),
             "Venue"
         ),
