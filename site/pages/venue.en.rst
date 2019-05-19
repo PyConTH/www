@@ -24,7 +24,7 @@ True Digital Park
 
 `True Digital Park <https://www.truedigitalpark.com/>`_. is Thailand’s first and Southeast
 Asia’s largest startup and tech entrepreneurs campus. Spanning over 200,000 sq.m, the
-emerging innovation district “Bangkok CyberTech”, giving vast expansion opportunities
+emerging innovation district “Bangkok CyberTech”, gives vast expansion opportunities
 across digital domains and geographic spaces.
 
 `True Digital Park <https://www.truedigitalpark.com/>`_. is a critical driver to the
@@ -58,7 +58,7 @@ Transportation
 
 Train/BTS
 ---------
-By the far the easiest way to to TDPK is via BTS. Exit Punnawithi Station by continuing on the
+By the far the easiest way to reach TDPK is via BTS. Exit Punnawithi Station by continuing on the
 skywalk (near exit 3/4) for 5 minutes and you will see the venue on your left.
 
 You can use cash or buy a travel card, see
@@ -79,8 +79,8 @@ Google Maps).  Drivers are normally good at turning on their meters, unless
 you're in a major tourist nightlife area like lower Sukhumvit or Silom at
 night. Avoid parked taxis.
 
-On many corners are moto-cy or motocylcle taxis wearing orange vests. For between
-15-80baht they will take you the extra 1-2km you need to go after you get off a BTS,
+On many corners are moto-cy or motorcycle taxis wearing orange vests. For between
+15-80 baht they will take you the extra 1-2km you need to go after you get off a BTS,
 often avoiding traffic jams. Ask the price before you get on and hold on tight
 (to the bar behind you, not the driver).
 
@@ -92,7 +92,7 @@ GPS so can be easier to explan where to go.
 
 .. _Grab: https://r.grab.com/grabdylanjay
 
-They also operate motobikes which will get you there faster by avoiding traffic jams at an
+They also operate motorbikes which will get you there faster by avoiding traffic jams at an
 increased chance of personal injury.
 
 Suvarnabhumi airport
@@ -145,14 +145,14 @@ see Map_ for other hotel suggestions
 Hostels
 -------
 
-Hostels can be found all over bangkok and can be as low as 300baht per night.
+Hostels can be found all over Bangkok and can be as low as 300baht per night.
 
-see Map_ for hostel suggestions
+See the Map_ for hostel suggestions.
 
 Eat/Drink/Do
 ============
 
-see Map_ for hostel suggestions
+See Map_ for activity suggestions.
 
 Connectivity
 ============
