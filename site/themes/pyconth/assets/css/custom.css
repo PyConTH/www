@@ -146,6 +146,7 @@ body.path-frontpage .first .img-responsive {
 
 .news .news-title {
   margin-bottom: 40px;
+  font-size: 20px;
 }
 
 .news .schedule p {
@@ -271,6 +272,10 @@ body.path-frontpage .first .img-responsive {
 .keynote .image-bg img {
   width: 100%;
   height: auto;
+}
+.keynote .keynote-title {
+  margin-bottom: 40px;
+  font-size: 20px;
 }
 
 /* .keynote .keynote-title:before {
