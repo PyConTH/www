@@ -1429,7 +1429,7 @@ p {
 
 .features > .item > h3 {
   font-size: 1.5rem;
-  text-align: left;
+  text-align: center;
   margin-bottom: 1rem;
   font-weight: bold;
 }
