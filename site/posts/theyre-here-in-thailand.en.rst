@@ -4,7 +4,7 @@
 .. type: micro
 .. status: published
 
-Pythonistas! You love Sci-kit learn? Pytorch? Beeware? Django? Who are better teachers than the experts in the field? 
+Pythonistas! You love Sci-kit learn? PyTorch? Beeware? Django? Who are better teachers than the experts in the field? 
 
 Get all the insights from our 4 keynote speakers and other top notch speakers! 46 talks and workshops, plus other lighting talks, 3 tracks in 2 days, with party in the evening. Lots of mingling time to interact with sponsors and professionals, chances to get job opportunities and internships too!
 
