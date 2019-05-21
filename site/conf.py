@@ -147,8 +147,6 @@ NAVIGATION_LINKS = {
                 ("/code-of-conduct/", "หลักจริยธรรม"),
                 ("/presentation-advice/", "คำแนะนำในการนำเสนอ"),
                 ("/#submission", "ส่งข้อเสนอการพูดคุยของคุณ (ปิดรับแล้ว)"),
-                ("/pycon2018", "คลังโพสต์ 2018"),
-                ("mailto:contact@pyconthailand.org", "ติดต่อ"),
             ),
             "ตารางเวลาการพูด"
         ),
@@ -162,6 +160,16 @@ NAVIGATION_LINKS = {
         ),
         ("/sponsorship/", "ผู้สนับสนุน"),
         ('/posts', 'ข่าวสาร'),
+        (
+            (
+                ("/about", "About"),
+                ("/staff", "Staff"),
+                ("/financial-support", "Financial Support"),
+                ("/pycon2018", "คลังโพสต์ 2018"),
+                ("mailto:contact@pyconthailand.org", "ติดต่อ"),
+            ),
+            "About"
+        ),
         ("/buy-tickets/", "ซื้อบัตร"),
     ),
     "en": (
@@ -175,8 +183,6 @@ NAVIGATION_LINKS = {
                 ("/en/code-of-conduct/", "Code of Conduct"),
                 ("/en/#submission", "Submit Talk Proposal"),
                 ("/en/presentation-advice/", "Presentation Advice"),
-                ("/pycon2018/en", "PyCon Thailand 2018 Archive"),
-                ("mailto:contact@pyconthailand.org", "Contact"),
             ),
             "Schedule"
         ),
@@ -190,6 +196,16 @@ NAVIGATION_LINKS = {
         ),
         ("/en/sponsorship/", "Sponsors"),
         ('/en/posts', 'News'),
+        (
+            (
+                ("/en/about", "About"),
+                ("/en/staff", "Staff"),
+                ("/en/financial-support", "Financial Support"),
+                ("/pycon2018/en", "PyCon Thailand 2018 Archive"),
+                ("mailto:contact@pyconthailand.org", "Contact"),
+            ),
+            "About"
+        ),
         ("/en/buy-tickets/", "Tickets"),
     ),
 }
