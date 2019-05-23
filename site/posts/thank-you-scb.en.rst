@@ -1,5 +1,4 @@
 .. title: Thank you SCB!
-.. title: Thank you SCB!
 .. slug: thank-you-scb
 .. date: 2019-05-23 12:37:43 UTC+07:00
 .. type: micro
