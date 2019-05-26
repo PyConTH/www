@@ -1,7 +1,7 @@
 
 .. title: Speakers
 .. slug: speakers
-.. date: 2019-05-16 19:14:38 UTC+07:00
+.. date: 2019-05-26 12:29:04 UTC+07:00
 .. tags:
 .. category:
 .. link:
@@ -97,6 +97,50 @@ Biography
   * Represented India at International Hackathons like Hack Junction’16, Finland and Hack the North’16, Canada. Got invited for more than a ‘dozen’ of prestigious International Hackathons (PennApps’17, HackNY’17, Hack Princeton’17 and many more) and Conferences.
   * A Microsoft Certified Professional, Microsoft Technology Associate, IBM Certified Web Developer, and Hewlett Packard Certified Developer.
   * Former Software Developer Intern at IBM & an ALL STACK DEVELOPER capable of designing and developing solutions for Mobile, Web, Embedded Systems, and Desktop. Areas of interest are Computational Neuroscience, Deep Learning, and Cloud Computing.
+
+
+
+
+
+
+.. class:: clearfix
+
+
+Anthony Khong
+=============
+
+
+
+.. image:: https://secure.gravatar.com/avatar/62a12078cfba41bcd8d0886a7a7d3a20?s=500
+    :alt: Anthony Khong
+    :height: 200px
+    :align: right
+    :class: img-circle img-responsive
+
+
+
+
+
+
+
+Talk: Functional Programming in Python: Lessons from Haskell and Clojure
+
+Biography
+---------
+
+I am always fascinated about programming languages. In particular, I have long
+advocated for the use of functional programming over object-oriented
+programming and a declarative style over an imperative one. Despite having
+used Python heavily since 2013, groking Scala, Haskell and Clojure really
+changed my style of writing Python code. I would like to share some of my
+findings and advocate a functional style of programming in Python. My other
+interests include Bayesian statistics, Monte Carlo methods and high-
+performance computing. I am a co-founder and managing director of Arithmox, a
+startup offering CTO-as-a-service and growth hacking packages to Indonesian
+companies. My interest lies in the use of technology and data-driven
+approaches correctly to drive growth. In a business climate where it is easy
+to get sucked into the AI hype, I advocate a pragmatic and no-nonsense
+approach to introducing such technologies into already-running businesses.
 
 
 
@@ -338,39 +382,6 @@ she likes to paint nature, explore new places and anchor live shows
 .. class:: clearfix
 
 
-El
-==
-
-
-
-.. image:: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/26910/Photo_on_22-2-18_at_13.22.jpg
-    :alt: El
-    :height: 200px
-    :align: right
-    :class: img-circle img-responsive
-
-
-
-
-
-
-
-Talk: Introduction to PyTorch
-
-Biography
----------
-
-Django REST lover, DevOps and ReactJS beginner. Studying ML in order to build
-my 7yrs old dream. An optical reader machine with text2speech.
-
-
-
-
-
-
-.. class:: clearfix
-
-
 Harley Davidson Karel
 =====================
 
@@ -405,6 +416,59 @@ Security Testing, Secure SDLC, DevSecOps. Hold Certified Ethical Hacker
 certification, Speaker for several conferences in Jakarta, Kuala Lumpur,
 Singapore with topic related to application security. Bachelor’s Degree
 focused in Informatics Engineering from Telkom University.
+
+
+
+
+
+
+.. class:: clearfix
+
+
+Jiranun Jiratrakanvong
+======================
+
+
+
+.. image:: https://secure.gravatar.com/avatar/4a75eaa5cf4154efc5051e95247ac769?s=500
+    :alt: Jiranun Jiratrakanvong
+    :height: 200px
+    :align: right
+    :class: img-circle img-responsive
+
+
+
+
+
+.. class:: fa fa-twitter fa-fw
+
+    `j_jiranun <https://twitter.com/j_jiranun>`_
+
+
+
+
+
+Talk: Python for Data Science Projects at Coraline
+
+Biography
+---------
+
+My name is Jiranun Jiratrakanvong. You can call me **"Jiranun"**. I have been
+fascinated in computer programming since I was a little. As a kid, my goal was
+just to make a game bot (Ragnarok) because I was too lazy to play it myself.
+After studying for many years, I become more lazy to do things and tried to
+solve everything by programming. Python is my beloved language as it's easy to
+use, and it's easy to connect to other stuffs ## Education \- Undergrad
+Student at Department of Computer Science, Chulalongkorn University \-
+Graduate Student at Department of Computer Science, Illinois Institute of
+Technology \- Specializations at IIT: Computational Intelligence, and Data
+Analytics ## Experience \- Software Engineer (C++/Java) at Thomson
+Reuters/Refinitiv (Bangkok) \- Python Experience: Research Associate at BioCAT
+(Chicago) \- Present: Data Scientist at Coraline (Bangkok) \- Python Libraries
+Used: scikit-learn, pandas, numpy, scipy, opencv, PIL, matplotlib, PyQt,
+Django, Flask, wxPython, reportlab, Cython, numba, fabio, lmfit, pymysql,
+SQLAlchemy, etc. ## Hobbies \- Singing and playing guitar \- Running (mini
+marathon) \- Scuba Diving \- Traveling
 
 
 
@@ -585,45 +649,6 @@ professionals.
 .. class:: clearfix
 
 
-Kavya NR
-========
-
-
-
-.. image:: https://secure.gravatar.com/avatar/8f02127116c899618727d568d7846535?s=500
-    :alt: Kavya NR
-    :height: 200px
-    :align: right
-    :class: img-circle img-responsive
-
-
-
-
-
-
-
-Talk: Using deep learning to raise alarm when bug prone code is pushed
-
-Biography
----------
-
-Kavya is a Software Development Engineer I at Expedia Group. She completed her
-Bachelor of Technology in Computer Science at IIIT Allahabad in 2017. During
-her tenure at Expedia Group she has primarily worked around developing
-solutions in android ecosystem, internal API(s) and machine learning. She had
-also had experience working with services that cloud offers. She is now
-looking to expand her knowledge and share her learnings with a wider audience.
-Kavya has spoken extensively in local meet ups internal to Expedia Group about
-topics relating to Data Science, mobile platform and databases.
-
-
-
-
-
-
-.. class:: clearfix
-
-
 Korakot Chaovavanich
 ====================
 
@@ -660,6 +685,56 @@ sharing. My main contributions are for [PyThaiNLP
 project](https://github.com/PyThaiNLP/pythainlp) and Colab notebooks shared on
 [Colab Thailand Facebook
 Group](https://www.facebook.com/groups/colab.thailand/)
+
+
+
+
+
+
+.. class:: clearfix
+
+
+Lina KATAYOSE(selina)
+=====================
+
+
+
+.. image:: https://secure.gravatar.com/avatar/442340722ced9c7c1bdf618ece413c69?s=500
+    :alt: Lina KATAYOSE(selina)
+    :height: 200px
+    :align: right
+    :class: img-circle img-responsive
+
+
+
+
+
+.. class:: fa fa-twitter fa-fw
+
+    `selina787b <https://twitter.com/selina787b>`_
+
+
+
+
+
+Talk: Pyladies	and Importance of community participation
+
+Biography
+---------
+
+I established my company called moegi Co., Ltd. to start the drone business. I
+am an engineer of the front-end system, but recently I have been focued on
+RaspberryPi and Arduino, and have been actively transmitting mechanisms in
+which objects move in reality by using Python language. This year, I
+participated in "PyCon 2018 Cleveland" and I felt the momentum of overseas
+forces. I exchanged contact information with Pythonista who are active
+overseas so that I can cooperate with them. Additionary, as a staff member of
+Pyladies Tokyo, I did a community activity spreading Python, and did Python
+Boot Camp which helps Python beginners and spreads Python as Saitama and
+Fukushima local staff. Python Boot Camp in Fukushima, activities such as
+preparing the venue as well as taking up local newspapers were underway. In
+addition, I am participating in the Python related community and am doing
+activities to improve self-study and day-to-day technology.
 
 
 
@@ -809,6 +884,70 @@ http://bit.ly/2FVfzDE
 .. class:: clearfix
 
 
+Nithiroj Tripatarasit
+=====================
+
+
+
+.. image:: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/27090/IMG-0002.JPG
+    :alt: Nithiroj Tripatarasit
+    :height: 200px
+    :align: right
+    :class: img-circle img-responsive
+
+
+
+
+
+.. class:: fa fa-twitter fa-fw
+
+    `nithiroj <https://twitter.com/nithiroj>`_
+
+
+
+
+
+Talk: Facial Keypoints Detection with PyTorch
+
+Biography
+---------
+
+**Nithiroj Tripatarasit** *Lifelong learner, tech lover, and deep learning
+enthusiast.* **My works** \- [iOS
+apps](https://itunes.apple.com/th/developer/nithiroj-tripatarasit/id704045425)
+\- [Android
+apps](https://play.google.com/store/apps/developer?id=Neo+Edutainment)
+**Experiences:** \- [PyTorch Scholarship to Udacity's Deep Learning NanoDegree
+program (Jan 2019 – present)](https://medium.com/@nithiroj/facial-keypoints-
+detection-with-pytorch-86bac79141e4) \- [fast.ai International Fellowship
+Program (Oct 22 - Dec 12, 2018)](https://www.fast.ai/2018/08/16/diversity-
+fellowships/) \- [Data Cafe Fellowship #2 ( Aug - Oct
+2018)](https://drive.google.com/file/d/1AZ9RwZSR0uJU6lIwarD5On4cR_y0KA7_/view?usp=sharing)
+\- [Speaker of Logo Detection using PyTorch at PyCon Thailand 2018 (Jun 16 –
+17, 2018)](https://medium.com/diving-in-deep/logo-detection-using-
+pytorch-7897d4898211) \- [WorldQuant University's Introduction to Data Science
+module (September 7, 2018)](https://wqu-
+cert.thedataincubator.com/certificate?key=1820009749491963002) \- [fast.ai
+International Fellowship Program (Mar 19 - Apr 30,
+2018)](http://www.fast.ai/2018/01/17/international-spring-2018/) \- [Deep
+Learning, a 5-course specialization by deeplearning.ai on Coursera.
+Specialization Certificate earned on March 9,
+2018](https://www.coursera.org/account/accomplishments/specialization/X7TVC4FK8J82)
+\- [Machine
+Learning](https://www.coursera.org/account/accomplishments/certificate/3DJQGJEUN2ZH)
+\- [Deep Learning Workshops by Google Developer
+Experts](https://drive.google.com/file/d/1A0CTi9OCQ9MenLBXZ14bp0K-WsF1JEPt/view?usp=sharing)
+\- [Big Data with Hadoop by
+DEPA](https://drive.google.com/file/d/18ulagdP4U2J8mcAnDZPFuE_nKc9c72Dz/view?usp=sharing)
+
+
+
+
+
+
+.. class:: clearfix
+
+
 Noah
 ====
 
@@ -844,6 +983,49 @@ member of PSF, my wish is that connect everyone who enjoy Python, and try to
 promote programming education to young generation or everyone who interested
 in by teaching basic programming skill using Python and R, like be a mentor of
 Hour or Code, or Google Summer of Code with FOSSASIA
+
+
+
+
+
+
+.. class:: clearfix
+
+
+Pisuth Daengthongdee
+====================
+
+
+
+.. image:: https://secure.gravatar.com/avatar/02db6091a997dc75b39fddfe6a740494?s=500
+    :alt: Pisuth Daengthongdee
+    :height: 200px
+    :align: right
+    :class: img-circle img-responsive
+
+
+
+
+
+.. class:: fa fa-twitter fa-fw
+
+    `pisuthd <https://twitter.com/pisuthd>`_
+
+
+
+
+
+Talk: Raiden Network for instant crypto payment & lower fees
+
+Biography
+---------
+
+Pisuth turns himself into a blockchain developer with extensive skills on IoT
+and Chatbot since 2017. Prior that time, he was working in media industry for
+8 years in Thailand experienced using Python on system monitoring and systems
+integration. He also won 7 blockchain competition/hackathon in the past 2
+years include ETHSingapore, Binance and NEO and has strong passion on
+blockchain technology and distributed economy.
 
 
 
@@ -972,6 +1154,58 @@ years ago he spat his dummy at the amount of work Oracle expected him to do,
 resigned and enrolled for a PhD at the University of Melbourne, Australia. He
 expects to complete his PhD computer modelling infectious animal diseases
 later this year.
+
+
+
+
+
+
+.. class:: clearfix
+
+
+Sam Witteveen + Martin Andrews
+==============================
+
+
+
+.. image:: https://secure.gravatar.com/avatar/02da2ef8a441965087137c2691e39d34?s=500
+    :alt: Sam Witteveen + Martin Andrews
+    :height: 200px
+    :align: right
+    :class: img-circle img-responsive
+
+
+
+
+
+.. class:: fa fa-twitter fa-fw
+
+    `sam_witteveen <https://twitter.com/sam_witteveen>`_
+
+
+
+
+
+Talk: Deep Learning Introductory Workshop with TensorFlow 2.0
+
+Biography
+---------
+
+This workshop would be given by Sam Witteveen and Martin Andrews Sam is a
+Google Developer Expert for Machine Learning and is a co-founder of Red Dragon
+AI a deep tech company based in Singapore. He has extensive experience in
+startups and mobile applications and is helping developers and companies
+create smarter applications with machine learning. Sam is especially
+passionate about Deep Learning and AI in the fields of Natural Language and
+Conversational Agents and regularly shares his knowledge at events and
+trainings across Asia, as well as being the co-organiser of the Singapore
+TensorFlow and Deep Learning group. แซมพูดและอ่านภาษาไทยได้ Martin has over 20
+years’ experience in Machine Learning and has used it to solve problems in
+financial modelling and has created AI automation for companies. His current
+area of focus and speciality is in natural language processing and
+understanding. In 2017, Google appointed Martin as one of the first 12 Google
+Developer Experts for Machine Learning. Martin is also one of the co-founders
+of Red Dragon AI.
 
 
 
@@ -1240,12 +1474,12 @@ Talk: Automate the Boring Stuff with Slackbot
 Biography
 ---------
 
-Takanori is a director of PyCon JP Committee(www.pycon.jp). He is also a
-director of BeProud Inc.(www.beproud.jp), and his title is "Python Climber".
+Takanori is a Vice Chairperson of PyCon JP Committee(www.pycon.jp). He is also
+a director of BeProud Inc.(www.beproud.jp), and his title is "Python Climber".
 Takanori held PyCon JP 2014 to 2016 as the chairperson. Currently he teaches
 Python to beginners as a lecturer at Python Boot Camp(pycamp.pycon.jp) all
 over Japan. In addition, he published several Python books. Tananori plays
-trumpet, climbs boulder, loves Lego and ferrets.
+trumpet, climbs boulder, loves Lego, ferrets and beer
 
 
 
@@ -1348,6 +1582,51 @@ now and aware them about privacy and security. Given Seminars and workshops in
 Reps, Mentor in Mozilla Open Leadership Project, Coach(Privacy and Security)
 in MozSprint 2018, also working with L10N project on Pontoon, Rust and WebVR
 projects.
+
+
+
+
+
+
+.. class:: clearfix
+
+
+Zsolt Dollenstein
+=================
+
+
+
+.. image:: https://secure.gravatar.com/avatar/c64a6a9dfd72d4d6fe680f9cfbf46f58?s=500
+    :alt: Zsolt Dollenstein
+    :height: 200px
+    :align: right
+    :class: img-circle img-responsive
+
+
+
+
+
+.. class:: fa fa-twitter fa-fw
+
+    `dzsol <https://twitter.com/dzsol>`_
+
+
+
+
+
+Talk: Any Code Formatter You Like - As Long As It's Black
+
+Biography
+---------
+
+I'm a computer scientist with a passion for programming languages, and have
+been working as a software engineer in the Infrastructure Team at Facebook
+London since 2016. I've been working with Python on and off for the past 10
+years, but recently it has become an area close to my heart. I'm the father of
+an awesome little dude, husband to an amazing wife, and when I'm not spending
+time with my family, work, and open source, I'm a captain of a competitive
+Overwatch team. Ask me about the biggest outage I've ever caused ;) See you at
+the conference!
 
 
 
