@@ -70,13 +70,13 @@ body {
 
 /* home page */
 
-.first {
+body.path-frontpage .first {
   background-image: radial-gradient(circle at bottom center, yellow, var(--orange) 60%, var(--orange));
   /* background-size: 100% 100%; */
   min-height: calc(100vh - 54px);
 }
 
-.first .main-title {
+body.path-frontpage .first .main-title {
   font-size: 3rem;
 }
 
@@ -102,14 +102,14 @@ body {
 /*   top: 5px; */
 /* } */
 
-.first .invitation {
+body.path-frontpage .first .invitation {
   font-style: italic;
   text-align: right;
   z-index: 10;
   padding-right: 0.5rem;
 }
 
-.first .img-responsive {
+body.path-frontpage .first .img-responsive {
   width: 25%;
   margin-left: 80px;
 }
@@ -146,6 +146,7 @@ body {
 
 .news .news-title {
   margin-bottom: 40px;
+  font-size: 20px;
 }
 
 .news .schedule p {
@@ -271,6 +272,10 @@ body {
 .keynote .image-bg img {
   width: 100%;
   height: auto;
+}
+.keynote .keynote-title {
+  margin-bottom: 40px;
+  font-size: 20px;
 }
 
 /* .keynote .keynote-title:before {
@@ -416,6 +421,8 @@ body {
 
 .sponsor-section .welcome-submission-title {
   font-size: 32px;
+  margin-top: 40px;
+  margin-bottom: 40px;
 }
 
 .welcome-submission,
@@ -1210,6 +1217,22 @@ header {
 
 a {
   color: var(--red);
+  text-decoration: underline;
+}
+
+.e-content a {
+  color: var(--red);
+  text-decoration: underline;
+}
+
+.e-content ol, .e-content ul {
+    list-style: disc outside none;
+     padding-left: 40px;
+}
+
+/* undo stupid non specific classnames */
+.e-content .contents .first {
+
 }
 
 a:hover {
@@ -1271,7 +1294,8 @@ p {
 }
 
 .sponsors-link--gold {
-  width: 33.33%;
+  width: 250px;
+  height:250px;
 }
 
 .sponsors-link--silver {
@@ -1285,8 +1309,8 @@ p {
 }
 
 .sponsors-link--partner {
-  width: 200px;
-  height: 200px;
+  width: 150px;
+  height: 150px;
 }
 
 .sponsors-link--platinum,

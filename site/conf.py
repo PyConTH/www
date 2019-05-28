@@ -137,54 +137,74 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ('/venue/', 'สถานที่'),
-        ("/schedule/", "ตารางเวลาการพูด"),
+        (
+            (
+                ("/schedule/", "ตารางเวลาการพูด"),
+                ("/#keynotes", "แก่นเรื่อง"),
+                ("/talks/", "สัมมนา"),
+                ("/speakers/", "ผู้บรรยาย"),
+                ("/party/", "ปาร์ตี้"),
+                ("/code-of-conduct/", "หลักจริยธรรม"),
+                ("/presentation-advice/", "คำแนะนำในการนำเสนอ"),
+                ("/#submission", "ส่งข้อเสนอการพูดคุยของคุณ (ปิดรับแล้ว)"),
+            ),
+            "ตารางเวลาการพูด"
+        ),
+        (
+            (
+                ("/venue", "สถานที่"),
+                ("/venue#accommodation", "Accommodation"),
+                ("/venue#transportation", "Transportation"),
+            ),
+            "สถานที่"
+        ),
         ("/sponsorship/", "ผู้สนับสนุน"),
         ('/posts', 'ข่าวสาร'),
         (
             (
-                ("/presentation-advice/", "คำแนะนำในการนำเสนอ"),
-                ("/#submission", "ส่งข้อเสนอการพูดคุยของคุณ (ปิดรับแล้ว)"),
-                ("/speakers/", "ผู้บรรยาย"),
-                ("/talks/", "สัมมนา"),
-                ("/#keynotes", "แก่นเรื่อง"),
-                #                ("/about/", "เกี่ยวกับ"),
-                #                ("/code-war/", "Code War"),
-                ("/party/", "ปาร์ตี้"),
-#                ("/staff/", "เจ้าหน้าที่"),
-                ("/code-of-conduct/", "หลักจริยธรรม"),
-                ("mailto:contact@pyconthailand.org", "ติดต่อ"),
+                ("/about", "About"),
+                ("/staff", "Staff"),
+                ("/financial-support", "Financial Support"),
                 ("/pycon2018", "คลังโพสต์ 2018"),
+                ("mailto:contact@pyconthailand.org", "ติดต่อ"),
             ),
-            "งาน"
+            "About"
         ),
         ("/buy-tickets/", "ซื้อบัตร"),
     ),
     "en": (
         (
             (
-                ("/en/venue/", "Venue"),
-                ("/en/accommodation/", "Accommodation"),
-                ("/en/transportation/", "Transportation"),
+                ("/en/schedule/", "Schedule"),
+                ("/en/#keynotes", "Keynotes"),
+                ("/en/talks/", "Talks"),
+                ("/en/speakers/", "Speakers"),
+                ("/en/party/", "Party"),
+                ("/en/code-of-conduct/", "Code of Conduct"),
+                ("/en/#submission", "Submit Talk Proposal"),
+                ("/en/presentation-advice/", "Presentation Advice"),
+            ),
+            "Schedule"
+        ),
+        (
+            (
+                ("/en/venue", "Venue"),
+                ("/en/venue#accommodation", "Accommodation"),
+                ("/en/venue#transportation", "Transportation"),
             ),
             "Venue"
         ),
-        ("/en/schedule/", "Schedule"),
         ("/en/sponsorship/", "Sponsors"),
         ('/en/posts', 'News'),
         (
             (
-                ("/en/presentation-advice/", "Presentation Advice"),
-                ("/en/#submission", "Submit Talk Proposal"),
-                ("/en/speakers/", "Speakers"),
-                ("/en/talks/", "Talks"),
-                ("/en/#keynotes", "Keynotes"),
-                ("/en/party/", "Party"),
-                ("/en/code-of-conduct/", "Code of Conduct"),
-                ("mailto:contact@pyconthailand.org", "Contact"),
+                ("/en/about", "About"),
+                ("/en/staff", "Staff"),
+                ("/en/financial-support", "Financial Support"),
                 ("/pycon2018/en", "PyCon Thailand 2018 Archive"),
+                ("mailto:contact@pyconthailand.org", "Contact"),
             ),
-            "Event"
+            "About"
         ),
         ("/en/buy-tickets/", "Tickets"),
     ),

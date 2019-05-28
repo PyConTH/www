@@ -1,4 +1,3 @@
-
 .. title: Talks
 .. slug: talks
 .. date: 2019-05-26 12:32:49 UTC+07:00
