@@ -1,6 +1,6 @@
 .. title: Talks
 .. slug: talks
-.. date: 2019-05-16 18:57:13 UTC+07:00
+.. date: 2019-05-26 12:32:49 UTC+07:00
 .. tags:
 .. category:
 .. link:
@@ -45,6 +45,26 @@ Abstract
 --------
 
 Generative Adversarial Networks are one of the latest advancements in Deep Learning. Interested in knowing how to generate content (images, music, and much more) instead of classifying one into categories? Let's dive into the details of GANs: One of the BIGGEST Breakthroughs in the DL Revolution.
+
+
+
+
+.. class:: clearfix
+
+
+
+Functional Programming in Python: Lessons from Haskell and Clojure
+==================================================================
+
+
+by Anthony Khong
+
+Format: Talk (~30-45 minutes)
+
+Abstract
+--------
+
+In this talk, I argue that Python is not quite a functional programming language. We draw examples from Haskell and Clojure to highlight the importance of immutability, functional core and reusable data. We look into writing idiomatic Python, whilst enjoying the benefits of functional programming.
 
 
 
@@ -155,26 +175,6 @@ Beginner friendly!
 
 
 
-Introduction to PyTorch
-=======================
-
-
-by El
-
-Format: Workshop (> 60 minutes)
-
-Abstract
---------
-
-Day one with the Machine Learning job. I wasted my time 2 months getting lost in the Internet. Until I found the correct approach to start working with neural network. I hope my sharing here would benefit new PyTorch user.
-
-
-
-
-.. class:: clearfix
-
-
-
 Security Issues on your Python Code
 ===================================
 
@@ -187,6 +187,26 @@ Abstract
 --------
 
 This topic will cover how to find security issue on python code using open source Static Analysis Security Testing. So that developer can found & fixed the security issue since on development stage, without waiting for penetration testing stage
+
+
+
+
+.. class:: clearfix
+
+
+
+Python for Data Science Projects at Coraline
+============================================
+
+
+by Jiranun Jiratrakanvong
+
+Format: Talk (~30-45 minutes)
+
+Abstract
+--------
+
+If you think about a Data Science Project, what are you thinking about? Machine learning? Deep learning? AI? Correct! But it’s usually ~20% of the whole project. Let's forget about ML, and I will tell you what we have faced as a Data Science Company, and how we use Python to solve almost everything!
 
 
 
@@ -280,26 +300,6 @@ Over the past couple of years, several companies around the world have started t
 
 
 
-Using deep learning to raise alarm when bug prone code is pushed
-================================================================
-
-
-by Kavya NR
-
-Format: Talk (~30-45 minutes)
-
-Abstract
---------
-
-A lot of new code is pushed to code repositories. It is difficult to review every code change with same attention. What if an AI system can predict that 'this' code change might introduce bug and make reviewer more attentive? The talk is about creating such a system using deep learning.
-
-
-
-
-.. class:: clearfix
-
-
-
 Advanced Google Colaboratory
 ============================
 
@@ -312,6 +312,26 @@ Abstract
 --------
 
 Colab or Google Colaboratory is a popular tool to run Jupyter Notebook for free on Google Cloud. This talk will cover some advanced uses of Colab, such as %magic, forms, Python-JavaScript communication, adding a kernel, using conda, displaying map, and using microphone and camera.
+
+
+
+
+.. class:: clearfix
+
+
+
+Pyladies	and Importance of community participation
+==================================================
+
+
+by Lina KATAYOSE(selina)
+
+Format: Talk (~30-45 minutes)
+
+Abstract
+--------
+
+I’m Japanese(Tokyo) Pyladies staff. I'll talk in the Python woman's community and talk about what I thought. I think small communities are also important. And I also hope that we want everyone in the small community to have the skills that lead to Asia and the world.
 
 
 
@@ -380,6 +400,26 @@ Setting up an authentication layer is, without doubt, one of the most challengin
 
 
 
+Facial Keypoints Detection with PyTorch
+=======================================
+
+
+by Nithiroj Tripatarasit
+
+Format: Talk (~30-45 minutes)
+
+Abstract
+--------
+
+Detecting facial keypoints is a very challenging problem. It can be used as a building block in several application such as tracking faces in images and video, analyzing facial expression, face recognition, etc. This talk will walk you through step by step how to solve this problem with PyTorch.
+
+
+
+
+.. class:: clearfix
+
+
+
 Ready to say goodbye to Python 2.7 ! ?
 ======================================
 
@@ -393,6 +433,26 @@ Abstract
 
 according to PEP 373, we knew Python 2.7 EOL is moved to 2020. in PEP 404, we knew Python 2.8 will never come, which means all versions of Python 2 will be end of official bugfix and support at EOL.  
 2019, the last year of Python2. let's review how glory memories is in history of Python.
+
+
+
+
+.. class:: clearfix
+
+
+
+Raiden Network for instant crypto payment & lower fees
+======================================================
+
+
+by Pisuth Daengthongdee
+
+Format: Talk (~30-45 minutes)
+
+Abstract
+--------
+
+Raiden network is an open source project aims to bring several advantages like better privacy, speed, and lower fees to the Ethereum blockchain. This talk would focus on how to install, use cases, integration and its underlying technology.
 
 
 
@@ -453,6 +513,26 @@ Abstract
 --------
 
 Models are used to simulate the spread of diseases in populations. Scientists often cannot base their decisions on past events but must take action quickly to halt their spread. Computer modelling in Python using random processes can help formulate actions to stem the spread of contagious diseases.
+
+
+
+
+.. class:: clearfix
+
+
+
+Deep Learning Introductory Workshop with TensorFlow 2.0
+=======================================================
+
+
+by Sam Witteveen + Martin Andrews
+
+Format: Workshop (> 60 minutes)
+
+Abstract
+--------
+
+This is a full workshop introducing the concepts of Deep Learning in TensorFlow 2.0 It would give people a set of basic notebooks that they can run in Google Colab outlining the basics of Deep Learning and building models.
 
 
 
@@ -617,5 +697,29 @@ Abstract
 --------
 
 Talk is about the JWT Authentication with Django which plays an important role in modern day application development where it is a lot more than just the login screen, People will get know about different ways of authentication and authorization, concepts that make up modern identity.
+
+
+
+
+.. class:: clearfix
+
+
+
+Any Code Formatter You Like - As Long As It's Black
+===================================================
+
+
+by Zsolt Dollenstein
+
+Format: Talk (~30-45 minutes)
+
+Abstract
+--------
+
+Are linters telling you how to write code? Stop wasting time and let the computer do the work!
+
+Embrace auto-formatters! How do they work? What makes Black different?
+
+I'll share some tips on the easiest way to adopt a new code formatter, and talk about our experience rolling Black out at Facebook.
 
 
