@@ -25,6 +25,8 @@ accepted_talks = [talk for talk in talks if talk['state'] == 'accepted' and talk
 accepted_talks += xtratalks
 accepted_talks.sort(key=lambda x: x["name"])
 for x in accepted_talks:
+    if x['name'].lower() == "Nithiroj Tripatarasit".lower():
+        x['bio'] = x['bio'].split("**Experiences:**")[0]
     x['bio'] = html2text.html2text(x['bio'])
 
 talk_page = """

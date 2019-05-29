@@ -1,7 +1,7 @@
 
 .. title: Speakers
 .. slug: speakers
-.. date: 2019-05-29 22:10:21 UTC+07:00
+.. date: 2019-05-29 22:45:23 UTC+07:00
 .. tags:
 .. category:
 .. link:
@@ -1039,28 +1039,6 @@ enthusiast.* **My works** \- [iOS
 apps](https://itunes.apple.com/th/developer/nithiroj-tripatarasit/id704045425)
 \- [Android
 apps](https://play.google.com/store/apps/developer?id=Neo+Edutainment)
-**Experiences:** \- [PyTorch Scholarship to Udacity's Deep Learning NanoDegree
-program (Jan 2019 – present)](https://medium.com/@nithiroj/facial-keypoints-
-detection-with-pytorch-86bac79141e4) \- [fast.ai International Fellowship
-Program (Oct 22 - Dec 12, 2018)](https://www.fast.ai/2018/08/16/diversity-
-fellowships/) \- [Data Cafe Fellowship #2 ( Aug - Oct
-2018)](https://drive.google.com/file/d/1AZ9RwZSR0uJU6lIwarD5On4cR_y0KA7_/view?usp=sharing)
-\- [Speaker of Logo Detection using PyTorch at PyCon Thailand 2018 (Jun 16 –
-17, 2018)](https://medium.com/diving-in-deep/logo-detection-using-
-pytorch-7897d4898211) \- [WorldQuant University's Introduction to Data Science
-module (September 7, 2018)](https://wqu-
-cert.thedataincubator.com/certificate?key=1820009749491963002) \- [fast.ai
-International Fellowship Program (Mar 19 - Apr 30,
-2018)](http://www.fast.ai/2018/01/17/international-spring-2018/) \- [Deep
-Learning, a 5-course specialization by deeplearning.ai on Coursera.
-Specialization Certificate earned on March 9,
-2018](https://www.coursera.org/account/accomplishments/specialization/X7TVC4FK8J82)
-\- [Machine
-Learning](https://www.coursera.org/account/accomplishments/certificate/3DJQGJEUN2ZH)
-\- [Deep Learning Workshops by Google Developer
-Experts](https://drive.google.com/file/d/1A0CTi9OCQ9MenLBXZ14bp0K-WsF1JEPt/view?usp=sharing)
-\- [Big Data with Hadoop by
-DEPA](https://drive.google.com/file/d/18ulagdP4U2J8mcAnDZPFuE_nKc9c72Dz/view?usp=sharing)
 
 
 
