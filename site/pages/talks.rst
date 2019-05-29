@@ -1,7 +1,7 @@
 
 .. title: Talks
 .. slug: talks
-.. date: 2019-05-26 12:32:49 UTC+07:00
+.. date: 2019-05-29 22:10:45 UTC+07:00
 .. tags:
 .. category:
 .. link:
@@ -154,6 +154,26 @@ There are several ways and libraries for distributed processing using Python. We
 
 
 
+Interactive Python Dashboards with Plotly and Dash
+==================================================
+
+
+by Doni Rubiagatra
+
+Format: Talk (~30-45 minutes)
+
+Abstract
+--------
+
+In the interactive visualization world mainly we hear about Tableau and Shiny for R. How about Python? Python’s visualization landscape is quite complex with many available libraries. In this talk, we will look for an easy and fun way to build an interactive dashboard using Plotly and Dash
+
+
+
+
+.. class:: clearfix
+
+
+
 When life gives you Orange, make data speak volumes!
 ====================================================
 
@@ -168,6 +188,26 @@ Abstract
 Have you ever thought of using data visualization to represent data; but feel that it is a cumbersome process? Worry not – Orange is here to the rescue! 
 Come, dive into the world of this magical open source data mining tool that can also be used as a Python library.
 Beginner friendly!
+
+
+
+
+.. class:: clearfix
+
+
+
+Program Thinking - How do you design programs for diversity?
+============================================================
+
+
+by Elisha Tan
+
+Format: Talk (~30-45 minutes)
+
+Abstract
+--------
+
+There’s much more we could do to improve gender diversity in tech. But with so many ideas, how should you get started in tackling this problem? How do you measure success? In this talk, I will share the people-centric methodology that helps you design your diversity programs and initiatives.
 
 
 
@@ -321,7 +361,7 @@ Colab or Google Colaboratory is a popular tool to run Jupyter Notebook for free 
 
 
 
-Pyladies	and Importance of community participation
+Pyladies and Importance of community participation
 ==================================================
 
 
@@ -401,6 +441,26 @@ Setting up an authentication layer is, without doubt, one of the most challengin
 
 
 
+Unlocking the power of natural language by machine translation: how python could serve my purpose?
+==================================================================================================
+
+
+by Mohamed Ali SOLA (Dali SOLA)
+
+Format: Talk (~30-45 minutes)
+
+Abstract
+--------
+
+In this talk, I will describe the challenges of automated machine translation and how Python can help in solving those challenges.
+
+
+
+
+.. class:: clearfix
+
+
+
 Facial Keypoints Detection with PyTorch
 =======================================
 
@@ -442,6 +502,26 @@ according to PEP 373, we knew Python 2.7 EOL is moved to 2020. in PEP 404, we kn
 
 
 
+Forklifting Django: Migrating A Complex Django App To Kubernetes
+================================================================
+
+
+by Noah Kantrowitz
+
+Format: Talk (~30-45 minutes)
+
+Abstract
+--------
+
+Everyone is talking about Kubernetes, but migrating existing applications is often easier said than done. This talk will cover the tale of migrating our main Django application to Kubernetes, and all the problems and solutions we ran into along the way.
+
+
+
+
+.. class:: clearfix
+
+
+
 Raiden Network for instant crypto payment & lower fees
 ======================================================
 
@@ -454,6 +534,26 @@ Abstract
 --------
 
 Raiden network is an open source project aims to bring several advantages like better privacy, speed, and lower fees to the Ethereum blockchain. This talk would focus on how to install, use cases, integration and its underlying technology.
+
+
+
+
+.. class:: clearfix
+
+
+
+Fuzzy Multi-Criteria Portfolio Optimisation with Genetic Algorithms on Python
+=============================================================================
+
+
+by Poomjai Nacaskul, PhD, DIC, CFA
+
+Format: Talk (~30-45 minutes)
+
+Abstract
+--------
+
+Today's sophisticated investors/fund managers require more flexibility/sophistication than traditional risk/return bi-criteria analysis. The talk introduces Python-based, highly-customisable Fuzzy Multi-Criteria Portfolio Optimisation framework and asset allocation solution under Genetic Algorithms.
 
 
 
@@ -614,6 +714,26 @@ Abstract
 --------
 
 This talk focuses on how to develop deep learning inference application at the edge to run the trained model developed using TensorFlow optimally on the edge devices. We can easily run complex deep learning models like SqueezeNet, GoogLeNet & AlexNet on your computer with low processing capability.
+
+
+
+
+.. class:: clearfix
+
+
+
+Code like a girl
+================
+
+
+by Sudarat Chattanon
+
+Format: Workshop (> 60 minutes)
+
+Abstract
+--------
+
+A workshop for learning how to code using Python to build a web page like a girl.
 
 
 
