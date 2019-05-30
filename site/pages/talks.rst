@@ -1,7 +1,7 @@
 
 .. title: Talks
 .. slug: talks
-.. date: 2019-05-30 09:32:31 UTC+07:00
+.. date: 2019-05-30 09:41:30 UTC+07:00
 .. tags:
 .. category:
 .. link:
@@ -472,7 +472,14 @@ Format: Talk (~30-45 minutes)
 Abstract
 --------
 
-In this talk, I will describe the challenges of automated machine translation and how Python can help in solving those challenges.
+With more than 7000 languages spoken across the world, it becomes more and more important to connect people and cultures together; Machine translation shows a real impact at this level.
+This talk will go through:
+
+- The translation problems, purposes of machine translation in industry, Entertainment Industry as an example (movies subtitles and TV contents)
+
+- How to build a machine translation with a higher quality of translation output.
+
+- NLP tools around machine translation and the advantages of python in the development process.
 
 
 
