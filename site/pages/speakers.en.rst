@@ -1,7 +1,7 @@
 
 .. title: Speakers
 .. slug: speakers
-.. date: 2019-05-29 22:45:26 UTC+07:00
+.. date: 2019-05-30 09:32:12 UTC+07:00
 .. tags:
 .. category:
 .. link:
@@ -50,6 +50,44 @@ utilizing all the power of Python and cloud native services. An organized of
 Python User Group](http://pugs.org.sg/), cloud native enthusiast and member of
 Kubernetes SG community. In his spare time, he speaks publicly at tech
 conferences and secretly codes in Python. Huge fan of laptop stickers.
+
+
+
+
+
+
+.. class:: clearfix
+
+
+Andri Yadi
+==========
+
+
+
+.. image:: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/47721/RIOT_DSC1564_copy.JPG
+    :alt: Andri Yadi
+    :height: 200px
+    :align: right
+    :class: img-circle img-responsive
+
+
+
+
+
+.. class:: fa fa-twitter fa-fw
+
+    `andri_yadi <https://twitter.com/andri_yadi>`_
+
+
+
+
+
+Talk: AIoT: Intelligence on Low Power Microcontroller, with MicroPython 
+
+Biography
+---------
+
+
 
 
 

@@ -1,6 +1,7 @@
+
 .. title: Talks
 .. slug: talks
-.. date: 2019-05-29 22:10:45 UTC+07:00
+.. date: 2019-05-30 09:32:31 UTC+07:00
 .. tags:
 .. category:
 .. link:
@@ -25,6 +26,26 @@ Abstract
 --------
 
 You definitely have unit tests. Your code coverage above 80 or 90? Are u still struggling with bugs and wanna increase the quality? What if I say that quarter of your units are non-viable mutants? Yes, it is true and sounds rude. Let's mutate your tests and look what it gets you.
+
+
+
+
+.. class:: clearfix
+
+
+
+AIoT: Intelligence on Low Power Microcontroller, with MicroPython 
+==================================================================
+
+
+by Andri Yadi
+
+Format: Talk (~30-45 minutes)
+
+Abstract
+--------
+
+AI + IoT = AIoT is the latest advancement of AI and IoT. Let's move beyond buzzword and seeing it in action. This session will show how to use MicroPython superpower to make Machine Learning (ML) inference runs right on the low power Microcontroller (MCU), not in the cloud, to build AIoT application
 
 
 

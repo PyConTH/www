@@ -7,7 +7,14 @@ xtratalks.append({
     "name": "Mohamed Ali SOLA (Dali SOLA)",
     "email": "mohamed.ali.sola@gmail.com",
     "title": "Unlocking the power of natural language by machine translation: how python could serve my purpose?",
-    "abstract": "In this talk, I will describe the challenges of automated machine translation and how Python can help in solving those challenges.",
+    "abstract": """With more than 7000 languages spoken across the world, it becomes more and more important to connect people and cultures together; Machine translation shows a real impact at this level.
+This talk will go through:
+
+- The translation problems, purposes of machine translation in industry, Entertainment Industry as an example (movies subtitles and TV contents)
+
+- How to build a machine translation with a higher quality of translation output.
+
+- NLP tools around machine translation and the advantages of python in the development process.""",
     "bio":"""Dali SOLA is a Data science enthusiast with experience in various aspects of NLP and machine translation.
         Dali had an engineer degree from at TEK-UP University in Tunisia and studied two Master degree in
         Business Intelligence and Innovation management. His core interest lies in “NLP”, ”Deep learning”,
