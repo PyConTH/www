@@ -1,7 +1,7 @@
 
 .. title: Speakers
 .. slug: speakers
-.. date: 2019-05-26 12:29:04 UTC+07:00
+.. date: 2019-05-30 09:32:12 UTC+07:00
 .. tags:
 .. category:
 .. link:
@@ -50,6 +50,44 @@ utilizing all the power of Python and cloud native services. An organized of
 Python User Group](http://pugs.org.sg/), cloud native enthusiast and member of
 Kubernetes SG community. In his spare time, he speaks publicly at tech
 conferences and secretly codes in Python. Huge fan of laptop stickers.
+
+
+
+
+
+
+.. class:: clearfix
+
+
+Andri Yadi
+==========
+
+
+
+.. image:: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/47721/RIOT_DSC1564_copy.JPG
+    :alt: Andri Yadi
+    :height: 200px
+    :align: right
+    :class: img-circle img-responsive
+
+
+
+
+
+.. class:: fa fa-twitter fa-fw
+
+    `andri_yadi <https://twitter.com/andri_yadi>`_
+
+
+
+
+
+Talk: AIoT: Intelligence on Low Power Microcontroller, with MicroPython 
+
+Biography
+---------
+
+
 
 
 
@@ -336,6 +374,48 @@ Airflow and so on.
 .. class:: clearfix
 
 
+Doni Rubiagatra
+===============
+
+
+
+.. image:: https://secure.gravatar.com/avatar/eed0ef6cc8a0f435d5d8c9a5648f1551?s=500
+    :alt: Doni Rubiagatra
+    :height: 200px
+    :align: right
+    :class: img-circle img-responsive
+
+
+
+
+
+.. class:: fa fa-twitter fa-fw
+
+    `rubiagatra <https://twitter.com/rubiagatra>`_
+
+
+
+
+
+Talk: Interactive Python Dashboards with Plotly and Dash
+
+Biography
+---------
+
+Hello, I am Doni Rubiagatra. I am Software Engineer at
+[kumparan](https://kumparan.com), co-founder of
+[surabaya.py](https://github.com/surabaya-py, and Advisor at [Data Science
+Indonesia](https://datascience.or.id) East Java. I love teaching Python to
+others and spoke at several PyCon in Asia. I scream for an Ice Cream :D
+
+
+
+
+
+
+.. class:: clearfix
+
+
 Drishti Jain
 ============
 
@@ -373,6 +453,56 @@ conferences across the globe and is also a social entrepreneur. Her non-profit
 organisation - Samyak Drishti Foundation works in environment, education and
 healthcare sectors and operates in 10 cities across India. In her spare time,
 she likes to paint nature, explore new places and anchor live shows
+
+
+
+
+
+
+.. class:: clearfix
+
+
+Elisha Tan
+==========
+
+
+
+.. image:: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/15327/elisha-speaker_copy.png
+    :alt: Elisha Tan
+    :height: 200px
+    :align: right
+    :class: img-circle img-responsive
+
+
+
+
+
+.. class:: fa fa-twitter fa-fw
+
+    `elishatan <https://twitter.com/elishatan>`_
+
+
+
+
+
+Talk: Program Thinking - How do you design programs for diversity?
+
+Biography
+---------
+
+Elisha is passionate about bringing people together to solve important
+problems. She founded TechLadies - a community for women in Asia to learn
+technical skills to switch careers into the tech industry. TechLadies has over
+3000 members across Asia, taught hundreds of ladies in Singapore and Malaysia
+how to code that saw tens of them (without any prior programming background)
+got technical internships or hired as junior software engineers. Elisha enjoys
+sharing her experiences in tech and the lessons learned. She was featured on
+various media such as The Straits Times, Her World, e27, and High Net Worth.
+She has spoken internationally at IWD by Jobs for NSW, Slush Singapore, Google
+Women Techmakers, MaGIC Academy Symposium, RubyConf Malaysia and Techsauce
+Summit to name a few, and has mentored at Startup Weekends (San Francisco &
+Penang) and SPARK Global Acceleration Program. Elisha is based in sunny
+Singapore and aspires to be a standup comedian.
 
 
 
@@ -430,7 +560,7 @@ Jiranun Jiratrakanvong
 
 
 
-.. image:: https://secure.gravatar.com/avatar/4a75eaa5cf4154efc5051e95247ac769?s=500
+.. image:: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/45206/7566C8EA-E7E2-4867-B79A-094534D151DA.jpeg
     :alt: Jiranun Jiratrakanvong
     :height: 200px
     :align: right
@@ -884,6 +1014,36 @@ http://bit.ly/2FVfzDE
 .. class:: clearfix
 
 
+Mohamed Ali SOLA (Dali SOLA)
+============================
+
+
+
+
+
+
+
+Talk: Unlocking the power of natural language by machine translation: how python could serve my purpose?
+
+Biography
+---------
+
+Dali SOLA is a Data science enthusiast with experience in various aspects of
+NLP and machine translation. Dali had an engineer degree from at TEK-UP
+University in Tunisia and studied two Master degree in Business Intelligence
+and Innovation management. His core interest lies in “NLP”, ”Deep learning”,
+“Machine Learning”, ”Machine Translation” and "IA". In 2017 he get rewarded
+from ATB BANK for his solution "smart-HR", a human resource solution that deal
+with talents hiring issue, using NLP and IA .
+
+
+
+
+
+
+.. class:: clearfix
+
+
 Nithiroj Tripatarasit
 =====================
 
@@ -917,28 +1077,6 @@ enthusiast.* **My works** \- [iOS
 apps](https://itunes.apple.com/th/developer/nithiroj-tripatarasit/id704045425)
 \- [Android
 apps](https://play.google.com/store/apps/developer?id=Neo+Edutainment)
-**Experiences:** \- [PyTorch Scholarship to Udacity's Deep Learning NanoDegree
-program (Jan 2019 – present)](https://medium.com/@nithiroj/facial-keypoints-
-detection-with-pytorch-86bac79141e4) \- [fast.ai International Fellowship
-Program (Oct 22 - Dec 12, 2018)](https://www.fast.ai/2018/08/16/diversity-
-fellowships/) \- [Data Cafe Fellowship #2 ( Aug - Oct
-2018)](https://drive.google.com/file/d/1AZ9RwZSR0uJU6lIwarD5On4cR_y0KA7_/view?usp=sharing)
-\- [Speaker of Logo Detection using PyTorch at PyCon Thailand 2018 (Jun 16 –
-17, 2018)](https://medium.com/diving-in-deep/logo-detection-using-
-pytorch-7897d4898211) \- [WorldQuant University's Introduction to Data Science
-module (September 7, 2018)](https://wqu-
-cert.thedataincubator.com/certificate?key=1820009749491963002) \- [fast.ai
-International Fellowship Program (Mar 19 - Apr 30,
-2018)](http://www.fast.ai/2018/01/17/international-spring-2018/) \- [Deep
-Learning, a 5-course specialization by deeplearning.ai on Coursera.
-Specialization Certificate earned on March 9,
-2018](https://www.coursera.org/account/accomplishments/specialization/X7TVC4FK8J82)
-\- [Machine
-Learning](https://www.coursera.org/account/accomplishments/certificate/3DJQGJEUN2ZH)
-\- [Deep Learning Workshops by Google Developer
-Experts](https://drive.google.com/file/d/1A0CTi9OCQ9MenLBXZ14bp0K-WsF1JEPt/view?usp=sharing)
-\- [Big Data with Hadoop by
-DEPA](https://drive.google.com/file/d/18ulagdP4U2J8mcAnDZPFuE_nKc9c72Dz/view?usp=sharing)
 
 
 
@@ -992,6 +1130,48 @@ Hour or Code, or Google Summer of Code with FOSSASIA
 .. class:: clearfix
 
 
+Noah Kantrowitz
+===============
+
+
+
+.. image:: https://secure.gravatar.com/avatar/cf611565f0b79abd0b3dc200ad867661?s=500
+    :alt: Noah Kantrowitz
+    :height: 200px
+    :align: right
+    :class: img-circle img-responsive
+
+
+
+
+
+.. class:: fa fa-twitter fa-fw
+
+    `kantrn <https://twitter.com/kantrn>`_
+
+
+
+
+
+Talk: Forklifting Django: Migrating A Complex Django App To Kubernetes
+
+Biography
+---------
+
+Noah Kantrowitz is a web developer turned infrastructure automation
+enthusiast, and all around engineering rabble-rouser. By day he runs an
+infrastructure team at Ridecell and by night he makes candy and stickers. He
+is an active member of the DevOps community, and enjoys merge commits, cat
+pictures, and beards.
+
+
+
+
+
+
+.. class:: clearfix
+
+
 Pisuth Daengthongdee
 ====================
 
@@ -1026,6 +1206,44 @@ and Chatbot since 2017. Prior that time, he was working in media industry for
 integration. He also won 7 blockchain competition/hackathon in the past 2
 years include ETHSingapore, Binance and NEO and has strong passion on
 blockchain technology and distributed economy.
+
+
+
+
+
+
+.. class:: clearfix
+
+
+Poomjai Nacaskul, PhD, DIC, CFA
+===============================
+
+
+
+.. image:: https://secure.gravatar.com/avatar/02ef5c925c1e92968925675e253a72cc?s=500
+    :alt: Poomjai Nacaskul, PhD, DIC, CFA
+    :height: 200px
+    :align: right
+    :class: img-circle img-responsive
+
+
+
+
+
+
+
+Talk: Fuzzy Multi-Criteria Portfolio Optimisation with Genetic Algorithms on Python
+
+Biography
+---------
+
+I am a Data Scientist (First Senior Vice President) at Siam Commercial Bank
+PCL. Beside Python, I'm also into Mathematica, and did my doctorate entirely
+in C++. Beside Data Science, I'm involved in Quantitative Analytics in
+general, Financial Engineering and Risk Management in particular (although
+much less so these days). Beside Machine Learning, my research interest span
+to Graph-Theoretic/Network Model, Copula Functional, Cybernetics, and
+(obviously) Fuzzy Multi-Criteria Decision Model.
 
 
 
@@ -1397,6 +1615,45 @@ Foundation - one of the largest startup ecosystem development organizations in
 India as the Head for Partnerships in the New Delhi cohort and is a Mentor of
 Change with the Atal Innovation Mission – a strategic nation building
 initiative.
+
+
+
+
+
+
+.. class:: clearfix
+
+
+Sudarat Chattanon
+=================
+
+
+
+.. image:: https://secure.gravatar.com/avatar/7300910aa33d37a8a78a64270f6283b0?s=500
+    :alt: Sudarat Chattanon
+    :height: 200px
+    :align: right
+    :class: img-circle img-responsive
+
+
+
+
+
+.. class:: fa fa-twitter fa-fw
+
+    `gatukgl <https://twitter.com/gatukgl>`_
+
+
+
+
+
+Talk: Code like a girl
+
+Biography
+---------
+
+Hi there! I'm Gatuk. I'm an organizer and a representative for Girls Who Dev
+and also a happiness software engineer at Pronto Tools.
 
 
 
