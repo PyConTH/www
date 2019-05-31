@@ -42,12 +42,12 @@ Biography
 ---------
 
 **Alex Khaerov** is a development lead at
-[Chainstack](https://chainstack.com), with 9+ years in web services
+`Chainstack <https://chainstack.com>`_, with 9+ years in web services
 development across diverse domains. His main passion is building robust, high-
 load and distributed service platforms on top of a multi-cloud environment,
 utilizing all the power of Python and cloud native services. An organized of
-[Moscow Python Conf](https://conf.python.ru) and avid activist of [Singapore
-Python User Group](http://pugs.org.sg/), cloud native enthusiast and member of
+`Moscow Python Conf <https://conf.python.ru>`_ and avid activist of 
+`Singapore Python User Group <http://pugs.org.sg/>`_, cloud native enthusiast and member of
 Kubernetes SG community. In his spare time, he speaks publicly at tech
 conferences and secretly codes in Python. Huge fan of laptop stickers.
 
@@ -128,8 +128,8 @@ Biography
   * Currently, working as a Platform Software Engineer at Bigbasket, India (India's largest online food and grocery store).
   * MSc in Advanced Computing (Machine Learning, Artifical Intelligence, Robotics, Cloud Computing, and Computational Neuroscience), University of Bristol, United Kingdom.
   * International Tech Speaker (spoke at numerous National and International Conferences).
-  * Last year, gave a talk about "Recurrent Neural Networks and Long Short-Term Memory Networks (LSTMs)" at EuroPython, Edinburgh, Scotland - July 2018. Link: [Recurrent Neural Networks and Long Short-Term Memory Networks](https://ep2018.europython.eu/conference/talks/understanding-and-implementing-recurrent-neural-networks-using-python)
-  * Last year, gave a talk about "Understanding and Implementing Recurrent Neural Networks using Python" at GeoPython, Basel, Switzerland - May 18. Link: [Understanding and Implementing Recurrent Neural Networks using Python](http://2018.geopython.net/#s107)
+  * Last year, gave a talk about "Recurrent Neural Networks and Long Short-Term Memory Networks (LSTMs)" at EuroPython, Edinburgh, Scotland - July 2018. Link: `Recurrent Neural Networks and Long Short-Term Memory Networks <https://ep2018.europython.eu/conference/talks/understanding-and-implementing-recurrent-neural-networks-using-python>`_
+  * Last year, gave a talk about "Understanding and Implementing Recurrent Neural Networks using Python" at GeoPython, Basel, Switzerland - May 18. Link: `Understanding and Implementing Recurrent Neural Networks using Python <http://2018.geopython.net/#s107>`_
   * Have 8+ International Publications. [Latest work got published in ACM CHI 2018. The project was exhibited in Montreal, Canada.]
   * Received 6 Honours and Awards (International and National level).
   * Represented India at International Hackathons like Hack Junction’16, Finland and Hack the North’16, Canada. Got invited for more than a ‘dozen’ of prestigious International Hackathons (PennApps’17, HackNY’17, Hack Princeton’17 and many more) and Conferences.
@@ -318,11 +318,11 @@ track records in Southeast Asia, Japan, and China. I have delivered data
 products that save millions USD annually at the region's largest online
 retailer, and currently working to transform the healthcare industry in
 Thailand. I am one of the main contributors to
-[pyThaiNLP](https://github.com/PyThaiNLP/pythainlp), the most starred Thai NLP
-library, and the author of [thai2fit (formerly
-thai2vec)](https://github.com/cstorm125/thai2fit), the first and current
+`pyThaiNLP <https://github.com/PyThaiNLP/pythainlp>`_, the most starred Thai NLP
+library, and the author of 
+`thai2fit (formerly thai2vec) <https://github.com/cstorm125/thai2fit>`_, the first and current
 state-of-the-art transfer learning text classification model based on
-[ULMFit](https://arxiv.org/abs/1801.06146).
+`ULMFit <https://arxiv.org/abs/1801.06146>`_.
 
 
 
@@ -403,9 +403,9 @@ Biography
 ---------
 
 Hello, I am Doni Rubiagatra. I am Software Engineer at
-[kumparan](https://kumparan.com), co-founder of
-[surabaya.py](https://github.com/surabaya-py, and Advisor at [Data Science
-Indonesia](https://datascience.or.id) East Java. I love teaching Python to
+`kumparan <https://kumparan.com>`_, co-founder of
+`surabaya.py <https://github.com/surabaya-py>`_, and Advisor at 
+`Data Science Indonesia <https://datascience.or.id>`_ East Java. I love teaching Python to
 others and spoke at several PyCon in Asia. I scream for an Ice Cream :D
 
 
@@ -811,10 +811,9 @@ I started working as a data scientist in July, 2016. Though I have been using
 regular expressions to clean data for years, since 1999. I finished an M.Phil
 in Computer Speech and Language Processing from University of Cambridge, UK.
 My focus now includes 2 topics: Thai NLP and Google Colaboratory for knowledge
-sharing. My main contributions are for [PyThaiNLP
-project](https://github.com/PyThaiNLP/pythainlp) and Colab notebooks shared on
-[Colab Thailand Facebook
-Group](https://www.facebook.com/groups/colab.thailand/)
+sharing. My main contributions are for 
+`PyThaiNLP project <https://github.com/PyThaiNLP/pythainlp>`_ and Colab notebooks shared on
+`Colab Thailand Facebook Group <https://www.facebook.com/groups/colab.thailand/>`_
 
 
 
@@ -907,7 +906,7 @@ to the world – both open source and paid. My standard toolbox includes Python
 and Django (and sometimes WordPress) on the backend and Vue.js on the
 frontend. I also do data wrangling and some machine learning in Jupyter,
 Pandas and Keras. My latest startup is a hosted backup service for Borg:
-[https://www.borgbase.com/](https://www.borgbase.com/) In my spare time I'm
+`https://www.borgbase.com/ <https://www.borgbase.com/>`_ In my spare time I'm
 also a Google Summer of Code mentor and maintain various open source projects
 and standardization efforts: \- Borg backup client for macOS/Linux:
 https://github.com/borgbase/vorta \- open source electronic invoicing:
@@ -1072,11 +1071,12 @@ Talk: Facial Keypoints Detection with PyTorch
 Biography
 ---------
 
-**Nithiroj Tripatarasit** *Lifelong learner, tech lover, and deep learning
-enthusiast.* **My works** \- [iOS
-apps](https://itunes.apple.com/th/developer/nithiroj-tripatarasit/id704045425)
-\- [Android
-apps](https://play.google.com/store/apps/developer?id=Neo+Edutainment)
+**Nithiroj Tripatarasit** *Lifelong learner, tech lover, and deep learning enthusiast.*
+
+**My works** 
+
+- `iOS apps <https://itunes.apple.com/th/developer/nithiroj-tripatarasit/id704045425>`_
+- `Android apps <https://play.google.com/store/apps/developer?id=Neo+Edutainment>`_
 
 
 
@@ -1553,9 +1553,9 @@ problems. I and my team focus on building open source tools for setting up a
 seamless deep learning workflow. I have been programming since 2012 and
 started using python since 2014 and moved to deep learning in 2015. I am an
 open source enthusiast and I spend most of my research time on improving
-interpretability of AI models using [TuringNetwork](https://turingnetwork.ai).
-I have authored a deep learning book ([yet to
-publish](https://github.com/hhsecond/HandsOnDeepLearningWithPytorch)). I go by
+interpretability of AI models using `TuringNetwork <https://turingnetwork.ai>`_.
+I have authored a deep learning book 
+(`yet to publish <https://github.com/hhsecond/HandsOnDeepLearningWithPytorch>`_). I go by
 hhsecond on internet
 
 
