@@ -403,7 +403,7 @@ Biography
 
 Hello, I am Doni Rubiagatra. I am Software Engineer at
 `kumparan <https://kumparan.com>`_, co-founder of
-[surabaya.py](https://github.com/surabaya-py, and Advisor at 
+`surabaya.py <https://github.com/surabaya-py>`_, and Advisor at 
 `Data Science Indonesia <https://datascience.or.id>`_ East Java. I love teaching Python to
 others and spoke at several PyCon in Asia. I scream for an Ice Cream :D
 
