@@ -1071,8 +1071,7 @@ Talk: Facial Keypoints Detection with PyTorch
 Biography
 ---------
 
-**Nithiroj Tripatarasit** *Lifelong learner, tech lover, and deep learning
-enthusiast.
+**Nithiroj Tripatarasit** *Lifelong learner, tech lover, and deep learning enthusiast.*
 
 **My works** 
 
