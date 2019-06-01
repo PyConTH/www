@@ -14,7 +14,7 @@ PyCon Thailand Organizing Team
 ------------------------------
 
 - Dylan Jay (cat herder) |djay75|_
-- Georgi Ker (marketing/branding/design)|marketingcan|_  
+- Georgi Ker (marketing/branding/design) |marketingcan|_  
 - François Wautier (talks/keynotes) |frawau|_
 - Ryan Archer (sponsorship)
 - Paul Szewczyk (sponsorship)
