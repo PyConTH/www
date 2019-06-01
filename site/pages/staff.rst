@@ -14,7 +14,7 @@ PyCon Thailand Organizing Team
 ------------------------------
 
 - Dylan Jay (cat herder) |djay75|_
-- Georgi Ker (marketing/branding/design) |marketingcan|_ |georgically|_ 
+- Georgi Ker (marketing/branding/design)|marketingcan|_  
 - François Wautier (talks/keynotes) |frawau|_
 - Ryan Archer (sponsorship)
 - Paul Szewczyk (sponsorship)
@@ -25,19 +25,24 @@ PyCon Thailand Organizing Team
 - Chayapan (Aeh) Khannabha (finances)
 - Jean Jordaan (web) |jean|_
 
+
 Social Media and Translation Support
---------------------------------
-- Georgi Ker |marketingcan|_ |georgically|_
+------------------------------------
+
+- Georgi Ker |georgically|_
 - Krerkkrai Thamjarat ( TINO ) |vtno|_
 - Chomtana Chanjaraswichai |chomtana|_
 - Nuttakit Kundum |nuttakitTH|_
 
+
 Web Design & Maintenance Support
 --------------------------------
+
 - Jean Jordaan (web) |jean|_
-- Georgi Ker |marketingcan|_ |georgically|_
+- Georgi Ker |georgically|_
 - Cody Fox |macavirus|_ 
 - Krerkkrai Thamjarat ( TINO ) |vtno|_
+
 
 Thai Programming Association
 ----------------------------
