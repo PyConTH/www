@@ -14,7 +14,7 @@ PyCon Thailand Organizing Team
 ------------------------------
 
 - Dylan Jay (cat herder) |djay75|_
-- Georgi Ker (marketing/branding) |marketingcan|_
+- Georgi Ker (marketing/branding/design) |marketingcan|_ |georgically|_ 
 - François Wautier (talks/keynotes) |frawau|_
 - Ryan Archer (sponsorship)
 - Paul Szewczyk (sponsorship)
@@ -25,9 +25,18 @@ PyCon Thailand Organizing Team
 - Chayapan (Aeh) Khannabha (finances)
 - Jean Jordaan (web) |jean|_
 
-Graphics and Translation Support
+Social Media and Translation Support
 --------------------------------
-- Georgi Ker |marketingcan|_
+- Georgi Ker |marketingcan|_ |georgically|_
+- Krerkkrai Thamjarat ( TINO ) |vtno|_
+- Chomtana Chanjaraswichai |chomtana|_
+- Nuttakit Kundum |nuttakitTH|_
+
+Web Design & Maintenance Support
+--------------------------------
+- Jean Jordaan (web) |jean|_
+- Georgi Ker |marketingcan|_ |georgically|_
+- Cody Fox |macavirus|_ 
 - Krerkkrai Thamjarat ( TINO ) |vtno|_
 
 Thai Programming Association
@@ -82,6 +91,19 @@ Thai Programming Association
 
 .. |marketingcan| replace:: :link:`marketingcan.com`
 .. _marketingcan: http://marketingcan.com/
+
+.. |georgically| replace:: :github:`georgically`
+.. _georgically: https://github.com/georgically
+
+.. |macavirus| replace:: :github:`macavirus`
+.. _macavirus: https://github.com/macavirus
+
+.. |chomtana| replace:: :github:`chomtana`
+.. _chomtana: https://github.com/Chomtana
+
+.. |nuttakitTH| replace:: :github:`nuttakitTH`
+.. _nuttakitTH: https://github.com/NuttakitTh
+
 
 .. |bell| replace:: :linkedin:`linkedin`
 .. _bell: https://th.linkedin.com/in/supanee-rittiaksorn-176b21b9
