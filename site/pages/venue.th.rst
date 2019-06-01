@@ -129,6 +129,13 @@ Hotels
 
 - T|H|A City Loft Hotel (http://www.tha6.com) has given us a discount rate of 1000baht a night. Email Info@tha6.com and mention PyCon.
 
+.. image:: /venue/tha-1.JPG
+.. image:: /venue/tha-2.jpg
+.. image:: /venue/tha-3.JPG
+.. image:: /venue/tha-4.jpg
+.. image:: /venue/tha-5.JPG
+
+
 see Map_ for other hotel suggestions
 
 Hostels
