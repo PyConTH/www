@@ -1,12 +1,32 @@
 
 .. title: Talks
 .. slug: talks
-.. date: 2019-05-30 09:41:30 UTC+07:00
+.. date: 2019-06-01 20:51:01 UTC+07:00
 .. tags:
 .. category:
 .. link:
 .. description: List of confirmed talks.
 .. type: text
+
+
+
+.. class:: clearfix
+
+
+
+Python made my dream come true
+==============================
+
+
+by AKSHAT SHARMA
+
+Format: Talk (~30-45 minutes)
+
+Abstract
+--------
+
+Python helped me fulfill my teenage dream to visit silicon valley before turning 20. I won an intercollege hackathon for building a Vision app using python, which got selected me for silicon valley and eminent Harvard Conf. A senior from my college inspired me, now, I wish to inspire novices.
+
 
 
 
