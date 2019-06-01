@@ -1,6 +1,8 @@
 import json
 import datetime as dt
 import html2text
+import re
+from copy import deepcopy
 
 xtratalks = []
 xtratalks.append({
@@ -29,12 +31,38 @@ This talk will go through:
 
 talks = json.load(open('PyCon Thailand 2019 Submissions.json'))
 accepted_talks = [talk for talk in talks if talk['state'] == 'accepted' and talk["confirmed"]]
+# Anything that isn't a square closing bracket
+name_regex = "[^]]+"
+# http:// or https:// followed by anything but a closing paren
+url_regex = "http[s]?://[^)]+"
+
+markup_regex = '\[({0})]\(\s*({1})\s*\)'.format(name_regex, url_regex)
+markex = re.compile(markup_regex,re.IGNORECASE)
+
+for x in accepted_talks:
+    if x['title'] == "Deep Learning Introductory Workshop with TensorFlow 2.0":
+        newtalk = deepcopy(x)
+        x["name"] = "Sam Witteveen"
+        newtalk['name'] = 'Martin Andrews'
+        x['bio'] = """Sam is a Google Developer Expert for Machine Learning and is a co-founder of Red Dragon AI a deep tech company based in Singapore. He has extensive experience in startups and mobile applications and is helping developers and companies create smarter applications with machine learning. Sam is especially passionate about Deep Learning and AI in the fields of Natural Language and Conversational Agents and regularly shares his knowledge at events and trainings across Asia, as well as being the co-organiser of the Singapore TensorFlow and Deep Learning group. แซมพูดและอ่านภาษาไทยได้"""
+        newtalk['bio'] = """Martin has over 20 years’ experience in Machine Learning and has used it to solve problems in financial modelling and has created AI automation for companies. His current area of focus and speciality is in natural language processing and understanding. In 2017, Google appointed Martin as one of the first 12 Google Developer Experts for Machine Learning. Martin is also one of the co-founders of Red Dragon AI."""
+        newtalk['avatar'] = "https://th.pycon.org/martin-andrews.jpeg"
+        newtalk['twitter'] = ''
+        xtratalks.append(newtalk)
+    else:
+        x['bio'] = x['bio'].replace("<ul>","")
+        x['bio'] = x['bio'].replace("</ul>","")
+        x['bio'] = re.sub(r'<li>([^<]*)</li>', r'- \1',x['bio'])
+        x['bio'] = x['bio'].replace("Link:","  Link:")
+        x['bio'] = re.sub(markex,r'`\1 <\2>`_',x['bio'])
+
+
 accepted_talks += xtratalks
 accepted_talks.sort(key=lambda x: x["name"])
-for x in accepted_talks:
-    if x['name'].lower() == "Nithiroj Tripatarasit".lower():
-        x['bio'] = x['bio'].split("**Experiences:**")[0]
-    x['bio'] = html2text.html2text(x['bio'])
+#for x in accepted_talks:
+    #if x['name'].lower() == "Nithiroj Tripatarasit".lower():
+        #x['bio'] = x['bio'].split("**Experiences:**")[0]
+    #x['bio'] = html2text.html2text(x['bio'])
 
 talk_page = """
 

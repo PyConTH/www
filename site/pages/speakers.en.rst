@@ -1,11 +1,48 @@
+
 .. title: Speakers
 .. slug: speakers
-.. date: 2019-05-30 09:32:12 UTC+07:00
+.. date: 2019-06-01 20:50:45 UTC+07:00
 .. tags:
 .. category:
 .. link:
 .. description: List of confirmed speakers.
 .. type: text
+
+
+
+.. class:: clearfix
+
+
+AKSHAT SHARMA
+=============
+
+
+
+.. image:: https://secure.gravatar.com/avatar/248aebf7bf2118d38638c5e2576d5439?s=500
+    :alt: AKSHAT SHARMA
+    :height: 200px
+    :align: right
+    :class: img-circle img-responsive
+
+
+
+
+
+.. class:: fa fa-twitter fa-fw
+
+    `akshatsma <https://twitter.com/akshatsma>`_
+
+
+
+
+
+Talk: Python made my dream come true
+
+Biography
+---------
+
+Hie, I'm Akshat, a Govt. of India recognized Silicon Valley fellow and a Harvard University Conference Scholar. Currently, I'm working on the problem of distracted driving and recently built an Android app (visit: inSessionApp.com) to manage my calls and acknowledging callers while I sleep. I've previously worked at a Thailand based and a California based company. This summers, I'm working with an India based startup as a Software Engineer. Above all this, I love to empower people in my connection.
+
 
 
 
@@ -40,17 +77,7 @@ Talk: Kill the mutants, protect your code!
 Biography
 ---------
 
-**Alex Khaerov** is a development lead at
-`Chainstack <https://chainstack.com>`_, with 9+ years in web services
-development across diverse domains. His main passion is building robust, high-
-load and distributed service platforms on top of a multi-cloud environment,
-utilizing all the power of Python and cloud native services. An organized of
-`Moscow Python Conf <https://conf.python.ru>`_ and avid activist of 
-`Singapore Python User Group <http://pugs.org.sg/>`_, cloud native enthusiast and member of
-Kubernetes SG community. In his spare time, he speaks publicly at tech
-conferences and secretly codes in Python. Huge fan of laptop stickers.
-
-
+**Alex Khaerov** is a development lead at `Chainstack <https://chainstack.com>`_, with 9+ years in web services development across diverse domains. His main passion is building robust, high-load and distributed service platforms on top of a multi-cloud environment, utilizing all the power of Python and cloud native services. An organized of `Moscow Python Conf <https://conf.python.ru>`_ and avid activist of `Singapore Python User Group <http://pugs.org.sg/>`_, cloud native enthusiast and member of Kubernetes SG community. In his spare time, he speaks publicly at tech conferences and secretly codes in Python. Huge fan of laptop stickers.
 
 
 
@@ -91,8 +118,6 @@ Biography
 
 
 
-
-
 .. class:: clearfix
 
 
@@ -124,17 +149,19 @@ Talk: Understanding and Implementing Generative Adversarial Networks (GANs): One
 Biography
 ---------
 
-  * Currently, working as a Platform Software Engineer at Bigbasket, India (India's largest online food and grocery store).
-  * MSc in Advanced Computing (Machine Learning, Artifical Intelligence, Robotics, Cloud Computing, and Computational Neuroscience), University of Bristol, United Kingdom.
-  * International Tech Speaker (spoke at numerous National and International Conferences).
-  * Last year, gave a talk about "Recurrent Neural Networks and Long Short-Term Memory Networks (LSTMs)" at EuroPython, Edinburgh, Scotland - July 2018. Link: `Recurrent Neural Networks and Long Short-Term Memory Networks <https://ep2018.europython.eu/conference/talks/understanding-and-implementing-recurrent-neural-networks-using-python>`_
-  * Last year, gave a talk about "Understanding and Implementing Recurrent Neural Networks using Python" at GeoPython, Basel, Switzerland - May 18. Link: `Understanding and Implementing Recurrent Neural Networks using Python <http://2018.geopython.net/#s107>`_
-  * Have 8+ International Publications. [Latest work got published in ACM CHI 2018. The project was exhibited in Montreal, Canada.]
-  * Received 6 Honours and Awards (International and National level).
-  * Represented India at International Hackathons like Hack Junction’16, Finland and Hack the North’16, Canada. Got invited for more than a ‘dozen’ of prestigious International Hackathons (PennApps’17, HackNY’17, Hack Princeton’17 and many more) and Conferences.
-  * A Microsoft Certified Professional, Microsoft Technology Associate, IBM Certified Web Developer, and Hewlett Packard Certified Developer.
-  * Former Software Developer Intern at IBM & an ALL STACK DEVELOPER capable of designing and developing solutions for Mobile, Web, Embedded Systems, and Desktop. Areas of interest are Computational Neuroscience, Deep Learning, and Cloud Computing.
 
+- Currently, working as a Platform Software Engineer at Bigbasket, India (India's largest online food and grocery store).
+- MSc in Advanced Computing (Machine Learning, Artifical Intelligence, Robotics, Cloud Computing, and Computational Neuroscience), University of Bristol, United Kingdom.
+- International Tech Speaker (spoke at numerous National and International Conferences).
+- Last year, gave a talk about "Recurrent Neural Networks and Long Short-Term Memory Networks (LSTMs)" at EuroPython, Edinburgh, Scotland - July 2018.
+  Link: `Recurrent Neural Networks and Long Short-Term Memory Networks <https://ep2018.europython.eu/conference/talks/understanding-and-implementing-recurrent-neural-networks-using-python>`_
+- Last year, gave a talk about "Understanding and Implementing Recurrent Neural Networks using Python" at GeoPython, Basel, Switzerland - May 18.
+  Link: `Understanding and Implementing Recurrent Neural Networks using Python <http://2018.geopython.net/#s107>`_
+- Have 8+ International Publications. [Latest work got published in ACM CHI 2018. The project was exhibited in Montreal, Canada.]
+- Received 6 Honours and Awards (International and National level).
+- Represented India at International Hackathons like Hack Junction’16, Finland and Hack the North’16, Canada. Got invited for more than a ‘dozen’ of prestigious International Hackathons (PennApps’17, HackNY’17, Hack Princeton’17 and many more) and Conferences.
+- A Microsoft Certified Professional, Microsoft Technology Associate, IBM Certified Web Developer, and Hewlett Packard Certified Developer.
+- Former Software Developer Intern at IBM & an ALL STACK DEVELOPER capable of designing and developing solutions for Mobile, Web, Embedded Systems, and Desktop. Areas of interest are Computational Neuroscience, Deep Learning, and Cloud Computing.
 
 
 
@@ -165,20 +192,9 @@ Talk: Functional Programming in Python: Lessons from Haskell and Clojure
 Biography
 ---------
 
-I am always fascinated about programming languages. In particular, I have long
-advocated for the use of functional programming over object-oriented
-programming and a declarative style over an imperative one. Despite having
-used Python heavily since 2013, groking Scala, Haskell and Clojure really
-changed my style of writing Python code. I would like to share some of my
-findings and advocate a functional style of programming in Python. My other
-interests include Bayesian statistics, Monte Carlo methods and high-
-performance computing. I am a co-founder and managing director of Arithmox, a
-startup offering CTO-as-a-service and growth hacking packages to Indonesian
-companies. My interest lies in the use of technology and data-driven
-approaches correctly to drive growth. In a business climate where it is easy
-to get sucked into the AI hype, I advocate a pragmatic and no-nonsense
-approach to introducing such technologies into already-running businesses.
+I am always fascinated about programming languages. In particular, I have long advocated for the use of functional programming over object-oriented programming and a declarative style over an imperative one. Despite having used Python heavily since 2013, groking Scala, Haskell and Clojure really changed my style of writing Python code. I would like to share some of my findings and advocate a functional style of programming in Python. My other interests include Bayesian statistics, Monte Carlo methods and high-performance computing.
 
+I am a co-founder and managing director of Arithmox, a startup offering CTO-as-a-service and growth hacking packages to Indonesian companies. My interest lies in the use of technology and data-driven approaches correctly to drive growth. In a business climate where it is easy to get sucked into the AI hype, I advocate a pragmatic and no-nonsense approach to introducing such technologies into already-running businesses.
 
 
 
@@ -215,15 +231,7 @@ Talk: Cheaply deploy Python apps Heroku-style using Dokku
 Biography
 ---------
 
-Avi is a full-stack web engineer at Toptal with four years of professional
-experience. He has worked with most of the popular stack used on the web today
-including Python, JavaScript, and Go. He is also a multiple-time Google Summer
-of Code participant, where he mentors budding developers to contribute to
-open-source projects. These days he is working on his Blockchain based social
-media startup called HapRamp which aims to revolutionalize the social media
-ecosystem in India.
-
-
+Avi is a full-stack web engineer at Toptal with four years of professional experience. He has worked with most of the popular stack used on the web today including Python, JavaScript, and Go. He is also a multiple-time Google Summer of Code participant, where he mentors budding developers to contribute to open-source projects. These days he is working on his Blockchain based social media startup called HapRamp which aims to revolutionalize the social media ecosystem in India.  
 
 
 
@@ -259,30 +267,10 @@ Talk: Demystifying Conversational AI with Python
 Biography
 ---------
 
-I am currently researching in the field of NLP and information retrieval as a
-project assistant at IIT Delhi. I am a recent graduate, and had been conferred
-with a degree of Bachelors in technology in Computer Science, in August 2018.
-I got introduced to the wonders of computer science while pursuing my
-undergraduate degree, and oh, boy! It was diverse. I was amazed with the
-profusion of avenues that it opened for me. From natural language chatbots, to
-biometrics recognition systems, path-planning robots, I found it ever-so
-encouraging just to be in the game, and with a curious eye, was ready to
-unearth it all. I can program in multiple languages, Python, C/C++, R, Matlab,
-Chapel, GoLang, Java , Python being my first love since freshman days!.
-Recently I have started programming in GoLang, and it happens to be new found
-love. I am interested in the fields of NLP, ML, AI, having studied them during
-my senior year, and I wish to work on enhancing healthcare with AI. More
-specifically I want to work towards making technology come to the the aid of
-unfortunately or differently abled people, so that they can lead healthy
-lives. I am inspired by the advancing developments in making computers imitate
-and understand human language, vision and intelligence and so much more, which
-I feel can be used to solve challenges that the differently abled people face.
-I am an avid reader, an eloquent writer, and love to share my experiences with
-others as well as learn from others. I do love to talk a lot too. A cup of hot
-chocolate, my laptop and a problem to code on, is what my daily routine sounds
-like.
-
-
+I am currently researching in the field of NLP and information retrieval as a project assistant at IIT Delhi. I am a recent graduate, and had been conferred with a degree of Bachelors in technology in Computer Science, in August 2018. 
+I got introduced to the wonders of computer science while pursuing my undergraduate degree, and oh, boy! It was diverse. I was amazed with the profusion of avenues that it opened for me. From natural language chatbots, to  biometrics recognition systems, path-planning robots, I found it ever-so encouraging just to be in the game, and with a curious eye, was ready to unearth it all.
+I can program in multiple languages, Python, C/C++, R, Matlab, Chapel, GoLang, Java , Python being my first love since freshman days!.  Recently I have started programming in GoLang, and it happens to be new found love. I am interested in the fields of NLP, ML, AI, having studied them during my senior year, and I wish to work on  enhancing healthcare with AI. More specifically  I want to work towards making technology come to the the aid of unfortunately or differently abled people, so that they can lead healthy lives. I am inspired by the advancing developments in making computers imitate and understand human language, vision and intelligence and so much more, which I feel can be used to solve challenges that the differently abled people face. 
+I am an avid reader, an eloquent writer, and love to share my experiences with others as well as learn from others. I do love to talk a lot too. A cup of hot chocolate, my laptop and a problem to code on, is what my daily routine sounds like. 
 
 
 
@@ -295,7 +283,7 @@ Charin
 
 
 
-.. image:: https://secure.gravatar.com/avatar/3e9a402f6a89fb065c37d8867c609e28?s=500
+.. image:: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/45031/profile.jpg
     :alt: Charin
     :height: 200px
     :align: right
@@ -312,18 +300,7 @@ Talk: How pyThaiNLP's thai2fit Outperforms Google's BERT: State-of-the-Art Thai 
 Biography
 ---------
 
-My name is Charin Polpanumas and I am a data scientist with over five years of
-track records in Southeast Asia, Japan, and China. I have delivered data
-products that save millions USD annually at the region's largest online
-retailer, and currently working to transform the healthcare industry in
-Thailand. I am one of the main contributors to
-`pyThaiNLP <https://github.com/PyThaiNLP/pythainlp>`_, the most starred Thai NLP
-library, and the author of 
-`thai2fit (formerly thai2vec) <https://github.com/cstorm125/thai2fit>`_, the first and current
-state-of-the-art transfer learning text classification model based on
-`ULMFit <https://arxiv.org/abs/1801.06146>`_.
-
-
+My name is Charin Polpanumas and I am a data scientist with over five years of track records in Southeast Asia, Japan, and China. I have delivered data products that save millions USD annually at the region's largest online retailer, and currently working to transform the healthcare industry in Thailand. I am one of the main contributors to `pyThaiNLP <https://github.com/PyThaiNLP/pythainlp>`_, the most starred Thai NLP library, and the author of `thai2fit (formerly thai2vec) <https://github.com/cstorm125/thai2fit>`_, the first and current state-of-the-art transfer learning text classification model based on `ULMFit <https://arxiv.org/abs/1801.06146>`_.
 
 
 
@@ -359,13 +336,7 @@ Talk: Understanding of distributed processing in Python
 Biography
 ---------
 
-Chie Hayashida is a Software Engineer from Japan. She is working at
-Cookpad.Inc which is the worldwide recipe sharing service. She loves
-programming and computer science. She is highly skilled with DWH architecture
-and ML pipelines. She is a contributor to Apache Spark, Tensorflow, Apache
-Airflow and so on.
-
-
+Chie Hayashida is a Software Engineer from Japan. She is working at Cookpad.Inc which is the worldwide recipe sharing service. She loves programming and computer science. She is highly skilled with DWH architecture and ML pipelines. She is a contributor to Apache Spark, Tensorflow, Apache Airflow and so on.
 
 
 
@@ -401,13 +372,7 @@ Talk: Interactive Python Dashboards with Plotly and Dash
 Biography
 ---------
 
-Hello, I am Doni Rubiagatra. I am Software Engineer at
-`kumparan <https://kumparan.com>`_, co-founder of
-`surabaya.py <https://github.com/surabaya-py>`_, and Advisor at 
-`Data Science Indonesia <https://datascience.or.id>`_ East Java. I love teaching Python to
-others and spoke at several PyCon in Asia. I scream for an Ice Cream :D
-
-
+Hello, I am Doni Rubiagatra. I am Software Engineer at `kumparan <https://kumparan.com>`_, co-founder of `surabaya.py <https://github.com/surabaya-py, and Advisor  at [Data Science Indonesia](https://datascience.or.id>`_ East Java. I love teaching Python to others and spoke at several PyCon in Asia. I scream for an Ice Cream :D
 
 
 
@@ -443,16 +408,9 @@ Talk: When life gives you Orange, make data speak volumes!
 Biography
 ---------
 
-Drishti is a Computer Engineer at heart and a technology enthusiast. She loves
-to use technology to help the less fortunate. She believes in democratizing
-opportunities and brings knowledge of the latest developments in the fast-
-moving field of technology to deserving students, and keep them up to date and
-well-equipped for their respective professional careers. She has spoken at 12+
-conferences across the globe and is also a social entrepreneur. Her non-profit
-organisation - Samyak Drishti Foundation works in environment, education and
-healthcare sectors and operates in 10 cities across India. In her spare time,
-she likes to paint nature, explore new places and anchor live shows
-
+Drishti is a Computer Engineer at heart and a technology enthusiast. She loves to use technology to help the less fortunate. She believes in democratizing opportunities and brings knowledge of the latest developments in the fast-moving field of technology to deserving students, and keep them up to date and well-equipped for their respective professional careers.
+She has spoken at 12+ conferences across the globe and is also a social entrepreneur. Her non-profit organisation - Samyak Drishti Foundation works in environment, education and healthcare sectors and operates in 10 cities across India.
+In her spare time, she likes to paint nature, explore new places and anchor live shows
 
 
 
@@ -489,21 +447,13 @@ Talk: Program Thinking - How do you design programs for diversity?
 Biography
 ---------
 
-Elisha is passionate about bringing people together to solve important
-problems. She founded TechLadies - a community for women in Asia to learn
-technical skills to switch careers into the tech industry. TechLadies has over
-3000 members across Asia, taught hundreds of ladies in Singapore and Malaysia
-how to code that saw tens of them (without any prior programming background)
-got technical internships or hired as junior software engineers. Elisha enjoys
-sharing her experiences in tech and the lessons learned. She was featured on
-various media such as The Straits Times, Her World, e27, and High Net Worth.
-She has spoken internationally at IWD by Jobs for NSW, Slush Singapore, Google
-Women Techmakers, MaGIC Academy Symposium, RubyConf Malaysia and Techsauce
-Summit to name a few, and has mentored at Startup Weekends (San Francisco &
-Penang) and SPARK Global Acceleration Program. Elisha is based in sunny
-Singapore and aspires to be a standup comedian.
+Elisha is passionate about bringing people together to solve important problems.
 
+She founded TechLadies - a community for women in Asia to learn technical skills to switch careers into the tech industry. TechLadies has over 3000 members across Asia, taught hundreds of ladies in Singapore and Malaysia how to code that saw tens of them (without any prior programming background) got technical internships or hired as junior software engineers.
 
+Elisha enjoys sharing her experiences in tech and the lessons learned. She was featured on various media such as The Straits Times, Her World, e27, and High Net Worth. She has spoken internationally at IWD by Jobs for NSW, Slush Singapore, Google Women Techmakers, MaGIC Academy Symposium, RubyConf Malaysia and Techsauce Summit to name a few, and has mentored at Startup Weekends (San Francisco & Penang) and SPARK Global Acceleration Program.
+
+Elisha is based in sunny Singapore and aspires to be a standup comedian.
 
 
 
@@ -539,14 +489,8 @@ Talk: Security Issues on your Python Code
 Biography
 ---------
 
-Application Security Consultant, Skilled in Security Requirement Engineering,
-Threat Modeling, Static Application Security Testing, Dynamic Application
-Security Testing, Secure SDLC, DevSecOps. Hold Certified Ethical Hacker
-certification, Speaker for several conferences in Jakarta, Kuala Lumpur,
-Singapore with topic related to application security. Bachelor’s Degree
-focused in Informatics Engineering from Telkom University.
-
-
+Application Security Consultant, Skilled in Security Requirement Engineering, Threat Modeling, Static Application Security Testing, Dynamic Application Security Testing,  Secure SDLC, DevSecOps. Hold Certified Ethical Hacker certification, Speaker for several conferences in Jakarta, Kuala Lumpur, Singapore with topic related to application security.
+Bachelor’s Degree focused in Informatics Engineering from Telkom University. 
 
 
 
@@ -582,24 +526,28 @@ Talk: Python for Data Science Projects at Coraline
 Biography
 ---------
 
-My name is Jiranun Jiratrakanvong. You can call me **"Jiranun"**. I have been
-fascinated in computer programming since I was a little. As a kid, my goal was
-just to make a game bot (Ragnarok) because I was too lazy to play it myself.
-After studying for many years, I become more lazy to do things and tried to
-solve everything by programming. Python is my beloved language as it's easy to
-use, and it's easy to connect to other stuffs ## Education \- Undergrad
-Student at Department of Computer Science, Chulalongkorn University \-
-Graduate Student at Department of Computer Science, Illinois Institute of
-Technology \- Specializations at IIT: Computational Intelligence, and Data
-Analytics ## Experience \- Software Engineer (C++/Java) at Thomson
-Reuters/Refinitiv (Bangkok) \- Python Experience: Research Associate at BioCAT
-(Chicago) \- Present: Data Scientist at Coraline (Bangkok) \- Python Libraries
-Used: scikit-learn, pandas, numpy, scipy, opencv, PIL, matplotlib, PyQt,
-Django, Flask, wxPython, reportlab, Cython, numba, fabio, lmfit, pymysql,
-SQLAlchemy, etc. ## Hobbies \- Singing and playing guitar \- Running (mini
-marathon) \- Scuba Diving \- Traveling
+My name is Jiranun Jiratrakanvong. You can call me **"Jiranun"**. 
 
+I have been fascinated in computer programming since I was a little. As a kid, my goal was just to make a game bot (Ragnarok) because I was too lazy to play it myself. After studying for many years, I become more lazy to do things and tried to solve everything by programming. 
 
+Python is my beloved language as it's easy to use, and it's easy to connect to other stuffs
+
+## Education
+- Undergrad Student at Department of Computer Science, Chulalongkorn University 
+- Graduate Student at Department of Computer Science, Illinois Institute of Technology
+- Specializations at IIT: Computational Intelligence, and Data Analytics
+
+## Experience
+- Software Engineer (C++/Java) at Thomson Reuters/Refinitiv (Bangkok)
+- Python Experience: Research Associate at BioCAT (Chicago)
+- Present: Data Scientist at Coraline (Bangkok)
+- Python Libraries Used: scikit-learn, pandas, numpy, scipy, opencv, PIL, matplotlib, PyQt, Django, Flask, wxPython, reportlab, Cython, numba, fabio, lmfit, pymysql, SQLAlchemy, etc.
+
+## Hobbies
+- Singing and playing guitar
+- Running (mini marathon)
+- Scuba Diving
+- Traveling
 
 
 
@@ -635,16 +583,7 @@ Talk: Marlin: A Smali to Python Transpiler for Android Hacking
 Biography
 ---------
 
-I am a lead engineer working on Android and iOS instrumentations at HeadSpin
-Inc., a fast-growing mobile testing startup company based in Palo Alto. I have
-years of writing programs in many languages like Go, Python, Erlang,
-JavaScript, Ocaml, Java, Kotlin, and Swift, among others. My experience lies
-in networking for IoTs and interactive applications, compiler, and mobile
-frameworks. Outside of professional settings, I'm the author of RxGo, a
-popular open-source library on Github and I have given talks at MakerFaire NYC
-and Radical Networks in 2015.
-
-
+I am a lead engineer working on Android and iOS instrumentations at HeadSpin Inc., a fast-growing mobile testing startup company based in Palo Alto. I have years of writing programs in many languages like Go, Python, Erlang, JavaScript, Ocaml, Java, Kotlin, and Swift, among others. My experience lies in networking for IoTs and interactive applications, compiler, and mobile frameworks. Outside of professional settings, I'm the author of RxGo, a popular open-source library on Github and I have given talks at MakerFaire NYC and Radical Networks in 2015.
 
 
 
@@ -674,11 +613,9 @@ Talk: E-commerce for Django
 Biography
 ---------
 
-I love to develop software using Python/Django, and manage e-commerce website
-in Korea. I lived in Thailand for 4 years, and I taught some CS subjects in
-Naresuan University for 2 years.
+I love to develop software using Python/Django, and manage e-commerce website in Korea.
 
-
+I lived in Thailand for 4 years, and I taught some CS subjects in Naresuan University for 2 years.
 
 
 
@@ -714,19 +651,7 @@ Talk: Machine Learning Democratization with Python
 Biography
 ---------
 
-Jorge Torres Is currently Co-founder & CTO of MindsDB and a visiting scholar
-at UC Berkeley researching machine learning automation and explainability. He
-has worked for a number of data-intensive start-ups, most recently working
-with Aneesh Chopra (the first CTO in the US government) building data systems
-that analyze billions of patients records and lead to highest savings for
-millions of patients, he started his work on scaling solutions using machine
-learning in early 2008 while working as first full time engineer at
-Couchsurfing where he helped grow the company from a few thousand users to a
-few million. Jorge had degrees in electrical engineering & computer science,
-including a masters degree in computer systems (with a focus on applied
-Machine Learning) from the Australian National University.
-
-
+Jorge Torres Is currently Co-founder & CTO of MindsDB and a visiting scholar at UC Berkeley researching machine learning automation and explainability. He has worked for a number of data-intensive start-ups, most recently working with Aneesh Chopra (the first CTO in the US government) building data systems that analyze billions of patients records and lead to highest savings for millions of patients, he started his work on scaling solutions using machine learning in early 2008 while working as first full time engineer at Couchsurfing where he helped grow the company from a few thousand users to a few million. Jorge had degrees in electrical engineering & computer science, including a masters degree in computer systems (with a focus on applied Machine Learning) from the Australian National University.
 
 
 
@@ -762,15 +687,7 @@ Talk: Designing and Building Serverless Machine Learning-powered Applications wi
 Biography
 ---------
 
-**Joshua Arvin Lat** is the **Chief Technology Officer** (CTO) of **Complete
-Business Online**. He previously served as the **Director for Software
-Development and Engineering** for multiple startups which allowed him to see
-the bigger picture and be more effective as a professional and leader. For the
-past couple of years, he has been sharing his knowledge in several conferences
-around the country to discuss practical strategies for companies and
-professionals.
-
-
+**Joshua Arvin Lat** is the **Chief Technology Officer** (CTO) of **Complete Business Online**. He previously served as the **Director for Software Development and Engineering** for multiple startups which allowed him to see the bigger picture and be more effective as a professional and leader. For the past couple of years, he has been sharing his knowledge in several conferences around the country to discuss practical strategies for companies and professionals.
 
 
 
@@ -806,15 +723,9 @@ Talk: Advanced Google Colaboratory
 Biography
 ---------
 
-I started working as a data scientist in July, 2016. Though I have been using
-regular expressions to clean data for years, since 1999. I finished an M.Phil
-in Computer Speech and Language Processing from University of Cambridge, UK.
-My focus now includes 2 topics: Thai NLP and Google Colaboratory for knowledge
-sharing. My main contributions are for 
-`PyThaiNLP project <https://github.com/PyThaiNLP/pythainlp>`_ and Colab notebooks shared on
-`Colab Thailand Facebook Group <https://www.facebook.com/groups/colab.thailand/>`_
+I started working as a data scientist in July, 2016. Though I have been using regular expressions to clean data for years, since 1999. I finished an M.Phil in Computer Speech and Language Processing from University of Cambridge, UK. 
 
-
+My focus now includes 2 topics: Thai NLP and Google Colaboratory for knowledge sharing. My main contributions are for `PyThaiNLP project <https://github.com/PyThaiNLP/pythainlp>`_ and Colab notebooks shared on `Colab Thailand Facebook Group <https://www.facebook.com/groups/colab.thailand/>`_
 
 
 
@@ -850,21 +761,12 @@ Talk: Pyladies	and Importance of community participation
 Biography
 ---------
 
-I established my company called moegi Co., Ltd. to start the drone business. I
-am an engineer of the front-end system, but recently I have been focued on
-RaspberryPi and Arduino, and have been actively transmitting mechanisms in
-which objects move in reality by using Python language. This year, I
-participated in "PyCon 2018 Cleveland" and I felt the momentum of overseas
-forces. I exchanged contact information with Pythonista who are active
-overseas so that I can cooperate with them. Additionary, as a staff member of
-Pyladies Tokyo, I did a community activity spreading Python, and did Python
-Boot Camp which helps Python beginners and spreads Python as Saitama and
-Fukushima local staff. Python Boot Camp in Fukushima, activities such as
-preparing the venue as well as taking up local newspapers were underway. In
-addition, I am participating in the Python related community and am doing
-activities to improve self-study and day-to-day technology.
-
-
+I established my company called moegi Co., Ltd. to start the drone business.
+I am an engineer of the front-end system, but recently I have been focued on RaspberryPi and Arduino, and have been actively transmitting mechanisms in which objects move in reality by using Python language.
+This year, I participated in "PyCon 2018 Cleveland" and I felt the momentum of overseas forces.
+I exchanged contact information with Pythonista who are active overseas so that I can cooperate with them.
+Additionary, as a staff member of Pyladies Tokyo, I did a community activity spreading Python, and did Python Boot Camp which helps Python beginners and spreads Python as Saitama and Fukushima local staff. Python Boot Camp in Fukushima, activities such as preparing the venue as well as taking up local newspapers were underway.
+In addition, I am participating in the Python related community and am doing activities to improve self-study and day-to-day technology.
 
 
 
@@ -900,21 +802,16 @@ Talk: Adding a GraphQL API to Django (with Vue.js frontend)
 Biography
 ---------
 
-I'm a serial online entrepreneur who is always looking to add useful products
-to the world – both open source and paid. My standard toolbox includes Python
-and Django (and sometimes WordPress) on the backend and Vue.js on the
-frontend. I also do data wrangling and some machine learning in Jupyter,
-Pandas and Keras. My latest startup is a hosted backup service for Borg:
-`https://www.borgbase.com/ <https://www.borgbase.com/>`_ In my spare time I'm
-also a Google Summer of Code mentor and maintain various open source projects
-and standardization efforts: 
+I'm a serial online entrepreneur who is always looking to add useful products to the world – both open source and paid. My standard toolbox includes Python and Django (and sometimes WordPress) on the backend and Vue.js on the frontend. I also do data wrangling and some machine learning in Jupyter, Pandas and Keras.
 
-- Borg backup client for macOS/Linux: https://github.com/borgbase/vorta 
-- open source electronic invoicing: https://www.invoice-x.org/ 
-- invoice2data: extract structured data from PDF invoices https://github.com/invoice-x/invoice2data 
+My latest startup is a hosted backup service for Borg: `https://www.borgbase.com/ <https://www.borgbase.com/>`_
+
+In my spare time I'm also a Google Summer of Code mentor and maintain various open source projects and standardization efforts:
+
+- Borg backup client for macOS/Linux: https://github.com/borgbase/vorta
+- open source electronic invoicing: https://www.invoice-x.org/
+- invoice2data: extract structured data from PDF invoices https://github.com/invoice-x/invoice2data
 - upodder: command line podcast downloader https://github.com/m3nu/upodder
-
-
 
 
 
@@ -944,12 +841,37 @@ Talk: Python in Production Engineering @ Facebook
 Biography
 ---------
 
-Mark has worked in IT for over 20 years in Europe and Southeast Asia. His
-experience spans IT operations, software engineering, data systems, product
-management and project management. He has worked in top multinationals, SMEs
-and start-ups.
+Mark has worked in IT for over 20 years in Europe and Southeast Asia. His experience spans IT operations, software engineering, data systems, product management and project management. He has worked in top multinationals, SMEs and start-ups.
 
 
+
+
+.. class:: clearfix
+
+
+Martin Andrews
+==============
+
+
+
+.. image:: https://th.pycon.org/martin-andrews.jpeg
+    :alt: Martin Andrews
+    :height: 200px
+    :align: right
+    :class: img-circle img-responsive
+
+
+
+
+
+
+
+Talk: Deep Learning Introductory Workshop with TensorFlow 2.0
+
+Biography
+---------
+
+Martin has over 20 years’ experience in Machine Learning and has used it to solve problems in financial modelling and has created AI automation for companies. His current area of focus and speciality is in natural language processing and understanding. In 2017, Google appointed Martin as one of the first 12 Google Developer Experts for Machine Learning. Martin is also one of the co-founders of Red Dragon AI.
 
 
 
@@ -985,27 +907,15 @@ Talk: Adding JWT Authentication to Python and Django REST Framework Using Auth0
 Biography
 ---------
 
-Hi, I'm Mehul Patel and I specialize in Information Technology and Services.
-I’m passionate about what I do. I am a Developer Tech by profession, an open
-source enthusiast, Linux geeky and a maker by heart. I hold *Masters in
-Computers Science* and have been working relentlessly and contributing towards
-the open source community in all ways I can. I am an active member of the
-*Mozilla* Community which is a program run by a group of highly trained &
-passionate Mozillians(Tech enthusiasts), who share technical knowledge about
-Firefox, Mozilla, OpenSource and the Web at various regional developer-facing
-events. Currently, I am acting as a Rust Mobilizer in the community and trying
-best to aware people about this awesome and secure programming language. I am
-also part of other opensource peers like WordPress, Red Hat Linux, Debian,
-OpenStack, Auth0 and much more. I also represent Mozilla while being on the
-*Campus Advisory Committee*, a *Reps Mentor* and ambassador at *Auth0*. I have
-been invited as a Technical Speaker at Google DevFest, LinuxCon, Open
-Innovation Summit, MozFest, GNUnify'18 and so on to share and educate tech
-enthusiasts regarding opensource technologies Like Red Hat, WordPress, Rust,
-Virtualization, server securities & hardening and much more. I frequently blog
-at https://medium.com/@rowdymehul List of key talks and publications:
-http://bit.ly/2FVfzDE
+Hi, I'm Mehul Patel and I specialize in Information Technology and Services. I’m passionate about what I do. I am a Developer Tech by profession, an open source enthusiast, Linux geeky and a maker by heart.
 
+I hold *Masters in Computers Science* and have been working relentlessly and contributing towards the open source community in all ways I can.  
 
+I am an active member of the *Mozilla* Community which is a program run by a group of highly trained & passionate Mozillians(Tech enthusiasts),  who share technical knowledge about Firefox, Mozilla, OpenSource and the Web at various regional developer-facing events. Currently, I am acting as a Rust Mobilizer in the community and trying best to aware people about this awesome and secure programming language. I am also part of other opensource peers like WordPress, Red Hat Linux, Debian, OpenStack, Auth0 and much more.
+
+I also represent Mozilla while being on the *Campus Advisory Committee*, a *Reps Mentor* and ambassador at *Auth0*. I have been invited as a Technical Speaker at Google DevFest, LinuxCon, Open Innovation Summit, MozFest, GNUnify'18 and so on to share and educate tech enthusiasts regarding opensource technologies Like Red Hat, WordPress, Rust, Virtualization, server securities & hardening and much more. I frequently blog at https://medium.com/@rowdymehul
+
+List of key talks and publications: http://bit.ly/2FVfzDE
 
 
 
@@ -1027,15 +937,11 @@ Talk: Unlocking the power of natural language by machine translation: how python
 Biography
 ---------
 
-Dali SOLA is a Data science enthusiast with experience in various aspects of
-NLP and machine translation. Dali had an engineer degree from at TEK-UP
-University in Tunisia and studied two Master degree in Business Intelligence
-and Innovation management. His core interest lies in “NLP”, ”Deep learning”,
-“Machine Learning”, ”Machine Translation” and "IA". In 2017 he get rewarded
-from ATB BANK for his solution "smart-HR", a human resource solution that deal
-with talents hiring issue, using NLP and IA .
-
-
+Dali SOLA is a Data science enthusiast with experience in various aspects of NLP and machine translation.
+        Dali had an engineer degree from at TEK-UP University in Tunisia and studied two Master degree in
+        Business Intelligence and Innovation management. His core interest lies in “NLP”, ”Deep learning”,
+        “Machine Learning”, ”Machine Translation” and "IA". In 2017 he get rewarded from ATB BANK  for  his solution "smart-HR",
+        a human resource solution that deal with talents hiring issue, using NLP and IA .
 
 
 
@@ -1071,13 +977,27 @@ Talk: Facial Keypoints Detection with PyTorch
 Biography
 ---------
 
-**Nithiroj Tripatarasit** *Lifelong learner, tech lover, and deep learning
-enthusiast.* **My works** 
+**Nithiroj Tripatarasit**
+
+*Lifelong learner, tech lover, and deep learning enthusiast.*
+
+**My works**
 
 - `iOS apps <https://itunes.apple.com/th/developer/nithiroj-tripatarasit/id704045425>`_
 - `Android apps <https://play.google.com/store/apps/developer?id=Neo+Edutainment>`_
 
+**Experiences:**
 
+- `PyTorch Scholarship to Udacity's Deep Learning NanoDegree program (Jan 2019 – present) <https://medium.com/@nithiroj/facial-keypoints-detection-with-pytorch-86bac79141e4>`_
+- `fast.ai International Fellowship Program (Oct 22 - Dec 12, 2018) <https://www.fast.ai/2018/08/16/diversity-fellowships/>`_
+- `Data Cafe Fellowship #2 ( Aug - Oct 2018) <https://drive.google.com/file/d/1AZ9RwZSR0uJU6lIwarD5On4cR_y0KA7_/view?usp=sharing>`_
+- `Speaker of  Logo Detection using PyTorch at PyCon Thailand 2018 (Jun 16 – 17, 2018) <https://medium.com/diving-in-deep/logo-detection-using-pytorch-7897d4898211>`_
+- `WorldQuant University's Introduction to Data Science module  (September 7, 2018) <https://wqu-cert.thedataincubator.com/certificate?key=1820009749491963002>`_
+- `fast.ai International Fellowship Program (Mar 19 - Apr 30, 2018) <http://www.fast.ai/2018/01/17/international-spring-2018/>`_
+- `Deep Learning, a 5-course specialization by deeplearning.ai on Coursera. Specialization Certificate earned on March 9, 2018 <https://www.coursera.org/account/accomplishments/specialization/X7TVC4FK8J82>`_
+- `Machine Learning <https://www.coursera.org/account/accomplishments/certificate/3DJQGJEUN2ZH>`_
+- `Deep Learning Workshops by Google Developer Experts <https://drive.google.com/file/d/1A0CTi9OCQ9MenLBXZ14bp0K-WsF1JEPt/view?usp=sharing>`_
+- `Big Data with Hadoop by DEPA <https://drive.google.com/file/d/18ulagdP4U2J8mcAnDZPFuE_nKc9c72Dz/view?usp=sharing>`_
 
 
 
@@ -1113,15 +1033,13 @@ Talk: Ready to say goodbye to Python 2.7 ! ?
 Biography
 ---------
 
-Noah, PyCon Nomad Volunteer of FOSSASIA which is a NPO for promoting FOSS and
-open technologies in Asia, volunteer of PyConTW/JP/KR/ID/MY/TH/HK.....and each
-PyConAPAC since 2015. volunteer and speaker of EuroPython 2018. Managing
-member of PSF, my wish is that connect everyone who enjoy Python, and try to
-promote programming education to young generation or everyone who interested
-in by teaching basic programming skill using Python and R, like be a mentor of
-Hour or Code, or Google Summer of Code with FOSSASIA
-
-
+Noah, 
+PyCon Nomad
+Volunteer of FOSSASIA which is a NPO for promoting FOSS and open technologies in Asia,
+volunteer of PyConTW/JP/KR/ID/MY/TH/HK.....and each PyConAPAC since 2015.
+volunteer and speaker of EuroPython 2018. 
+Managing member of PSF,
+my wish is that connect everyone who enjoy Python, and try to promote programming education to young generation or everyone who interested in by teaching basic programming skill using Python and R, like be a mentor of Hour or Code, or Google Summer of Code with FOSSASIA 
 
 
 
@@ -1157,13 +1075,7 @@ Talk: Forklifting Django: Migrating A Complex Django App To Kubernetes
 Biography
 ---------
 
-Noah Kantrowitz is a web developer turned infrastructure automation
-enthusiast, and all around engineering rabble-rouser. By day he runs an
-infrastructure team at Ridecell and by night he makes candy and stickers. He
-is an active member of the DevOps community, and enjoys merge commits, cat
-pictures, and beards.
-
-
+Noah Kantrowitz is a web developer turned infrastructure automation enthusiast, and all around engineering rabble-rouser. By day he runs an infrastructure team at Ridecell and by night he makes candy and stickers. He is an active member of the DevOps community, and enjoys merge commits, cat pictures, and beards.
 
 
 
@@ -1199,14 +1111,7 @@ Talk: Raiden Network for instant crypto payment & lower fees
 Biography
 ---------
 
-Pisuth turns himself into a blockchain developer with extensive skills on IoT
-and Chatbot since 2017. Prior that time, he was working in media industry for
-8 years in Thailand experienced using Python on system monitoring and systems
-integration. He also won 7 blockchain competition/hackathon in the past 2
-years include ETHSingapore, Binance and NEO and has strong passion on
-blockchain technology and distributed economy.
-
-
+Pisuth turns himself into a blockchain developer with extensive skills on IoT and Chatbot since 2017. Prior that time, he was working in media industry for 8 years in Thailand experienced using Python on system monitoring and systems integration.  He also won 7 blockchain competition/hackathon in the past 2 years include ETHSingapore, Binance and NEO and has strong passion on blockchain technology and distributed economy.
 
 
 
@@ -1236,15 +1141,7 @@ Talk: Fuzzy Multi-Criteria Portfolio Optimisation with Genetic Algorithms on Pyt
 Biography
 ---------
 
-I am a Data Scientist (First Senior Vice President) at Siam Commercial Bank
-PCL. Beside Python, I'm also into Mathematica, and did my doctorate entirely
-in C++. Beside Data Science, I'm involved in Quantitative Analytics in
-general, Financial Engineering and Risk Management in particular (although
-much less so these days). Beside Machine Learning, my research interest span
-to Graph-Theoretic/Network Model, Copula Functional, Cybernetics, and
-(obviously) Fuzzy Multi-Criteria Decision Model.
-
-
+I am a Data Scientist (First Senior Vice President) at Siam Commercial Bank PCL. Beside Python, I'm also into Mathematica, and did my doctorate entirely in C++. Beside Data Science, I'm involved in Quantitative Analytics in general, Financial Engineering and Risk Management in particular (although much less so these days). Beside Machine Learning, my research interest span to Graph-Theoretic/Network Model, Copula Functional, Cybernetics, and (obviously) Fuzzy Multi-Criteria Decision Model.
 
 
 
@@ -1280,13 +1177,7 @@ Talk: Hypothesis: Property-Based Testing for Python
 Biography
 ---------
 
-Rae Knowler is a web developer at Liip in Zürich, where they develop product
-data APIs and work on Open Data projects. They are interested in the
-fascinating, comical and sometimes tragic results of attempting to cram the
-complexity of life and society into computer systems. In their spare time they
-read a lot of science fiction and hug cats.
-
-
+Rae Knowler is a web developer at Liip in Zürich, where they develop product data APIs and work on Open Data projects. They are interested in the fascinating, comical and sometimes tragic results of attempting to cram the complexity of life and society into computer systems. In their spare time they read a lot of science fiction and hug cats.
 
 
 
@@ -1322,18 +1213,9 @@ Talk: Visualize the Black Box - An introduction to Interpretable Machine Learnin
 Biography
 ---------
 
-Rahul Bhatia is a self-taught Data Scientist and Full-stack Web Developer. I
-have experience in organizing several talks as a Developer Student Club Lead
-at our campus, which is an initiative by Google Developers, promoting the
-developer culture at college campuses throughout several countries through the
-DSC program. I love sharing knowledge with fellow developers and organizing
-and delivering technical sessions. I am currently a Data Science Intern at
-Innovaccer, a healthcare company focused on "Righting the wrongs of healthcare
-technology" I don't listen to a lot of pop music but I love rock music.
-Chester from Linkin Park was my favourite. Apart from that, I am a solo
-traveller and love wadering at new places.
+Rahul Bhatia is a self-taught Data Scientist and Full-stack Web Developer. I have experience in organizing several talks as a Developer Student Club Lead at our campus, which is an initiative by Google Developers, promoting the developer culture at college campuses throughout several countries through the DSC program. I love sharing knowledge with fellow developers and organizing and delivering technical sessions. I am currently a Data Science Intern at Innovaccer, a healthcare company focused on "Righting the wrongs of healthcare technology"
 
-
+I don't listen to a lot of pop music but I love rock music. Chester from Linkin Park was my favourite. Apart from that, I am a solo traveller and love wadering at new places.
 
 
 
@@ -1363,16 +1245,7 @@ Talk: The Buzz about Bees
 Biography
 ---------
 
-Robert Owen worked for Oracle as Program Director for Asia-Pacific. Before
-that he worked for Ericsson Telecommunications. Robert was a member of the
-Australian delegation to the International Telecommunications Union, ITU, in
-Geneva, Switzerland where he worked on global telecommunications policy. A few
-years ago he spat his dummy at the amount of work Oracle expected him to do,
-resigned and enrolled for a PhD at the University of Melbourne, Australia. He
-expects to complete his PhD computer modelling infectious animal diseases
-later this year.
-
-
+Robert Owen worked for Oracle as Program Director for Asia-Pacific. Before that he worked for Ericsson Telecommunications. Robert was a member of the Australian delegation to the International Telecommunications Union, ITU, in Geneva, Switzerland where he worked on global telecommunications policy. A few years ago he spat his dummy at the amount of work Oracle expected him to do, resigned and enrolled for a PhD at the University of Melbourne, Australia. He expects to complete his PhD computer modelling infectious animal diseases later this year.
 
 
 
@@ -1380,13 +1253,13 @@ later this year.
 .. class:: clearfix
 
 
-Sam Witteveen + Martin Andrews
-==============================
+Sam Witteveen
+=============
 
 
 
 .. image:: https://secure.gravatar.com/avatar/02da2ef8a441965087137c2691e39d34?s=500
-    :alt: Sam Witteveen + Martin Andrews
+    :alt: Sam Witteveen
     :height: 200px
     :align: right
     :class: img-circle img-responsive
@@ -1408,23 +1281,7 @@ Talk: Deep Learning Introductory Workshop with TensorFlow 2.0
 Biography
 ---------
 
-This workshop would be given by Sam Witteveen and Martin Andrews Sam is a
-Google Developer Expert for Machine Learning and is a co-founder of Red Dragon
-AI a deep tech company based in Singapore. He has extensive experience in
-startups and mobile applications and is helping developers and companies
-create smarter applications with machine learning. Sam is especially
-passionate about Deep Learning and AI in the fields of Natural Language and
-Conversational Agents and regularly shares his knowledge at events and
-trainings across Asia, as well as being the co-organiser of the Singapore
-TensorFlow and Deep Learning group. แซมพูดและอ่านภาษาไทยได้ Martin has over 20
-years’ experience in Machine Learning and has used it to solve problems in
-financial modelling and has created AI automation for companies. His current
-area of focus and speciality is in natural language processing and
-understanding. In 2017, Google appointed Martin as one of the first 12 Google
-Developer Experts for Machine Learning. Martin is also one of the co-founders
-of Red Dragon AI.
-
-
+Sam is a Google Developer Expert for Machine Learning and is a co-founder of Red Dragon AI a deep tech company based in Singapore. He has extensive experience in startups and mobile applications and is helping developers and companies create smarter applications with machine learning. Sam is especially passionate about Deep Learning and AI in the fields of Natural Language and Conversational Agents and regularly shares his knowledge at events and trainings across Asia, as well as being the co-organiser of the Singapore TensorFlow and Deep Learning group. แซมพูดและอ่านภาษาไทยได้
 
 
 
@@ -1460,11 +1317,7 @@ Talk: Addressing class imbalance in Machine Learning
 Biography
 ---------
 
-Sara is a seasoned software engineer and a data science enthusiast. She is
-currently undergoing a master in data science in the UK, and a research in
-deep learning for medical imaging. When she is not coding, she spends her free
-time baking sweet treats and watching Rick and Morty.
-
+Sara is a seasoned software engineer and a data science enthusiast. She is currently undergoing a master in data science in the UK, and a research in deep learning for medical imaging. When she is not coding, she spends her free time baking sweet treats and watching Rick and Morty.
 
 
 
@@ -1495,22 +1348,11 @@ Talk: A resilient, scalable tracing and analysis system for micro-services - Hay
 Biography
 ---------
 
-A passionate software developer, Sarthak is a core contributor in Expedia's
-Mobile Team. He weaves the magic in his code with Python, Java, Kotlin, Scala,
-C and JavaScript. Having mastered these languages all by himself, through self
-projects and open source contributions, he knows what it takes to not just
-write code but write code that is readable, efficient and maintainable.
+<p>A passionate software developer, Sarthak is a core contributor in Expedia's Mobile Team. He weaves the magic in his code with Python, Java, Kotlin, Scala, C and  JavaScript. Having mastered these languages all by himself, through self projects and open source contributions, he knows what it takes to not just write code but write code that is readable, efficient and maintainable.</p>
 
-His current adventure involves developing solutions in android ecosystem,
-internal API(s) and machine learning to help our users have the best
-experience.
+ <p>His current adventure involves developing solutions in android ecosystem, internal API(s) and machine learning to help our users have the best experience.</p>
 
-Before joining Expedia, he co-founded one startup in India and did internship
-at Samsung R&D;, Bengaluru. He loves sharing his knowledge and learnings from
-his adventures in machine learning projects. He has been speaking extensively
-at internal conferences and now want to spread his knowledge in the open.
-
-
+Before joining Expedia, he  co-founded one startup in India and did internship at Samsung R&D, Bengaluru. He loves sharing his knowledge and learnings from his adventures in machine learning projects. He has been speaking extensively at internal conferences and now want to spread his knowledge in the open.
 
 
 
@@ -1546,18 +1388,7 @@ Talk: Production-ize deep learning with PyTorch, RedisAI and Hangar
 Biography
 ---------
 
-I am working as a part of the development team of [Tensor]werk, an
-infrastructure development company focusing on deep learning deployment
-problems. I and my team focus on building open source tools for setting up a
-seamless deep learning workflow. I have been programming since 2012 and
-started using python since 2014 and moved to deep learning in 2015. I am an
-open source enthusiast and I spend most of my research time on improving
-interpretability of AI models using `TuringNetwork <https://turingnetwork.ai>`_.
-I have authored a deep learning book 
-(`yet to publish <https://github.com/hhsecond/HandsOnDeepLearningWithPytorch>`_). I go by
-`hhsecond` on internet
-
-
+I am working as a part of the development team of [Tensor]werk, an infrastructure development company focusing on deep learning deployment problems. I and my team focus on building open source tools for setting up a seamless deep learning workflow. I have been programming since 2012 and started using python since 2014 and moved to deep learning in 2015. I am an open source enthusiast and I spend most of my research time on improving interpretability of AI models using `TuringNetwork <https://turingnetwork.ai>`_. I have authored a deep learning book (`yet to publish <https://github.com/hhsecond/HandsOnDeepLearningWithPytorch>`_). I go by hhsecond on internet
 
 
 
@@ -1593,29 +1424,11 @@ Talk: Bringing Artificial Intelligence to the Edge
 Biography
 ---------
 
-Siddhant is currently working as Program Coordinator for Google India
-Developer Relations Team. Siddhant Agarwal is an experienced Technology
-Trainer and has been involved in delivering trainings on some of the latest
-and cutting-edge technologies like: Artificial Intelligence/Machine
-Learning/Deep Learning, Cloud Computing and Internet of Things at various
-national and international forums and trained/engaged with more than 13k
-developers. He is also instrumental in designing and providing consultation
-for product development & business development strategies around AI/ML-based
-products. Siddhant is an Intel Software Innovator - a developer advocacy and
-speakership program supporting innovative, independent developers who display
-an ability to create and demonstrate forward-looking projects by providing
-them with speaking and demonstration opportunities at industry events and
-developer gatherings. He is also a Google Machine Learning Crash Course
-Facilitator and an organizer for the Google Cloud Developer Community in New
-Delhi. He is also involved in executing Design Sprints – a Design Thinking and
-Agile Development Methodology focused training series to improve the user
-experience of applications. Siddhant volunteers with the Headstart Network
-Foundation - one of the largest startup ecosystem development organizations in
-India as the Head for Partnerships in the New Delhi cohort and is a Mentor of
-Change with the Atal Innovation Mission – a strategic nation building
-initiative.
+Siddhant is currently working as Program Coordinator for Google India Developer Relations Team. Siddhant Agarwal is an experienced Technology Trainer and has been involved in delivering trainings on some of the latest and cutting-edge technologies like: Artificial Intelligence/Machine Learning/Deep Learning, Cloud Computing and Internet of Things at various national and international forums and trained/engaged with more than 13k developers. He is also instrumental in designing and providing consultation for product development & business development strategies around AI/ML-based products.
 
+Siddhant is an Intel Software Innovator - a developer advocacy and speakership program supporting innovative, independent developers who display an ability to create and demonstrate forward-looking projects by providing them with speaking and demonstration opportunities at industry events and developer gatherings. He is also a Google Machine Learning Crash Course Facilitator and an organizer for the Google Cloud Developer Community in New Delhi. He is also involved in executing Design Sprints – a Design Thinking and Agile Development Methodology focused training series to improve the user experience of applications.
 
+Siddhant volunteers with the Headstart Network Foundation - one of the largest startup ecosystem development organizations in India as the Head for Partnerships in the New Delhi cohort and is a Mentor of Change with the Atal Innovation Mission – a strategic nation building initiative.
 
 
 
@@ -1651,10 +1464,7 @@ Talk: Code like a girl
 Biography
 ---------
 
-Hi there! I'm Gatuk. I'm an organizer and a representative for Girls Who Dev
-and also a happiness software engineer at Pronto Tools.
-
-
+Hi there! I'm Gatuk. I'm an organizer and a representative for Girls Who Dev and also a happiness software engineer at Pronto Tools. 
 
 
 
@@ -1684,17 +1494,7 @@ Talk: Developing Natural Language Processing Applications Using Python
 Biography
 ---------
 
-I am a pre final student at The LNM Institute of Information Technology
-pursuing B-Tech in Computer Science Engineering. I have a Deep interest in
-open source technologies, and was selected as Mozilla Open Leader this year. I
-like to code in Python and developing Natural Language Processing applications
-in python. I have studied Information Retrieval as an academic course and my
-my interest in this field grew from there. In this talk I will elaborate on my
-project where I used TWEEPY library of python to extract and evaluate tweets.
-I believe Information Retrieval is a interesting topic and will attract
-audience from all the field and all experience levels.
-
-
+I am a pre final student at The LNM Institute of Information Technology pursuing B-Tech in Computer Science Engineering. I have a Deep interest in open source technologies, and was selected as Mozilla Open Leader this year. I like to code in Python and developing Natural Language Processing applications in python. I have studied Information Retrieval as an academic course and my my interest in this field grew from there. In this talk I will elaborate on my project where I used TWEEPY library of python to extract and evaluate tweets. I believe Information Retrieval is a interesting topic and will attract audience from all the field and all experience levels.
 
 
 
@@ -1730,14 +1530,12 @@ Talk: Automate the Boring Stuff with Slackbot
 Biography
 ---------
 
-Takanori is a Vice Chairperson of PyCon JP Committee(www.pycon.jp). He is also
-a director of BeProud Inc.(www.beproud.jp), and his title is "Python Climber".
-Takanori held PyCon JP 2014 to 2016 as the chairperson. Currently he teaches
-Python to beginners as a lecturer at Python Boot Camp(pycamp.pycon.jp) all
-over Japan. In addition, he published several Python books. Tananori plays
-trumpet, climbs boulder, loves Lego, ferrets and beer
-
-
+Takanori is a Vice Chairperson of PyCon JP Committee(www.pycon.jp).
+He is also a director of BeProud Inc.(www.beproud.jp), and his title is "Python Climber".
+Takanori held PyCon JP 2014 to 2016 as the chairperson.
+Currently he teaches Python to beginners as a lecturer at Python Boot Camp(pycamp.pycon.jp) all over Japan.
+In addition, he published several Python books.
+Tananori plays trumpet, climbs boulder, loves Lego, ferrets and beer
 
 
 
@@ -1773,20 +1571,7 @@ Talk: Unique ways to Hack into a Python Web Service
 Biography
 ---------
 
-I work at an Application Security company (we45) and have a unique perspective
-of developing secure and deliberately insecure apps in Python and NodeJS. I
-have contributed to the development of several Web-Applications using Django,
-Djano-Rest-Framework, NodeJs and more, that have been used for Capture the
-Flag Contests inside and outside the organization. And also I am contributed
-multiple OpenSource Projects. In addition, I have extensive experience with
-integrating scanners, SAST and DAST toolsets into our Application
-Vulnerability Correlation and Aggregation product. I have over 7 years of
-development experience and continue to work as a full-stack developer. And
-also I have presented talk in DjangoCon 2018, ISACA Meetup, also gave a
-workshop about container orchestration and Serverless in Lascon, Recently gave
-a talk in DevSecCon Singapore 2019.
-
-
+I work at an Application Security company (we45) and have a unique perspective of developing secure and deliberately insecure apps in Python and NodeJS. I have contributed to the development of several Web-Applications using Django, Djano-Rest-Framework, NodeJs and more, that have been used for Capture the Flag Contests inside and outside the organization. And also I am contributed multiple OpenSource Projects. In addition, I have extensive experience with integrating scanners, SAST and DAST toolsets into our Application Vulnerability Correlation and Aggregation product. I have over 7 years of development experience and continue to work as a full-stack developer. And also I have presented talk in DjangoCon 2018, ISACA Meetup, also gave a workshop about container orchestration and Serverless in Lascon, Recently gave a talk in DevSecCon Singapore 2019.
 
 
 
@@ -1822,24 +1607,7 @@ Talk: JWT authentication with Django
 Biography
 ---------
 
-Viral Parmar is a Serial entrepreneur who runs ComExpo Cyber security company
-as well as Infinite Defense Foundation a non-profit organization in India. He
-is a Developer Advocate, Productivity Hacker, Open Source Strategist,
-Technical Evangelist, Community Liaison, International TechSpeaker, he is a
-Cyber Security researcher by profession and open source enthusiast working in
-a field of information security from last three years with the expertise in
-Cyber Crime Investigation, Public Key Infrastructure, Social Engineering, Web
-App Penetration Testing, Digital Forensics and Mobile Security. He found sever
-vulnerability in 150+ well known websites like Intel, your story and solved
-more than 100 cases of cyber-crime & online frauds. He is famous for his
-research Cyber Disorder and Who is spying on you. Trained 150,000+ people till
-now and aware them about privacy and security. Given Seminars and workshops in
-150+ Organizations. He is Working with Mozilla foundation from last 2 years as
-Reps, Mentor in Mozilla Open Leadership Project, Coach(Privacy and Security)
-in MozSprint 2018, also working with L10N project on Pontoon, Rust and WebVR
-projects.
-
-
+Viral Parmar is a Serial entrepreneur who runs ComExpo Cyber security company as well as Infinite Defense Foundation a non-profit organization in India. He is a Developer Advocate, Productivity Hacker, Open Source Strategist, Technical Evangelist, Community Liaison, International TechSpeaker, he is a Cyber Security researcher by profession and open source enthusiast working in a field of information security from last three years with the expertise in Cyber Crime Investigation, Public Key Infrastructure, Social Engineering, Web App Penetration Testing, Digital Forensics and Mobile Security. He found sever vulnerability in 150+ well known websites like Intel, your story and solved more than 100 cases of cyber-crime & online frauds. He is famous for his research Cyber Disorder and Who is spying on you. Trained 150,000+ people till now and aware them about privacy and security. Given Seminars and workshops in 150+ Organizations. He is Working with Mozilla foundation from last 2 years as Reps, Mentor in Mozilla Open Leadership Project, Coach(Privacy and Security) in MozSprint 2018, also working with L10N project on Pontoon, Rust and WebVR projects.
 
 
 
@@ -1875,15 +1643,10 @@ Talk: Any Code Formatter You Like - As Long As It's Black
 Biography
 ---------
 
-I'm a computer scientist with a passion for programming languages, and have
-been working as a software engineer in the Infrastructure Team at Facebook
-London since 2016. I've been working with Python on and off for the past 10
-years, but recently it has become an area close to my heart. I'm the father of
-an awesome little dude, husband to an amazing wife, and when I'm not spending
-time with my family, work, and open source, I'm a captain of a competitive
-Overwatch team. Ask me about the biggest outage I've ever caused ;) See you at
-the conference!
+I'm a computer scientist with a passion for programming languages, and have been working as a software engineer in the Infrastructure Team at Facebook London since 2016. I've been working with Python on and off for the past 10 years, but recently it has become an area close to my heart.
 
+I'm the father of an awesome little dude, husband to an amazing wife, and when I'm not spending time with my family,  work, and open source, I'm a captain of a competitive Overwatch team.
 
+Ask me about the biggest outage I've ever caused ;) See you at the conference!
 
 
