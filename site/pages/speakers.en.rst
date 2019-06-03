@@ -1,7 +1,7 @@
 
 .. title: Speakers
 .. slug: speakers
-.. date: 2019-06-01 20:50:45 UTC+07:00
+.. date: 2019-06-03 23:15:50 UTC+07:00
 .. tags:
 .. category:
 .. link:
@@ -18,7 +18,7 @@ AKSHAT SHARMA
 
 
 
-.. image:: https://secure.gravatar.com/avatar/248aebf7bf2118d38638c5e2576d5439?s=500
+.. image:: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/48515/IMG_20180907_122310.jpeg
     :alt: AKSHAT SHARMA
     :height: 200px
     :align: right
@@ -78,6 +78,36 @@ Biography
 ---------
 
 **Alex Khaerov** is a development lead at `Chainstack <https://chainstack.com>`_, with 9+ years in web services development across diverse domains. His main passion is building robust, high-load and distributed service platforms on top of a multi-cloud environment, utilizing all the power of Python and cloud native services. An organized of `Moscow Python Conf <https://conf.python.ru>`_ and avid activist of `Singapore Python User Group <http://pugs.org.sg/>`_, cloud native enthusiast and member of Kubernetes SG community. In his spare time, he speaks publicly at tech conferences and secretly codes in Python. Huge fan of laptop stickers.
+
+
+
+
+.. class:: clearfix
+
+
+Amir Arad
+=========
+
+
+
+.. image:: https://secure.gravatar.com/avatar/7ebded1e9171acbf1b8cbf3532e25172?s=500
+    :alt: Amir Arad
+    :height: 200px
+    :align: right
+    :class: img-circle img-responsive
+
+
+
+
+
+
+
+Talk: From 0 to Awesome: How we got Python to supercharge our ML stack
+
+Biography
+---------
+
+Studied Math, building systems, loves traveling and puns.
 
 
 
@@ -196,42 +226,6 @@ I am always fascinated about programming languages. In particular, I have long a
 
 I am a co-founder and managing director of Arithmox, a startup offering CTO-as-a-service and growth hacking packages to Indonesian companies. My interest lies in the use of technology and data-driven approaches correctly to drive growth. In a business climate where it is easy to get sucked into the AI hype, I advocate a pragmatic and no-nonsense approach to introducing such technologies into already-running businesses.
 
-
-
-
-
-.. class:: clearfix
-
-
-Avi Aryan
-=========
-
-
-
-.. image:: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/7286/avi_pic_rajat_720.jpg
-    :alt: Avi Aryan
-    :height: 200px
-    :align: right
-    :class: img-circle img-responsive
-
-
-
-
-
-.. class:: fa fa-twitter fa-fw
-
-    `aviaryan123 <https://twitter.com/aviaryan123>`_
-
-
-
-
-
-Talk: Cheaply deploy Python apps Heroku-style using Dokku
-
-Biography
----------
-
-Avi is a full-stack web engineer at Toptal with four years of professional experience. He has worked with most of the popular stack used on the web today including Python, JavaScript, and Go. He is also a multiple-time Google Summer of Code participant, where he mentors budding developers to contribute to open-source projects. These days he is working on his Blockchain based social media startup called HapRamp which aims to revolutionalize the social media ecosystem in India.  
 
 
 
@@ -854,6 +848,44 @@ Martin Andrews
 
 
 
+.. image:: https://secure.gravatar.com/avatar/eedd4ff31246cafae4a8ebbf08260159?s=500
+    :alt: Martin Andrews
+    :height: 200px
+    :align: right
+    :class: img-circle img-responsive
+
+
+
+
+
+.. class:: fa fa-twitter fa-fw
+
+    `mdda123 <https://twitter.com/mdda123>`_
+
+
+
+
+
+Talk: First steps in Deep Learning with TensorFlow 2.0 : CNNs
+
+Biography
+---------
+
+Martin is a Google Developer Expert in Machine Learning based in Singapore - and was doing Neural Networks before the last AI winter...  He's an active contributor in the Singapore data science community, and is the co-host of the Singapore TensorFlow and Deep Learning MeetUp (with now with 3700+ members in Singapore).
+
+
+
+
+
+
+.. class:: clearfix
+
+
+Martin Andrews
+==============
+
+
+
 .. image:: https://th.pycon.org/martin-andrews.jpeg
     :alt: Martin Andrews
     :height: 200px
@@ -1276,6 +1308,45 @@ Sam Witteveen
 
 
 
+Talk: The Fastest Path to Deep Learning
+
+Biography
+---------
+
+Sam is a Google Developer Expert for Machine Learning and is a co-founder of Red Dragon AI a deep tech company based in Singapore. He has extensive experience in startups and mobile applications and is helping developers and companies create smarter applications with machine learning.  Sam is especially passionate about Deep Learning and AI in the fields of Natural Language and Conversational Agents and regularly shares his knowledge at events and trainings across Asia, as well as being the co-organiser of the Singapore TensorFlow and Deep Learning group.
+
+แซมพูดและอ่านภาษาไทยได้
+
+
+
+
+
+.. class:: clearfix
+
+
+Sam Witteveen
+=============
+
+
+
+.. image:: https://secure.gravatar.com/avatar/02da2ef8a441965087137c2691e39d34?s=500
+    :alt: Sam Witteveen
+    :height: 200px
+    :align: right
+    :class: img-circle img-responsive
+
+
+
+
+
+.. class:: fa fa-twitter fa-fw
+
+    `sam_witteveen <https://twitter.com/sam_witteveen>`_
+
+
+
+
+
 Talk: Deep Learning Introductory Workshop with TensorFlow 2.0
 
 Biography
@@ -1464,7 +1535,7 @@ Talk: Code like a girl
 Biography
 ---------
 
-Hi there! I'm Gatuk. I'm an organizer and a representative for Girls Who Dev and also a happiness software engineer at Pronto Tools. 
+Hi there! I am a software engineer who uses vim at Pronto Tools and also a GirlsWhoDev organizer for around 4 years. I have organized many tech events for girls who want to learn coding even if they are not in the tech industry such as girls learning Python. I am also a co-organiser with Django girls for building a website with Django in Bangkok. Apart from my tech life, I’m a dog person. I enjoy singing, dancing and watching a movie and a series.
 
 
 

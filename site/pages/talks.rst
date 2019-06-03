@@ -1,7 +1,7 @@
 
 .. title: Talks
 .. slug: talks
-.. date: 2019-06-01 20:51:01 UTC+07:00
+.. date: 2019-06-03 23:15:34 UTC+07:00
 .. tags:
 .. category:
 .. link:
@@ -46,6 +46,28 @@ Abstract
 --------
 
 You definitely have unit tests. Your code coverage above 80 or 90? Are u still struggling with bugs and wanna increase the quality? What if I say that quarter of your units are non-viable mutants? Yes, it is true and sounds rude. Let's mutate your tests and look what it gets you.
+
+
+
+
+.. class:: clearfix
+
+
+
+From 0 to Awesome: How we got Python to supercharge our ML stack
+================================================================
+
+
+by Amir Arad
+
+Format: Talk (~30-45 minutes)
+
+Abstract
+--------
+
+Python is now a crucial foundation in our org, with its dynamicity, user friendliness, and community-backed frameworks complementing the firepower we already had from Scala. 
+
+Starting from Jupyter notebooks and evolving to containerized apps running on our Hadoop, we got Python to work at scale.
 
 
 
@@ -106,26 +128,6 @@ Abstract
 --------
 
 In this talk, I argue that Python is not quite a functional programming language. We draw examples from Haskell and Clojure to highlight the importance of immutability, functional core and reusable data. We look into writing idiomatic Python, whilst enjoying the benefits of functional programming.
-
-
-
-
-.. class:: clearfix
-
-
-
-Cheaply deploy Python apps Heroku-style using Dokku
-===================================================
-
-
-by Avi Aryan
-
-Format: Talk (~30-45 minutes)
-
-Abstract
---------
-
-Pythonistas love Heroku for deploying their apps but it quickly turns expensive. Dokku is a free, self-hosted, Heroku-like PaaS that you can use to deploy your applications on any bare metal server. With Dokku, you enjoy all the features of Heroku without the bills. This session dives into this.
 
 
 
@@ -461,6 +463,26 @@ Production Engineering comes from the belief that operational problems should be
 
 
 
+First steps in Deep Learning with TensorFlow 2.0 : CNNs
+=======================================================
+
+
+by Martin Andrews
+
+Format: Talk (~30-45 minutes)
+
+Abstract
+--------
+
+This talk aims to cover the "something for beginners" part of our tagline - motivating the building blocks of CNNs, how they are trained, and how the resulting model can be applied to different datasets. Code examples will be provided in Colab notebooks.
+
+
+
+
+.. class:: clearfix
+
+
+
 Adding JWT Authentication to Python and Django REST Framework Using Auth0
 =========================================================================
 
@@ -669,6 +691,26 @@ Models are used to simulate the spread of diseases in populations. Scientists of
 
 
 
+The Fastest Path to Deep Learning
+=================================
+
+
+by Sam Witteveen
+
+Format: Talk (~30-45 minutes)
+
+Abstract
+--------
+
+How to get started quickly and plot your own path to learning Deep Learning in the fastest way possible. This will examples of Deep Learning, how they work and what the key components are to get started to creating AI based apps.
+
+
+
+
+.. class:: clearfix
+
+
+
 Deep Learning Introductory Workshop with TensorFlow 2.0
 =======================================================
 
@@ -780,7 +822,7 @@ Format: Workshop (> 60 minutes)
 Abstract
 --------
 
-A workshop for learning how to code using Python to build a web page like a girl.
+Have you ever use a cutie and cool CLI tool? Have you felt that it is very cool and makes you feel so excited to use this tool? This workshop will help you learn how to build your own CLI using basic Python skill and makes everyone love it.
 
 
 
