@@ -1,7 +1,7 @@
 
 .. title: Talks
 .. slug: talks
-.. date: 2019-06-03 23:15:34 UTC+07:00
+.. date: 2019-06-08 20:03:23 UTC+07:00
 .. tags:
 .. category:
 .. link:
@@ -148,6 +148,26 @@ Abstract
 --------
 
 “Ok Google, Tell me how do you work?” Have you ever wondered, what goes behind asking a voice assistant to perform a particular action to having the output being delivered to you? Using open source NLP libraries like NLTK, and Spacy, we will learn concepts that form the heart of conversational AI.
+
+
+
+
+.. class:: clearfix
+
+
+
+How to build an open source catbot with Python, a 3D printer and a microcontroller
+==================================================================================
+
+
+by Chanapai Chuadchum
+
+Format: Talk (~30-45 minutes)
+
+Abstract
+--------
+
+This talk is about a project that was designed to test the ML A.I research and robotics opensource. The aim is to improve the robot's ability at human interaction and develop various applications for the robot. Right now this robot is an early protype with limited applications. This project aims to improve the robot's abilities in the near future.
 
 
 
@@ -483,18 +503,49 @@ This talk aims to cover the "something for beginners" part of our tagline - moti
 
 
 
-Adding JWT Authentication to Python and Django REST Framework Using Auth0
-=========================================================================
+Securing your Python APIs with Auth0
+====================================
 
 
-by Mehul Patel
+by Md Shahbaz Alam
 
 Format: Talk (~30-45 minutes)
 
 Abstract
 --------
 
-Setting up an authentication layer is, without doubt, one of the most challenging yet necessary tasks within any web application.  In this talk, we'll learn how to add JWT authentication to an API built with Django REST framework.
+APIs are changing and languages like Python are shifting the paradigm of API consumption. We often dedicate a lot of time in crafting powerful APIs but overlook proper security measures. In this talk, we'll look at the proper way to secure our Python API's with JSON Web Tokens with Moden Identity.
+
+
+
+
+.. class:: clearfix
+
+
+
+Teaching Coding To Kids
+=======================
+
+
+by Mishari Muqbil
+
+Format: Workshop (> 60 minutes)
+
+Abstract
+--------
+
+This is a workshop for adults such as parents, teachers, community organizers and others interested in organizing classes where kids learn how to program Python in a peer to peer, collaborative learning environment.
+
+We will take a time machine back to the time when we were just starting off with coding and explore what that “aha” moments were for each of us. Based on that we will split into groups along common themes and design learning paths and a curriculum outline for kids to explore the joys of programming.
+
+Collaborative learning environments put less emphasis on instructors and more on children’s natural tendency to be curious and to share. As part of this workshop you will learn how to facilitate such an environment.
+
+Kids are welcome to join too as subject matter experts and participants in the process.
+
+Requirement:
+ - Humans aged 7+
+ - Computer, Tablet or anything that runs Python
+
 
 
 
@@ -611,8 +662,8 @@ Raiden network is an open source project aims to bring several advantages like b
 
 
 
-Fuzzy Multi-Criteria Portfolio Optimisation with Genetic Algorithms on Python
-=============================================================================
+Fuzzy Multi-Criteria Portfolio Optimisation with Python (and maybe a little bit of Mathematica)
+===============================================================================================
 
 
 by Poomjai Nacaskul, PhD, DIC, CFA
@@ -622,7 +673,7 @@ Format: Talk (~30-45 minutes)
 Abstract
 --------
 
-Today's sophisticated investors/fund managers require more flexibility/sophistication than traditional risk/return bi-criteria analysis. The talk introduces Python-based, highly-customisable Fuzzy Multi-Criteria Portfolio Optimisation framework and asset allocation solution under Genetic Algorithms.
+Today's sophisticated investors/fund managers require more flexibility/sophistication than traditional risk/return bi-criteria analysis. The talk introduces Python-based, highly-customisable Fuzzy Multi-Criteria Portfolio Optimisation framework and asset allocation solution.
 
 
 
@@ -791,28 +842,8 @@ Managing DL workflow is always a nightmare. Problems include handling the scale,
 
 
 
-Bringing Artificial Intelligence to the Edge
-============================================
-
-
-by Siddhant Agarwal
-
-Format: Talk (~30-45 minutes)
-
-Abstract
---------
-
-This talk focuses on how to develop deep learning inference application at the edge to run the trained model developed using TensorFlow optimally on the edge devices. We can easily run complex deep learning models like SqueezeNet, GoogLeNet & AlexNet on your computer with low processing capability.
-
-
-
-
-.. class:: clearfix
-
-
-
-Code like a girl
-================
+Girls Who Dev Code Like Godesses
+================================
 
 
 by Sudarat Chattanon

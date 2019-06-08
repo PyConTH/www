@@ -1,7 +1,7 @@
 
 .. title: Speakers
 .. slug: speakers
-.. date: 2019-06-03 23:15:50 UTC+07:00
+.. date: 2019-06-08 20:00:43 UTC+07:00
 .. tags:
 .. category:
 .. link:
@@ -143,7 +143,7 @@ Talk: AIoT: Intelligence on Low Power Microcontroller, with MicroPython
 Biography
 ---------
 
-
+CEO of DycodeX - the AIoT enabler in Indonesia. Microsoft Most Valuable Professional (MVP) of Microsoft Azure. 15 years as entrepreneur. A developer, hardware maker, and public speaker. 
 
 
 
@@ -265,6 +265,29 @@ I am currently researching in the field of NLP and information retrieval as a pr
 I got introduced to the wonders of computer science while pursuing my undergraduate degree, and oh, boy! It was diverse. I was amazed with the profusion of avenues that it opened for me. From natural language chatbots, to  biometrics recognition systems, path-planning robots, I found it ever-so encouraging just to be in the game, and with a curious eye, was ready to unearth it all.
 I can program in multiple languages, Python, C/C++, R, Matlab, Chapel, GoLang, Java , Python being my first love since freshman days!.  Recently I have started programming in GoLang, and it happens to be new found love. I am interested in the fields of NLP, ML, AI, having studied them during my senior year, and I wish to work on  enhancing healthcare with AI. More specifically  I want to work towards making technology come to the the aid of unfortunately or differently abled people, so that they can lead healthy lives. I am inspired by the advancing developments in making computers imitate and understand human language, vision and intelligence and so much more, which I feel can be used to solve challenges that the differently abled people face. 
 I am an avid reader, an eloquent writer, and love to share my experiences with others as well as learn from others. I do love to talk a lot too. A cup of hot chocolate, my laptop and a problem to code on, is what my daily routine sounds like. 
+
+
+
+
+.. class:: clearfix
+
+
+Chanapai Chuadchum
+==================
+
+
+
+
+
+
+
+Talk: How to build an open source catbot with Python, a 3D printer and a microcontroller
+
+Biography
+---------
+
+My real name is Chanapai Chuadchum my nick name is Korn i was started my work on roobtics since i was 10 on the and i got the thrid place on the competition in Solar innovative contest when i was 11 years old since then i'm dedicated to working on robotics to develop the useful and sophisticated robots to make them life like as most as i can currently i'm studying robotics engineer at the pensylavania university online in Robotics Engineer Master degree
+Currently i'm trying to make my own company in robotics field to serve humanity as much as possible to eleminate the time that we need to spend on unneccessary thing.
 
 
 
@@ -881,43 +904,13 @@ Martin is a Google Developer Expert in Machine Learning based in Singapore - and
 .. class:: clearfix
 
 
-Martin Andrews
-==============
+Md Shahbaz Alam
+===============
 
 
 
-.. image:: https://th.pycon.org/martin-andrews.jpeg
-    :alt: Martin Andrews
-    :height: 200px
-    :align: right
-    :class: img-circle img-responsive
-
-
-
-
-
-
-
-Talk: Deep Learning Introductory Workshop with TensorFlow 2.0
-
-Biography
----------
-
-Martin has over 20 years’ experience in Machine Learning and has used it to solve problems in financial modelling and has created AI automation for companies. His current area of focus and speciality is in natural language processing and understanding. In 2017, Google appointed Martin as one of the first 12 Google Developer Experts for Machine Learning. Martin is also one of the co-founders of Red Dragon AI.
-
-
-
-
-.. class:: clearfix
-
-
-Mehul Patel
-===========
-
-
-
-.. image:: https://secure.gravatar.com/avatar/8db81b17edc1a9a71515d3dbe6ceeadc?s=500
-    :alt: Mehul Patel
+.. image:: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/19104/mdsbzalam.jpg
+    :alt: Md Shahbaz Alam
     :height: 200px
     :align: right
     :class: img-circle img-responsive
@@ -928,26 +921,40 @@ Mehul Patel
 
 .. class:: fa fa-twitter fa-fw
 
-    `rowdymehul <https://twitter.com/rowdymehul>`_
+    `mdsbzalam <https://twitter.com/mdsbzalam>`_
 
 
 
 
 
-Talk: Adding JWT Authentication to Python and Django REST Framework Using Auth0
+Talk: Securing your Python APIs with Auth0
 
 Biography
 ---------
 
-Hi, I'm Mehul Patel and I specialize in Information Technology and Services. I’m passionate about what I do. I am a Developer Tech by profession, an open source enthusiast, Linux geeky and a maker by heart.
+I’m a Full Stack Developer, Developer Evangelist, Auth0 Ambassador, GDG Ranchi Organizer, and Mozilla Representative. I love speaking on Serverless, Authentication & Authorization, Google Technologies, Security, Web Extensions and Virtual Reality at different meet-ups and conferences.
 
-I hold *Masters in Computers Science* and have been working relentlessly and contributing towards the open source community in all ways I can.  
 
-I am an active member of the *Mozilla* Community which is a program run by a group of highly trained & passionate Mozillians(Tech enthusiasts),  who share technical knowledge about Firefox, Mozilla, OpenSource and the Web at various regional developer-facing events. Currently, I am acting as a Rust Mobilizer in the community and trying best to aware people about this awesome and secure programming language. I am also part of other opensource peers like WordPress, Red Hat Linux, Debian, OpenStack, Auth0 and much more.
 
-I also represent Mozilla while being on the *Campus Advisory Committee*, a *Reps Mentor* and ambassador at *Auth0*. I have been invited as a Technical Speaker at Google DevFest, LinuxCon, Open Innovation Summit, MozFest, GNUnify'18 and so on to share and educate tech enthusiasts regarding opensource technologies Like Red Hat, WordPress, Rust, Virtualization, server securities & hardening and much more. I frequently blog at https://medium.com/@rowdymehul
 
-List of key talks and publications: http://bit.ly/2FVfzDE
+.. class:: clearfix
+
+
+Mishari Muqbil
+==============
+
+
+
+
+
+
+
+Talk: Teaching Coding To Kids
+
+Biography
+---------
+
+CEO of Zymple
 
 
 
@@ -1168,7 +1175,7 @@ Poomjai Nacaskul, PhD, DIC, CFA
 
 
 
-Talk: Fuzzy Multi-Criteria Portfolio Optimisation with Genetic Algorithms on Python
+Talk: Fuzzy Multi-Criteria Portfolio Optimisation with Python (and maybe a little bit of Mathematica)
 
 Biography
 ---------
@@ -1324,42 +1331,6 @@ Sam is a Google Developer Expert for Machine Learning and is a co-founder of Red
 .. class:: clearfix
 
 
-Sam Witteveen
-=============
-
-
-
-.. image:: https://secure.gravatar.com/avatar/02da2ef8a441965087137c2691e39d34?s=500
-    :alt: Sam Witteveen
-    :height: 200px
-    :align: right
-    :class: img-circle img-responsive
-
-
-
-
-
-.. class:: fa fa-twitter fa-fw
-
-    `sam_witteveen <https://twitter.com/sam_witteveen>`_
-
-
-
-
-
-Talk: Deep Learning Introductory Workshop with TensorFlow 2.0
-
-Biography
----------
-
-Sam is a Google Developer Expert for Machine Learning and is a co-founder of Red Dragon AI a deep tech company based in Singapore. He has extensive experience in startups and mobile applications and is helping developers and companies create smarter applications with machine learning. Sam is especially passionate about Deep Learning and AI in the fields of Natural Language and Conversational Agents and regularly shares his knowledge at events and trainings across Asia, as well as being the co-organiser of the Singapore TensorFlow and Deep Learning group. แซมพูดและอ่านภาษาไทยได้
-
-
-
-
-.. class:: clearfix
-
-
 Sara Iris Garcia
 ================
 
@@ -1467,46 +1438,6 @@ I am working as a part of the development team of [Tensor]werk, an infrastructur
 .. class:: clearfix
 
 
-Siddhant Agarwal
-================
-
-
-
-.. image:: https://secure.gravatar.com/avatar/0f505af6fbf8c39feefbef8acc442091?s=500
-    :alt: Siddhant Agarwal
-    :height: 200px
-    :align: right
-    :class: img-circle img-responsive
-
-
-
-
-
-.. class:: fa fa-twitter fa-fw
-
-    `sidagarwal04 <https://twitter.com/sidagarwal04>`_
-
-
-
-
-
-Talk: Bringing Artificial Intelligence to the Edge
-
-Biography
----------
-
-Siddhant is currently working as Program Coordinator for Google India Developer Relations Team. Siddhant Agarwal is an experienced Technology Trainer and has been involved in delivering trainings on some of the latest and cutting-edge technologies like: Artificial Intelligence/Machine Learning/Deep Learning, Cloud Computing and Internet of Things at various national and international forums and trained/engaged with more than 13k developers. He is also instrumental in designing and providing consultation for product development & business development strategies around AI/ML-based products.
-
-Siddhant is an Intel Software Innovator - a developer advocacy and speakership program supporting innovative, independent developers who display an ability to create and demonstrate forward-looking projects by providing them with speaking and demonstration opportunities at industry events and developer gatherings. He is also a Google Machine Learning Crash Course Facilitator and an organizer for the Google Cloud Developer Community in New Delhi. He is also involved in executing Design Sprints – a Design Thinking and Agile Development Methodology focused training series to improve the user experience of applications.
-
-Siddhant volunteers with the Headstart Network Foundation - one of the largest startup ecosystem development organizations in India as the Head for Partnerships in the New Delhi cohort and is a Mentor of Change with the Atal Innovation Mission – a strategic nation building initiative.
-
-
-
-
-.. class:: clearfix
-
-
 Sudarat Chattanon
 =================
 
@@ -1530,7 +1461,7 @@ Sudarat Chattanon
 
 
 
-Talk: Code like a girl
+Talk: Girls Who Dev Code Like Godesses
 
 Biography
 ---------
