@@ -16,6 +16,6 @@ Intelligent Bytes คือ ซอฟแวร์ที่เปิดให้�
 
 รายละเอียดเพิ่มเติม สามารถเข้าไปดูได้ที่  : https://th.pycon.org/
 
-.. image:: /gummy-pronto-sponsor.jpg
+.. image:: /startup-sponsors.jpg
 
 #pyconth2019 #pycon #pycon2019 #python
