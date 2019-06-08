@@ -16,6 +16,6 @@ Intelligent Bytes is a full-service open-source centric software development com
 
 For more information, check out https://th.pycon.org/en/
 
-.. image:: /gummy-pronto-sponsor.jpg
+.. image:: /startup-sponsors.jpg
 
 #pyconth2019 #pycon #pycon2019 #python
