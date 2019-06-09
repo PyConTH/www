@@ -527,10 +527,18 @@ body[class*="schedule"] table.table td span.pyladies { display: block; height: 1
 */
 table.schedule {
   border-collapse: collapse;
+  border: 2px solid black;
 }
 
-table.schedule, th.schedule, td.schedule {
-  border: 3px solid black;
+table.schedule th {
+  border: 2px solid black;
+  text-align: center;
+  font-size: medium;
+  vertical-align: middle;
+}
+
+table.schedule td {
+  border: 2px solid black;
   text-align: center;
   font-size: medium;
   vertical-align: middle;
