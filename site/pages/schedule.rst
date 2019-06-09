@@ -154,7 +154,7 @@ June 16
     +-------+------------------------------------+------------------------------------+------------------------------------+                                    +
     |       |**Adding a GraphQL API to Django    |**Unlocking the power of natural    |**A resilient, scalable tracing and |                                    |
     | 14:55 |(with Vue.js frontend)**            |language by machine translation: how|analysis system for micro-services: |                                    |
-    |       |                                    |python could serve my purpose?**|br||HayStack** |br|                     |                                    |
+    |       |                                    |python could serve my purpose** |br||HayStack** |br|                     |                                    |
     |       |*by Manuel Riel*                    |*by Dali Sola*                      |*by Sarthak Deshwal*                |                                    |
     +-------+------------------------------------+------------------------------------+------------------------------------+------------------------------------+
     | 15:35 |Break                                                                                                                                              |
