@@ -525,22 +525,21 @@ body.path-frontpage header {
 /* body[class*="schedule"] table.table td { height: 1px; }
 body[class*="schedule"] table.table td span.pyladies { display: block; height: 100%; background: green; }
 */
-
-body[class*='schedule'] table,
-body[class*='schedule'] th,
-body[class*='schedule'] td {
-  border-left: none;
-  border-right: none;
+table.schedule {
+  border-collapse: collapse;
 }
 
-body[class*='schedule'] table a {
-  font-weight: bold;
-  color: black;
+table.schedule, th.schedule, td.schedule {
+  border: 3px solid black;
+  text-align: center;
+  font-size: medium;
+  vertical-align: middle;
 }
 
-span.pyladies {
-  color: #fff2cc;
+table.schedule td:first-child {
+    text-align: right
 }
+
 
 span.blank {
   display: none;
@@ -595,179 +594,6 @@ table.table .fa:before {
   margin-right: 5px;
 }
 
-/* 1   * - 07:30 - Registration / :other:`PyLadies` */
-
-body[class*='schedule'] table.table.day1 tbody tr:nth-of-type(1) {
-  background-color: #ffe6e6;
-}
-
-/* 2   * - 08:00 - Registration */
-
-body[class*='schedule'] table.table.day1 tr:nth-of-type(2) {
-  background-color: rgba(181, 160, 172, 0.3);
-}
-
-/* 3   * - 09:00 - :other:`Welcome and Introduction: Dylan Jay` */
-
-/* 4   * - 09:10 - Keynote Speech: Wes McKinney */
-
-/* 5   * - 09:55 - :break:`The Spanish Inquisition / Break` */
-
-body[class*='schedule'] table.table.day1 tr:nth-of-type(5) {
-  background-color: rgba(181, 160, 172, 0.2);
-}
-
-/* 6   * - 10:25 - `Using Python to build a smart contract in NEO blockchain`_ :beginner:`Beginner` */
-
-/* 7   * - 11:10 - :break:`Dog Kennel / Break` */
-
-body[class*='schedule'] table.table.day1 tr:nth-of-type(7) {
-  background-color: rgba(181, 160, 172, 0.2);
-}
-
-/* 8   * - 11:20 - `Python for Life Sciences`_ :intermediate:`Intermediate` */
-
-/* 9   * - 11:55 - `Object detection and Human recognition with YOLO in Python`_ :beginner:`Beginner` */
-
-/* 10   * - 12:40 - :break:`Spam, Spam, Egg, Bacon and Spam / Lunch Break` */
-
-body[class*='schedule'] table.table.day1 tr:nth-of-type(10) {
-  background-color: rgba(181, 160, 172, 0.2);
-}
-
-/* 11  * - 13:40 - `Rage Against The Learning Machine (A New Hope)`_ :intermediate:`Intermediate` */
-
-/* 12  * - 14:15 - `Python Software Development for Hollywood Blockbuster Movie VFX in Thailand`_ */
-
-/* 13  * - 15:00 - :break:`Cycling Tour / Break` */
-
-body[class*='schedule'] table.table.day1 tr:nth-of-type(13) {
-  background-color: rgba(181, 160, 172, 0.2);
-}
-
-/* 14  * - 15:10 - `Artisanal Async Adventures`_ */
-
-/* 15  * - 15:45 - `Creating amazing APIs in Flask with Flask RESTplus`_ :intermediate:`Intermediate` */
-
-/* 16  * - 16:20 - `Writing a good frontend test cases using RobotFramework`_ */
-
-/* 17  * - 16:50 - :break:`Ministry of Silly Walks / Break` */
-
-body[class*='schedule'] table.table.day1 tr:nth-of-type(17) {
-  background-color: rgba(181, 160, 172, 0.2);
-}
-
-/* 18  * - 17:05 - Lightning Talks */
-
-/*      * - - Track 1 */
-
-/* 1    * - 08:30 - :other:`Registration Opens /  Welcome Coffee` */
-
-body[class*='schedule'] table.table.day2 tbody tr:nth-of-type(1) {
-  background-color: rgba(181, 160, 172, 0.3);
-}
-
-/* 2    * - 09:10 - `Attack of Pythons: Gotchas and Landmines in Python`_ */
-
-/* 3    * - 09:40 - :break:`Fish Slapping Dance / Break` */
-
-body[class*='schedule'] table.table.day2 tr:nth-of-type(4) {
-  background-color: rgba(181, 160, 172, 0.2);
-}
-
-/* 4    * - 09:50 - `Introduction to serverless Python with AWS Lambda`_ :beginner:`Beginner` */
-
-/* 5    * - 10:25 - `Building a sustainable codebases with Type Annotations`_ :intermediate:`Intermediate` */
-
-/* 6    * - 11:10 - :break:`Exploding Penguins on TV Set / Break` */
-
-body[class*='schedule'] table.table.day2 tr:nth-of-type(6) {
-  background-color: rgba(181, 160, 172, 0.2);
-}
-
-/* 7    * - 11:20 - `Playing with Social Network, Geo-Spatial, Financial Flow, and Banking System Data: Graph-Theoretic Computation in Python`_ */
-
-body[class*='schedule'] table.table.day2 tr:nth-of-type(7) td:nth-of-type(3) {
-  background-color: rgba(181, 160, 272, 0.2);
-}
-
-/* 8    * - 12:05 - :break:`Lumberjack Song / Break` */
-
-body[class*='schedule'] table.table.day2 tr:nth-of-type(8) th {
-  background-color: rgba(181, 160, 172, 0.2);
-}
-
-body[class*='schedule'] table.table.day2 tr:nth-of-type(8) td:nth-of-type(1) {
-  background-color: rgba(181, 160, 172, 0.2);
-}
-
-body[class*='schedule'] table.table.day2 tr:nth-of-type(8) td:nth-of-type(2) {
-  background-color: rgba(181, 160, 172, 0.2);
-}
-
-body[class*='schedule'] table.table.day2 tr:nth-of-type(8) td:nth-of-type(3) {
-  background-color: rgba(181, 160, 272, 0.2);
-}
-
-/* 9    * - 12:15 - `Aaaarrgghh, Spider! Web scraping with Scrapy`_ :intermediate:`Intermediate` */
-
-body[class*='schedule'] table.table.day2 tr:nth-of-type(9) td:nth-of-type(3) {
-  background-color: rgba(181, 160, 272, 0.2);
-}
-
-/* 10   * - 12:45 - :break:`Salmon Mousse /  Lunch Break` */
-
-body[class*='schedule'] table.table.day2 tr:nth-of-type(10) {
-  background-color: rgba(181, 160, 172, 0.2);
-}
-
-/* 11   * - 13:45 - `Enabling Blockchain Energy Trading among Smart Buildings through the Use of Multi-Agent Systems and Internet of Things Devices`_ */
-
-body[class*='schedule'] table.table.day2 tr:nth-of-type(11) td:nth-of-type(3) {
-  background-color: rgba(181, 160, 272, 0.2);
-}
-
-/* 12   * - 14:30 - :break:`Machine that goes "Ping!" / Break` */
-
-body[class*='schedule'] table.table.day2 tr:nth-of-type(12) th {
-  background-color: rgba(181, 160, 172, 0.2);
-}
-
-body[class*='schedule'] table.table.day2 tr:nth-of-type(12) td:nth-of-type(1) {
-  background-color: rgba(181, 160, 172, 0.2);
-}
-
-body[class*='schedule'] table.table.day2 tr:nth-of-type(12) td:nth-of-type(2) {
-  background-color: rgba(181, 160, 172, 0.2);
-}
-
-body[class*='schedule'] table.table.day2 tr:nth-of-type(12) td:nth-of-type(3) {
-  background-color: rgba(181, 160, 272, 0.2);
-}
-
-/* 13   * - 14:40 - `Python + XPath = Extra Parsing Power`_ :intermediate:`Intermediate` */
-
-body[class*='schedule'] table.table.day2 tr:nth-of-type(13) td:nth-of-type(3) {
-  background-color: rgba(181, 160, 272, 0.2);
-}
-
-/* 14    * - 15:15 - `Powerful geographic web framework GeoDjango`_ :beginner:`Beginner` */
-
-body[class*='schedule'] table.table.day2 tr:nth-of-type(14) td:nth-of-type(3) {
-  background-color: rgba(181, 160, 272, 0.2);
-}
-
-/* 15    * - 15:45 - :break:`Ni! / Break` */
-
-body[class*='schedule'] table.table.day2 tr:nth-of-type(15) {
-  background-color: rgba(181, 160, 172, 0.2);
-}
-
-/* 16    * - 15:55 - Lightning Talks */
-
-/* 17    * - 16:55 - Keynote: Tiwa York */
-
-/* 18    * - 17:40 - Closing */
 
 /* Utility classes */
 

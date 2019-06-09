@@ -6,7 +6,6 @@
 .. link:
 .. description: Conference schedule.
 .. type: text
-.. class: schedule
 
 June 15
 =======
