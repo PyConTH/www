@@ -544,8 +544,11 @@ table.schedule td {
   vertical-align: middle;
 }
 
+table.schedule tr:first-child {
+    font-weight: bold;
+}
 table.schedule td:first-child {
-    text-align: right
+    text-align: right;
 }
 
 

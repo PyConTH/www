@@ -7,6 +7,10 @@
 .. description: Conference schedule.
 .. type: text
 
+.. |br| raw:: html
+
+  <br/>
+
 June 15
 =======
 
@@ -15,7 +19,7 @@ June 15
 
     +-------+------------------------------------+------------------------------------+------------------------------------+------------------------------------+
     | Time  |Track 1: Auditorium                 |Track 2: Forum                      |Track 3: Cubiculum                  |Track 4: Aquarium                   |
-    +=======+====================================+====================================+====================================+====================================+
+    +-------+------------------------------------+------------------------------------+------------------------------------+------------------------------------+
     | 07:30 |Women Who Code Breakfast                                                                                                                           |
     +-------+------------------------------------+------------------------------------+------------------------------------+------------------------------------+
     | 08:00 |Registration and Welcome Coffee                                                                               |Women Who Code Breakfast (cont'd)   |
@@ -49,7 +53,7 @@ June 15
     |       |**Designing and Building Serverless |**The Buzz about Bees**             |**Automate the Boring Stuff         |                                    |
     | 12:00 |Machine Learning-powered            |                                    |with Slackbot**                     |                                    |
     |       |Applications with Python**          |                                    |                                    |                                    |
-    |       |*by Joshua Arvin Lat*               |*by Robert Owen*                    |*by Takanori Suzuki*                |                                    |
+    |       ||br|*by Joshua Arvin Lat*           |*by Robert Owen*                    |*by Takanori Suzuki*                |                                    |
     +-------+------------------------------------+------------------------------------+------------------------------------+------------------------------------+
     | 12:40 |Lunch Break                                                                                                                                        |
     +-------+------------------------------------+------------------------------------+------------------------------------+------------------------------------+
@@ -58,7 +62,7 @@ June 15
     |       |State-of-the-Art Thai Text          |                                    |of the biggest breakthrough of the  |                                    |
     |       |Classification and beyond**         |                                    |BIGGEST breakthroughof the Deep     |                                    |
     |       |                                    |                                    |Learning Revolution**               |                                    |
-    |       |*by Charin*                         |*by Jonghwa Seo*                    |*by Anmol Krishan Sachdeva*         |                                    |
+    |       |*by Charin*                         |*by Jonghwa Seo*                    ||br|*by Anmol Krishan Sachdeva*     |                                    |
     +-------+------------------------------------+------------------------------------+------------------------------------+                                    +
     | 14:20 |Break                                                                                                         |                                    |
     +-------+------------------------------------+------------------------------------+------------------------------------+                                    +
@@ -109,8 +113,8 @@ June 16
     +-------+------------------------------------+------------------------------------+------------------------------------+------------------------------------+
     |       |**Fuzzy Multi-Criteria Portfolio    |**Developing Natural Language       |**Ready to say goodbye to           |                                    |
     | 09:00 |Optimisation with Python (and maybe |Processing Applications             |Python 2.7!?**                      |                                    |
-    |       |a little bit of Mathematica)**      |Using Python**                      |                                    |                                    |
-    |       |*by Poomjai Nacaskul, PhD, DIC, CFA*|*by Tushar Bansal*                  |*by Noah*                           |                                    |
+    |       |a little bit of Mathematica)**|br|  |Using Python**                      |                                    |                                    |
+    |       |*by Poomjai Nacaskul, PhD, DIC, CFA*||br|*by Tushar Bansal*              |*by Noah*                           |                                    |
     +-------+------------------------------------+------------------------------------+------------------------------------+                                    +
     | 09:40 |Break                                                                                                         |                                    |
     +-------+------------------------------------+------------------------------------+------------------------------------+                                    +
