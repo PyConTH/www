@@ -31,7 +31,7 @@ June 15
     | 09:00 |Welcome Speech                                                                                                                                     |
     +-------+------------------------------------+------------------------------------+------------------------------------+------------------------------------+
     |       |                                                                                                                                                   |
-    | 09:10 |Keynote: *David Cournapeau*                                                                                                                        |
+    | 09:10 |Keynote: *David Cournapeau* |br|                                                                                                                   |
     |       |**How to meaningfully contribute to Python without being very good at programming**                                                                |
     +-------+------------------------------------+------------------------------------+------------------------------------+------------------------------------+
     | 09:55 |Networking Break                                                                                                                                   |
@@ -52,8 +52,8 @@ June 15
     +-------+------------------------------------+------------------------------------+------------------------------------+                                    +
     |       |**Designing and Building Serverless |**The Buzz about Bees**             |**Automate the Boring Stuff         |                                    |
     | 12:00 |Machine Learning-powered            |                                    |with Slackbot**                     |                                    |
-    |       |Applications with Python**          |                                    |                                    |                                    |
-    |       ||br|*by Joshua Arvin Lat*           |*by Robert Owen*                    |*by Takanori Suzuki*                |                                    |
+    |       |Applications with Python** |br|     |                                    |                                    |                                    |
+    |       |*by Joshua Arvin Lat*               |*by Robert Owen*                    |*by Takanori Suzuki*                |                                    |
     +-------+------------------------------------+------------------------------------+------------------------------------+------------------------------------+
     | 12:40 |Lunch Break                                                                                                                                        |
     +-------+------------------------------------+------------------------------------+------------------------------------+------------------------------------+
@@ -61,8 +61,8 @@ June 15
     | 13:40 |Outperforms Google's BERT:          |*(in Thai)*                         |Generative Adversarial Networks: One|                                    |
     |       |State-of-the-Art Thai Text          |                                    |of the biggest breakthrough of the  |                                    |
     |       |Classification and beyond**         |                                    |BIGGEST breakthroughof the Deep     |                                    |
-    |       |                                    |                                    |Learning Revolution**               |                                    |
-    |       |*by Charin*                         |*by Jonghwa Seo*                    ||br|*by Anmol Krishan Sachdeva*     |                                    |
+    |       |                                    |                                    |Learning Revolution** |br|          |                                    |
+    |       |*by Charin*                         |*by Jonghwa Seo*                    |*by Anmol Krishan Sachdeva*         |                                    |
     +-------+------------------------------------+------------------------------------+------------------------------------+                                    +
     | 14:20 |Break                                                                                                         |                                    |
     +-------+------------------------------------+------------------------------------+------------------------------------+                                    +
@@ -92,7 +92,7 @@ June 15
     |       |                                                                                                                                                   |
     +-------+------------------------------------+------------------------------------+------------------------------------+------------------------------------+
     |       |                                                                                                                                                   |
-    | 17:45 |Keynote: *Adam Paszke*                                                                                                                             |
+    | 17:45 |Keynote: *Adam Paszke* |br|                                                                                                                        |
     |       |**PyTorch as a modern scientific computing environment?**                                                                                          |
     +-------+------------------------------------+------------------------------------+------------------------------------+------------------------------------+
     | 18:30 |Party                                                                                                                                              |
@@ -108,13 +108,13 @@ June 16
 
     +-------+------------------------------------+------------------------------------+------------------------------------+------------------------------------+
     | Time  |Track 1: Auditorium                 |Track 2: Forum                      |Track 3: Cubiculum                  |Track 4: Aquarium                   |
-    +=======+====================================+====================================+====================================+====================================+
+    +-------+------------------------------------+------------------------------------+------------------------------------+------------------------------------+
     | 08:00 |Registration / Welcome Coffee                                                                                                                      |
     +-------+------------------------------------+------------------------------------+------------------------------------+------------------------------------+
     |       |**Fuzzy Multi-Criteria Portfolio    |**Developing Natural Language       |**Ready to say goodbye to           |                                    |
     | 09:00 |Optimisation with Python (and maybe |Processing Applications             |Python 2.7!?**                      |                                    |
-    |       |a little bit of Mathematica)**|br|  |Using Python**                      |                                    |                                    |
-    |       |*by Poomjai Nacaskul, PhD, DIC, CFA*||br|*by Tushar Bansal*              |*by Noah*                           |                                    |
+    |       |a little bit of Mathematica)** |br| |Using Python** |br|                 |                                    |                                    |
+    |       |*by Poomjai Nacaskul, PhD, DIC, CFA*|*by Tushar Bansal*                  |*by Noah*                           |                                    |
     +-------+------------------------------------+------------------------------------+------------------------------------+                                    +
     | 09:40 |Break                                                                                                         |                                    |
     +-------+------------------------------------+------------------------------------+------------------------------------+                                    +
@@ -133,7 +133,7 @@ June 16
     | 11:20 |Break                                                                                                                                              |
     +-------+------------------------------------+------------------------------------+------------------------------------+------------------------------------+
     |       |                                                                                                                                                   |
-    | 11:30 |Keynote: *Russell Keith-Magee*                                                                                                                     |
+    | 11:30 |Keynote: *Russell Keith-Magee* |br|                                                                                                                |
     |       |**Python Everywhere?**                                                                                                                             |
     +-------+------------------------------------+------------------------------------+------------------------------------+------------------------------------+
     | 12:15 |Lunch Break                                                                                                                                        |
@@ -153,15 +153,15 @@ June 16
     | 14:40 |Break                                                                                                         |*by Rahul Bhatia*                   |
     +-------+------------------------------------+------------------------------------+------------------------------------+                                    +
     |       |**Adding a GraphQL API to Django    |**Unlocking the power of natural    |**A resilient, scalable tracing and |                                    |
-    | 14:55 |(with Vue.js frontend)**            |language by machine translation:    |analysis system for micro-services: |                                    |
-    |       |                                    |how python could serve my purpose?**|HayStack**                          |                                    |
+    | 14:55 |(with Vue.js frontend)**            |language by machine translation: how|analysis system for micro-services: |                                    |
+    |       |                                    |python could serve my purpose?**    |HayStack** |br|                     |                                    |
     |       |*by Manuel Riel*                    |*by Dali Sola*                      |*by Sarthak Deshwal*                |                                    |
     +-------+------------------------------------+------------------------------------+------------------------------------+------------------------------------+
     | 15:35 |Break                                                                                                                                              |
     +-------+------------------------------------+------------------------------------+------------------------------------+------------------------------------+
     |       |**First steps in Deep Learning with |**Any Code Formatter You Like As    |**How to build an open source catbot|                                    |
     | 15:45 |TensorFlow 2.0 : CNNs**             |Long As It's Black**                |with Python, a 3D printer and a     |                                    |
-    |       |                                    |                                    |microcontroller**                   |                                    |
+    |       |                                    |                                    |microcontroller**  |br|             |                                    |
     |       |*by Martin Andrews*                 |*by Zsolt Dollenstein*              |*by Chanapai Chuadchum*             |                                    |
     +-------+------------------------------------+------------------------------------+------------------------------------+------------------------------------+
     | 16:25 |Break                                                                                                                                              |
@@ -171,7 +171,7 @@ June 16
     |       |                                                                                                                                                   |
     +-------+------------------------------------+------------------------------------+------------------------------------+------------------------------------+
     |       |                                                                                                                                                   |
-    | 17:35 |Keynote: *Katie McLaughlin*                                                                                                                        |
+    | 17:35 |Keynote: *Katie McLaughlin* |br|                                                                                                                   |
     |       |**How Python Can Excel**                                                                                                                           |
     +-------+------------------------------------+------------------------------------+------------------------------------+------------------------------------+
     | 18:20 |Closing                                                                                                                                            |
