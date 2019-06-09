@@ -547,8 +547,26 @@ table.schedule td {
 table.schedule tr:first-child {
     font-weight: bold;
 }
+
 table.schedule td:first-child {
     text-align: right;
+    width: 4%;
+}
+
+table.schedule td:nth-child(2) {
+    width: 24%;
+}
+
+table.schedule td:nth-child(3) {
+    width: 24%;
+}
+
+table.schedule td:nth-child(4) {
+    width: 24%;
+}
+
+table.schedule td:nth-child(5) {
+    width: 24%;
 }
 
 
