@@ -1,7 +1,7 @@
 
 .. title: Speakers
 .. slug: speakers
-.. date: 2019-06-08 20:00:48 UTC+07:00
+.. date: 2019-06-10 10:57:38 UTC+07:00
 .. tags:
 .. category:
 .. link:
@@ -1461,7 +1461,7 @@ Sudarat Chattanon
 
 
 
-Talk: Girls Who Dev Code Like Godesses
+Talk: Python for beginners
 
 Biography
 ---------
