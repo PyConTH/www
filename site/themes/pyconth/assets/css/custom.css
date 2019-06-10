@@ -569,11 +569,23 @@ table.schedule td:nth-child(5) {
     width: 24%;
 }
 
-td p.first {
+td[colspan]:not([colspan="1"]) p.first {
+    font-style: italic;
+    font-size: medium;
+}
+
+td[colspan]:not([colspan="1"]) p.last {
+    font-weight: bold;
+    font-size: medium;
+}
+
+td[colspan="1"]  p.first {
+    font-size: small;
     font-weight: bold;
 }
-td p.last {
+td[colspan="1"]  p.last {
     font-style: italic;
+    font-size: xx-small;
 }
 
 span.blank {
