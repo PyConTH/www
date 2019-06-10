@@ -165,7 +165,7 @@ speakers = {}
 
 for talk in accepted_talks:
     if talk['title'].lower() == "code like a girl":
-        talk['title'] = "Girls Who Dev Code Like Godesses"
+        talk['title'] = "Python for beginners"
     # title
     talk["title"] = talk["title"].replace("\t"," ")
     talk['title_underline'] = '='*len(talk['title'])

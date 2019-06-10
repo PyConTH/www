@@ -89,7 +89,7 @@ for x in accepted_talks:
         newtalk['email'] = 'GitHub@mdda.net'.lower()
         xtratalks.append(newtalk)
     elif x['title'].lower() == "code like a girl":
-        x['title'] = "Girls Who Dev Code Like Godesses"
+        x['title'] = "Python for beginners"
     elif x["title"].startswith("AIoT"):
         x["bio"] = "CEO of DycodeX - the AIoT enabler in Indonesia. Microsoft Most Valuable Professional (MVP) of Microsoft Azure. 15 years as entrepreneur. A developer, hardware maker, and public speaker. "
     else:
