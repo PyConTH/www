@@ -533,14 +533,14 @@ table.schedule {
 table.schedule th {
   border: 2px solid black;
   text-align: center;
-  font-size: medium;
+  font-size: small;
   vertical-align: middle;
 }
 
 table.schedule td {
   border: 2px solid black;
   text-align: center;
-  font-size: medium;
+  font-size: small;
   vertical-align: middle;
 }
 
@@ -567,6 +567,26 @@ table.schedule td:nth-child(4) {
 
 table.schedule td:nth-child(5) {
     width: 24%;
+}
+
+td p.first {
+    font-size: small;
+    font-weight: bold;
+}
+
+td p.last {
+    font-style: italic;
+    font-size: smaller;
+}
+
+td[colspan]:not([colspan="1"]) p.first {
+    font-style: italic;
+    font-size: medium;
+}
+
+td[colspan]:not([colspan="1"]) p.last {
+    font-weight: bold;
+    font-size: medium;
 }
 
 
