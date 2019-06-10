@@ -1,0 +1,576 @@
+talks:
+- bio: |-
+    <p>Hie, I'm Akshat, a Govt. of India recognized Silicon Valley fellow and a Harvard University Conference Scholar. Currently, I'm working on the problem of distracted driving and recently built an Android app (visit: inSessionApp.com) to manage my calls and acknowledging callers while I sleep. I've previously worked at a Thailand based and a California based company. This summers, I'm working with an India based startup as a Software Engineer. Above all this, I love to empower people in my connection.</p>
+  description: >-
+    Python helped me fulfill my teenage dream to visit silicon valley before turning
+    20. I won an intercollege hackathon for building a Vision app using python, which
+    got selected me for silicon valley and eminent Harvard Conf. A senior from my
+    college inspired me, now, I wish to inspire novices.
+  speaker: AKSHAT SHARMA
+  speakerimg: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/48515/IMG_20180907_122310.jpeg
+  title: Python made my dream come true
+- bio: |-
+    <p><strong>Alex Khaerov</strong> is a development lead at <a class="reference external" href="https://chainstack.com">Chainstack</a>, with 9+ years in web services development across diverse domains. His main passion is building robust, high-load and distributed service platforms on top of a multi-cloud environment, utilizing all the power of Python and cloud native services. An organized of <a class="reference external" href="https://conf.python.ru">Moscow Python Conf</a> and avid activist of <a class="reference external" href="http://pugs.org.sg/">Singapore Python User Group</a>, cloud native enthusiast and member of Kubernetes SG community. In his spare time, he speaks publicly at tech conferences and secretly codes in Python. Huge fan of laptop stickers.</p>
+  description: >-
+    You definitely have unit tests. Your code coverage above 80 or 90? Are u still
+    struggling with bugs and wanna increase the quality? What if I say that quarter
+    of your units are non-viable mutants? Yes, it is true and sounds rude. Let's mutate
+    your tests and look what it gets you.
+  speaker: Alex Khaerov
+  speakerimg: https://secure.gravatar.com/avatar/320f3b558c773592bba16c976d1b28d1?s=500
+  title: Kill the mutants, protect your code!
+- bio: |-
+    <p>Studied Math, building systems, loves traveling and puns.</p>
+  description: >-
+    Python is now a crucial foundation in our org, with its dynamicity, user friendliness,
+    and community-backed frameworks complementing the firepower we already had from
+    Scala.
+  speaker: Amir Arad
+  speakerimg: https://secure.gravatar.com/avatar/7ebded1e9171acbf1b8cbf3532e25172?s=500
+  title: 'From 0 to Awesome: How we got Python to supercharge our ML stack'
+- bio: |-
+    <p>CEO of DycodeX - the AIoT enabler in Indonesia. Microsoft Most Valuable Professional (MVP) of Microsoft Azure. 15 years as entrepreneur. A developer, hardware maker, and public speaker.</p>
+  description: >-
+    AI + IoT = AIoT is the latest advancement of AI and IoT. Let's move beyond buzzword
+    and seeing it in action. This session will show how to use MicroPython superpower
+    to make Machine Learning (ML) inference runs right on the low power Microcontroller
+    (MCU), not in the cloud, to build AIoT application
+  speaker: Andri Yadi
+  speakerimg: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/47721/RIOT_DSC1564_copy.JPG
+  title: 'AIoT: Intelligence on Low Power Microcontroller, with MicroPython'
+- bio: "<ul class=\"simple\">\n<li>Currently, working as a Platform Software Engineer\
+    \ at Bigbasket, India (India's largest online food and grocery store).</li>\n\
+    <li>MSc in Advanced Computing (Machine Learning, Artifical Intelligence, Robotics,\
+    \ Cloud Computing, and Computational Neuroscience), University of Bristol, United\
+    \ Kingdom.</li>\n<li>International Tech Speaker (spoke at numerous National and\
+    \ International Conferences).</li>\n<li>Last year, gave a talk about \"Recurrent\
+    \ Neural Networks and Long Short-Term Memory Networks (LSTMs)\" at EuroPython,\
+    \ Edinburgh, Scotland - July 2018.\nLink: <a class=\"reference external\" href=\"\
+    https://ep2018.europython.eu/conference/talks/understanding-and-implementing-recurrent-neural-networks-using-python\"\
+    >Recurrent Neural Networks and Long Short-Term Memory Networks</a>\n</li>\n<li>Last\
+    \ year, gave a talk about \"Understanding and Implementing Recurrent Neural Networks\
+    \ using Python\" at GeoPython, Basel, Switzerland - May 18.\nLink: <a class=\"\
+    reference external\" href=\"http://2018.geopython.net/#s107\">Understanding and\
+    \ Implementing Recurrent Neural Networks using Python</a>\n</li>\n<li>Have 8+\
+    \ International Publications. [Latest work got published in ACM CHI 2018. The\
+    \ project was exhibited in Montreal, Canada.]</li>\n<li>Received 6 Honours and\
+    \ Awards (International and National level).</li>\n<li>Represented India at International\
+    \ Hackathons like Hack Junction'16, Finland and Hack the North'16, Canada. Got\
+    \ invited for more than a \u2018dozen' of prestigious International Hackathons\
+    \ (PennApps'17, HackNY'17, Hack Princeton'17 and many more) and Conferences.</li>\n\
+    <li>A Microsoft Certified Professional, Microsoft Technology Associate, IBM Certified\
+    \ Web Developer, and Hewlett Packard Certified Developer.</li>\n<li>Former Software\
+    \ Developer Intern at IBM &amp; an ALL STACK DEVELOPER capable of designing and\
+    \ developing solutions for Mobile, Web, Embedded Systems, and Desktop. Areas of\
+    \ interest are Computational Neuroscience, Deep Learning, and Cloud Computing.</li>\n\
+    </ul>"
+  description: >-
+    Generative Adversarial Networks are one of the latest advancements in Deep Learning.
+    Interested in knowing how to generate content (images, music, and much more) instead
+    of classifying one into categories? Let's dive into the details of GANs: One of
+    the BIGGEST Breakthroughs in the DL Revolution.
+  speaker: Anmol Krishan Sachdeva
+  speakerimg: https://secure.gravatar.com/avatar/0233f28830fe1e51ae0b7783e5838db6?s=500
+  title: 'Understanding and Implementing Generative Adversarial Networks (GANs): One
+    of the BIGGEST Breakthroughs in the Deep Learning Revolution'
+- bio: |-
+    <p>I am always fascinated about programming languages. In particular, I have long advocated for the use of functional programming over object-oriented programming and a declarative style over an imperative one. Despite having used Python heavily since 2013, groking Scala, Haskell and Clojure really changed my style of writing Python code. I would like to share some of my findings and advocate a functional style of programming in Python. My other interests include Bayesian statistics, Monte Carlo methods and high-performance computing.</p>
+    <p>I am a co-founder and managing director of Arithmox, a startup offering CTO-as-a-service and growth hacking packages to Indonesian companies. My interest lies in the use of technology and data-driven approaches correctly to drive growth. In a business climate where it is easy to get sucked into the AI hype, I advocate a pragmatic and no-nonsense approach to introducing such technologies into already-running businesses.</p>
+  description: >-
+    In this talk, I argue that Python is not quite a functional programming language.
+    We draw examples from Haskell and Clojure to highlight the importance of immutability,
+    functional core and reusable data. We look into writing idiomatic Python, whilst
+    enjoying the benefits of functional programming.
+  speaker: Anthony Khong
+  speakerimg: https://secure.gravatar.com/avatar/62a12078cfba41bcd8d0886a7a7d3a20?s=500
+  title: 'Functional Programming in Python: Lessons from Haskell and Clojure'
+- bio: |-
+    <p>I am currently researching in the field of NLP and information retrieval as a project assistant at IIT Delhi. I am a recent graduate, and had been conferred with a degree of Bachelors in technology in Computer Science, in August 2018.
+    I got introduced to the wonders of computer science while pursuing my undergraduate degree, and oh, boy! It was diverse. I was amazed with the profusion of avenues that it opened for me. From natural language chatbots, to  biometrics recognition systems, path-planning robots, I found it ever-so encouraging just to be in the game, and with a curious eye, was ready to unearth it all.
+    I can program in multiple languages, Python, C/C++, R, Matlab, Chapel, GoLang, Java , Python being my first love since freshman days!.  Recently I have started programming in GoLang, and it happens to be new found love. I am interested in the fields of NLP, ML, AI, having studied them during my senior year, and I wish to work on  enhancing healthcare with AI. More specifically  I want to work towards making technology come to the the aid of unfortunately or differently abled people, so that they can lead healthy lives. I am inspired by the advancing developments in making computers imitate and understand human language, vision and intelligence and so much more, which I feel can be used to solve challenges that the differently abled people face.
+    I am an avid reader, an eloquent writer, and love to share my experiences with others as well as learn from others. I do love to talk a lot too. A cup of hot chocolate, my laptop and a problem to code on, is what my daily routine sounds like.</p>
+  description: "\u201COk Google, Tell me how do you work?\u201D Have you ever wondered,\
+    \ what goes behind asking a voice assistant to perform a particular action to\
+    \ having the output being delivered to you? Using open source NLP libraries like\
+    \ NLTK, and Spacy, we will learn concepts that form the heart of conversational\
+    \ AI."
+  speaker: Avneet Kaur
+  speakerimg: https://secure.gravatar.com/avatar/c4b633c794222b514d8881e5839da63a?s=500
+  title: Demystifying Conversational AI with Python
+- bio: |-
+    <p>My real name is Chanapai Chuadchum my nick name is Korn i was started my work on roobtics since i was 10 on the and i got the thrid place on the competition in Solar innovative contest when i was 11 years old since then i'm dedicated to working on robotics to develop the useful and sophisticated robots to make them life like as most as i can currently i'm studying robotics engineer at the pensylavania university online in Robotics Engineer Master degree
+    Currently i'm trying to make my own company in robotics field to serve humanity as much as possible to eleminate the time that we need to spend on unneccessary thing.</p>
+  description: >-
+    This talk is about a project that was designed to test the ML A.I research and
+    robotics opensource. The aim is to improve the robot's ability at human interaction
+    and develop various applications for the robot. Right now this robot is an early
+    protype with limited applications. This project aims to improve the robot's abilities
+    in the near future.
+  speaker: Chanapai Chuadchum
+  speakerimg: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/45031/profile.jpg
+  title: How to build an open source catbot with Python, a 3D printer and a microcontroller
+- bio: |-
+    <p>My name is Charin Polpanumas and I am a data scientist with over five years of track records in Southeast Asia, Japan, and China. I have delivered data products that save millions USD annually at the region's largest online retailer, and currently working to transform the healthcare industry in Thailand. I am one of the main contributors to <a class="reference external" href="https://github.com/PyThaiNLP/pythainlp">pyThaiNLP</a>, the most starred Thai NLP library, and the author of <a class="reference external" href="https://github.com/cstorm125/thai2fit">thai2fit (formerly thai2vec)</a>, the first and current state-of-the-art transfer learning text classification model based on <a class="reference external" href="https://arxiv.org/abs/1801.06146">ULMFit</a>.</p>
+  description: >-
+    Google's TPU-trained BERT made the headlines when it claimed state-of-the-art
+    text classification results in multiple languages, but not Thai. This is the story
+    of how our rag-tag group of open-source coders managed to outperform Google with
+    our very own Thai text classification model, thai2fit.
+  speaker: Charin
+  speakerimg: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/45031/profile.jpg
+  title: 'How pyThaiNLP''s thai2fit Outperforms Google''s BERT: State-of-the-Art Thai
+    Text Classification and Beyond'
+- bio: |-
+    <p>Chie Hayashida is a Software Engineer from Japan. She is working at Cookpad.Inc which is the worldwide recipe sharing service. She loves programming and computer science. She is highly skilled with DWH architecture and ML pipelines. She is a contributor to Apache Spark, Tensorflow, Apache Airflow and so on.</p>
+  description: >-
+    There are several ways and libraries for distributed processing using Python.
+    We need to understand the concepts and features of these libraries for efficient
+    usage of computing resources. In this session, I will discuss how to be good to
+    choose and use these distributed processing libraries.
+  speaker: Chie Hayashida
+  speakerimg: https://secure.gravatar.com/avatar/7f7abff13e7c5ad15bfa3a823313ef9d?s=500
+  title: Understanding of distributed processing in Python
+- bio: |-
+    <p>Hello, I am Doni Rubiagatra. I am Software Engineer at <a class="reference external" href="https://kumparan.com">kumparan</a>, co-founder of <a class="reference external" href="https://github.com/surabaya-py,andAdvisorat%5BDataScienceIndonesia%5D(https://datascience.or.id">surabaya.py</a> East Java. I love teaching Python to others and spoke at several PyCon in Asia. I scream for an Ice Cream :D</p>
+  description: "In the interactive visualization world mainly we hear about Tableau\
+    \ and Shiny for R. How about Python? Python\u2019s visualization landscape is\
+    \ quite complex with many available libraries. In this talk, we will look for\
+    \ an easy and fun way to build an interactive dashboard using Plotly and Dash"
+  speaker: Doni Rubiagatra
+  speakerimg: https://secure.gravatar.com/avatar/eed0ef6cc8a0f435d5d8c9a5648f1551?s=500
+  title: Interactive Python Dashboards with Plotly and Dash
+- bio: |-
+    <p>Drishti is a Computer Engineer at heart and a technology enthusiast. She loves to use technology to help the less fortunate. She believes in democratizing opportunities and brings knowledge of the latest developments in the fast-moving field of technology to deserving students, and keep them up to date and well-equipped for their respective professional careers.
+    She has spoken at 12+ conferences across the globe and is also a social entrepreneur. Her non-profit organisation - Samyak Drishti Foundation works in environment, education and healthcare sectors and operates in 10 cities across India.
+    In her spare time, she likes to paint nature, explore new places and anchor live shows</p>
+  description: "Have you ever thought of using data visualization to represent data;\
+    \ but feel that it is a cumbersome process? Worry not \u2013 Orange is here to\
+    \ the rescue!\nCome, dive into the world of this magical open source data mining\
+    \ tool that can also be used as a Python library.\nBeginner friendly!"
+  speaker: Drishti Jain
+  speakerimg: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/36129/WhatsApp_Image_2019-04-21_at_8.52.00_PM.jpeg
+  title: When life gives you Orange, make data speak volumes!
+- bio: |-
+    <p>Elisha is passionate about bringing people together to solve important problems.</p>
+    <p>She founded TechLadies - a community for women in Asia to learn technical skills to switch careers into the tech industry. TechLadies has over 3000 members across Asia, taught hundreds of ladies in Singapore and Malaysia how to code that saw tens of them (without any prior programming background) got technical internships or hired as junior software engineers.</p>
+    <p>Elisha enjoys sharing her experiences in tech and the lessons learned. She was featured on various media such as The Straits Times, Her World, e27, and High Net Worth. She has spoken internationally at IWD by Jobs for NSW, Slush Singapore, Google Women Techmakers, MaGIC Academy Symposium, RubyConf Malaysia and Techsauce Summit to name a few, and has mentored at Startup Weekends (San Francisco &amp; Penang) and SPARK Global Acceleration Program.</p>
+    <p>Elisha is based in sunny Singapore and aspires to be a standup comedian.</p>
+  description: "There\u2019s much more we could do to improve gender diversity in\
+    \ tech. But with so many ideas, how should you get started in tackling this problem?\
+    \ How do you measure success? In this talk, I will share the people-centric methodology\
+    \ that helps you design your diversity programs and initiatives."
+  speaker: Elisha Tan
+  speakerimg: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/15327/elisha-speaker_copy.png
+  title: Program Thinking - How do you design programs for diversity?
+- bio: |-
+    <p>Application Security Consultant, Skilled in Security Requirement Engineering, Threat Modeling, Static Application Security Testing, Dynamic Application Security Testing,  Secure SDLC, DevSecOps. Hold Certified Ethical Hacker certification, Speaker for several conferences in Jakarta, Kuala Lumpur, Singapore with topic related to application security.
+    Bachelor's Degree focused in Informatics Engineering from Telkom University.</p>
+  description: >-
+    This topic will cover how to find security issue on python code using open source
+    Static Analysis Security Testing. So that developer can found & fixed the security
+    issue since on development stage, without waiting for penetration testing stage
+  speaker: Harley Davidson Karel
+  speakerimg: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/28808/David.jpg
+  title: Security Issues on your Python Code
+- bio: |-
+    <p>My name is Jiranun Jiratrakanvong. You can call me <strong>"Jiranun"</strong>.</p>
+    <p>I have been fascinated in computer programming since I was a little. As a kid, my goal was just to make a game bot (Ragnarok) because I was too lazy to play it myself. After studying for many years, I become more lazy to do things and tried to solve everything by programming.</p>
+    <p>Python is my beloved language as it's easy to use, and it's easy to connect to other stuffs</p>
+    <p>## Education
+    - Undergrad Student at Department of Computer Science, Chulalongkorn University
+    - Graduate Student at Department of Computer Science, Illinois Institute of Technology
+    - Specializations at IIT: Computational Intelligence, and Data Analytics</p>
+    <p>## Experience
+    - Software Engineer (C++/Java) at Thomson Reuters/Refinitiv (Bangkok)
+    - Python Experience: Research Associate at BioCAT (Chicago)
+    - Present: Data Scientist at Coraline (Bangkok)
+    - Python Libraries Used: scikit-learn, pandas, numpy, scipy, opencv, PIL, matplotlib, PyQt, Django, Flask, wxPython, reportlab, Cython, numba, fabio, lmfit, pymysql, SQLAlchemy, etc.</p>
+    <p>## Hobbies
+    - Singing and playing guitar
+    - Running (mini marathon)
+    - Scuba Diving
+    - Traveling</p>
+  description: "If you think about a Data Science Project, what are you thinking about?\
+    \ Machine learning? Deep learning? AI? Correct! But it\u2019s usually ~20% of\
+    \ the whole project. Let's forget about ML, and I will tell you what we have faced\
+    \ as a Data Science Company, and how we use Python to solve almost everything!"
+  speaker: Jiranun Jiratrakanvong
+  speakerimg: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/45206/7566C8EA-E7E2-4867-B79A-094534D151DA.jpeg
+  title: Python for Data Science Projects at Coraline
+- bio: |-
+    <p>I am a lead engineer working on Android and iOS instrumentations at HeadSpin Inc., a fast-growing mobile testing startup company based in Palo Alto. I have years of writing programs in many languages like Go, Python, Erlang, JavaScript, Ocaml, Java, Kotlin, and Swift, among others. My experience lies in networking for IoTs and interactive applications, compiler, and mobile frameworks. Outside of professional settings, I'm the author of RxGo, a popular open-source library on Github and I have given talks at MakerFaire NYC and Radical Networks in 2015.</p>
+  description: >-
+    Fishing in Smali? try Marlin.
+
+    Marlin is a Smali parser / VM that maps Smali classes to Python classes. It basically
+    lets you analyze and write Smali code in Python instead of learning how to read
+    Assembly-like Smali or use tools to convert to unreadable Java classes.
+  speaker: Joe Chasinga
+  speakerimg: https://secure.gravatar.com/avatar/c06b54277a2961c3e0f735aa0c8d85f9?s=500
+  title: 'Marlin: A Smali to Python Transpiler for Android Hacking'
+- bio: |-
+    <p>I love to develop software using Python/Django, and manage e-commerce website in Korea.</p>
+    <p>I lived in Thailand for 4 years, and I taught some CS subjects in Naresuan University for 2 years.</p>
+  description: >-
+    I run my own business using Django/Python in Korea.
+  speaker: Jonghwa Seo
+  speakerimg: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/45418/pincoin-logo-A2.png
+  title: E-commerce for Django
+- bio: |-
+    <p>Jorge Torres Is currently Co-founder &amp; CTO of MindsDB and a visiting scholar at UC Berkeley researching machine learning automation and explainability. He has worked for a number of data-intensive start-ups, most recently working with Aneesh Chopra (the first CTO in the US government) building data systems that analyze billions of patients records and lead to highest savings for millions of patients, he started his work on scaling solutions using machine learning in early 2008 while working as first full time engineer at Couchsurfing where he helped grow the company from a few thousand users to a few million. Jorge had degrees in electrical engineering &amp; computer science, including a masters degree in computer systems (with a focus on applied Machine Learning) from the Australian National University.</p>
+  description: >-
+    It is crucial to rethink how we build tools so that we can provide Machine Learning
+    capabilities to experts in various disciplines that are not necessarily savvy
+    in machine learning, this talk we talk about our project that allows anyone to
+    create and use sophisticated ML in one line of python code.
+  speaker: Jorge Torres
+  speakerimg: https://secure.gravatar.com/avatar/03886c577a1c4d30efa531b8f85aa80f?s=500
+  title: Machine Learning Democratization with Python
+- bio: |-
+    <p><strong>Joshua Arvin Lat</strong> is the <strong>Chief Technology Officer</strong> (CTO) of <strong>Complete Business Online</strong>. He previously served as the <strong>Director for Software Development and Engineering</strong> for multiple startups which allowed him to see the bigger picture and be more effective as a professional and leader. For the past couple of years, he has been sharing his knowledge in several conferences around the country to discuss practical strategies for companies and professionals.</p>
+  description: >-
+    Over the past couple of years, several companies around the world have started
+    to embrace the Serverless movement to design and build modern applications. In
+    this talk, I will bridge the gap between reality and expectations when dealing
+    with Serverless Machine Learning-powered Python applications.
+  speaker: Joshua Arvin Lat
+  speakerimg: https://secure.gravatar.com/avatar/e412f3f4cb20c7070822a6faebf656d1?s=500
+  title: Designing and Building Serverless Machine Learning-powered Applications with
+    Python
+- bio: |-
+    <p>I started working as a data scientist in July, 2016. Though I have been using regular expressions to clean data for years, since 1999. I finished an M.Phil in Computer Speech and Language Processing from University of Cambridge, UK.</p>
+    <p>My focus now includes 2 topics: Thai NLP and Google Colaboratory for knowledge sharing. My main contributions are for <a class="reference external" href="https://github.com/PyThaiNLP/pythainlp">PyThaiNLP project</a> and Colab notebooks shared on <a class="reference external" href="https://www.facebook.com/groups/colab.thailand/">Colab Thailand Facebook Group</a></p>
+  description: >-
+    Colab or Google Colaboratory is a popular tool to run Jupyter Notebook for free
+    on Google Cloud. This talk will cover some advanced uses of Colab, such as %magic,
+    forms, Python-JavaScript communication, adding a kernel, using conda, displaying
+    map, and using microphone and camera.
+  speaker: Korakot Chaovavanich
+  speakerimg: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/25745/fullsizeoutput_b7.jpeg
+  title: Advanced Google Colaboratory
+- bio: |-
+    <p>I established my company called moegi Co., Ltd. to start the drone business.
+    I am an engineer of the front-end system, but recently I have been focued on RaspberryPi and Arduino, and have been actively transmitting mechanisms in which objects move in reality by using Python language.
+    This year, I participated in "PyCon 2018 Cleveland" and I felt the momentum of overseas forces.
+    I exchanged contact information with Pythonista who are active overseas so that I can cooperate with them.
+    Additionary, as a staff member of Pyladies Tokyo, I did a community activity spreading Python, and did Python Boot Camp which helps Python beginners and spreads Python as Saitama and Fukushima local staff. Python Boot Camp in Fukushima, activities such as preparing the venue as well as taking up local newspapers were underway.
+    In addition, I am participating in the Python related community and am doing activities to improve self-study and day-to-day technology.</p>
+  description: "I\u2019m Japanese(Tokyo) Pyladies staff. I'll talk in the Python woman's\
+    \ community and talk about what I thought. I think small communities are also\
+    \ important. And I also hope that we want everyone in the small community to have\
+    \ the skills that lead to Asia and the world."
+  speaker: Lina KATAYOSE(selina)
+  speakerimg: https://secure.gravatar.com/avatar/442340722ced9c7c1bdf618ece413c69?s=500
+  title: Pyladies and Importance of community participation
+- bio: |-
+    <p>I'm a serial online entrepreneur who is always looking to add useful products to the world  both open source and paid. My standard toolbox includes Python and Django (and sometimes WordPress) on the backend and Vue.js on the frontend. I also do data wrangling and some machine learning in Jupyter, Pandas and Keras.</p>
+    <p>My latest startup is a hosted backup service for Borg: <a class="reference external" href="https://www.borgbase.com/">https://www.borgbase.com/</a></p>
+    <p>In my spare time I'm also a Google Summer of Code mentor and maintain various open source projects and standardization efforts:</p>
+    <ul class="simple">
+    <li>Borg backup client for macOS/Linux: <a class="reference external" href="https://github.com/borgbase/vorta">https://github.com/borgbase/vorta</a>
+    </li>
+    <li>open source electronic invoicing: <a class="reference external" href="https://www.invoice-x.org/">https://www.invoice-x.org/</a>
+    </li>
+    <li>invoice2data: extract structured data from PDF invoices <a class="reference external" href="https://github.com/invoice-x/invoice2data">https://github.com/invoice-x/invoice2data</a>
+    </li>
+    <li>upodder: command line podcast downloader <a class="reference external" href="https://github.com/m3nu/upodder">https://github.com/m3nu/upodder</a>
+    </li>
+    </ul>
+  description: >-
+    GraphQL is the new standard for client-server API communication, replacing REST
+    in many newer projects. This talk shows you how to quickly add GraphQL to your
+    Django project, test and use it in a simple Vue.js app. Sample code provided.
+  speaker: Manuel Riel
+  speakerimg: https://secure.gravatar.com/avatar/24ba35029a2b10d0af542d213cfdaf3c?s=500
+  title: Adding a GraphQL API to Django (with Vue.js frontend)
+- bio: |-
+    <p>Mark has worked in IT for over 20 years in Europe and Southeast Asia. His experience spans IT operations, software engineering, data systems, product management and project management. He has worked in top multinationals, SMEs and start-ups.</p>
+  description: >-
+    Production Engineering comes from the belief that operational problems should
+    be solved through software solutions. The engineers who are building the software
+    are the best people to operate that software in production. This talk will introduce
+    PE at Facebook with examples of their python projects.
+  speaker: Mark Hollow
+  speakerimg: https://secure.gravatar.com/avatar/1f9b0b1483c7edc284513caeefa40fb1?s=500
+  title: Python in Production Engineering @ Facebook
+- bio: |-
+    <p>Martin is a Google Developer Expert in Machine Learning based in Singapore - and was doing Neural Networks before the last AI winter...  He's an active contributor in the Singapore data science community, and is the co-host of the Singapore TensorFlow and Deep Learning MeetUp (with now with 3700+ members in Singapore).</p>
+  description: >-
+    This talk aims to cover the "something for beginners" part of our tagline - motivating
+    the building blocks of CNNs, how they are trained, and how the resulting model
+    can be applied to different datasets. Code examples will be provided in Colab
+    notebooks.
+  speaker: Martin Andrews
+  speakerimg: https://secure.gravatar.com/avatar/eedd4ff31246cafae4a8ebbf08260159?s=500
+  title: 'First steps in Deep Learning with TensorFlow 2.0 : CNNs'
+- bio: |-
+    <p>I'm a Full Stack Developer, Developer Evangelist, Auth0 Ambassador, GDG Ranchi Organizer, and Mozilla Representative. I love speaking on Serverless, Authentication &amp; Authorization, Google Technologies, Security, Web Extensions and Virtual Reality at different meet-ups and conferences.</p>
+  description: >-
+    APIs are changing and languages like Python are shifting the paradigm of API consumption.
+    We often dedicate a lot of time in crafting powerful APIs but overlook proper
+    security measures. In this talk, we'll look at the proper way to secure our Python
+    API's with JSON Web Tokens with Moden Identity.
+  speaker: Md Shahbaz Alam
+  speakerimg: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/19104/mdsbzalam.jpg
+  title: Securing your Python APIs with Auth0
+- bio: |-
+    <p>CEO of Zymple</p>
+  description: >-
+    This is a workshop for adults such as parents, teachers, community organizers
+    and others interested in organizing classes where kids learn how to program Python
+    in a peer to peer, collaborative learning environment.
+  speaker: Mishari Muqbil
+  speakerimg: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/27090/IMG-0002.JPG
+  title: Teaching Coding To Kids
+- bio: "<dl class=\"docutils\">\n<dt>Dali SOLA is a Data science enthusiast with experience\
+    \ in various aspects of NLP and machine translation.</dt>\n<dd>Dali had an engineer\
+    \ degree from at TEK-UP University in Tunisia and studied two Master degree in\n\
+    Business Intelligence and Innovation management. His core interest lies in \u201C\
+    NLP\u201D, \u201DDeep learning\u201D,\n\u201CMachine Learning\u201D, \u201DMachine\
+    \ Translation\u201D and \"IA\". In 2017 he get rewarded from ATB BANK  for  his\
+    \ solution \"smart-HR\",\na human resource solution that deal with talents hiring\
+    \ issue, using NLP and IA .</dd>\n</dl>"
+  description: >-
+    With more than 7000 languages spoken across the world, it becomes more and more
+    important to connect people and cultures together; Machine translation shows a
+    real impact at this level.
+
+    This talk will go through:
+  speaker: Mohamed Ali SOLA (Dali SOLA)
+  speakerimg: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/27090/IMG-0002.JPG
+  title: 'Unlocking the power of natural language by machine translation: how python
+    could serve my purpose?'
+- bio: |-
+    <p><strong>Nithiroj Tripatarasit</strong></p>
+    <p><em>Lifelong learner, tech lover, and deep learning enthusiast.</em></p>
+    <p><strong>My works</strong></p>
+    <ul class="simple">
+    <li><a class="reference external" href="https://itunes.apple.com/th/developer/nithiroj-tripatarasit/id704045425">iOS apps</a></li>
+    <li><a class="reference external" href="https://play.google.com/store/apps/developer?id=Neo+Edutainment">Android apps</a></li>
+    </ul>
+    <p><strong>Experiences:</strong></p>
+    <ul class="simple">
+    <li><a class="reference external" href="https://medium.com/@nithiroj/facial-keypoints-detection-with-pytorch-86bac79141e4">PyTorch Scholarship to Udacity's Deep Learning NanoDegree program (Jan 2019  present)</a></li>
+    <li><a class="reference external" href="https://www.fast.ai/2018/08/16/diversity-fellowships/">fast.ai International Fellowship Program (Oct 22 - Dec 12, 2018)</a></li>
+    <li><a class="reference external" href="https://drive.google.com/file/d/1AZ9RwZSR0uJU6lIwarD5On4cR_y0KA7_/view?usp=sharing">Data Cafe Fellowship #2 ( Aug - Oct 2018)</a></li>
+    <li><a class="reference external" href="https://medium.com/diving-in-deep/logo-detection-using-pytorch-7897d4898211">Speaker of  Logo Detection using PyTorch at PyCon Thailand 2018 (Jun 16  17, 2018)</a></li>
+    <li><a class="reference external" href="https://wqu-cert.thedataincubator.com/certificate?key=1820009749491963002">WorldQuant University's Introduction to Data Science module  (September 7, 2018)</a></li>
+    <li><a class="reference external" href="http://www.fast.ai/2018/01/17/international-spring-2018/">fast.ai International Fellowship Program (Mar 19 - Apr 30, 2018)</a></li>
+    <li><a class="reference external" href="https://www.coursera.org/account/accomplishments/specialization/X7TVC4FK8J82">Deep Learning, a 5-course specialization by deeplearning.ai on Coursera. Specialization Certificate earned on March 9, 2018</a></li>
+    <li><a class="reference external" href="https://www.coursera.org/account/accomplishments/certificate/3DJQGJEUN2ZH">Machine Learning</a></li>
+    <li><a class="reference external" href="https://drive.google.com/file/d/1A0CTi9OCQ9MenLBXZ14bp0K-WsF1JEPt/view?usp=sharing">Deep Learning Workshops by Google Developer Experts</a></li>
+    <li><a class="reference external" href="https://drive.google.com/file/d/18ulagdP4U2J8mcAnDZPFuE_nKc9c72Dz/view?usp=sharing">Big Data with Hadoop by DEPA</a></li>
+    </ul>
+  description: >-
+    Detecting facial keypoints is a very challenging problem. It can be used as a
+    building block in several application such as tracking faces in images and video,
+    analyzing facial expression, face recognition, etc. This talk will walk you through
+    step by step how to solve this problem with PyTorch.
+  speaker: Nithiroj Tripatarasit
+  speakerimg: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/27090/IMG-0002.JPG
+  title: Facial Keypoints Detection with PyTorch
+- bio: |-
+    <p>Noah,
+    PyCon Nomad
+    Volunteer of FOSSASIA which is a NPO for promoting FOSS and open technologies in Asia,
+    volunteer of PyConTW/JP/KR/ID/MY/TH/HK.....and each PyConAPAC since 2015.
+    volunteer and speaker of EuroPython 2018.
+    Managing member of PSF,
+    my wish is that connect everyone who enjoy Python, and try to promote programming education to young generation or everyone who interested in by teaching basic programming skill using Python and R, like be a mentor of Hour or Code, or Google Summer of Code with FOSSASIA</p>
+  description: >-
+    according to PEP 373, we knew Python 2.7 EOL is moved to 2020. in PEP 404, we
+    knew Python 2.8 will never come, which means all versions of Python 2 will be
+    end of official bugfix and support at EOL.
+
+    2019, the last year of Python2. let's review how glory memories is in history
+    of Python.
+  speaker: Noah
+  speakerimg: https://secure.gravatar.com/avatar/f84b4128e61163fad7751e4dd8ebac50?s=500
+  title: Ready to say goodbye to Python 2.7 ! ?
+- bio: |-
+    <p>Noah Kantrowitz is a web developer turned infrastructure automation enthusiast, and all around engineering rabble-rouser. By day he runs an infrastructure team at Ridecell and by night he makes candy and stickers. He is an active member of the DevOps community, and enjoys merge commits, cat pictures, and beards.</p>
+  description: >-
+    Everyone is talking about Kubernetes, but migrating existing applications is often
+    easier said than done. This talk will cover the tale of migrating our main Django
+    application to Kubernetes, and all the problems and solutions we ran into along
+    the way.
+  speaker: Noah Kantrowitz
+  speakerimg: https://secure.gravatar.com/avatar/cf611565f0b79abd0b3dc200ad867661?s=500
+  title: 'Forklifting Django: Migrating A Complex Django App To Kubernetes'
+- bio: |-
+    <p>Pisuth turns himself into a blockchain developer with extensive skills on IoT and Chatbot since 2017. Prior that time, he was working in media industry for 8 years in Thailand experienced using Python on system monitoring and systems integration.  He also won 7 blockchain competition/hackathon in the past 2 years include ETHSingapore, Binance and NEO and has strong passion on blockchain technology and distributed economy.</p>
+  description: >-
+    Raiden network is an open source project aims to bring several advantages like
+    better privacy, speed, and lower fees to the Ethereum blockchain. This talk would
+    focus on how to install, use cases, integration and its underlying technology.
+  speaker: Pisuth Daengthongdee
+  speakerimg: https://secure.gravatar.com/avatar/02db6091a997dc75b39fddfe6a740494?s=500
+  title: Raiden Network for instant crypto payment & lower fees
+- bio: |-
+    <p>I am a Data Scientist (First Senior Vice President) at Siam Commercial Bank PCL. Beside Python, I'm also into Mathematica, and did my doctorate entirely in C++. Beside Data Science, I'm involved in Quantitative Analytics in general, Financial Engineering and Risk Management in particular (although much less so these days). Beside Machine Learning, my research interest span to Graph-Theoretic/Network Model, Copula Functional, Cybernetics, and (obviously) Fuzzy Multi-Criteria Decision Model.</p>
+  description: >-
+    Today's sophisticated investors/fund managers require more flexibility/sophistication
+    than traditional risk/return bi-criteria analysis. The talk introduces Python-based,
+    highly-customisable Fuzzy Multi-Criteria Portfolio Optimisation framework and
+    asset allocation solution.
+  speaker: Poomjai Nacaskul, PhD, DIC, CFA
+  speakerimg: https://secure.gravatar.com/avatar/02ef5c925c1e92968925675e253a72cc?s=500
+  title: Fuzzy Multi-Criteria Portfolio Optimisation with Python (and maybe a little
+    bit of Mathematica)
+- bio: "<p>Rae Knowler is a web developer at Liip in Z\xFCrich, where they develop\
+    \ product data APIs and work on Open Data projects. They are interested in the\
+    \ fascinating, comical and sometimes tragic results of attempting to cram the\
+    \ complexity of life and society into computer systems. In their spare time they\
+    \ read a lot of science fiction and hug cats.</p>"
+  description: >-
+    We all know we should be writing tests, but coming up with tests for every edge
+    case is hard work and you will inevitably miss some. In this talk, I'll show you
+    how to use Hypothesis in your projects to find more bugs than you would imagine.
+  speaker: Rae Knowler
+  speakerimg: https://secure.gravatar.com/avatar/843df29a0383ee0094a5caa2defd8707?s=500
+  title: 'Hypothesis: Property-Based Testing for Python'
+- bio: |-
+    <p>Rahul Bhatia is a self-taught Data Scientist and Full-stack Web Developer. I have experience in organizing several talks as a Developer Student Club Lead at our campus, which is an initiative by Google Developers, promoting the developer culture at college campuses throughout several countries through the DSC program. I love sharing knowledge with fellow developers and organizing and delivering technical sessions. I am currently a Data Science Intern at Innovaccer, a healthcare company focused on "Righting the wrongs of healthcare technology"</p>
+    <p>I don't listen to a lot of pop music but I love rock music. Chester from Linkin Park was my favourite. Apart from that, I am a solo traveller and love wadering at new places.</p>
+  description: >-
+    What's the use of machine learning models if we can't interpret them? This session
+    will cover recent model interpretability techniques that are essential for Data
+    Scientist to have in their toolbox. Attendees will learn how to apply these techniques
+    in Python on a real-world data science problem.
+  speaker: Rahul Bhatia
+  speakerimg: https://secure.gravatar.com/avatar/e16d4591c7f44180024093015eec7512?s=500
+  title: Visualize the Black Box - An introduction to Interpretable Machine Learning
+- bio: |-
+    <p>Robert Owen worked for Oracle as Program Director for Asia-Pacific. Before that he worked for Ericsson Telecommunications. Robert was a member of the Australian delegation to the International Telecommunications Union, ITU, in Geneva, Switzerland where he worked on global telecommunications policy. A few years ago he spat his dummy at the amount of work Oracle expected him to do, resigned and enrolled for a PhD at the University of Melbourne, Australia. He expects to complete his PhD computer modelling infectious animal diseases later this year.</p>
+  description: >-
+    Models are used to simulate the spread of diseases in populations. Scientists
+    often cannot base their decisions on past events but must take action quickly
+    to halt their spread. Computer modelling in Python using random processes can
+    help formulate actions to stem the spread of contagious diseases.
+  speaker: Robert Owen
+  speakerimg: https://secure.gravatar.com/avatar/3bd96a0518aafe7632c76cccabc3501d?s=500
+  title: The Buzz about Bees
+- bio: "<p>Sam is a Google Developer Expert for Machine Learning and is a co-founder\
+    \ of Red Dragon AI a deep tech company based in Singapore. He has extensive experience\
+    \ in startups and mobile applications and is helping developers and companies\
+    \ create smarter applications with machine learning.  Sam is especially passionate\
+    \ about Deep Learning and AI in the fields of Natural Language and Conversational\
+    \ Agents and regularly shares his knowledge at events and trainings across Asia,\
+    \ as well as being the co-organiser of the Singapore TensorFlow and Deep Learning\
+    \ group.</p>\n<p>\u0E41\u0E0B\u0E21\u0E1E\u0E39\u0E14\u0E41\u0E25\u0E30\u0E2D\u0E48\
+    \u0E32\u0E19\u0E20\u0E32\u0E29\u0E32\u0E44\u0E17\u0E22\u0E44\u0E14\u0E49</p>"
+  description: >-
+    How to get started quickly and plot your own path to learning Deep Learning in
+    the fastest way possible. This will examples of Deep Learning, how they work and
+    what the key components are to get started to creating AI based apps.
+  speaker: Sam Witteveen
+  speakerimg: https://secure.gravatar.com/avatar/02da2ef8a441965087137c2691e39d34?s=500
+  title: The Fastest Path to Deep Learning
+- description: >-
+    This is a full workshop introducing the concepts of Deep Learning in TensorFlow
+    2.0 It would give people a set of basic notebooks that they can run in Google
+    Colab outlining the basics of Deep Learning and building models.
+  speaker: Sam Witteveen + Martin Andrews
+  title: Deep Learning Introductory Workshop with TensorFlow 2.0
+- bio: |-
+    <p>Sara is a seasoned software engineer and a data science enthusiast. She is currently undergoing a master in data science in the UK, and a research in deep learning for medical imaging. When she is not coding, she spends her free time baking sweet treats and watching Rick and Morty.</p>
+  description: >-
+    Creating a machine learning model with an imbalanced dataset can give you misleading
+    results. Get to know the common techniques to address the class imbalance problem
+    in datasets that can help you to deliver better performance.
+  speaker: Sara Iris Garcia
+  speakerimg: https://secure.gravatar.com/avatar/da7607390ad88d1592247079d2381321?s=500
+  title: Addressing class imbalance in Machine Learning
+- bio: |-
+    <p>&lt;p&gt;A passionate software developer, Sarthak is a core contributor in Expedia's Mobile Team. He weaves the magic in his code with Python, Java, Kotlin, Scala, C and  JavaScript. Having mastered these languages all by himself, through self projects and open source contributions, he knows what it takes to not just write code but write code that is readable, efficient and maintainable.&lt;/p&gt;</p>
+    <blockquote>
+    &lt;p&gt;His current adventure involves developing solutions in android ecosystem, internal API(s) and machine learning to help our users have the best experience.&lt;/p&gt;</blockquote>
+    <p>Before joining Expedia, he  co-founded one startup in India and did internship at Samsung R&amp;D, Bengaluru. He loves sharing his knowledge and learnings from his adventures in machine learning projects. He has been speaking extensively at internal conferences and now want to spread his knowledge in the open.</p>
+  description: >-
+    Haystack is an Expedia-backed open source distributed tracing project to facilitate
+    detection and remediation of problems in microservices and websites. We will talk
+    about how to set it up on internal infrastructure and monitor micro-services using
+    this with real-time examples.
+  speaker: Sarthak Deshwal
+  speakerimg: https://secure.gravatar.com/avatar/ebb0ce50f3e93125e7f5fe4406a78723?s=500
+  title: A resilient, scalable tracing and analysis system for micro-services - HayStack
+- bio: |-
+    <p>I am working as a part of the development team of [Tensor]werk, an infrastructure development company focusing on deep learning deployment problems. I and my team focus on building open source tools for setting up a seamless deep learning workflow. I have been programming since 2012 and started using python since 2014 and moved to deep learning in 2015. I am an open source enthusiast and I spend most of my research time on improving interpretability of AI models using <a class="reference external" href="https://turingnetwork.ai">TuringNetwork</a>. I have authored a deep learning book (<a class="reference external" href="https://github.com/hhsecond/HandsOnDeepLearningWithPytorch">yet to publish</a>). I go by hhsecond on internet</p>
+  description: >-
+    Managing DL workflow is always a nightmare. Problems include handling the scale,
+    efficient resource utilization, version controlling the data. With the highly
+    optimized RedisAI, super flexible PyTorch and heavily organized Hangar, all the
+    sleepless nights are stories of the past.
+  speaker: Sherin Thomas
+  speakerimg: https://secure.gravatar.com/avatar/c32e9a85da547a9e816d5ff6696957e8?s=500
+  title: Production-ize deep learning with PyTorch, RedisAI and Hangar
+- bio: |-
+    <p>Hi there! I am a software engineer who uses vim at Pronto Tools and also a GirlsWhoDev organizer for around 4 years. I have organized many tech events for girls who want to learn coding even if they are not in the tech industry such as girls learning Python. I am also a co-organiser with Django girls for building a website with Django in Bangkok. Apart from my tech life, I'm a dog person. I enjoy singing, dancing and watching a movie and a series.</p>
+  description: >-
+    Have you ever use a cutie and cool CLI tool? Have you felt that it is very cool
+    and makes you feel so excited to use this tool? This workshop will help you learn
+    how to build your own CLI using basic Python skill and makes everyone love it.
+  speaker: Sudarat Chattanon
+  speakerimg: https://secure.gravatar.com/avatar/7300910aa33d37a8a78a64270f6283b0?s=500
+  title: Python for beginners
+- bio: |-
+    <p>I am a pre final student at The LNM Institute of Information Technology pursuing B-Tech in Computer Science Engineering. I have a Deep interest in open source technologies, and was selected as Mozilla Open Leader this year. I like to code in Python and developing Natural Language Processing applications in python. I have studied Information Retrieval as an academic course and my my interest in this field grew from there. In this talk I will elaborate on my project where I used TWEEPY library of python to extract and evaluate tweets. I believe Information Retrieval is a interesting topic and will attract audience from all the field and all experience levels.</p>
+  description: >-
+    I will talk about NLP at first and introduce the concept of NLP, algorithms for
+    Lexicon Normalization, Entity Parsing etc. Then I will talk about Python Libraries
+    like NLTK, TextBlob, GenSim, spaCy & the functionalities they provide. Lastly,
+    I will elaborate on how I used all of these in my project.
+  speaker: TUSHAR BANSAL
+  speakerimg: https://secure.gravatar.com/avatar/702e5bb554b9e0dbcf2412f9d8929aa2?s=500
+  title: Developing Natural Language Processing Applications Using Python
+- bio: |-
+    <p>Takanori is a Vice Chairperson of PyCon JP Committee(www.pycon.jp).
+    He is also a director of BeProud Inc.(www.beproud.jp), and his title is "Python Climber".
+    Takanori held PyCon JP 2014 to 2016 as the chairperson.
+    Currently he teaches Python to beginners as a lecturer at Python Boot Camp(pycamp.pycon.jp) all over Japan.
+    In addition, he published several Python books.
+    Tananori plays trumpet, climbs boulder, loves Lego, ferrets and beer</p>
+  description: >-
+    Today, there are many tasks to repeat in the community.
+
+    We often use chat such for daily communication.
+
+    I created a chatbot to automate various boring tasks.
+
+    In this talk, I will tell you how to create a simple bot in Python and I will
+    explain how to make a bot command to perform some operations.
+  speaker: Takanori Suzuki
+  speakerimg: https://secure.gravatar.com/avatar/5d9cabab536050d85bfa0df9daf856d1?s=500
+  title: Automate the Boring Stuff with Slackbot
+- bio: |-
+    <p>I work at an Application Security company (we45) and have a unique perspective of developing secure and deliberately insecure apps in Python and NodeJS. I have contributed to the development of several Web-Applications using Django, Djano-Rest-Framework, NodeJs and more, that have been used for Capture the Flag Contests inside and outside the organization. And also I am contributed multiple OpenSource Projects. In addition, I have extensive experience with integrating scanners, SAST and DAST toolsets into our Application Vulnerability Correlation and Aggregation product. I have over 7 years of development experience and continue to work as a full-stack developer. And also I have presented talk in DjangoCon 2018, ISACA Meetup, also gave a workshop about container orchestration and Serverless in Lascon, Recently gave a talk in DevSecCon Singapore 2019.</p>
+  description: >-
+    Microservices are taking over the world. Rest-framework is accelerating this because
+    of its ease and flexibility.
+
+    Developers often use and develop REST-based applications because it's exciting
+    to work with. But, they forget about security which leads to compromised and exploited
+    applications.
+  speaker: Tilak T
+  speakerimg: https://secure.gravatar.com/avatar/3852521603c21de17cdab3adf97ac91a?s=500
+  title: Unique ways to Hack into a Python Web Service
+- bio: |-
+    <p>Viral Parmar is a Serial entrepreneur who runs ComExpo Cyber security company as well as Infinite Defense Foundation a non-profit organization in India. He is a Developer Advocate, Productivity Hacker, Open Source Strategist, Technical Evangelist, Community Liaison, International TechSpeaker, he is a Cyber Security researcher by profession and open source enthusiast working in a field of information security from last three years with the expertise in Cyber Crime Investigation, Public Key Infrastructure, Social Engineering, Web App Penetration Testing, Digital Forensics and Mobile Security. He found sever vulnerability in 150+ well known websites like Intel, your story and solved more than 100 cases of cyber-crime &amp; online frauds. He is famous for his research Cyber Disorder and Who is spying on you. Trained 150,000+ people till now and aware them about privacy and security. Given Seminars and workshops in 150+ Organizations. He is Working with Mozilla foundation from last 2 years as Reps, Mentor in Mozilla Open Leadership Project, Coach(Privacy and Security) in MozSprint 2018, also working with L10N project on Pontoon, Rust and WebVR projects.</p>
+  description: >-
+    Talk is about the JWT Authentication with Django which plays an important role
+    in modern day application development where it is a lot more than just the login
+    screen, People will get know about different ways of authentication and authorization,
+    concepts that make up modern identity.
+  speaker: Viral Parmar
+  speakerimg: https://secure.gravatar.com/avatar/f39b54f90f14174754a7a1671cc8b008?s=500
+  title: JWT authentication with Django
+- bio: |-
+    <p>I'm a computer scientist with a passion for programming languages, and have been working as a software engineer in the Infrastructure Team at Facebook London since 2016. I've been working with Python on and off for the past 10 years, but recently it has become an area close to my heart.</p>
+    <p>I'm the father of an awesome little dude, husband to an amazing wife, and when I'm not spending time with my family,  work, and open source, I'm a captain of a competitive Overwatch team.</p>
+    <p>Ask me about the biggest outage I've ever caused ;) See you at the conference!</p>
+  description: >-
+    Are linters telling you how to write code? Stop wasting time and let the computer
+    do the work!
+  speaker: Zsolt Dollenstein
+  speakerimg: https://secure.gravatar.com/avatar/c64a6a9dfd72d4d6fe680f9cfbf46f58?s=500
+  title: Any Code Formatter You Like - As Long As It's Black
