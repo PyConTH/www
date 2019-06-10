@@ -71,8 +71,8 @@ June 15
     +-------+------------------------------------+------------------------------------+------------------------------------+                                    +
     | 15:10 |Break                                                                                                         |                                    |
     +-------+------------------------------------+------------------------------------+------------------------------------+                                    +
-    |       |Program Thinking: How to design     |Advanced Google Colaboratorys       |Facial Keypoints Detection with     |*by Sam Witteveen and               |
-    | 15:20 |your program for diversity?         |                                    |PyTorch                             |Martin Andrews*                     |
+    |       |Program Thinking: How to design     |Advanced Google Colaboratorys       |Facial Keypoints Detection with     |by Sam Witteveen and                |
+    | 15:20 |your program for diversity?         |                                    |PyTorch                             |Martin Andrews                      |
     |       |                                    |                                    |                                    |                                    |
     |       |by Elisha Tan                       |by Korakot Chaovavanich             |by Nithiroj Tripatarasit            |                                    |
     +-------+------------------------------------+------------------------------------+------------------------------------+------------------------------------+
@@ -114,7 +114,7 @@ June 16
     | 09:00 |Optimisation with Python (and maybe |Processing Applications             |Python 2.7!?                        |                                    |
     |       |a little bit of Mathematica)        |Using Python                        |                                    |                                    |
     |       |                                    |                                    |                                    |                                    |
-    |       |*by Poomjai Nacaskul, PhD, DIC, CFA*|by Tushar Bansal                    |by Noah                             |                                    |
+    |       |by Poomjai Nacaskul, PhD, DIC, CFA  |by Tushar Bansal                    |by Noah                             |                                    |
     +-------+------------------------------------+------------------------------------+------------------------------------+                                    +
     | 09:40 |Break                                                                                                         |                                    |
     +-------+------------------------------------+------------------------------------+------------------------------------+                                    +
@@ -149,7 +149,7 @@ June 16
     |       |From 0 to Awesome: How we got       |Pyladies and Importance of          |Hypothesis: Property-Based          |Visualize the Black Box: An         |
     | 14:05 |Python to supercharge our ML stack  |community participation             |Testing for Python                  |introduction to Interpretable       |
     |       |                                    |                                    |                                    |Machine Learning                    |
-    |       |by Amir Arad                        |*by Lina Katayose (selina)*         |by Rae Knowler                      |                                    |
+    |       |by Amir Arad                        |by Lina Katayose (selina)         |by Rae Knowler                      |                                    |
     +-------+------------------------------------+------------------------------------+------------------------------------+                                    +
     | 14:40 |Break                                                                                                         |by Rahul Bhatia                     |
     +-------+------------------------------------+------------------------------------+------------------------------------+                                    +
