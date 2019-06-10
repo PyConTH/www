@@ -576,7 +576,7 @@ td p.first {
 
 td p.last {
     font-style: italic;
-    font-size: xx-small;
+    font-size: smaller;
 }
 
 td[colspan]:not([colspan="1"]) p.first {

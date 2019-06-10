@@ -149,7 +149,7 @@ June 16
     |       |From 0 to Awesome: How we got       |Pyladies and Importance of          |Hypothesis: Property-Based          |Visualize the Black Box: An         |
     | 14:05 |Python to supercharge our ML stack  |community participation             |Testing for Python                  |introduction to Interpretable       |
     |       |                                    |                                    |                                    |Machine Learning                    |
-    |       |by Amir Arad                        |by Lina Katayose (selina)         |by Rae Knowler                      |                                    |
+    |       |by Amir Arad                        |by Lina Katayose (selina)           |by Rae Knowler                      |                                    |
     +-------+------------------------------------+------------------------------------+------------------------------------+                                    +
     | 14:40 |Break                                                                                                         |by Rahul Bhatia                     |
     +-------+------------------------------------+------------------------------------+------------------------------------+                                    +
