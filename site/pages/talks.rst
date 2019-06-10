@@ -1,7 +1,7 @@
 
 .. title: Talks
 .. slug: talks
-.. date: 2019-06-08 20:03:23 UTC+07:00
+.. date: 2019-06-10 10:57:04 UTC+07:00
 .. tags:
 .. category:
 .. link:
@@ -842,8 +842,8 @@ Managing DL workflow is always a nightmare. Problems include handling the scale,
 
 
 
-Girls Who Dev Code Like Godesses
-================================
+Python for beginners
+====================
 
 
 by Sudarat Chattanon
