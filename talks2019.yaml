@@ -9,6 +9,11 @@ talks:
   speaker: AKSHAT SHARMA
   speakerimg: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/48515/IMG_20180907_122310.jpeg
   title: Python made my dream come true
+  day: sun
+  track: 3
+  time: "09:50"
+  dur: "00:40"
+
 - bio: |-
     <p><strong>Alex Khaerov</strong> is a development lead at <a class="reference external" href="https://chainstack.com">Chainstack</a>, with 9+ years in web services development across diverse domains. His main passion is building robust, high-load and distributed service platforms on top of a multi-cloud environment, utilizing all the power of Python and cloud native services. An organized of <a class="reference external" href="https://conf.python.ru">Moscow Python Conf</a> and avid activist of <a class="reference external" href="http://pugs.org.sg/">Singapore Python User Group</a>, cloud native enthusiast and member of Kubernetes SG community. In his spare time, he speaks publicly at tech conferences and secretly codes in Python. Huge fan of laptop stickers.</p>
   description: >-
@@ -28,6 +33,11 @@ talks:
   speaker: Amir Arad
   speakerimg: https://secure.gravatar.com/avatar/7ebded1e9171acbf1b8cbf3532e25172?s=500
   title: 'From 0 to Awesome: How we got Python to supercharge our ML stack'
+  day: sun
+  track: 1
+  time: "14:05"
+  dur: "00:40"
+
 - bio: |-
     <p>CEO of DycodeX - the AIoT enabler in Indonesia. Microsoft Most Valuable Professional (MVP) of Microsoft Azure. 15 years as entrepreneur. A developer, hardware maker, and public speaker.</p>
   description: >-
@@ -73,6 +83,11 @@ talks:
   speakerimg: https://secure.gravatar.com/avatar/0233f28830fe1e51ae0b7783e5838db6?s=500
   title: 'Understanding and Implementing Generative Adversarial Networks (GANs): One
     of the BIGGEST Breakthroughs in the Deep Learning Revolution'
+  day: sat
+  track: 3
+  time: "13:40"
+  dur: "00:40"
+
 - bio: |-
     <p>I am always fascinated about programming languages. In particular, I have long advocated for the use of functional programming over object-oriented programming and a declarative style over an imperative one. Despite having used Python heavily since 2013, groking Scala, Haskell and Clojure really changed my style of writing Python code. I would like to share some of my findings and advocate a functional style of programming in Python. My other interests include Bayesian statistics, Monte Carlo methods and high-performance computing.</p>
     <p>I am a co-founder and managing director of Arithmox, a startup offering CTO-as-a-service and growth hacking packages to Indonesian companies. My interest lies in the use of technology and data-driven approaches correctly to drive growth. In a business climate where it is easy to get sucked into the AI hype, I advocate a pragmatic and no-nonsense approach to introducing such technologies into already-running businesses.</p>
@@ -84,6 +99,11 @@ talks:
   speaker: Anthony Khong
   speakerimg: https://secure.gravatar.com/avatar/62a12078cfba41bcd8d0886a7a7d3a20?s=500
   title: 'Functional Programming in Python: Lessons from Haskell and Clojure'
+  day: sun
+  track: 3
+  time: "13:15"
+  dur: "00:40"
+
 - bio: |-
     <p>I am currently researching in the field of NLP and information retrieval as a project assistant at IIT Delhi. I am a recent graduate, and had been conferred with a degree of Bachelors in technology in Computer Science, in August 2018.
     I got introduced to the wonders of computer science while pursuing my undergraduate degree, and oh, boy! It was diverse. I was amazed with the profusion of avenues that it opened for me. From natural language chatbots, to  biometrics recognition systems, path-planning robots, I found it ever-so encouraging just to be in the game, and with a curious eye, was ready to unearth it all.
@@ -109,6 +129,11 @@ talks:
   speaker: Chanapai Chuadchum
   speakerimg: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/45031/profile.jpg
   title: How to build an open source catbot with Python, a 3D printer and a microcontroller
+  day: sun
+  track: 3
+  time: "15:45"
+  dur: "00:40"
+
 - bio: |-
     <p>My name is Charin Polpanumas and I am a data scientist with over five years of track records in Southeast Asia, Japan, and China. I have delivered data products that save millions USD annually at the region's largest online retailer, and currently working to transform the healthcare industry in Thailand. I am one of the main contributors to <a class="reference external" href="https://github.com/PyThaiNLP/pythainlp">pyThaiNLP</a>, the most starred Thai NLP library, and the author of <a class="reference external" href="https://github.com/cstorm125/thai2fit">thai2fit (formerly thai2vec)</a>, the first and current state-of-the-art transfer learning text classification model based on <a class="reference external" href="https://arxiv.org/abs/1801.06146">ULMFit</a>.</p>
   description: >-
@@ -130,6 +155,11 @@ talks:
   speaker: Chie Hayashida
   speakerimg: https://secure.gravatar.com/avatar/7f7abff13e7c5ad15bfa3a823313ef9d?s=500
   title: Understanding of distributed processing in Python
+  day: sun
+  track: 1
+  time: "13:15"
+  dur: "00:40"
+
 - bio: |-
     <p>Hello, I am Doni Rubiagatra. I am Software Engineer at <a class="reference external" href="https://kumparan.com">kumparan</a>, co-founder of <a class="reference external" href="https://github.com/surabaya-py,andAdvisorat%5BDataScienceIndonesia%5D(https://datascience.or.id">surabaya.py</a> East Java. I love teaching Python to others and spoke at several PyCon in Asia. I scream for an Ice Cream :D</p>
   description: "In the interactive visualization world mainly we hear about Tableau\
@@ -139,6 +169,11 @@ talks:
   speaker: Doni Rubiagatra
   speakerimg: https://secure.gravatar.com/avatar/eed0ef6cc8a0f435d5d8c9a5648f1551?s=500
   title: Interactive Python Dashboards with Plotly and Dash
+  day: sat
+  track: 1
+  time: "10:20"
+  dur: "00:40"
+
 - bio: |-
     <p>Drishti is a Computer Engineer at heart and a technology enthusiast. She loves to use technology to help the less fortunate. She believes in democratizing opportunities and brings knowledge of the latest developments in the fast-moving field of technology to deserving students, and keep them up to date and well-equipped for their respective professional careers.
     She has spoken at 12+ conferences across the globe and is also a social entrepreneur. Her non-profit organisation - Samyak Drishti Foundation works in environment, education and healthcare sectors and operates in 10 cities across India.
@@ -150,6 +185,11 @@ talks:
   speaker: Drishti Jain
   speakerimg: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/36129/WhatsApp_Image_2019-04-21_at_8.52.00_PM.jpeg
   title: When life gives you Orange, make data speak volumes!
+  day: sat
+  track: 3
+  time: "16:10"
+  dur: "00:40"
+
 - bio: |-
     <p>Elisha is passionate about bringing people together to solve important problems.</p>
     <p>She founded TechLadies - a community for women in Asia to learn technical skills to switch careers into the tech industry. TechLadies has over 3000 members across Asia, taught hundreds of ladies in Singapore and Malaysia how to code that saw tens of them (without any prior programming background) got technical internships or hired as junior software engineers.</p>
@@ -172,6 +212,11 @@ talks:
   speaker: Harley Davidson Karel
   speakerimg: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/28808/David.jpg
   title: Security Issues on your Python Code
+  day: sun
+  track: 2
+  time: "10:40"
+  dur: "00:40"
+
 - bio: |-
     <p>My name is Jiranun Jiratrakanvong. You can call me <strong>"Jiranun"</strong>.</p>
     <p>I have been fascinated in computer programming since I was a little. As a kid, my goal was just to make a game bot (Ragnarok) because I was too lazy to play it myself. After studying for many years, I become more lazy to do things and tried to solve everything by programming.</p>
@@ -197,6 +242,11 @@ talks:
   speaker: Jiranun Jiratrakanvong
   speakerimg: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/45206/7566C8EA-E7E2-4867-B79A-094534D151DA.jpeg
   title: Python for Data Science Projects at Coraline
+  day: sun
+  track: 2
+  time: "13:15"
+  dur: "00:40"
+
 - bio: |-
     <p>I am a lead engineer working on Android and iOS instrumentations at HeadSpin Inc., a fast-growing mobile testing startup company based in Palo Alto. I have years of writing programs in many languages like Go, Python, Erlang, JavaScript, Ocaml, Java, Kotlin, and Swift, among others. My experience lies in networking for IoTs and interactive applications, compiler, and mobile frameworks. Outside of professional settings, I'm the author of RxGo, a popular open-source library on Github and I have given talks at MakerFaire NYC and Radical Networks in 2015.</p>
   description: >-
@@ -216,6 +266,11 @@ talks:
   speaker: Jonghwa Seo
   speakerimg: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/45418/pincoin-logo-A2.png
   title: E-commerce for Django
+  day: sat
+  track: 2
+  time: "13:40"
+  dur: "00:40"
+
 - bio: |-
     <p>Jorge Torres Is currently Co-founder &amp; CTO of MindsDB and a visiting scholar at UC Berkeley researching machine learning automation and explainability. He has worked for a number of data-intensive start-ups, most recently working with Aneesh Chopra (the first CTO in the US government) building data systems that analyze billions of patients records and lead to highest savings for millions of patients, he started his work on scaling solutions using machine learning in early 2008 while working as first full time engineer at Couchsurfing where he helped grow the company from a few thousand users to a few million. Jorge had degrees in electrical engineering &amp; computer science, including a masters degree in computer systems (with a focus on applied Machine Learning) from the Australian National University.</p>
   description: >-
@@ -226,6 +281,11 @@ talks:
   speaker: Jorge Torres
   speakerimg: https://secure.gravatar.com/avatar/03886c577a1c4d30efa531b8f85aa80f?s=500
   title: Machine Learning Democratization with Python
+  day: sat
+  track: 2
+  time: "10:20"
+  dur: "00:40"
+
 - bio: |-
     <p><strong>Joshua Arvin Lat</strong> is the <strong>Chief Technology Officer</strong> (CTO) of <strong>Complete Business Online</strong>. He previously served as the <strong>Director for Software Development and Engineering</strong> for multiple startups which allowed him to see the bigger picture and be more effective as a professional and leader. For the past couple of years, he has been sharing his knowledge in several conferences around the country to discuss practical strategies for companies and professionals.</p>
   description: >-
@@ -248,6 +308,12 @@ talks:
   speaker: Korakot Chaovavanich
   speakerimg: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/25745/fullsizeoutput_b7.jpeg
   title: Advanced Google Colaboratory
+  day: sun
+  track: 2
+  time: "15:20"
+  dur: "00:40"
+
+
 - bio: |-
     <p>I established my company called moegi Co., Ltd. to start the drone business.
     I am an engineer of the front-end system, but recently I have been focued on RaspberryPi and Arduino, and have been actively transmitting mechanisms in which objects move in reality by using Python language.
@@ -283,6 +349,11 @@ talks:
   speaker: Manuel Riel
   speakerimg: https://secure.gravatar.com/avatar/24ba35029a2b10d0af542d213cfdaf3c?s=500
   title: Adding a GraphQL API to Django (with Vue.js frontend)
+  day: sun
+  track: 1
+  time: "14:55"
+  dur: "00:40"
+
 - bio: |-
     <p>Mark has worked in IT for over 20 years in Europe and Southeast Asia. His experience spans IT operations, software engineering, data systems, product management and project management. He has worked in top multinationals, SMEs and start-ups.</p>
   description: >-
@@ -303,6 +374,11 @@ talks:
   speaker: Martin Andrews
   speakerimg: https://secure.gravatar.com/avatar/eedd4ff31246cafae4a8ebbf08260159?s=500
   title: 'First steps in Deep Learning with TensorFlow 2.0 : CNNs'
+  day: sun
+  track: 1
+  time: "15:45"
+  dur: "00:40"
+
 - bio: |-
     <p>I'm a Full Stack Developer, Developer Evangelist, Auth0 Ambassador, GDG Ranchi Organizer, and Mozilla Representative. I love speaking on Serverless, Authentication &amp; Authorization, Google Technologies, Security, Web Extensions and Virtual Reality at different meet-ups and conferences.</p>
   description: >-
@@ -322,6 +398,11 @@ talks:
   speaker: Mishari Muqbil
   speakerimg: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/27090/IMG-0002.JPG
   title: Teaching Coding To Kids
+  day: sun
+  track: 4
+  time: "09:00"
+  dur: "02:20"
+
 - bio: "<dl class=\"docutils\">\n<dt>Dali SOLA is a Data science enthusiast with experience\
     \ in various aspects of NLP and machine translation.</dt>\n<dd>Dali had an engineer\
     \ degree from at TEK-UP University in Tunisia and studied two Master degree in\n\
@@ -340,6 +421,11 @@ talks:
   speakerimg: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/27090/IMG-0002.JPG
   title: 'Unlocking the power of natural language by machine translation: how python
     could serve my purpose?'
+  day: sun
+  track: 2
+  time: "14:55"
+  dur: "00:40"
+
 - bio: |-
     <p><strong>Nithiroj Tripatarasit</strong></p>
     <p><em>Lifelong learner, tech lover, and deep learning enthusiast.</em></p>
@@ -369,6 +455,11 @@ talks:
   speaker: Nithiroj Tripatarasit
   speakerimg: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/27090/IMG-0002.JPG
   title: Facial Keypoints Detection with PyTorch
+  day: sat
+  track: 3
+  time: "15:20"
+  dur: "00:40"
+
 - bio: |-
     <p>Noah,
     PyCon Nomad
@@ -387,6 +478,11 @@ talks:
   speaker: Noah
   speakerimg: https://secure.gravatar.com/avatar/f84b4128e61163fad7751e4dd8ebac50?s=500
   title: Ready to say goodbye to Python 2.7 ! ?
+  day: sun
+  track: 3
+  time: "09:00"
+  dur: "00:40"
+
 - bio: |-
     <p>Noah Kantrowitz is a web developer turned infrastructure automation enthusiast, and all around engineering rabble-rouser. By day he runs an infrastructure team at Ridecell and by night he makes candy and stickers. He is an active member of the DevOps community, and enjoys merge commits, cat pictures, and beards.</p>
   description: >-
@@ -406,6 +502,11 @@ talks:
   speaker: Pisuth Daengthongdee
   speakerimg: https://secure.gravatar.com/avatar/02db6091a997dc75b39fddfe6a740494?s=500
   title: Raiden Network for instant crypto payment & lower fees
+  day: sat
+  track: 2
+  time: "11:10"
+  dur: "00:40"
+
 - bio: |-
     <p>I am a Data Scientist (First Senior Vice President) at Siam Commercial Bank PCL. Beside Python, I'm also into Mathematica, and did my doctorate entirely in C++. Beside Data Science, I'm involved in Quantitative Analytics in general, Financial Engineering and Risk Management in particular (although much less so these days). Beside Machine Learning, my research interest span to Graph-Theoretic/Network Model, Copula Functional, Cybernetics, and (obviously) Fuzzy Multi-Criteria Decision Model.</p>
   description: >-
@@ -417,6 +518,11 @@ talks:
   speakerimg: https://secure.gravatar.com/avatar/02ef5c925c1e92968925675e253a72cc?s=500
   title: Fuzzy Multi-Criteria Portfolio Optimisation with Python (and maybe a little
     bit of Mathematica)
+  day: sun
+  track: 1
+  time: "09:00"
+  dur: "00:40"
+
 - bio: "<p>Rae Knowler is a web developer at Liip in Z\xFCrich, where they develop\
     \ product data APIs and work on Open Data projects. They are interested in the\
     \ fascinating, comical and sometimes tragic results of attempting to cram the\
@@ -429,6 +535,11 @@ talks:
   speaker: Rae Knowler
   speakerimg: https://secure.gravatar.com/avatar/843df29a0383ee0094a5caa2defd8707?s=500
   title: 'Hypothesis: Property-Based Testing for Python'
+  day: sun
+  track: 3
+  time: "14:05"
+  dur: "00:40"
+
 - bio: |-
     <p>Rahul Bhatia is a self-taught Data Scientist and Full-stack Web Developer. I have experience in organizing several talks as a Developer Student Club Lead at our campus, which is an initiative by Google Developers, promoting the developer culture at college campuses throughout several countries through the DSC program. I love sharing knowledge with fellow developers and organizing and delivering technical sessions. I am currently a Data Science Intern at Innovaccer, a healthcare company focused on "Righting the wrongs of healthcare technology"</p>
     <p>I don't listen to a lot of pop music but I love rock music. Chester from Linkin Park was my favourite. Apart from that, I am a solo traveller and love wadering at new places.</p>
@@ -440,6 +551,11 @@ talks:
   speaker: Rahul Bhatia
   speakerimg: https://secure.gravatar.com/avatar/e16d4591c7f44180024093015eec7512?s=500
   title: Visualize the Black Box - An introduction to Interpretable Machine Learning
+  day: sun
+  track: 4
+  time: "13:15"
+  dur: "02:20"
+
 - bio: |-
     <p>Robert Owen worked for Oracle as Program Director for Asia-Pacific. Before that he worked for Ericsson Telecommunications. Robert was a member of the Australian delegation to the International Telecommunications Union, ITU, in Geneva, Switzerland where he worked on global telecommunications policy. A few years ago he spat his dummy at the amount of work Oracle expected him to do, resigned and enrolled for a PhD at the University of Melbourne, Australia. He expects to complete his PhD computer modelling infectious animal diseases later this year.</p>
   description: >-
@@ -450,6 +566,11 @@ talks:
   speaker: Robert Owen
   speakerimg: https://secure.gravatar.com/avatar/3bd96a0518aafe7632c76cccabc3501d?s=500
   title: The Buzz about Bees
+  day: sat
+  track: 2
+  time: "12:00"
+  dur: "00:40"
+
 - bio: "<p>Sam is a Google Developer Expert for Machine Learning and is a co-founder\
     \ of Red Dragon AI a deep tech company based in Singapore. He has extensive experience\
     \ in startups and mobile applications and is helping developers and companies\
@@ -472,6 +593,11 @@ talks:
     Colab outlining the basics of Deep Learning and building models.
   speaker: Sam Witteveen + Martin Andrews
   title: Deep Learning Introductory Workshop with TensorFlow 2.0
+  day: sat
+  track: 4
+  time: "13:40"
+  dur: "02:20"
+
 - bio: |-
     <p>Sara is a seasoned software engineer and a data science enthusiast. She is currently undergoing a master in data science in the UK, and a research in deep learning for medical imaging. When she is not coding, she spends her free time baking sweet treats and watching Rick and Morty.</p>
   description: >-
@@ -494,6 +620,11 @@ talks:
   speaker: Sarthak Deshwal
   speakerimg: https://secure.gravatar.com/avatar/ebb0ce50f3e93125e7f5fe4406a78723?s=500
   title: A resilient, scalable tracing and analysis system for micro-services - HayStack
+  day: sun
+  track: 3
+  time: "14:55"
+  dur: "00:40"
+
 - bio: |-
     <p>I am working as a part of the development team of [Tensor]werk, an infrastructure development company focusing on deep learning deployment problems. I and my team focus on building open source tools for setting up a seamless deep learning workflow. I have been programming since 2012 and started using python since 2014 and moved to deep learning in 2015. I am an open source enthusiast and I spend most of my research time on improving interpretability of AI models using <a class="reference external" href="https://turingnetwork.ai">TuringNetwork</a>. I have authored a deep learning book (<a class="reference external" href="https://github.com/hhsecond/HandsOnDeepLearningWithPytorch">yet to publish</a>). I go by hhsecond on internet</p>
   description: >-
@@ -504,6 +635,11 @@ talks:
   speaker: Sherin Thomas
   speakerimg: https://secure.gravatar.com/avatar/c32e9a85da547a9e816d5ff6696957e8?s=500
   title: Production-ize deep learning with PyTorch, RedisAI and Hangar
+  day: sat
+  track: 1
+  time: "11:10"
+  dur: "00:40"
+
 - bio: |-
     <p>Hi there! I am a software engineer who uses vim at Pronto Tools and also a GirlsWhoDev organizer for around 4 years. I have organized many tech events for girls who want to learn coding even if they are not in the tech industry such as girls learning Python. I am also a co-organiser with Django girls for building a website with Django in Bangkok. Apart from my tech life, I'm a dog person. I enjoy singing, dancing and watching a movie and a series.</p>
   description: >-
@@ -513,6 +649,11 @@ talks:
   speaker: Sudarat Chattanon
   speakerimg: https://secure.gravatar.com/avatar/7300910aa33d37a8a78a64270f6283b0?s=500
   title: Python for beginners
+  day: sat
+  track: 4
+  time: "10:20"
+  dur: "02:20"
+
 - bio: |-
     <p>I am a pre final student at The LNM Institute of Information Technology pursuing B-Tech in Computer Science Engineering. I have a Deep interest in open source technologies, and was selected as Mozilla Open Leader this year. I like to code in Python and developing Natural Language Processing applications in python. I have studied Information Retrieval as an academic course and my my interest in this field grew from there. In this talk I will elaborate on my project where I used TWEEPY library of python to extract and evaluate tweets. I believe Information Retrieval is a interesting topic and will attract audience from all the field and all experience levels.</p>
   description: >-
@@ -523,6 +664,11 @@ talks:
   speaker: TUSHAR BANSAL
   speakerimg: https://secure.gravatar.com/avatar/702e5bb554b9e0dbcf2412f9d8929aa2?s=500
   title: Developing Natural Language Processing Applications Using Python
+  day: sun
+  track: 2
+  time: "09:00"
+  dur: "00:40"
+
 - bio: |-
     <p>Takanori is a Vice Chairperson of PyCon JP Committee(www.pycon.jp).
     He is also a director of BeProud Inc.(www.beproud.jp), and his title is "Python Climber".
@@ -542,6 +688,11 @@ talks:
   speaker: Takanori Suzuki
   speakerimg: https://secure.gravatar.com/avatar/5d9cabab536050d85bfa0df9daf856d1?s=500
   title: Automate the Boring Stuff with Slackbot
+  day: sat
+  track: 3
+  time: "12:00"
+  dur: "00:40"
+
 - bio: |-
     <p>I work at an Application Security company (we45) and have a unique perspective of developing secure and deliberately insecure apps in Python and NodeJS. I have contributed to the development of several Web-Applications using Django, Djano-Rest-Framework, NodeJs and more, that have been used for Capture the Flag Contests inside and outside the organization. And also I am contributed multiple OpenSource Projects. In addition, I have extensive experience with integrating scanners, SAST and DAST toolsets into our Application Vulnerability Correlation and Aggregation product. I have over 7 years of development experience and continue to work as a full-stack developer. And also I have presented talk in DjangoCon 2018, ISACA Meetup, also gave a workshop about container orchestration and Serverless in Lascon, Recently gave a talk in DevSecCon Singapore 2019.</p>
   description: >-
@@ -554,6 +705,11 @@ talks:
   speaker: Tilak T
   speakerimg: https://secure.gravatar.com/avatar/3852521603c21de17cdab3adf97ac91a?s=500
   title: Unique ways to Hack into a Python Web Service
+  day: sat
+  track: 3
+  time: "10:20"
+  dur: "00:40"
+
 - bio: |-
     <p>Viral Parmar is a Serial entrepreneur who runs ComExpo Cyber security company as well as Infinite Defense Foundation a non-profit organization in India. He is a Developer Advocate, Productivity Hacker, Open Source Strategist, Technical Evangelist, Community Liaison, International TechSpeaker, he is a Cyber Security researcher by profession and open source enthusiast working in a field of information security from last three years with the expertise in Cyber Crime Investigation, Public Key Infrastructure, Social Engineering, Web App Penetration Testing, Digital Forensics and Mobile Security. He found sever vulnerability in 150+ well known websites like Intel, your story and solved more than 100 cases of cyber-crime &amp; online frauds. He is famous for his research Cyber Disorder and Who is spying on you. Trained 150,000+ people till now and aware them about privacy and security. Given Seminars and workshops in 150+ Organizations. He is Working with Mozilla foundation from last 2 years as Reps, Mentor in Mozilla Open Leadership Project, Coach(Privacy and Security) in MozSprint 2018, also working with L10N project on Pontoon, Rust and WebVR projects.</p>
   description: >-
@@ -564,6 +720,11 @@ talks:
   speaker: Viral Parmar
   speakerimg: https://secure.gravatar.com/avatar/f39b54f90f14174754a7a1671cc8b008?s=500
   title: JWT authentication with Django
+  day: sat
+  track: 3
+  time: "12:30"
+  dur: "00:40"
+
 - bio: |-
     <p>I'm a computer scientist with a passion for programming languages, and have been working as a software engineer in the Infrastructure Team at Facebook London since 2016. I've been working with Python on and off for the past 10 years, but recently it has become an area close to my heart.</p>
     <p>I'm the father of an awesome little dude, husband to an amazing wife, and when I'm not spending time with my family,  work, and open source, I'm a captain of a competitive Overwatch team.</p>
@@ -574,3 +735,88 @@ talks:
   speaker: Zsolt Dollenstein
   speakerimg: https://secure.gravatar.com/avatar/c64a6a9dfd72d4d6fe680f9cfbf46f58?s=500
   title: Any Code Formatter You Like - As Long As It's Black
+  day: sun
+  track: 2
+  time: "15:45"
+  dur: "00:40"
+
+- bio: |-
+    Anyone can signup at registration
+  description: >-
+    5 min timed talks by anyone who signs up at registration
+  speaker: Signup
+  speakerimg:
+  title: Lightning Talks
+  day: sat
+  track:
+    - 1
+    - 2
+    - 3
+    - 4
+  time: "17:00"
+  dur: "00:45"
+
+- bio: |-
+    Anyone can signup at registration
+  description: >-
+    5 min timed talks by anyone who signs up at registration
+  speaker: Signup
+  speakerimg:
+  title: Lightning Talks
+  day: sun
+  track:
+    - 1
+    - 2
+    - 3
+    - 4
+  time: "16:35"
+  dur: "01:00"
+
+- bio: |-
+    Catered by Ginger Farm
+  description: >-
+    Lunchboxes will be served on Level 6 and Level 7
+  speaker: Ginger Farm
+  speakerimg:
+  title: Lunch
+  day: sat
+  track:
+    - 1
+    - 2
+    - 3
+    - 4
+  time: "12:40"
+  dur: "01:00"
+
+- bio: |-
+    Catered by Ginger Farm
+  description: >-
+    Lunchboxes will be served on Level 6 and Level 7
+  speaker: Ginger Farm
+  speakerimg:
+  title: Lunch
+  day: sun
+  track:
+    - 1
+    - 2
+    - 3
+    - 4
+  time: "12:15"
+  dur: "01:00"
+
+- bio: |-
+    Catered by ...
+  description: >-
+    Served on Level 6
+  speaker: ...
+  speakerimg:
+  title: Morning Tea & Coffee
+  day: sat
+  track:
+    - 1
+    - 2
+    - 3
+    - 4
+  time: "09:50"
+  dur: "00:30"
+
