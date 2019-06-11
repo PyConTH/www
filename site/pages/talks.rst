@@ -1,7 +1,7 @@
 
 .. title: Talks
 .. slug: talks
-.. date: 2019-06-10 10:57:04 UTC+07:00
+.. date: 2019-06-11 14:26:51 UTC+07:00
 .. tags:
 .. category:
 .. link:
@@ -822,6 +822,26 @@ Haystack is an Expedia-backed open source distributed tracing project to facilit
 
 
 
+Tech Skills: What's Hot And What's Not.
+=======================================
+
+
+by Shane Torr
+
+Format: Talk (~30-45 minutes)
+
+Abstract
+--------
+
+Wonder if your skills are in demand or if you need to change direction? This session will give context to the current tech skills market in Thailand, and which web development skills are most in demand now.  We’ll see how Python compares to other languages, and what future prospects might be for Python Developers.
+
+
+
+
+.. class:: clearfix
+
+
+
 Production-ize deep learning with PyTorch, RedisAI and Hangar
 =============================================================
 
@@ -918,26 +938,6 @@ Abstract
 
 Microservices are taking over the world. Rest-framework is accelerating this because of its ease and flexibility. 
 Developers often use and develop REST-based applications because it's exciting to work with. But, they forget about security which leads to compromised and exploited applications.
-
-
-
-
-.. class:: clearfix
-
-
-
-JWT authentication with Django
-==============================
-
-
-by Viral Parmar
-
-Format: Talk (~30-45 minutes)
-
-Abstract
---------
-
-Talk is about the JWT Authentication with Django which plays an important role in modern day application development where it is a lot more than just the login screen, People will get know about different ways of authentication and authorization, concepts that make up modern identity.
 
 
 

@@ -64,6 +64,16 @@ Currently i'm trying to make my own company in robotics field to serve humanity 
     'talk_format': "Talk (~30-45 minutes)"
         })
 
+xtratalks.append({
+    "name": "Shane Torr",
+    "email": "shanetorr@gummybear.asia",
+    "title": "Tech Skills: What's Hot And What's Not.",
+    "abstract": """Wonder if your skills are in demand or if you need to change direction? This session will give context to the current tech skills market in Thailand, and which web development skills are most in demand now.  We’ll see how Python compares to other languages, and what future prospects might be for Python Developers.""",
+    "twitter":"",
+    "avatar":"",
+    "bio": """Shane is CEO at Gummy Bear Tech Recruitment. He has over 30 years international experience in IT, and has been based in Thailand for the last 17 years where he’s been focusing on technical recruitment.  Strong interest in SaaS applications, cloud technologies, and Linux desktops""",
+    'talk_format': "Talk (~30-45 minutes)"
+        })
 
 
 talks = json.load(open(FILELOC + 'PyCon Thailand 2019 Submissions.json'))
