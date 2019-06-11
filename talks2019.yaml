@@ -945,14 +945,14 @@ talks:
   description: level 6
   day: sat
   track:
-  time: "8:00"
+  time: "08:00"
   dur: "00:55"
 
 - title: Welcome Speeches
   description: Some words to open PyCon Thailand 2019
   day: sat
   track: 1
-  time: "8:55"
+  time: "08:55"
   dur: "00:10"
 
 - title: How to meaningfully contribute to Python without being very good at programming
