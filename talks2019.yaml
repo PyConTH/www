@@ -915,12 +915,13 @@ talks:
   time: "12:15"
   dur: "01:00"
 
-- bio: |-
+- title: Morning Tea & Coffee
+  bio: |-
     Catered by ...
   description: >-
   speaker: Served on Level 6
   speakerimg:
-  title: Morning Tea & Coffee
+
   day: sat
   track:
   time: "09:50"
@@ -934,7 +935,14 @@ talks:
     croissants and chat with WWC members and other Pythonistas.
   speaker: Women Who Code
   bio: |-
-    Catered by ...
+    Women Who Code, a non-profit organization founded in 2011, dedicated to inspiring women to excel in technology
+    careers by providing experience for community participants and supporters. We empower with skills needed
+    for professional achievement and educate companies to better promote, retain and hire talented women. We
+    build a global community where networking and mentorship is valued and develop role models and support this
+    generation of engineers.
+
+    https://www.meetup.com/WOMEN-WHO-CODE-BKK
+
   speakerimg:
   day: sat
   track:
