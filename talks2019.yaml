@@ -1,3 +1,14 @@
+days:
+- sat: Saturday 15th June
+- sun: Sunday 16th June
+
+tracks:
+  - 1: Track 1: Auditorium
+  - 2: Track 2: Forum
+  - 3: Track 3: Cubiculum
+  - 4: Track 4: Aquarium
+
+
 talks:
 - bio: |-
     <p>Hie, I'm Akshat, a Govt. of India recognized Silicon Valley fellow and a Harvard University Conference Scholar. Currently, I'm working on the problem of distracted driving and recently built an Android app (visit: inSessionApp.com) to manage my calls and acknowledging callers while I sleep. I've previously worked at a Thailand based and a California based company. This summers, I'm working with an India based startup as a Software Engineer. Above all this, I love to empower people in my connection.</p>
@@ -24,6 +35,11 @@ talks:
   speaker: Alex Khaerov
   speakerimg: https://secure.gravatar.com/avatar/320f3b558c773592bba16c976d1b28d1?s=500
   title: Kill the mutants, protect your code!
+  day: sat
+  track: 2
+  time: "16:10"
+  dur: "00:40"
+
 - bio: |-
     <p>Studied Math, building systems, loves traveling and puns.</p>
   description: >-
@@ -48,6 +64,11 @@ talks:
   speaker: Andri Yadi
   speakerimg: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/47721/RIOT_DSC1564_copy.JPG
   title: 'AIoT: Intelligence on Low Power Microcontroller, with MicroPython'
+  day: sun
+  track: 2
+  time: "09:50"
+  dur: "00:40"
+
 - bio: "<ul class=\"simple\">\n<li>Currently, working as a Platform Software Engineer\
     \ at Bigbasket, India (India's largest online food and grocery store).</li>\n\
     <li>MSc in Advanced Computing (Machine Learning, Artifical Intelligence, Robotics,\
@@ -117,6 +138,12 @@ talks:
   speaker: Avneet Kaur
   speakerimg: https://secure.gravatar.com/avatar/c4b633c794222b514d8881e5839da63a?s=500
   title: Demystifying Conversational AI with Python
+  day: sat
+  track: 3
+  time: "11:10"
+  dur: "00:40"
+
+
 - bio: |-
     <p>My real name is Chanapai Chuadchum my nick name is Korn i was started my work on roobtics since i was 10 on the and i got the thrid place on the competition in Solar innovative contest when i was 11 years old since then i'm dedicated to working on robotics to develop the useful and sophisticated robots to make them life like as most as i can currently i'm studying robotics engineer at the pensylavania university online in Robotics Engineer Master degree
     Currently i'm trying to make my own company in robotics field to serve humanity as much as possible to eleminate the time that we need to spend on unneccessary thing.</p>
@@ -145,6 +172,11 @@ talks:
   speakerimg: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/45031/profile.jpg
   title: 'How pyThaiNLP''s thai2fit Outperforms Google''s BERT: State-of-the-Art Thai
     Text Classification and Beyond'
+  day: sat
+  track: 1
+  time: "13:40"
+  dur: "00:40"
+
 - bio: |-
     <p>Chie Hayashida is a Software Engineer from Japan. She is working at Cookpad.Inc which is the worldwide recipe sharing service. She loves programming and computer science. She is highly skilled with DWH architecture and ML pipelines. She is a contributor to Apache Spark, Tensorflow, Apache Airflow and so on.</p>
   description: >-
@@ -202,6 +234,12 @@ talks:
   speaker: Elisha Tan
   speakerimg: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/15327/elisha-speaker_copy.png
   title: Program Thinking - How do you design programs for diversity?
+  day: sat
+  track: 1
+  time: "15:20"
+  dur: "00:40"
+
+
 - bio: |-
     <p>Application Security Consultant, Skilled in Security Requirement Engineering, Threat Modeling, Static Application Security Testing, Dynamic Application Security Testing,  Secure SDLC, DevSecOps. Hold Certified Ethical Hacker certification, Speaker for several conferences in Jakarta, Kuala Lumpur, Singapore with topic related to application security.
     Bachelor's Degree focused in Informatics Engineering from Telkom University.</p>
@@ -258,6 +296,11 @@ talks:
   speaker: Joe Chasinga
   speakerimg: https://secure.gravatar.com/avatar/c06b54277a2961c3e0f735aa0c8d85f9?s=500
   title: 'Marlin: A Smali to Python Transpiler for Android Hacking'
+  day: sat
+  track: 2
+  time: "14:30"
+  dur: "00:40"
+
 - bio: |-
     <p>I love to develop software using Python/Django, and manage e-commerce website in Korea.</p>
     <p>I lived in Thailand for 4 years, and I taught some CS subjects in Naresuan University for 2 years.</p>
@@ -297,6 +340,12 @@ talks:
   speakerimg: https://secure.gravatar.com/avatar/e412f3f4cb20c7070822a6faebf656d1?s=500
   title: Designing and Building Serverless Machine Learning-powered Applications with
     Python
+  day: sat
+  track: 1
+  time: "12:00"
+  dur: "00:40"
+
+
 - bio: |-
     <p>I started working as a data scientist in July, 2016. Though I have been using regular expressions to clean data for years, since 1999. I finished an M.Phil in Computer Speech and Language Processing from University of Cambridge, UK.</p>
     <p>My focus now includes 2 topics: Thai NLP and Google Colaboratory for knowledge sharing. My main contributions are for <a class="reference external" href="https://github.com/PyThaiNLP/pythainlp">PyThaiNLP project</a> and Colab notebooks shared on <a class="reference external" href="https://www.facebook.com/groups/colab.thailand/">Colab Thailand Facebook Group</a></p>
@@ -328,6 +377,12 @@ talks:
   speaker: Lina KATAYOSE(selina)
   speakerimg: https://secure.gravatar.com/avatar/442340722ced9c7c1bdf618ece413c69?s=500
   title: Pyladies and Importance of community participation
+  day: sun
+  track: 2
+  time: "14:05"
+  dur: "00:40"
+
+
 - bio: |-
     <p>I'm a serial online entrepreneur who is always looking to add useful products to the world  both open source and paid. My standard toolbox includes Python and Django (and sometimes WordPress) on the backend and Vue.js on the frontend. I also do data wrangling and some machine learning in Jupyter, Pandas and Keras.</p>
     <p>My latest startup is a hosted backup service for Borg: <a class="reference external" href="https://www.borgbase.com/">https://www.borgbase.com/</a></p>
@@ -364,6 +419,12 @@ talks:
   speaker: Mark Hollow
   speakerimg: https://secure.gravatar.com/avatar/1f9b0b1483c7edc284513caeefa40fb1?s=500
   title: Python in Production Engineering @ Facebook
+  day: sun
+  track: 1
+  time: "16:10"
+  dur: "00:40"
+
+
 - bio: |-
     <p>Martin is a Google Developer Expert in Machine Learning based in Singapore - and was doing Neural Networks before the last AI winter...  He's an active contributor in the Singapore data science community, and is the co-host of the Singapore TensorFlow and Deep Learning MeetUp (with now with 3700+ members in Singapore).</p>
   description: >-
@@ -389,8 +450,13 @@ talks:
   speaker: Md Shahbaz Alam
   speakerimg: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/19104/mdsbzalam.jpg
   title: Securing your Python APIs with Auth0
+  day: sun
+  track: 3
+  time: "10:40"
+  dur: "00:40"
+
 - bio: |-
-    <p>CEO of Zymple</p>
+    CEO of Zymple
   description: >-
     This is a workshop for adults such as parents, teachers, community organizers
     and others interested in organizing classes where kids learn how to program Python
@@ -493,6 +559,11 @@ talks:
   speaker: Noah Kantrowitz
   speakerimg: https://secure.gravatar.com/avatar/cf611565f0b79abd0b3dc200ad867661?s=500
   title: 'Forklifting Django: Migrating A Complex Django App To Kubernetes'
+  day: sun
+  track: 1
+  time: "10:40"
+  dur: "00:40"
+
 - bio: |-
     <p>Pisuth turns himself into a blockchain developer with extensive skills on IoT and Chatbot since 2017. Prior that time, he was working in media industry for 8 years in Thailand experienced using Python on system monitoring and systems integration.  He also won 7 blockchain competition/hackathon in the past 2 years include ETHSingapore, Binance and NEO and has strong passion on blockchain technology and distributed economy.</p>
   description: >-
@@ -587,6 +658,11 @@ talks:
   speaker: Sam Witteveen
   speakerimg: https://secure.gravatar.com/avatar/02da2ef8a441965087137c2691e39d34?s=500
   title: The Fastest Path to Deep Learning
+  day: sat
+  track: 1
+  time: "09:50"
+  dur: "00:40"
+
 - description: >-
     This is a full workshop introducing the concepts of Deep Learning in TensorFlow
     2.0 It would give people a set of basic notebooks that they can run in Google
@@ -607,6 +683,11 @@ talks:
   speaker: Sara Iris Garcia
   speakerimg: https://secure.gravatar.com/avatar/da7607390ad88d1592247079d2381321?s=500
   title: Addressing class imbalance in Machine Learning
+  day: sun
+  track: 1
+  time: "14:05"
+  dur: "00:40"
+
 - bio: |-
     <p>&lt;p&gt;A passionate software developer, Sarthak is a core contributor in Expedia's Mobile Team. He weaves the magic in his code with Python, Java, Kotlin, Scala, C and  JavaScript. Having mastered these languages all by himself, through self projects and open source contributions, he knows what it takes to not just write code but write code that is readable, efficient and maintainable.&lt;/p&gt;</p>
     <blockquote>
@@ -819,4 +900,93 @@ talks:
     - 4
   time: "09:50"
   dur: "00:30"
+
+- title: Breakfast @ Starbucks with Women who Code and Pycon Thailand
+  description: >-
+    To kick off the 2-day Pycon marathon, join us for a meet and greet breakfast with Women who Code at Starbucks.
+
+    Even if you're not attending Pycon or did not manage to get a ticket, join us for a free cup of coffee, some
+    croissants and chat with WWC members and other Pythonistas.
+  speaker: Women Who Code
+  bio: |-
+    Catered by ...
+  speakerimg:
+  day: sat
+  track:
+  time: "07:30"
+  dur: "01:10"
+
+- title: Registration and Welcome Coffee
+  description: level 6
+  day: sat
+  track:
+  time: "8:00"
+  dur: "00:55"
+
+- title: Welcome Speeches
+  description: Some words to open PyCon Thailand 2019
+  day: sat
+  track: 1
+  time: "8:55"
+  dur: "00:10"
+
+- title: How to meaningfully contribute to Python without being very good at programming
+  speaker: David Cournapeau
+  day: sat
+  track: 1
+  time: "09:05"
+  dur: "00:45"
+
+- title: PyTorch as a modern scientific computing environment?
+  speaker: Adam Paszke
+  day: sat
+  track: 1
+  time: "17:45"
+  dur: "00:45"
+
+- title: Party
+  speaker: Light entertainment
+  description:
+  day: sat
+  track: 1
+  time: "16:30"
+  dur: "02:30"
+
+- title: Registration / Welcome Coffee
+  day: sun
+  track:
+  time: "08:00"
+  dur: "01:00"
+
+- title: Python Everywhere?
+  speaker: Russell Keith-Magee
+  description:
+  day: sun
+  track: 1
+  time: "11:30"
+  dur: "00:45"
+
+- title: How Python Can Excel
+  speaker: Katie McLaughlin
+  description:
+  bio:
+  day: sun
+  track: 1
+  time: "17:45"
+  dur: "00:45"
+
+- title: Closing
+  speaker: PyCon Thailand Team
+  description: A few words to wrap up what was an amazing event and thank everyone who worked so hard to make it happen
+  bio:
+  day: sun
+  track: 1
+  time: "18:20"
+  dur: "00:10"
+
+
+
+
+
+
 
