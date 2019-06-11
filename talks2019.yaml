@@ -1,14 +1,8 @@
-days:
-- sat: Saturday 15th June
-- sun: Sunday 16th June
-
 tracks:
-- 1: Track 1: Auditorium
-- 2: Track 2: Forum
-- 3: Track 3: Cubiculum
-- 4: Track 4: Aquarium
-
-
+- 1: "Track 1: Auditorium"
+- 2: "Track 2: Forum"
+- 3: "Track 3: Cubiculum"
+- 4: "Track 4: Aquarium"
 talks:
 - bio: |-
     <p>Hie, I'm Akshat, a Govt. of India recognized Silicon Valley fellow and a Harvard University Conference Scholar. Currently, I'm working on the problem of distracted driving and recently built an Android app (visit: inSessionApp.com) to manage my calls and acknowledging callers while I sleep. I've previously worked at a Thailand based and a California based company. This summers, I'm working with an India based startup as a Software Engineer. Above all this, I love to empower people in my connection.</p>
@@ -20,7 +14,7 @@ talks:
   speaker: AKSHAT SHARMA
   speakerimg: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/48515/IMG_20180907_122310.jpeg
   title: Python made my dream come true
-  day: sun
+  day: Sunday 16th June
   track: 3
   time: "09:50"
   dur: "00:40"
@@ -35,7 +29,7 @@ talks:
   speaker: Alex Khaerov
   speakerimg: https://secure.gravatar.com/avatar/320f3b558c773592bba16c976d1b28d1?s=500
   title: Kill the mutants, protect your code!
-  day: sat
+  day: Saturday 15th June
   track: 2
   time: "16:10"
   dur: "00:40"
@@ -49,7 +43,7 @@ talks:
   speaker: Amir Arad
   speakerimg: https://secure.gravatar.com/avatar/7ebded1e9171acbf1b8cbf3532e25172?s=500
   title: 'From 0 to Awesome: How we got Python to supercharge our ML stack'
-  day: sun
+  day: Sunday 16th June
   track: 1
   time: "14:05"
   dur: "00:40"
@@ -64,7 +58,7 @@ talks:
   speaker: Andri Yadi
   speakerimg: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/47721/RIOT_DSC1564_copy.JPG
   title: 'AIoT: Intelligence on Low Power Microcontroller, with MicroPython'
-  day: sun
+  day: Sunday 16th June
   track: 2
   time: "09:50"
   dur: "00:40"
@@ -104,7 +98,7 @@ talks:
   speakerimg: https://secure.gravatar.com/avatar/0233f28830fe1e51ae0b7783e5838db6?s=500
   title: 'Understanding and Implementing Generative Adversarial Networks (GANs): One
     of the BIGGEST Breakthroughs in the Deep Learning Revolution'
-  day: sat
+  day: Saturday 15th June
   track: 3
   time: "13:40"
   dur: "00:40"
@@ -120,7 +114,7 @@ talks:
   speaker: Anthony Khong
   speakerimg: https://secure.gravatar.com/avatar/62a12078cfba41bcd8d0886a7a7d3a20?s=500
   title: 'Functional Programming in Python: Lessons from Haskell and Clojure'
-  day: sun
+  day: Sunday 16th June
   track: 3
   time: "13:15"
   dur: "00:40"
@@ -138,7 +132,7 @@ talks:
   speaker: Avneet Kaur
   speakerimg: https://secure.gravatar.com/avatar/c4b633c794222b514d8881e5839da63a?s=500
   title: Demystifying Conversational AI with Python
-  day: sat
+  day: Saturday 15th June
   track: 3
   time: "11:10"
   dur: "00:40"
@@ -156,7 +150,7 @@ talks:
   speaker: Chanapai Chuadchum
   speakerimg: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/45031/profile.jpg
   title: How to build an open source catbot with Python, a 3D printer and a microcontroller
-  day: sun
+  day: Sunday 16th June
   track: 3
   time: "15:45"
   dur: "00:40"
@@ -172,7 +166,7 @@ talks:
   speakerimg: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/45031/profile.jpg
   title: 'How pyThaiNLP''s thai2fit Outperforms Google''s BERT: State-of-the-Art Thai
     Text Classification and Beyond'
-  day: sat
+  day: Saturday 15th June
   track: 1
   time: "13:40"
   dur: "00:40"
@@ -187,7 +181,7 @@ talks:
   speaker: Chie Hayashida
   speakerimg: https://secure.gravatar.com/avatar/7f7abff13e7c5ad15bfa3a823313ef9d?s=500
   title: Understanding of distributed processing in Python
-  day: sun
+  day: Sunday 16th June
   track: 1
   time: "13:15"
   dur: "00:40"
@@ -201,7 +195,7 @@ talks:
   speaker: Doni Rubiagatra
   speakerimg: https://secure.gravatar.com/avatar/eed0ef6cc8a0f435d5d8c9a5648f1551?s=500
   title: Interactive Python Dashboards with Plotly and Dash
-  day: sat
+  day: Saturday 15th June
   track: 1
   time: "10:20"
   dur: "00:40"
@@ -217,7 +211,7 @@ talks:
   speaker: Drishti Jain
   speakerimg: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/36129/WhatsApp_Image_2019-04-21_at_8.52.00_PM.jpeg
   title: When life gives you Orange, make data speak volumes!
-  day: sat
+  day: Saturday 15th June
   track: 3
   time: "16:10"
   dur: "00:40"
@@ -234,7 +228,7 @@ talks:
   speaker: Elisha Tan
   speakerimg: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/15327/elisha-speaker_copy.png
   title: Program Thinking - How do you design programs for diversity?
-  day: sat
+  day: Saturday 15th June
   track: 1
   time: "15:20"
   dur: "00:40"
@@ -250,7 +244,7 @@ talks:
   speaker: Harley Davidson Karel
   speakerimg: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/28808/David.jpg
   title: Security Issues on your Python Code
-  day: sun
+  day: Sunday 16th June
   track: 2
   time: "10:40"
   dur: "00:40"
@@ -280,7 +274,7 @@ talks:
   speaker: Jiranun Jiratrakanvong
   speakerimg: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/45206/7566C8EA-E7E2-4867-B79A-094534D151DA.jpeg
   title: Python for Data Science Projects at Coraline
-  day: sun
+  day: Sunday 16th June
   track: 2
   time: "13:15"
   dur: "00:40"
@@ -296,7 +290,7 @@ talks:
   speaker: Joe Chasinga
   speakerimg: https://secure.gravatar.com/avatar/c06b54277a2961c3e0f735aa0c8d85f9?s=500
   title: 'Marlin: A Smali to Python Transpiler for Android Hacking'
-  day: sat
+  day: Saturday 15th June
   track: 2
   time: "14:30"
   dur: "00:40"
@@ -309,7 +303,7 @@ talks:
   speaker: Jonghwa Seo
   speakerimg: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/45418/pincoin-logo-A2.png
   title: E-commerce for Django
-  day: sat
+  day: Saturday 15th June
   track: 2
   time: "13:40"
   dur: "00:40"
@@ -324,7 +318,7 @@ talks:
   speaker: Jorge Torres
   speakerimg: https://secure.gravatar.com/avatar/03886c577a1c4d30efa531b8f85aa80f?s=500
   title: Machine Learning Democratization with Python
-  day: sat
+  day: Saturday 15th June
   track: 2
   time: "10:20"
   dur: "00:40"
@@ -340,7 +334,7 @@ talks:
   speakerimg: https://secure.gravatar.com/avatar/e412f3f4cb20c7070822a6faebf656d1?s=500
   title: Designing and Building Serverless Machine Learning-powered Applications with
     Python
-  day: sat
+  day: Saturday 15th June
   track: 1
   time: "12:00"
   dur: "00:40"
@@ -357,7 +351,7 @@ talks:
   speaker: Korakot Chaovavanich
   speakerimg: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/25745/fullsizeoutput_b7.jpeg
   title: Advanced Google Colaboratory
-  day: sun
+  day: Sunday 16th June
   track: 2
   time: "15:20"
   dur: "00:40"
@@ -377,7 +371,7 @@ talks:
   speaker: Lina KATAYOSE(selina)
   speakerimg: https://secure.gravatar.com/avatar/442340722ced9c7c1bdf618ece413c69?s=500
   title: Pyladies and Importance of community participation
-  day: sun
+  day: Sunday 16th June
   track: 2
   time: "14:05"
   dur: "00:40"
@@ -404,7 +398,7 @@ talks:
   speaker: Manuel Riel
   speakerimg: https://secure.gravatar.com/avatar/24ba35029a2b10d0af542d213cfdaf3c?s=500
   title: Adding a GraphQL API to Django (with Vue.js frontend)
-  day: sun
+  day: Sunday 16th June
   track: 1
   time: "14:55"
   dur: "00:40"
@@ -419,7 +413,7 @@ talks:
   speaker: Mark Hollow
   speakerimg: https://secure.gravatar.com/avatar/1f9b0b1483c7edc284513caeefa40fb1?s=500
   title: Python in Production Engineering @ Facebook
-  day: sun
+  day: Sunday 16th June
   track: 1
   time: "16:10"
   dur: "00:40"
@@ -435,7 +429,7 @@ talks:
   speaker: Martin Andrews
   speakerimg: https://secure.gravatar.com/avatar/eedd4ff31246cafae4a8ebbf08260159?s=500
   title: 'First steps in Deep Learning with TensorFlow 2.0 : CNNs'
-  day: sun
+  day: Sunday 16th June
   track: 1
   time: "15:45"
   dur: "00:40"
@@ -450,7 +444,7 @@ talks:
   speaker: Md Shahbaz Alam
   speakerimg: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/19104/mdsbzalam.jpg
   title: Securing your Python APIs with Auth0
-  day: sun
+  day: Sunday 16th June
   track: 3
   time: "10:40"
   dur: "00:40"
@@ -464,7 +458,7 @@ talks:
   speaker: Mishari Muqbil
   speakerimg: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/27090/IMG-0002.JPG
   title: Teaching Coding To Kids
-  day: sun
+  day: Sunday 16th June
   track: 4
   time: "09:00"
   dur: "02:20"
@@ -487,7 +481,7 @@ talks:
   speakerimg: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/27090/IMG-0002.JPG
   title: 'Unlocking the power of natural language by machine translation: how python
     could serve my purpose?'
-  day: sun
+  day: Sunday 16th June
   track: 2
   time: "14:55"
   dur: "00:40"
@@ -521,7 +515,7 @@ talks:
   speaker: Nithiroj Tripatarasit
   speakerimg: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/27090/IMG-0002.JPG
   title: Facial Keypoints Detection with PyTorch
-  day: sat
+  day: Saturday 15th June
   track: 3
   time: "15:20"
   dur: "00:40"
@@ -544,7 +538,7 @@ talks:
   speaker: Noah
   speakerimg: https://secure.gravatar.com/avatar/f84b4128e61163fad7751e4dd8ebac50?s=500
   title: Ready to say goodbye to Python 2.7 ! ?
-  day: sun
+  day: Sunday 16th June
   track: 3
   time: "09:00"
   dur: "00:40"
@@ -559,7 +553,7 @@ talks:
   speaker: Noah Kantrowitz
   speakerimg: https://secure.gravatar.com/avatar/cf611565f0b79abd0b3dc200ad867661?s=500
   title: 'Forklifting Django: Migrating A Complex Django App To Kubernetes'
-  day: sun
+  day: Sunday 16th June
   track: 1
   time: "10:40"
   dur: "00:40"
@@ -573,7 +567,7 @@ talks:
   speaker: Pisuth Daengthongdee
   speakerimg: https://secure.gravatar.com/avatar/02db6091a997dc75b39fddfe6a740494?s=500
   title: Raiden Network for instant crypto payment & lower fees
-  day: sat
+  day: Saturday 15th June
   track: 2
   time: "11:10"
   dur: "00:40"
@@ -589,7 +583,7 @@ talks:
   speakerimg: https://secure.gravatar.com/avatar/02ef5c925c1e92968925675e253a72cc?s=500
   title: Fuzzy Multi-Criteria Portfolio Optimisation with Python (and maybe a little
     bit of Mathematica)
-  day: sun
+  day: Sunday 16th June
   track: 1
   time: "09:00"
   dur: "00:40"
@@ -606,7 +600,7 @@ talks:
   speaker: Rae Knowler
   speakerimg: https://secure.gravatar.com/avatar/843df29a0383ee0094a5caa2defd8707?s=500
   title: 'Hypothesis: Property-Based Testing for Python'
-  day: sun
+  day: Sunday 16th June
   track: 3
   time: "14:05"
   dur: "00:40"
@@ -628,7 +622,7 @@ talks:
   speaker: Rahul Bhatia
   speakerimg: https://secure.gravatar.com/avatar/e16d4591c7f44180024093015eec7512?s=500
   title: Visualize the Black Box - An introduction to Interpretable Machine Learning
-  day: sun
+  day: Sunday 16th June
   track: 4
   time: "13:15"
   dur: "02:20"
@@ -648,7 +642,7 @@ talks:
   speaker: Robert Owen
   speakerimg: https://secure.gravatar.com/avatar/3bd96a0518aafe7632c76cccabc3501d?s=500
   title: The Buzz about Bees
-  day: sat
+  day: Saturday 15th June
   track: 2
   time: "12:00"
   dur: "00:40"
@@ -671,7 +665,7 @@ talks:
   speaker: Sam Witteveen
   speakerimg: https://secure.gravatar.com/avatar/02da2ef8a441965087137c2691e39d34?s=500
   title: The Fastest Path to Deep Learning
-  day: sat
+  day: Saturday 15th June
   track: 1
   time: "09:50"
   dur: "00:40"
@@ -682,7 +676,7 @@ talks:
     Colab outlining the basics of Deep Learning and building models.
   speaker: Sam Witteveen + Martin Andrews
   title: Deep Learning Introductory Workshop with TensorFlow 2.0
-  day: sat
+  day: Saturday 15th June
   track: 4
   time: "13:40"
   dur: "02:20"
@@ -698,7 +692,7 @@ talks:
   speaker: Sara Iris Garcia
   speakerimg: https://secure.gravatar.com/avatar/da7607390ad88d1592247079d2381321?s=500
   title: Addressing class imbalance in Machine Learning
-  day: sun
+  day: Sunday 16th June
   track: 1
   time: "14:05"
   dur: "00:40"
@@ -723,7 +717,7 @@ talks:
   speaker: Sarthak Deshwal
   speakerimg: https://secure.gravatar.com/avatar/ebb0ce50f3e93125e7f5fe4406a78723?s=500
   title: A resilient, scalable tracing and analysis system for micro-services - HayStack
-  day: sun
+  day: Sunday 16th June
   track: 3
   time: "14:55"
   dur: "00:40"
@@ -744,7 +738,7 @@ talks:
   speaker: Sherin Thomas
   speakerimg: https://secure.gravatar.com/avatar/c32e9a85da547a9e816d5ff6696957e8?s=500
   title: Production-ize deep learning with PyTorch, RedisAI and Hangar
-  day: sat
+  day: Saturday 15th June
   track: 1
   time: "11:10"
   dur: "00:40"
@@ -761,7 +755,7 @@ talks:
   speaker: Sudarat Chattanon
   speakerimg: https://secure.gravatar.com/avatar/7300910aa33d37a8a78a64270f6283b0?s=500
   title: Python for beginners
-  day: sat
+  day: Saturday 15th June
   track: 4
   time: "10:20"
   dur: "02:20"
@@ -781,7 +775,7 @@ talks:
   speaker: TUSHAR BANSAL
   speakerimg: https://secure.gravatar.com/avatar/702e5bb554b9e0dbcf2412f9d8929aa2?s=500
   title: Developing Natural Language Processing Applications Using Python
-  day: sun
+  day: Sunday 16th June
   track: 2
   time: "09:00"
   dur: "00:40"
@@ -805,7 +799,7 @@ talks:
   speaker: Takanori Suzuki
   speakerimg: https://secure.gravatar.com/avatar/5d9cabab536050d85bfa0df9daf856d1?s=500
   title: Automate the Boring Stuff with Slackbot
-  day: sat
+  day: Saturday 15th June
   track: 3
   time: "12:00"
   dur: "00:40"
@@ -829,7 +823,7 @@ talks:
   speaker: Tilak T
   speakerimg: https://secure.gravatar.com/avatar/3852521603c21de17cdab3adf97ac91a?s=500
   title: Unique ways to Hack into a Python Web Service
-  day: sat
+  day: Saturday 15th June
   track: 3
   time: "10:20"
   dur: "00:40"
@@ -843,10 +837,9 @@ talks:
     Wonder if your skills are in demand or if you need to change direction? This session will give context to the
     current tech skills market in Thailand, and which web development skills are most in demand now.  We’ll see how
     Python compares to other languages, and what future prospects might be for Python Developers.
-
   speaker: Shane Torr
   title: Tech Skills: What's Hot and Whats Not. How does Python stack-up against the rest?
-  day: sat
+  day: Saturday 15th June
   track: 3
   time: "14:30"
   dur: "00:40"
@@ -866,7 +859,7 @@ talks:
   speaker: Zsolt Dollenstein
   speakerimg: https://secure.gravatar.com/avatar/c64a6a9dfd72d4d6fe680f9cfbf46f58?s=500
   title: Any Code Formatter You Like - As Long As It's Black
-  day: sun
+  day: Sunday 16th June
   track: 2
   time: "15:45"
   dur: "00:40"
@@ -878,7 +871,7 @@ talks:
   speaker: Signup
   speakerimg:
   title: Lightning Talks
-  day: sat
+  day: Saturday 15th June
   track: 1
   time: "17:00"
   dur: "00:45"
@@ -890,7 +883,7 @@ talks:
   speaker: Signup
   speakerimg:
   title: Lightning Talks
-  day: sun
+  day: Sunday 16th June
   track: 1
   time: "16:35"
   dur: "01:00"
@@ -902,7 +895,7 @@ talks:
   speaker: Lunchboxes will be served on Level 6 and Level 7
   speakerimg:
   title: Lunch
-  day: sat
+  day: Saturday 15th June
   track:
   time: "12:40"
   dur: "01:00"
@@ -914,7 +907,7 @@ talks:
   speaker: Lunchboxes will be served on Level 6 and Level 7
   speakerimg:
   title: Lunch
-  day: sun
+  day: Sunday 16th June
   track:
   time: "12:15"
   dur: "01:00"
@@ -925,7 +918,7 @@ talks:
   speaker: Served on Level 6
   speakerimg:
   title: Morning Tea & Coffee
-  day: sat
+  day: Saturday 15th June
   track:
   time: "09:50"
   dur: "00:30"
@@ -940,21 +933,21 @@ talks:
   bio: |-
     Catered by ...
   speakerimg:
-  day: sat
+  day: Saturday 15th June
   track:
   time: "07:30"
   dur: "01:10"
 
 - title: Registration and Welcome Coffee
   description: level 6
-  day: sat
+  day: Saturday 15th June
   track:
   time: "8:00"
   dur: "00:55"
 
 - title: Welcome Speeches
   description: Some words to open PyCon Thailand 2019
-  day: sat
+  day: Saturday 15th June
   track: 1
   time: "8:55"
   dur: "00:10"
@@ -975,7 +968,7 @@ talks:
     the interface between cutting-edge research and product development. Beyond his work at Cogent Labs, David is also
     well known in the open source community as the original author of scikit-learn, and a major contributor to NumPy
     and SciPy.
-  day: sat
+  day: Saturday 15th June
   track: 1
   time: "09:05"
   dur: "00:45"
@@ -987,7 +980,7 @@ talks:
     experience working with large organizations like Facebook AI Research and NVIDIA. Currently, he pursues two majors
     — Computer Science and Mathematics — at the University of Warsaw. His general interests include graph theory,
     programming languages, algorithmics and machine learning.
-  day: sat
+  day: Saturday 15th June
   track: 1
   time: "17:45"
   dur: "00:45"
@@ -1006,13 +999,13 @@ talks:
     at PYCON THAILAND 2019!
 
     "Party will take place from 6:30pm to 9:00pm on Level 6 and is included in the price of your conference ticket."
-  day: sat
+  day: Saturday 15th June
   track:
   time: "16:30"
   dur: "02:30"
 
 - title: Registration / Welcome Coffee
-  day: sun
+  day: Sunday 16th June
   track:
   time: "08:00"
   dur: "01:00"
@@ -1029,7 +1022,7 @@ talks:
     He is a frequent speaker at Python and Django conferences around the globe, sharing his experiences as a FLOSS
     developer, community maintainer, and (unsuccessful) startup founder. He lives in Whadjuk Noongar country -
     otherwise known as Perth, Western Australia.
-  day: sun
+  day: Sunday 16th June
   track: 1
   time: "11:30"
   dur: "00:45"
@@ -1048,7 +1041,7 @@ talks:
 
     When she’s not changing the world, she enjoys cooking, making tapestries, and seeing just how well various
     application stacks handle emoji.
-  day: sun
+  day: Sunday 16th June
   track: 1
   time: "17:45"
   dur: "00:45"
@@ -1057,7 +1050,7 @@ talks:
   speaker: PyCon Thailand Team
   description: A few words to wrap up what was an amazing event and thank everyone who worked so hard to make it happen
   bio:
-  day: sun
+  day: Sunday 16th June
   track: 1
   time: "18:20"
   dur: "00:10"
