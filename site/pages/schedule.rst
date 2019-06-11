@@ -64,10 +64,10 @@ June 15
     +-------+------------------------------------+------------------------------------+------------------------------------+                                    +
     | 14:20 |Break                                                                                                         |                                    |
     +-------+------------------------------------+------------------------------------+------------------------------------+                                    +
-    |       |Addressing class imbalance in       |Marlin: A Smali to Python           |JWT authentication with Django      |Deep Learning Introductory          |
-    | 14:30 |Machine Learning                    |Transpiler for Android Hacking      |                                    |Workshop with TensorFlow 2.0        |
+    |       |Addressing class imbalance in       |Marlin: A Smali to Python           |Tech Skills: What's Hot And         |Deep Learning Introductory          |
+    | 14:30 |Machine Learning                    |Transpiler for Android Hacking      |What's Not                          |Workshop with TensorFlow 2.0        |
     |       |                                    |                                    |                                    |                                    |
-    |       |by Sara Iris Garcia                 |by Joe Chasinga                     |by Viral Parmar                     |                                    |
+    |       |by Sara Iris Garcia                 |by Joe Chasinga                     |by Shane Torr                       |                                    |
     +-------+------------------------------------+------------------------------------+------------------------------------+                                    +
     | 15:10 |Break                                                                                                         |                                    |
     +-------+------------------------------------+------------------------------------+------------------------------------+                                    +
