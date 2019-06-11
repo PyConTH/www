@@ -198,6 +198,10 @@ schedule
 
 #Generate html file
 htmlhead = '''
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="date" content="2018-05-23 22:28" />
+<meta name="summary" content="Conference Schedule" />
+
 <style>
 .grid-container {
 	width: 100%;
@@ -268,11 +272,8 @@ htmlhead = '''
 	padding-right: 5px;
 }
 </style>
-
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 '''
 
 with open('schedule_table.html','w') as f:
-  f.write('<!doctype html><html><head>'+htmlhead+'</head><body>'+html+'</body></html>')
+  f.write(''+htmlhead+''+html+'')
 
