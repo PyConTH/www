@@ -612,8 +612,14 @@ talks:
   dur: "00:40"
 
 - bio: |-
-    <p>Rahul Bhatia is a self-taught Data Scientist and Full-stack Web Developer. I have experience in organizing several talks as a Developer Student Club Lead at our campus, which is an initiative by Google Developers, promoting the developer culture at college campuses throughout several countries through the DSC program. I love sharing knowledge with fellow developers and organizing and delivering technical sessions. I am currently a Data Science Intern at Innovaccer, a healthcare company focused on "Righting the wrongs of healthcare technology"</p>
-    <p>I don't listen to a lot of pop music but I love rock music. Chester from Linkin Park was my favourite. Apart from that, I am a solo traveller and love wadering at new places.</p>
+    Rahul Bhatia is a self-taught Data Scientist and Full-stack Web Developer. I have experience in organizing
+    several talks as a Developer Student Club Lead at our campus, which is an initiative by Google Developers,
+    promoting the developer culture at college campuses throughout several countries through the DSC program. I love
+    sharing knowledge with fellow developers and organizing and delivering technical sessions. I am currently a Data
+    Science Intern at Innovaccer, a healthcare company focused on "Righting the wrongs of healthcare technology"
+
+    I don't listen to a lot of pop music but I love rock music. Chester from Linkin Park was my favourite. Apart from
+    that, I am a solo traveller and love wadering at new places.
   description: >-
     What's the use of machine learning models if we can't interpret them? This session
     will cover recent model interpretability techniques that are essential for Data
@@ -628,7 +634,12 @@ talks:
   dur: "02:20"
 
 - bio: |-
-    <p>Robert Owen worked for Oracle as Program Director for Asia-Pacific. Before that he worked for Ericsson Telecommunications. Robert was a member of the Australian delegation to the International Telecommunications Union, ITU, in Geneva, Switzerland where he worked on global telecommunications policy. A few years ago he spat his dummy at the amount of work Oracle expected him to do, resigned and enrolled for a PhD at the University of Melbourne, Australia. He expects to complete his PhD computer modelling infectious animal diseases later this year.</p>
+    Robert Owen worked for Oracle as Program Director for Asia-Pacific. Before that he worked for Ericsson
+    Telecommunications. Robert was a member of the Australian delegation to the International Telecommunications
+    Union, ITU, in Geneva, Switzerland where he worked on global telecommunications policy. A few years ago he spat
+    his dummy at the amount of work Oracle expected him to do, resigned and enrolled for a PhD at the University of
+    Melbourne, Australia. He expects to complete his PhD computer modelling infectious animal diseases later this
+    year.
   description: >-
     Models are used to simulate the spread of diseases in populations. Scientists
     often cannot base their decisions on past events but must take action quickly
@@ -642,15 +653,17 @@ talks:
   time: "12:00"
   dur: "00:40"
 
-- bio: "<p>Sam is a Google Developer Expert for Machine Learning and is a co-founder\
-    \ of Red Dragon AI a deep tech company based in Singapore. He has extensive experience\
-    \ in startups and mobile applications and is helping developers and companies\
-    \ create smarter applications with machine learning.  Sam is especially passionate\
-    \ about Deep Learning and AI in the fields of Natural Language and Conversational\
-    \ Agents and regularly shares his knowledge at events and trainings across Asia,\
-    \ as well as being the co-organiser of the Singapore TensorFlow and Deep Learning\
-    \ group.</p>\n<p>\u0E41\u0E0B\u0E21\u0E1E\u0E39\u0E14\u0E41\u0E25\u0E30\u0E2D\u0E48\
-    \u0E32\u0E19\u0E20\u0E32\u0E29\u0E32\u0E44\u0E17\u0E22\u0E44\u0E14\u0E49</p>"
+- bio: >
+    Sam is a Google Developer Expert for Machine Learning and is a co-founder
+    of Red Dragon AI a deep tech company based in Singapore. He has extensive experience
+    in startups and mobile applications and is helping developers and companies
+    create smarter applications with machine learning.  Sam is especially passionate
+    about Deep Learning and AI in the fields of Natural Language and Conversational
+    Agents and regularly shares his knowledge at events and trainings across Asia,
+    as well as being the co-organiser of the Singapore TensorFlow and Deep Learning
+    group.
+
+    แซมพูดและอ่านภาษาไทยได้
   description: >-
     How to get started quickly and plot your own path to learning Deep Learning in
     the fastest way possible. This will examples of Deep Learning, how they work and
@@ -675,7 +688,9 @@ talks:
   dur: "02:20"
 
 - bio: |-
-    <p>Sara is a seasoned software engineer and a data science enthusiast. She is currently undergoing a master in data science in the UK, and a research in deep learning for medical imaging. When she is not coding, she spends her free time baking sweet treats and watching Rick and Morty.</p>
+    Sara is a seasoned software engineer and a data science enthusiast. She is currently undergoing a master in
+    data science in the UK, and a research in deep learning for medical imaging. When she is not coding, she
+    spends her free time baking sweet treats and watching Rick and Morty.
   description: >-
     Creating a machine learning model with an imbalanced dataset can give you misleading
     results. Get to know the common techniques to address the class imbalance problem
@@ -689,10 +704,17 @@ talks:
   dur: "00:40"
 
 - bio: |-
-    <p>&lt;p&gt;A passionate software developer, Sarthak is a core contributor in Expedia's Mobile Team. He weaves the magic in his code with Python, Java, Kotlin, Scala, C and  JavaScript. Having mastered these languages all by himself, through self projects and open source contributions, he knows what it takes to not just write code but write code that is readable, efficient and maintainable.&lt;/p&gt;</p>
-    <blockquote>
-    &lt;p&gt;His current adventure involves developing solutions in android ecosystem, internal API(s) and machine learning to help our users have the best experience.&lt;/p&gt;</blockquote>
-    <p>Before joining Expedia, he  co-founded one startup in India and did internship at Samsung R&amp;D, Bengaluru. He loves sharing his knowledge and learnings from his adventures in machine learning projects. He has been speaking extensively at internal conferences and now want to spread his knowledge in the open.</p>
+    A passionate software developer, Sarthak is a core contributor in Expedia's Mobile Team. He weaves the magic in his
+    code with Python, Java, Kotlin, Scala, C and  JavaScript. Having mastered these languages all by himself, through
+    self projects and open source contributions, he knows what it takes to not just write code but write code that is
+    readable, efficient and maintainable.
+
+    His current adventure involves developing solutions in android ecosystem, internal API(s) and machine learning to
+    help our users have the best experience.
+
+    Before joining Expedia, he  co-founded one startup in India and did internship at Samsung R&amp;D, Bengaluru.
+    He loves sharing his knowledge and learnings from his adventures in machine learning projects. He has been
+    speaking extensively at internal conferences and now want to spread his knowledge in the open.
   description: >-
     Haystack is an Expedia-backed open source distributed tracing project to facilitate
     detection and remediation of problems in microservices and websites. We will talk
@@ -707,7 +729,13 @@ talks:
   dur: "00:40"
 
 - bio: |-
-    <p>I am working as a part of the development team of [Tensor]werk, an infrastructure development company focusing on deep learning deployment problems. I and my team focus on building open source tools for setting up a seamless deep learning workflow. I have been programming since 2012 and started using python since 2014 and moved to deep learning in 2015. I am an open source enthusiast and I spend most of my research time on improving interpretability of AI models using <a class="reference external" href="https://turingnetwork.ai">TuringNetwork</a>. I have authored a deep learning book (<a class="reference external" href="https://github.com/hhsecond/HandsOnDeepLearningWithPytorch">yet to publish</a>). I go by hhsecond on internet</p>
+    I am working as a part of the development team of [Tensor]werk, an infrastructure development company focusing on
+    deep learning deployment problems. I and my team focus on building open source tools for setting up a seamless deep
+    learning workflow. I have been programming since 2012 and started using python since 2014 and moved to deep learning
+    in 2015. I am an open source enthusiast and I spend most of my research time on improving interpretability of AI
+    models using <a class="reference external" href="https://turingnetwork.ai">TuringNetwork</a>. I have authored a deep
+    learning book (<a class="reference external" href="https://github.com/hhsecond/HandsOnDeepLearningWithPytorch">yet
+    to publish</a>). I go by hhsecond on internet
   description: >-
     Managing DL workflow is always a nightmare. Problems include handling the scale,
     efficient resource utilization, version controlling the data. With the highly
@@ -722,7 +750,10 @@ talks:
   dur: "00:40"
 
 - bio: |-
-    <p>Hi there! I am a software engineer who uses vim at Pronto Tools and also a GirlsWhoDev organizer for around 4 years. I have organized many tech events for girls who want to learn coding even if they are not in the tech industry such as girls learning Python. I am also a co-organiser with Django girls for building a website with Django in Bangkok. Apart from my tech life, I'm a dog person. I enjoy singing, dancing and watching a movie and a series.</p>
+    Hi there! I am a software engineer who uses vim at Pronto Tools and also a GirlsWhoDev organizer for around 4 years.
+    I have organized many tech events for girls who want to learn coding even if they are not in the tech industry such
+    as girls learning Python. I am also a co-organiser with Django girls for building a website with Django in Bangkok.
+    Apart from my tech life, I'm a dog person. I enjoy singing, dancing and watching a movie and a series.
   description: >-
     Have you ever use a cutie and cool CLI tool? Have you felt that it is very cool
     and makes you feel so excited to use this tool? This workshop will help you learn
@@ -736,7 +767,12 @@ talks:
   dur: "02:20"
 
 - bio: |-
-    <p>I am a pre final student at The LNM Institute of Information Technology pursuing B-Tech in Computer Science Engineering. I have a Deep interest in open source technologies, and was selected as Mozilla Open Leader this year. I like to code in Python and developing Natural Language Processing applications in python. I have studied Information Retrieval as an academic course and my my interest in this field grew from there. In this talk I will elaborate on my project where I used TWEEPY library of python to extract and evaluate tweets. I believe Information Retrieval is a interesting topic and will attract audience from all the field and all experience levels.</p>
+    I am a pre final student at The LNM Institute of Information Technology pursuing B-Tech in Computer Science
+    Engineering. I have a Deep interest in open source technologies, and was selected as Mozilla Open Leader this year.
+    I like to code in Python and developing Natural Language Processing applications in python. I have studied
+    Information Retrieval as an academic course and my my interest in this field grew from there. In this talk I will
+    elaborate on my project where I used TWEEPY library of python to extract and evaluate tweets. I believe Information
+    Retrieval is a interesting topic and will attract audience from all the field and all experience levels.
   description: >-
     I will talk about NLP at first and introduce the concept of NLP, algorithms for
     Lexicon Normalization, Entity Parsing etc. Then I will talk about Python Libraries
@@ -751,12 +787,12 @@ talks:
   dur: "00:40"
 
 - bio: |-
-    <p>Takanori is a Vice Chairperson of PyCon JP Committee(www.pycon.jp).
+    Takanori is a Vice Chairperson of PyCon JP Committee(www.pycon.jp).
     He is also a director of BeProud Inc.(www.beproud.jp), and his title is "Python Climber".
     Takanori held PyCon JP 2014 to 2016 as the chairperson.
     Currently he teaches Python to beginners as a lecturer at Python Boot Camp(pycamp.pycon.jp) all over Japan.
     In addition, he published several Python books.
-    Tananori plays trumpet, climbs boulder, loves Lego, ferrets and beer</p>
+    Tananori plays trumpet, climbs boulder, loves Lego, ferrets and beer
   description: >-
     Today, there are many tasks to repeat in the community.
 
@@ -775,7 +811,14 @@ talks:
   dur: "00:40"
 
 - bio: |-
-    <p>I work at an Application Security company (we45) and have a unique perspective of developing secure and deliberately insecure apps in Python and NodeJS. I have contributed to the development of several Web-Applications using Django, Djano-Rest-Framework, NodeJs and more, that have been used for Capture the Flag Contests inside and outside the organization. And also I am contributed multiple OpenSource Projects. In addition, I have extensive experience with integrating scanners, SAST and DAST toolsets into our Application Vulnerability Correlation and Aggregation product. I have over 7 years of development experience and continue to work as a full-stack developer. And also I have presented talk in DjangoCon 2018, ISACA Meetup, also gave a workshop about container orchestration and Serverless in Lascon, Recently gave a talk in DevSecCon Singapore 2019.</p>
+    I work at an Application Security company (we45) and have a unique perspective of developing secure and
+    deliberately insecure apps in Python and NodeJS. I have contributed to the development of several
+    Web-Applications using Django, Djano-Rest-Framework, NodeJs and more, that have been used for Capture the Flag
+    Contests inside and outside the organization. And also I am contributed multiple OpenSource Projects. In addition,
+    I have extensive experience with integrating scanners, SAST and DAST toolsets into our Application Vulnerability
+    Correlation and Aggregation product. I have over 7 years of development experience and continue to work as a
+    full-stack developer. And also I have presented talk in DjangoCon 2018, ISACA Meetup, also gave a workshop about
+    container orchestration and Serverless in Lascon, Recently gave a talk in DevSecCon Singapore 2019.
   description: >-
     Microservices are taking over the world. Rest-framework is accelerating this because
     of its ease and flexibility.
@@ -792,7 +835,17 @@ talks:
   dur: "00:40"
 
 - bio: |-
-    <p>Viral Parmar is a Serial entrepreneur who runs ComExpo Cyber security company as well as Infinite Defense Foundation a non-profit organization in India. He is a Developer Advocate, Productivity Hacker, Open Source Strategist, Technical Evangelist, Community Liaison, International TechSpeaker, he is a Cyber Security researcher by profession and open source enthusiast working in a field of information security from last three years with the expertise in Cyber Crime Investigation, Public Key Infrastructure, Social Engineering, Web App Penetration Testing, Digital Forensics and Mobile Security. He found sever vulnerability in 150+ well known websites like Intel, your story and solved more than 100 cases of cyber-crime &amp; online frauds. He is famous for his research Cyber Disorder and Who is spying on you. Trained 150,000+ people till now and aware them about privacy and security. Given Seminars and workshops in 150+ Organizations. He is Working with Mozilla foundation from last 2 years as Reps, Mentor in Mozilla Open Leadership Project, Coach(Privacy and Security) in MozSprint 2018, also working with L10N project on Pontoon, Rust and WebVR projects.</p>
+    Viral Parmar is a Serial entrepreneur who runs ComExpo Cyber security company as well as Infinite Defense
+    Foundation a non-profit organization in India. He is a Developer Advocate, Productivity Hacker, Open Source
+    Strategist, Technical Evangelist, Community Liaison, International TechSpeaker, he is a Cyber Security
+    researcher by profession and open source enthusiast working in a field of information security from last three
+    years with the expertise in Cyber Crime Investigation, Public Key Infrastructure, Social Engineering, Web App
+    Penetration Testing, Digital Forensics and Mobile Security. He found sever vulnerability in 150+ well known websites
+    like Intel, your story and solved more than 100 cases of cyber-crime &amp; online frauds. He is famous for his
+    research Cyber Disorder and Who is spying on you. Trained 150,000+ people till now and aware them about privacy and
+    security. Given Seminars and workshops in 150+ Organizations. He is Working with Mozilla foundation from last 2 years
+    as Reps, Mentor in Mozilla Open Leadership Project, Coach(Privacy and Security) in MozSprint 2018, also working with
+    L10N project on Pontoon, Rust and WebVR projects.
   description: >-
     Talk is about the JWT Authentication with Django which plays an important role
     in modern day application development where it is a lot more than just the login
@@ -807,9 +860,14 @@ talks:
   dur: "00:40"
 
 - bio: |-
-    <p>I'm a computer scientist with a passion for programming languages, and have been working as a software engineer in the Infrastructure Team at Facebook London since 2016. I've been working with Python on and off for the past 10 years, but recently it has become an area close to my heart.</p>
-    <p>I'm the father of an awesome little dude, husband to an amazing wife, and when I'm not spending time with my family,  work, and open source, I'm a captain of a competitive Overwatch team.</p>
-    <p>Ask me about the biggest outage I've ever caused ;) See you at the conference!</p>
+    I'm a computer scientist with a passion for programming languages, and have been working as a software engineer
+    in the Infrastructure Team at Facebook London since 2016. I've been working with Python on and off for the past
+    10 years, but recently it has become an area close to my heart.
+
+    I'm the father of an awesome little dude, husband to an amazing wife, and when I'm not spending time with my
+    family,  work, and open source, I'm a captain of a competitive Overwatch team.
+
+    Ask me about the biggest outage I've ever caused ;) See you at the conference!
   description: >-
     Are linters telling you how to write code? Stop wasting time and let the computer
     do the work!
@@ -829,11 +887,7 @@ talks:
   speakerimg:
   title: Lightning Talks
   day: sat
-  track:
-    - 1
-    - 2
-    - 3
-    - 4
+  track: 1
   time: "17:00"
   dur: "00:45"
 
@@ -845,11 +899,7 @@ talks:
   speakerimg:
   title: Lightning Talks
   day: sun
-  track:
-    - 1
-    - 2
-    - 3
-    - 4
+  track: 1
   time: "16:35"
   dur: "01:00"
 
@@ -862,10 +912,6 @@ talks:
   title: Lunch
   day: sat
   track:
-    - 1
-    - 2
-    - 3
-    - 4
   time: "12:40"
   dur: "01:00"
 
@@ -878,10 +924,6 @@ talks:
   title: Lunch
   day: sun
   track:
-    - 1
-    - 2
-    - 3
-    - 4
   time: "12:15"
   dur: "01:00"
 
@@ -894,10 +936,6 @@ talks:
   title: Morning Tea & Coffee
   day: sat
   track:
-    - 1
-    - 2
-    - 3
-    - 4
   time: "09:50"
   dur: "00:30"
 
@@ -932,6 +970,20 @@ talks:
 
 - title: How to meaningfully contribute to Python without being very good at programming
   speaker: David Cournapeau
+  description:
+  bio: >
+    David Cournapeau is a data scientist. He is the original author of the scikit-learn package, an open source machine
+    learning library in the Python programming language.
+
+    He is a self-described "deployment/packaging geek".
+
+    David graduated with a MSc in Electrical Engineering from Telecom Paristech, Paris in 2004, and obtained his PhD in
+    Computer Science at Kyoto University, Japan, in the domain of speech recognition.
+
+    He joined Cogent Labs in August 2017. As head of the Machine Learning Engineering Team, he plays a pivotal role at
+    the interface between cutting-edge research and product development. Beyond his work at Cogent Labs, David is also
+    well known in the open source community as the original author of scikit-learn, and a major contributor to NumPy
+    and SciPy.
   day: sat
   track: 1
   time: "09:05"
@@ -939,6 +991,11 @@ talks:
 
 - title: PyTorch as a modern scientific computing environment?
   speaker: Adam Paszke
+  bio: >
+    Adam Paszke is an author and maintainer of PyTorch Despite being early in his career he already has a few years of
+    experience working with large organizations like Facebook AI Research and NVIDIA. Currently, he pursues two majors
+    — Computer Science and Mathematics — at the University of Warsaw. His general interests include graph theory,
+    programming languages, algorithmics and machine learning.
   day: sat
   track: 1
   time: "17:45"
@@ -946,9 +1003,20 @@ talks:
 
 - title: Party
   speaker: Light entertainment
-  description:
+  description: >
+    After everyone has had a big Day 1 at PYCON THAILAND 2019, it will be the perfect time to relax a little and
+    reflect on the first day of the conference.
+
+    MiniGroovy Band will help us all wind down with their smooth saxophone tunes, the team from Bootleg Brothers
+    Brewing Company will make sure that there are Craft Beers (free, because it's beer) and MyBeer who will be
+    providing some cool, light beers to quench our thirst which we have all built up during the day.
+
+    Music, free beer, food, and of course you making new Pythonista friends - sounds like the perfect way to end Day 1
+    at PYCON THAILAND 2019!
+
+    "Party will take place from 6:30pm to 9:00pm on Level 6 and is included in the price of your conference ticket."
   day: sat
-  track: 1
+  track:
   time: "16:30"
   dur: "02:30"
 
@@ -961,6 +1029,15 @@ talks:
 - title: Python Everywhere?
   speaker: Russell Keith-Magee
   description:
+  bio: >
+    Dr Russell Keith-Magee is the founder of the BeeWare project, developing GUI tools and libraries to support the
+    development of Python software on desktop and mobile platforms. He is also a 13 year veteran of the Django core
+    team, and for 5 years, was President of the Django Software Foundation. In his day job, he wrangles data pipelines
+    for Survata.
+
+    He is a frequent speaker at Python and Django conferences around the globe, sharing his experiences as a FLOSS
+    developer, community maintainer, and (unsuccessful) startup founder. He lives in Whadjuk Noongar country -
+    otherwise known as Perth, Western Australia.
   day: sun
   track: 1
   time: "11:30"
@@ -969,7 +1046,17 @@ talks:
 - title: How Python Can Excel
   speaker: Katie McLaughlin
   description:
-  bio:
+  bio: >
+    Katie has worn many different hats over the years. She has been a software developer for many programming languages,
+    systems administrator for multiple operating systems, and speaker on many different topics.
+
+    She is currently a Cloud Developer Advocate at Google, a Director of the Python Software Foundation, a Director of
+    the Django Software Foundation, and Conference Director for PyCon AU 2018/2019.
+
+    She won the O’Reilly Open Source Award in 2017, and was a finalist in the Red Hat Women in Open Source Award in 2018.
+
+    When she’s not changing the world, she enjoys cooking, making tapestries, and seeing just how well various
+    application stacks handle emoji.
   day: sun
   track: 1
   time: "17:45"
