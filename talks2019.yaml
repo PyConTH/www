@@ -835,28 +835,20 @@ talks:
   dur: "00:40"
 
 - bio: |-
-    Viral Parmar is a Serial entrepreneur who runs ComExpo Cyber security company as well as Infinite Defense
-    Foundation a non-profit organization in India. He is a Developer Advocate, Productivity Hacker, Open Source
-    Strategist, Technical Evangelist, Community Liaison, International TechSpeaker, he is a Cyber Security
-    researcher by profession and open source enthusiast working in a field of information security from last three
-    years with the expertise in Cyber Crime Investigation, Public Key Infrastructure, Social Engineering, Web App
-    Penetration Testing, Digital Forensics and Mobile Security. He found sever vulnerability in 150+ well known websites
-    like Intel, your story and solved more than 100 cases of cyber-crime &amp; online frauds. He is famous for his
-    research Cyber Disorder and Who is spying on you. Trained 150,000+ people till now and aware them about privacy and
-    security. Given Seminars and workshops in 150+ Organizations. He is Working with Mozilla foundation from last 2 years
-    as Reps, Mentor in Mozilla Open Leadership Project, Coach(Privacy and Security) in MozSprint 2018, also working with
-    L10N project on Pontoon, Rust and WebVR projects.
+    Shane is CEO at Gummy Bear Tech Recruitment. He has over 30 years international experience in IT, and has
+    been based in Thailand for the last 17 years where he’s been focusing on technical recruitment.  Strong interest
+    in SaaS applications, cloud technologies, and Linux desktops.
+
   description: >-
-    Talk is about the JWT Authentication with Django which plays an important role
-    in modern day application development where it is a lot more than just the login
-    screen, People will get know about different ways of authentication and authorization,
-    concepts that make up modern identity.
-  speaker: Viral Parmar
-  speakerimg: https://secure.gravatar.com/avatar/f39b54f90f14174754a7a1671cc8b008?s=500
-  title: JWT authentication with Django
+    Wonder if your skills are in demand or if you need to change direction? This session will give context to the
+    current tech skills market in Thailand, and which web development skills are most in demand now.  We’ll see how
+    Python compares to other languages, and what future prospects might be for Python Developers.
+
+  speaker: Shane Torr
+  title: Tech Skills: What's Hot and Whats Not. How does Python stack-up against the rest?
   day: sat
   track: 3
-  time: "12:30"
+  time: "14:30"
   dur: "00:40"
 
 - bio: |-
@@ -907,7 +899,7 @@ talks:
     Catered by Ginger Farm
   description: >-
     Lunchboxes will be served on Level 6 and Level 7
-  speaker: Ginger Farm
+  speaker: Lunchboxes will be served on Level 6 and Level 7
   speakerimg:
   title: Lunch
   day: sat
@@ -919,7 +911,7 @@ talks:
     Catered by Ginger Farm
   description: >-
     Lunchboxes will be served on Level 6 and Level 7
-  speaker: Ginger Farm
+  speaker: Lunchboxes will be served on Level 6 and Level 7
   speakerimg:
   title: Lunch
   day: sun
@@ -930,8 +922,7 @@ talks:
 - bio: |-
     Catered by ...
   description: >-
-    Served on Level 6
-  speaker: ...
+  speaker: Served on Level 6
   speakerimg:
   title: Morning Tea & Coffee
   day: sat
