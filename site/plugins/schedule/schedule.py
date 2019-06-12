@@ -21,7 +21,7 @@ class ScheduleShortcode(ShortcodePlugin):
         if mode=="schedule":
             return self.handle_schedule(file,schedule_page,talks_page,speakers_page), dep
     
-    def handle_schedule(file,schedule_page,talks_page,speakers_page):
+    def handle_schedule(self,file,schedule_page,talks_page,speakers_page):
         with open(file) as f:
             data = yaml.load(f, Loader=Loader)
 
