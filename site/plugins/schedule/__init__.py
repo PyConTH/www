@@ -19,7 +19,7 @@ class ScheduleShortcode(ShortcodePlugin):
             self.handle_schedule(file,schedule_page,talks_page,speakers_page)
     
     def handle_schedule(file,schedule_page,talks_page,speakers_page):
-        with open('talks2019.yaml') as f:
+        with open(file) as f:
             data = yaml.load(f, Loader=Loader)
 
         talks = sorted([t for t in data['talks'] if 'day' in t], key=lambda t: (t['day'],t['time'],t['dur'],t['track']))
