@@ -15,8 +15,9 @@ class ScheduleShortcode(ShortcodePlugin):
         site.register_shortcode('schedule', self.handler)
         
     def handler(self, mode="schedule", file="../talks2019.yaml", schedule_page="schedule", talks_page="talks" speakers_page="speakers"):
+        dep = [file]
         if mode=="schedule":
-            self.handle_schedule(file,schedule_page,talks_page,speakers_page)
+            return self.handle_schedule(file,schedule_page,talks_page,speakers_page), dep
     
     def handle_schedule(file,schedule_page,talks_page,speakers_page):
         with open(file) as f:
@@ -195,5 +196,4 @@ class ScheduleShortcode(ShortcodePlugin):
         </style>
         '''
 
-        with open('schedule_table.html','w') as f:
-          f.write(''+htmlhead+''+html+'')
+        return ''+htmlhead+''+html+''
