@@ -79,7 +79,9 @@ class ScheduleShortcode(ShortcodePlugin):
         currrow = 1
         for s in sched:
           time = s['time']
-          if not time in schedule: schedule[time] = []
+          day = s['day']
+          key = day+" "+time
+          if not key in schedule: schedule[key] = []
           for talk in s['talks']:
             talk['row'] = currrow
             talk['col'] = 1 if talk['track'] != 4 else 2
@@ -96,7 +98,7 @@ class ScheduleShortcode(ShortcodePlugin):
             if not 'speaker' in talk or talk['speaker'] is None: talk['speaker'] = ""
             if not 'description' in talk or talk['description'] is None: talk['description'] = ""
             if not 'bio' in talk or talk['bio'] is None: talk['bio'] = ""
-            schedule[time].append(talk)
+            schedule[key].append(talk)
           currrow += 1
 
         html = '<h1>Schedule</h1><h2>Tracks</h2>'
@@ -116,7 +118,7 @@ class ScheduleShortcode(ShortcodePlugin):
             html += '<h2>' + talk['day'] + '</h2> <div class="grid-container">'
             currday = talk['day']
             rowoffset = talk['row']-1
-          subhtml = '<div class="timeflex" style="grid-row-start: {}; grid-row-end: {}; grid-column-start: {}; grid-column-end: {};"> <div class="timetext"><b>{}</b></div> <div class="schedule-item-container" style="flex-grow:1;">'.format(talk['row']-rowoffset,talk['row']-rowoffset,talk['col'],talk['col']+talk['colspan'],t)#,talk['row'],talk['row'],talk['col'],talk['col']+talk['colspan'])
+          subhtml = '<div class="timeflex" style="grid-row-start: {}; grid-row-end: {}; grid-column-start: {}; grid-column-end: {};"> <div class="timetext"><b>{}</b></div> <div class="schedule-item-container" style="flex-grow:1;">'.format(talk['row']-rowoffset,talk['row']-rowoffset,talk['col'],talk['col']+talk['colspan'],talk['time'])
           for talk in s:
             if talk['col'] == 1:
               subhtml += '''		<div class="schedule-item schedule-item-{}" style="order: {};" onclick="var hid='hidden-field-{}-{}'; if (!$('#'+hid).hasClass('active')) $('#'+hid).fadeIn(250),$('#'+hid).addClass('active'); else $('#'+hid).fadeOut(250),$('#'+hid).removeClass('active');">
