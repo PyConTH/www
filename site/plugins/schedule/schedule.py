@@ -131,8 +131,11 @@ class ScheduleShortcode(ShortcodePlugin):
                 <div>{}</div>
                 <br>
                 <div><b>{}</b></div>
+                <br>
+                <a href="/talks#row-{}">View more talks information</a> <br>
+                <a href="/speakers#row-{}">View more speaker information</a>
               </div>
-            </div>'''.format(talk['subcol'],talk['subcol']-1,talk['row'],talk['subcol'],talk['title'],talk['speaker'],talk['row'],talk['subcol'],talk['description'],publish_parts(talk['bio'].strip(), writer_name="pyconth")['html_body'] if 'bio' in talk else '',tracks[talk['subcol']])
+            </div>'''.format(talk['subcol'],talk['subcol']-1,talk['row'],talk['subcol'],talk['title'],talk['speaker'],talk['row'],talk['subcol'],talk['description'],publish_parts(talk['bio'].strip(), writer_name="pyconth")['html_body'] if 'bio' in talk else '',tracks[talk['subcol']],talk['row'],talk['row'])
           subhtml += '</div> </div>'
           for talk in s:
             if talk['col'] == 2:
@@ -148,9 +151,12 @@ class ScheduleShortcode(ShortcodePlugin):
                 <div>{}</div>
                 <br>
                 <div><b>{}</b></div>
+                <br>
+                <a href="/talks#row-{}">View more talks information</a> <br>
+                <a href="/speakers#row-{}">View more speaker information</a>
               </div>
             </div>
-          </div>'''.format(talk['row']-rowoffset,talk['row']-rowoffset+3,talk['col'],talk['col'],talk['row'],talk['subcol'],talk['title'],talk['speaker'],talk['row'],talk['subcol'],talk['description'],publish_parts(talk['bio'].strip()), writer_name="pyconth")['html_body'] if 'bio' in talk else '',tracks[talk['subcol']])
+          </div>'''.format(talk['row']-rowoffset,talk['row']-rowoffset+3,talk['col'],talk['col'],talk['row'],talk['subcol'],talk['title'],talk['speaker'],talk['row'],talk['subcol'],talk['description'],publish_parts(talk['bio'].strip(), writer_name="pyconth")['html_body'] if 'bio' in talk else '',tracks[talk['subcol']],talk['row'],talk['row'])
 
           html += subhtml
 
