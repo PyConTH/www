@@ -14,7 +14,9 @@ class ScheduleShortcode(ShortcodePlugin):
         super(ScheduleShortcode, self).set_site(site)
         site.register_shortcode('schedule', self.handler)
         
-    def handler(self, mode="schedule", file="../talks2019.yaml", schedule_page="schedule", talks_page="talks", speakers_page="speakers", site=None):
+    def handler(self, mode="schedule", file="../talks2019.yaml", schedule_page="schedule", talks_page="talks", speakers_page="speakers",                sections=None, slugs=None, post_type='post', type=False,
+                lang=None, template='post_list_directive.tmpl', sort=None,
+                id=None, data=None, state=None, site=None, date=None, filename=None, post=None):
         dep = [file]
         if mode=="schedule":
             return self.handle_schedule(file,schedule_page,talks_page,speakers_page), dep
