@@ -1,6 +1,7 @@
 from nikola import utils
 from nikola.packages.datecond import date_in_range
 from nikola.plugin_categories import ShortcodePlugin
+from docutils.core import publish_parts
 
 import yaml
 try:
@@ -131,7 +132,7 @@ class ScheduleShortcode(ShortcodePlugin):
                 <br>
                 <div><b>{}</b></div>
               </div>
-            </div>'''.format(talk['subcol'],talk['subcol']-1,talk['row'],talk['subcol'],talk['title'],talk['speaker'],talk['row'],talk['subcol'],talk['description'],talk['bio'].strip() if 'bio' in talk else '',tracks[talk['subcol']])
+            </div>'''.format(talk['subcol'],talk['subcol']-1,talk['row'],talk['subcol'],talk['title'],talk['speaker'],talk['row'],talk['subcol'],talk['description'],publish_parts(talk['bio'].strip(), writer_name="pyconth")['html_body'] if 'bio' in talk else '',tracks[talk['subcol']])
           subhtml += '</div> </div>'
           for talk in s:
             if talk['col'] == 2:
@@ -149,7 +150,7 @@ class ScheduleShortcode(ShortcodePlugin):
                 <div><b>{}</b></div>
               </div>
             </div>
-          </div>'''.format(talk['row']-rowoffset,talk['row']-rowoffset+3,talk['col'],talk['col'],talk['row'],talk['subcol'],talk['title'],talk['speaker'],talk['row'],talk['subcol'],talk['description'],talk['bio'].strip() if 'bio' in talk else '',tracks[talk['subcol']])
+          </div>'''.format(talk['row']-rowoffset,talk['row']-rowoffset+3,talk['col'],talk['col'],talk['row'],talk['subcol'],talk['title'],talk['speaker'],talk['row'],talk['subcol'],talk['description'],publish_parts(talk['bio'].strip()), writer_name="pyconth")['html_body'] if 'bio' in talk else '',tracks[talk['subcol']])
 
           html += subhtml
 
