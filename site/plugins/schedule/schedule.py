@@ -67,7 +67,8 @@ class ScheduleShortcode(ShortcodePlugin):
             if talk['time'] != cur:
                 cur = talk['time']
                 dur = talk['dur']
-                slot = dict(time=cur, dur=dur, talks=[])
+                day = talk['day']
+                slot = dict(time=cur, dur=dur, day=day, talks=[])
                 sched.append(slot)
             # now try to fit in the track
             slot['talks'].append(talk)
