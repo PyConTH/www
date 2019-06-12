@@ -22,11 +22,39 @@ class ScheduleShortcode(ShortcodePlugin):
             return self.handle_schedule(file,schedule_page,talks_page,speakers_page), dep
     
     def handle_schedule(self,file,schedule_page,talks_page,speakers_page):
+        """"
+        Goal is to talk a yaml file of talks data and produce
+        - responsive schedule
+        - talks page
+        - speakers page
+        - embeded videos
+        - all linked together
+        Schedule grid assumes talks don't end in the middle of other talks.
+        Layout alg is
+        [11-12
+          [11-11:30
+        """
+
+
         with open(file) as f:
             data = yaml.load(f, Loader=Loader)
 
         talks = sorted([t for t in data['talks'] if 'day' in t], key=lambda t: (t['day'],t['time'],t['dur'],t['track']))
-        tracks = data['tracks']
+        tracks_ = data['tracks']
+        daylabel_ = data['days']
+
+        tracks = {}
+        daylabel = {}
+
+        for x in daylabel_: daylabel[list(x.keys())[0]] = list(x.values())[0]
+        for x in tracks_: tracks[list(x.keys())[0]] = list(x.values())[0]
+        tracks[5] = ""
+
+        #print(daylabel)
+
+        for talk in talks:
+          talk['day'] = daylabel[talk['day']]
+
 
         #print(tracks)
 
@@ -70,10 +98,10 @@ class ScheduleShortcode(ShortcodePlugin):
             schedule[time].append(talk)
           currrow += 1
 
-        html = '<h2>Tracks</h2>'
+        html = '<h1>Schedule</h1><h2>Tracks</h2>'
 
         for track in tracks:
-          html += '<div class="schedule-item schedule-item-{}">{}</div>'.format(list(track.keys())[0],list(track.values())[0])
+          if tracks[track] != "": html += '<div class="schedule-item schedule-item-{}">{}</div>'.format(track,tracks[track])
 
         currday = ""
         rowoffset = 0
@@ -100,8 +128,10 @@ class ScheduleShortcode(ShortcodePlugin):
                 <br>
                 <div><b>Bio:</b></div>
                 <div>{}</div>
+                <br>
+                <div><b>{}</b></div>
               </div>
-            </div>'''.format(talk['subcol'],talk['subcol']-1,talk['row'],talk['subcol'],talk['title'],talk['speaker'],talk['row'],talk['subcol'],talk['description'],talk['bio'].strip() if 'bio' in talk else '')
+            </div>'''.format(talk['subcol'],talk['subcol']-1,talk['row'],talk['subcol'],talk['title'],talk['speaker'],talk['row'],talk['subcol'],talk['description'],talk['bio'].strip() if 'bio' in talk else '',tracks[talk['subcol']])
           subhtml += '</div> </div>'
           for talk in s:
             if talk['col'] == 2:
@@ -115,9 +145,11 @@ class ScheduleShortcode(ShortcodePlugin):
                 <br>
                 <div><b>Bio:</b></div>
                 <div>{}</div>
+                <br>
+                <div><b>{}</b></div>
               </div>
             </div>
-          </div>'''.format(talk['row']-rowoffset,talk['row']-rowoffset+3,talk['col'],talk['col'],talk['row'],talk['subcol'],talk['title'],talk['speaker'],talk['row'],talk['subcol'],talk['description'],talk['bio'].strip() if 'bio' in talk else '')
+          </div>'''.format(talk['row']-rowoffset,talk['row']-rowoffset+3,talk['col'],talk['col'],talk['row'],talk['subcol'],talk['title'],talk['speaker'],talk['row'],talk['subcol'],talk['description'],talk['bio'].strip() if 'bio' in talk else '',tracks[talk['subcol']])
 
           html += subhtml
 
@@ -126,76 +158,95 @@ class ScheduleShortcode(ShortcodePlugin):
         #Generate html file
         htmlhead = '''
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-        <meta name="date" content="2018-05-23 22:28" />
+        <meta name="date" content="2019-06-10 22:28" />
         <meta name="summary" content="Conference Schedule" />
+
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.js"></script>
+
         <style>
         .grid-container {
-          width: 100%;
-          display: grid;
-          grid-template-columns: 60% auto;
-          grid-row-gap: 10px;
+            width: 100%;
+            display: grid;
+            grid-template-columns: 60% auto;
+            grid-row-gap: 10px;
         }
+
         .timeflex {
-          display: flex;
-          flex-direction: row;
+            display: flex;
+            flex-direction: row;
         }
+
         @media screen and (max-width: 500px) /* Mobile */ {
-          .timeflex {
-            flex-direction: column;
-          }
+            .timeflex {
+                flex-direction: column;
+            }
         }
+
         .schedule-item-container {
-          display:flex;
-          flex-direction: column;
+            display:flex;
+            flex-direction: column;
         }
+
         .schedule-item {
-          padding: 5px;
-          padding-left: 10px;
-          color: white;
-          width: calc(100% - 20px);
-          margin-bottom: 5px;
+            padding: 5px;
+            padding-left: 10px;
+            color: white;
+            width: calc(100% - 20px);
+            margin-bottom: 5px;
         }
+
         .schedule-item:hover, .workshop-item:hover {
           opacity: 0.8;
           cursor: pointer;
         }
+
         .schedule-item-1 {
-          background-color: darkblue;
+            background-color: darkblue;
         }
+
         .schedule-item-2 {
-          background-color: darkgreen;
+            background-color: darkgreen;
         }
+
         .schedule-item-3 {
-          background-color: darkred;
+            background-color: darkred;
         }
+
         .schedule-item-5 {
-          background-color: gray;
+            background-color: gray;
         }
+
         .p-5 {
-          padding: 5px;
+            padding: 5px;
         }
+
         .workshop-item, .schedule-item-4 {
-          grid-column-start:3;
-          background-color: purple;
-          color: white;
-          margin-bottom: 5px;
-          padding: 10px;
-          margin-right: 5px;
+            grid-column-start:3;
+            background-color: purple;
+            color: white;
+            margin-bottom: 5px;
+            padding: 10px;
+            margin-right: 5px;
         }
+
         .workshop-item .workshop-text {
+
         }
+
         .timetext {
-          padding-top: 5px;
-          padding-right: 5px;
+            padding-top: 5px;
+            padding-right: 5px;
         }
+
         a {
           color: white;
         }
+
         .hidden-field {
           display: none;
         }
         </style>
         '''
+
 
         return ''+htmlhead+''+html+''
