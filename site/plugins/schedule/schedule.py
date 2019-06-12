@@ -171,6 +171,10 @@ class ScheduleShortcode(ShortcodePlugin):
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.js"></script>
 
         <style>
+        .root-container a {
+            color: white !important;
+        }
+        
         .grid-container {
             width: 100%;
             display: grid;
@@ -256,4 +260,4 @@ class ScheduleShortcode(ShortcodePlugin):
         '''
 
 
-        return ''+htmlhead+''+html+''
+        return ''+htmlhead+'<div class="root-container">'+html+'</div>'
