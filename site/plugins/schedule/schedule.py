@@ -101,6 +101,7 @@ class ScheduleShortcode(ShortcodePlugin):
             if not 'speaker' in talk or talk['speaker'] is None: talk['speaker'] = ""
             if not 'description' in talk or talk['description'] is None: talk['description'] = ""
             if not 'bio' in talk or talk['bio'] is None: talk['bio'] = ""
+            if not '<p>' in talk['bio']: talk['bio'] = publish_parts(talk['bio'].strip(), writer_name="html")['html_body']
             talk['specialid'] = specialid
             
             schedule[key].append(talk)
@@ -144,7 +145,7 @@ class ScheduleShortcode(ShortcodePlugin):
                 <a href="/talks#row-{}" target="_blank">View more talks information</a> <br>
                 <a href="/speakers#row-{}" target="_blank">View more speaker information</a>
               </div>
-            </div>'''.format(talk['subcol'],talk['subcol']-1,talk['row'],talk['specialid'],talk['title'],talk['speaker'],talk['row'],talk['specialid'],talk['description'],publish_parts(talk['bio'].strip(), writer_name="html")['html_body'] if 'bio' in talk else '',tracks[talk['subcol']],talk['specialid'],talk['specialid'])
+            </div>'''.format(talk['subcol'],talk['subcol']-1,talk['row'],talk['specialid'],talk['title'],talk['speaker'],talk['row'],talk['specialid'],talk['description'],talk['bio'],tracks[talk['subcol']],talk['specialid'],talk['specialid'])
           subhtml += '</div> </div>'
           for talk in s:
             if talk['col'] == 2:
@@ -165,7 +166,7 @@ class ScheduleShortcode(ShortcodePlugin):
                 <a href="/speakers#row-{}">View more speaker information</a>
               </div>
             </div>
-          </div>'''.format(talk['row']-rowoffset,talk['row']-rowoffset+3,talk['col'],talk['col'],talk['row'],talk['subcol'],talk['title'],talk['speaker'],talk['row'],talk['subcol'],talk['description'],publish_parts(talk['bio'].strip(), writer_name="html")['html_body'] if 'bio' in talk else '',tracks[talk['subcol']],talk['specialid'],talk['specialid'])
+          </div>'''.format(talk['row']-rowoffset,talk['row']-rowoffset+3,talk['col'],talk['col'],talk['row'],talk['subcol'],talk['title'],talk['speaker'],talk['row'],talk['subcol'],talk['description'],talk['bio'],tracks[talk['subcol']],talk['specialid'],talk['specialid'])
 
           html += subhtml
 
