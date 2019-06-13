@@ -304,3 +304,31 @@ class ScheduleShortcode(ShortcodePlugin):
             html += '</div>'
             
             return html
+        
+        elif mode=="speakers":
+            html = '<div>'
+            
+            htmlblock = '''
+            <div class="clearfix section" id="row-{}">
+                <h2>{}</h2>
+                <img alt="{}" class="img-circle img-responsive align-right" src="{}" style="height: 200px;">
+                <p class="fa fa-twitter fa-fw"><a class="reference external" href="https://twitter.com/{}">{}</a></p>
+                <p>Talk: <a href="/talks#row-{}" target="_blank">{}</a></p>
+                <p><a href="/schedule#schedule-field-{}" target="_blank">{}</a></p>
+                <div class="section" id="biography">
+                  <h3>Biography</h3>
+                  <p>{}</p>
+                </div>
+            </div>
+            '''
+            
+            for t in schedule:
+              s = schedule[t]
+              for talk in s:
+                if not 'format' in talk: continue
+                if 'twitter' not in talk: talk['twitter'] = ""
+                html += htmlblock.format(talk['specialid'],talk['speaker'],talk['speaker'],talk['speakerimg'],talk['twitter'],talk['twitter'],talk['specialid'],talk['title'],talk['specialid'],tracks[talk['subcol']],talk['bio'])
+            
+            html += '</div>'
+            
+            return html
