@@ -358,9 +358,15 @@ class ScheduleShortcode(ShortcodePlugin):
             talks = sorted(talks,key=lambda t: t['speaker'])
             
             htmlblock = '''
+            <style>
+                .profile-img { height: 200px; float:right; border-radius:50%; }
+                @media screen and (max-width: 576px) /* Mobile */ {
+                    .profile-img { float: none; }
+                }
+            </style>
             <div class="clearfix section" id="row-{}">
                 <h1>{}</h1>
-                <img alt="{}" class="img-circle img-responsive align-right" src="{}" style="height: 200px; float:right; border-radius:50%;">
+                <img alt="{}" class="img-circle img-responsive align-right profile-img" src="{}">
                 {}
                 <p>Talk: <a href="/talks#row-{}">{}</a></p>
                 <p><a href="/schedule#schedule-field-{}">{}</a></p>
