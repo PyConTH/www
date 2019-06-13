@@ -973,6 +973,17 @@ talks:
   time: "09:50"
   dur: "00:30"
 
+- title: Coffee & Snack
+  bio: |-
+    Catered by ...
+  description: >-
+  speaker: Served on Level 6
+  speakerimg:
+  day: sun
+  track:
+  time: "08:30"
+  dur: "00:30"
+
 - title: Breakfast @ Starbucks with Women who Code and Pycon Thailand
   description: >-
     To kick off the 2-day Pycon marathon, join us for a meet and greet breakfast with Women who Code at Starbucks.
@@ -1061,7 +1072,7 @@ talks:
   time: "18:30"
   dur: "02:30"
 
-- title: Registration / Welcome Coffee
+- title: Registration
   day: sun
   track:
   time: "08:00"
