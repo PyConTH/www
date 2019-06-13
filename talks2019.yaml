@@ -504,7 +504,6 @@ talks:
     and others interested in organizing classes where kids learn how to program Python
     in a peer to peer, collaborative learning environment.
   speaker: Mishari Muqbil
-  speakerimg: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/27090/IMG-0002.JPG
   title: Teaching Coding To Kids
   day: sun
   track: 4
@@ -524,7 +523,6 @@ talks:
 
     This talk will go through:
   speaker: Mohamed Ali SOLA (Dali SOLA)
-  speakerimg: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/27090/IMG-0002.JPG
   title: 'Unlocking the power of natural language by machine translation: how python could serve my purpose?'
   day: sun
   track: 2
@@ -968,22 +966,69 @@ talks:
   dur: "01:00"
 
 - title: Morning Tea & Coffee
-  bio: |-
-    Catered by ...
-  description: >-
-  speaker: Served on Level 6
-  speakerimg:
+  description: >
+    On level 6 you will find out coffee Partner `Connect Cafe <https://m.facebook.com/thewellconnect/>`_ where you can use
+    you badge to get 1 free coffee or other drink per day. Additional coffee can be
+    bought here or at True Coffee also on Level 6.
 
+  bio: |-
+    Connect Cafe
+
+    The Well, a project of the Thai Restoration Community Development Foundation, assists
+    women and children in need. It began in 2004 by assisting women working in the sex
+    industry, but now serves those with diverse poverty-related needs.
+
+    The central component of The Well is a center in the On Nut area where women learn and
+    work in a safe, positive environment. Those with addictions or mental health needs benefit
+    from various therapeutic activities and services. Single mothers have a work schedule that
+    fits school hours, while learning vocational skills. Children enjoy learning activities both after
+    school and all day during term breaks. Wayward teens receive mentoring and new
+    opportunity.
+
+    The Well team also follows up dozens of families living in the community and upcountry,
+    providing counsel and other assistance. Outreach workers regularly meet new women and
+    teens in needy areas.
+
+    Our ultimate desire is to see Thailand become a safer, healthier place for women and
+    children, with better safety nets to help them avoid or escape exploitation. To that end we
+    seek to build and empower women as agents of social change.
+
+  speaker: Connect Cafe (Level 6)
+  speakerimg:
   day: sat
   track:
   time: "09:50"
   dur: "00:30"
 
 - title: Coffee & Snack
+  description: >
+    On level 6 you will find out coffee Partner `Connect Cafe <https://m.facebook.com/thewellconnect/>`_ where you can use
+    you badge to get 1 free coffee or other drink per day. Additional coffee can be
+    bought here or at True Coffee also on Level 6.
+
   bio: |-
-    Catered by ...
-  description: >-
-  speaker: Served on Level 6
+    Connect Cafe
+
+    The Well, a project of the Thai Restoration Community Development Foundation, assists
+    women and children in need. It began in 2004 by assisting women working in the sex
+    industry, but now serves those with diverse poverty-related needs.
+
+    The central component of The Well is a center in the On Nut area where women learn and
+    work in a safe, positive environment. Those with addictions or mental health needs benefit
+    from various therapeutic activities and services. Single mothers have a work schedule that
+    fits school hours, while learning vocational skills. Children enjoy learning activities both after
+    school and all day during term breaks. Wayward teens receive mentoring and new
+    opportunity.
+
+    The Well team also follows up dozens of families living in the community and upcountry,
+    providing counsel and other assistance. Outreach workers regularly meet new women and
+    teens in needy areas.
+
+    Our ultimate desire is to see Thailand become a safer, healthier place for women and
+    children, with better safety nets to help them avoid or escape exploitation. To that end we
+    seek to build and empower women as agents of social change.
+
+  speaker: Connect Cafe (Level 6)
   speakerimg:
   day: sun
   track:
@@ -1013,11 +1058,37 @@ talks:
   dur: "01:10"
 
 - title: Registration Opens
-  description: level 6
+  speaker: PyCon Registration Desk Level 6
+  twitter: pyconthailand
+  description: >
+    Bring a copy of your ticket or show the ticket in your phone. In case of student tickets, keep your student ID
+    card or university acceptance letter in-hand.
+
+    Once you arrive at the level 1 entrance 2 of the venue, you may need to show your ticket to the security staff
+    or our volunteers to pass the security check point.
+
+    Take elevator to level 6, our registration desk staff will assist you with the process.
   day: sat
   track:
   time: "08:00"
   dur: "00:55"
+
+- title: Registration Opens
+  speaker: PyCon Registration Desk Level 6
+  description: >
+    Bring a copy of your ticket or show the ticket in your phone. In case of student tickets, keep your student ID
+    card or university acceptance letter in-hand.
+
+    Once you arrive at the level 1 entrance 2 of the venue, you may need to show your ticket to the security staff
+    or our volunteers to pass the security check point.
+
+    Take elevator to level 6, our registration desk staff will assist you with the process.
+  twitter: pyconthailand
+  day: sun
+  track:
+  time: "08:00"
+  dur: "01:00"
+
 
 - title: Welcome Speeches
   description: Some words to open PyCon Thailand 2019
@@ -1061,7 +1132,7 @@ talks:
   dur: "00:45"
 
 - title: PyCon Thailand Official Party & Mixer
-  speaker: Light entertainment
+  speaker: Light entertainment (Level 6)
   description: >
     After everyone has had a big Day 1 at PYCON THAILAND 2019, it will be the perfect time to relax a little and
     reflect on the first day of the conference.
@@ -1079,11 +1150,6 @@ talks:
   time: "18:30"
   dur: "02:30"
 
-- title: Registration
-  day: sun
-  track:
-  time: "08:00"
-  dur: "01:00"
 
 - title: Python Everywhere?
   speaker: Russell Keith-Magee
