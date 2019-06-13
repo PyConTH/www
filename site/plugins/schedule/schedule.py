@@ -136,10 +136,10 @@ class ScheduleShortcode(ShortcodePlugin):
               subhtml = '<div class="timeflex" style="grid-row-start: {}; grid-row-end: {}; grid-column-start: {}; grid-column-end: {};"> <div class="timetext"><b>{}</b></div> <div class="schedule-item-container" style="flex-grow:1;">'.format(talk['row']-rowoffset,talk['row']-rowoffset,talk['col'],talk['col']+talk['colspan'],talk['time'])
               for talk in s:
                 if talk['col'] == 1:
-                  subhtml += '''		<div class="schedule-item schedule-item-{}" style="order: {};" id="schedule-field-{}-{}" onclick="var hid=$(this).attr('id').replace('schedule-field','hidden-field'); if (!$('#'+hid).hasClass('active')) $('#'+hid).fadeIn(250),$('#'+hid).addClass('active'); else $('#'+hid).fadeOut(250),$('#'+hid).removeClass('active');">
+                  subhtml += '''		<div class="schedule-item schedule-item-{}" style="order: {};" id="schedule-field-{}" onclick="var hid=$(this).attr('id').replace('schedule-field','hidden-field'); if (!$('#'+hid).hasClass('active')) $('#'+hid).fadeIn(250),$('#'+hid).addClass('active'); else $('#'+hid).fadeOut(250),$('#'+hid).removeClass('active');">
                   <div><b>{}</b></div>
                   <div>{}</div>
-                  <div class="hidden-field" id="hidden-field-{}-{}">
+                  <div class="hidden-field" id="hidden-field-{}">
                     <br>
                     <div><b>Description:</b></div>
                     <div>{}</div>
@@ -152,14 +152,14 @@ class ScheduleShortcode(ShortcodePlugin):
                     <a href="/talks#row-{}" target="_blank">View more talks information</a> <br>
                     <a href="/speakers#row-{}" target="_blank">View more speaker information</a>
                   </div>
-                </div>'''.format(talk['subcol'],talk['subcol']-1,talk['row'],talk['specialid'],talk['title'],talk['speaker'],talk['row'],talk['specialid'],talk['description'],talk['bio'],tracks[talk['subcol']],talk['specialid'],talk['specialid'])
+                </div>'''.format(talk['subcol'],talk['subcol']-1,talk['specialid'],talk['title'],talk['speaker'],talk['specialid'],talk['description'],talk['bio'],tracks[talk['subcol']],talk['specialid'],talk['specialid'])
               subhtml += '</div> </div>'
               for talk in s:
                 if talk['col'] == 2:
-                  subhtml += '''	<div class="workshop-item" style="grid-row-start:{}; grid-row-end:{}; grid-column-start: {}; grid-column-end: {};" onclick="var hid='hidden-field-{}-{}'; if (!$('#'+hid).hasClass('active')) $('#'+hid).fadeIn(250),$('#'+hid).addClass('active'); else $('#'+hid).fadeOut(250),$('#'+hid).removeClass('active');">
+                  subhtml += '''	<div class="workshop-item" style="grid-row-start:{}; grid-row-end:{}; grid-column-start: {}; grid-column-end: {};" id="schedule-field-{}" onclick="var hid=$(this).attr('id').replace('schedule-field','hidden-field'); if (!$('#'+hid).hasClass('active')) $('#'+hid).fadeIn(250),$('#'+hid).addClass('active'); else $('#'+hid).fadeOut(250),$('#'+hid).removeClass('active');">
                 <div class="workshop-text">
                   <b>{}</b><br>{}
-                  <div class="hidden-field" id="hidden-field-{}-{}">
+                  <div class="hidden-field" id="hidden-field-{}">
                     <br>
                     <div><b>Description:</b></div>
                     <div>{}</div>
@@ -173,7 +173,7 @@ class ScheduleShortcode(ShortcodePlugin):
                     <a href="/speakers#row-{}">View more speaker information</a>
                   </div>
                 </div>
-              </div>'''.format(talk['row']-rowoffset,talk['row']-rowoffset+3,talk['col'],talk['col'],talk['row'],talk['subcol'],talk['title'],talk['speaker'],talk['row'],talk['subcol'],talk['description'],talk['bio'],tracks[talk['subcol']],talk['specialid'],talk['specialid'])
+              </div>'''.format(talk['row']-rowoffset,talk['row']-rowoffset+3,talk['col'],talk['col'],talk['specialid'],talk['title'],talk['speaker'],talk['specialid'],talk['description'],talk['bio'],tracks[talk['subcol']],talk['specialid'],talk['specialid'])
 
               html += subhtml
 
