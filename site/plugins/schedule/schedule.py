@@ -278,7 +278,6 @@ class ScheduleShortcode(ShortcodePlugin):
             }
 
             .timetext {
-                padding-top: 5px;
                 padding-right: 5px;
                 display: flex;
                 flex-direction: column;
