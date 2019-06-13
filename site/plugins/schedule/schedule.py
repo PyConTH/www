@@ -15,7 +15,7 @@ class ScheduleShortcode(ShortcodePlugin):
         super(ScheduleShortcode, self).set_site(site)
         site.register_shortcode('schedule', self.handler)
         
-    def timeadd(a,b):
+    def timeadd(self,a,b):
         a = list(map(int,a.split(":")))
         b = list(map(int,b.split(":")))
         c = [a[0]+b[0],a[1]+b[1]]
@@ -308,9 +308,7 @@ class ScheduleShortcode(ShortcodePlugin):
             </div>
             '''
             
-            for t in schedule:
-              s = schedule[t]
-              for talk in s:
+            for talk in talks:
                 if not 'format' in talk: continue
                 html += htmlblock.format(talk['specialid'],talk['title'],talk['specialid'],talk['speaker'],talk['format'],talk['dur'],talk['specialid'],tracks[talk['subcol']],talk['description'])
             
@@ -335,9 +333,7 @@ class ScheduleShortcode(ShortcodePlugin):
             </div>
             '''
             
-            for t in schedule:
-              s = schedule[t]
-              for talk in s:
+            for talk in talks:
                 if not 'format' in talk: continue
                 html += htmlblock.format(talk['specialid'],talk['speaker'],talk['speaker'],talk['speakerimg'],talk['twitter'],talk['twitter'],talk['specialid'],talk['title'],talk['specialid'],tracks[talk['subcol']],talk['bio'])
             
