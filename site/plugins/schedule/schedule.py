@@ -360,7 +360,7 @@ class ScheduleShortcode(ShortcodePlugin):
             <div class="clearfix section" id="row-{}">
                 <h2>{}</h2>
                 <img alt="{}" class="img-circle img-responsive align-right" src="{}" style="height: 200px; float:right; border-radius:50%;">
-                <p class="fa fa-twitter fa-fw"><a class="reference external" href="https://twitter.com/{}">{}</a></p>
+                {}
                 <p>Talk: <a href="/talks#row-{}">{}</a></p>
                 <p><a href="/schedule#schedule-field-{}">{}</a></p>
                 <div class="section" id="biography">
@@ -372,7 +372,9 @@ class ScheduleShortcode(ShortcodePlugin):
             
             for talk in talks:
                 if not 'format' in talk: continue
-                html += htmlblock.format(talk['specialid'],talk['speaker'],talk['speaker'],talk['speakerimg'],talk['twitter'],talk['twitter'],talk['specialid'],talk['title'],talk['specialid'],talk['timeplace'],talk['bio'])
+                html += htmlblock.format(talk['specialid'],talk['speaker'],talk['speaker'],talk['speakerimg'],
+                                         '<p class="fa fa-twitter fa-fw"><a class="reference external" href="https://twitter.com/{}">{}</a></p>'.format(talk['twitter'],talk['twitter']) if len(talk['twitter'].strip()) > 0 else ""
+                                         ,talk['specialid'],talk['title'],talk['specialid'],talk['timeplace'],talk['bio'])
             
             html += '</div>'
             
