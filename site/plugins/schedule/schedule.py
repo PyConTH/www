@@ -332,12 +332,12 @@ class ScheduleShortcode(ShortcodePlugin):
             
             htmlblock = '''
             <div class="clearfix section" id="row-{}">
-                <h2>{}</h2>
+                <h1>{}</h1>
                 <p>by <a href="/speakers#row-{}">{}</a></p>
                 <p>Format: {} (Duration: {})</p>
                 <p><a href="/schedule#schedule-field-{}">{}</a></p>
                 <div class="section" id="abstract">
-                    <h3>Abstract</h3>
+                    <h2>Abstract</h2>
                     <p>{}</p>
                 </div>
             </div>
@@ -358,13 +358,13 @@ class ScheduleShortcode(ShortcodePlugin):
             
             htmlblock = '''
             <div class="clearfix section" id="row-{}">
-                <h2>{}</h2>
+                <h1>{}</h1>
                 <img alt="{}" class="img-circle img-responsive align-right" src="{}" style="height: 200px; float:right; border-radius:50%;">
                 {}
                 <p>Talk: <a href="/talks#row-{}">{}</a></p>
                 <p><a href="/schedule#schedule-field-{}">{}</a></p>
                 <div class="section" id="biography">
-                  <h3>Biography</h3>
+                  <h2>Biography</h2>
                   <p>{}</p>
                 </div>
             </div>
