@@ -241,6 +241,7 @@ class ScheduleShortcode(ShortcodePlugin):
                 color: white;
                 width: 100%;
                 margin-bottom: 5px;
+                margin-right: 5px;
             }
 
             .schedule-item:hover, .workshop-item:hover {
