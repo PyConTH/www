@@ -48,8 +48,7 @@ If you do not have a cell phone, simply ask a staff member.
 
 A listing of `PyCon staff is located here <staff>`_, including contact phone numbers.
 If at all possible, all reports should be made directly to 
-`Dylan Jay <djay@pretaweb.com>`_ or `Ben Scherrey <scherrey@proteus-tech.com>`_.
-`Narumol Hankrotha <...>`_ (Thai).
+`The PyCon Thailand Team <mailto:contact@pyconthailand.org>`, or via FB or at the Registration Desk.
 
 .. class:: small
 

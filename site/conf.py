@@ -140,6 +140,7 @@ NAVIGATION_LINKS = {
         (
             (
                 ("/schedule/", "ตารางเวลาการพูด"),
+                ("/layout/", "layout"),
                 ("/#keynotes", "แก่นเรื่อง"),
                 ("/talks/", "สัมมนา"),
                 ("/speakers/", "ผู้บรรยาย"),
@@ -166,7 +167,7 @@ NAVIGATION_LINKS = {
                 ("/staff", "Staff"),
                 ("/financial-support", "Financial Support"),
                 ("/pycon2018", "คลังโพสต์ 2018"),
-                ("mailto:contact@pyconthailand.org", "ติดต่อ"),
+                ("/contact", "ติดต่อ"),
             ),
             "About"
         ),
@@ -176,6 +177,7 @@ NAVIGATION_LINKS = {
         (
             (
                 ("/en/schedule/", "Schedule"),
+                ("/en/layout/", "Layout"),
                 ("/en/#keynotes", "Keynotes"),
                 ("/en/talks/", "Talks"),
                 ("/en/speakers/", "Speakers"),
@@ -201,7 +203,7 @@ NAVIGATION_LINKS = {
                 ("/en/about", "About"),
                 ("/en/staff", "Staff"),
                 ("/pycon2018/en", "PyCon Thailand 2018 Archive"),
-                ("mailto:contact@pyconthailand.org", "Contact"),
+                ("/en/contact", "Contact"),
             ),
             "About"
         ),
