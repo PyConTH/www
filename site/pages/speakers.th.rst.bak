@@ -1,7 +1,7 @@
 
 .. title: Speakers
 .. slug: speakers
-.. date: 2019-06-10 10:57:38 UTC+07:00
+.. date: 2019-06-11 14:26:35 UTC+07:00
 .. tags:
 .. category:
 .. link:
@@ -1402,6 +1402,28 @@ Before joining Expedia, he  co-founded one startup in India and did internship a
 .. class:: clearfix
 
 
+Shane Torr
+==========
+
+
+
+
+
+
+
+Talk: Tech Skills: What's Hot And What's Not.
+
+Biography
+---------
+
+Shane is CEO at Gummy Bear Tech Recruitment. He has over 30 years international experience in IT, and has been based in Thailand for the last 17 years where he’s been focusing on technical recruitment.  Strong interest in SaaS applications, cloud technologies, and Linux desktops
+
+
+
+
+.. class:: clearfix
+
+
 Sherin Thomas
 =============
 
@@ -1574,42 +1596,6 @@ Biography
 ---------
 
 I work at an Application Security company (we45) and have a unique perspective of developing secure and deliberately insecure apps in Python and NodeJS. I have contributed to the development of several Web-Applications using Django, Djano-Rest-Framework, NodeJs and more, that have been used for Capture the Flag Contests inside and outside the organization. And also I am contributed multiple OpenSource Projects. In addition, I have extensive experience with integrating scanners, SAST and DAST toolsets into our Application Vulnerability Correlation and Aggregation product. I have over 7 years of development experience and continue to work as a full-stack developer. And also I have presented talk in DjangoCon 2018, ISACA Meetup, also gave a workshop about container orchestration and Serverless in Lascon, Recently gave a talk in DevSecCon Singapore 2019.
-
-
-
-
-.. class:: clearfix
-
-
-Viral Parmar
-============
-
-
-
-.. image:: https://secure.gravatar.com/avatar/f39b54f90f14174754a7a1671cc8b008?s=500
-    :alt: Viral Parmar
-    :height: 200px
-    :align: right
-    :class: img-circle img-responsive
-
-
-
-
-
-.. class:: fa fa-twitter fa-fw
-
-    `viralparmarhack <https://twitter.com/viralparmarhack>`_
-
-
-
-
-
-Talk: JWT authentication with Django
-
-Biography
----------
-
-Viral Parmar is a Serial entrepreneur who runs ComExpo Cyber security company as well as Infinite Defense Foundation a non-profit organization in India. He is a Developer Advocate, Productivity Hacker, Open Source Strategist, Technical Evangelist, Community Liaison, International TechSpeaker, he is a Cyber Security researcher by profession and open source enthusiast working in a field of information security from last three years with the expertise in Cyber Crime Investigation, Public Key Infrastructure, Social Engineering, Web App Penetration Testing, Digital Forensics and Mobile Security. He found sever vulnerability in 150+ well known websites like Intel, your story and solved more than 100 cases of cyber-crime & online frauds. He is famous for his research Cyber Disorder and Who is spying on you. Trained 150,000+ people till now and aware them about privacy and security. Given Seminars and workshops in 150+ Organizations. He is Working with Mozilla foundation from last 2 years as Reps, Mentor in Mozilla Open Leadership Project, Coach(Privacy and Security) in MozSprint 2018, also working with L10N project on Pontoon, Rust and WebVR projects.
 
 
 
