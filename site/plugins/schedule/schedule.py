@@ -136,7 +136,7 @@ class ScheduleShortcode(ShortcodePlugin):
               subhtml = '<div class="timeflex" style="grid-row-start: {}; grid-row-end: {}; grid-column-start: {}; grid-column-end: {};"> <div class="timetext"><b>{}</b></div> <div class="schedule-item-container" style="flex-grow:1;">'.format(talk['row']-rowoffset,talk['row']-rowoffset,talk['col'],talk['col']+talk['colspan'],talk['time'])
               for talk in s:
                 if talk['col'] == 1:
-                  subhtml += '''		<div class="schedule-item schedule-item-{}" style="order: {};" onclick="var hid='hidden-field-{}-{}'; if (!$('#'+hid).hasClass('active')) $('#'+hid).fadeIn(250),$('#'+hid).addClass('active'); else $('#'+hid).fadeOut(250),$('#'+hid).removeClass('active');">
+                  subhtml += '''		<div class="schedule-item schedule-item-{}" style="order: {};" id="schedule-field-{}-{}" onclick="var hid=$(this).attr('id').replace('schedule-field','hidden-field'); if (!$('#'+hid).hasClass('active')) $('#'+hid).fadeIn(250),$('#'+hid).addClass('active'); else $('#'+hid).fadeOut(250),$('#'+hid).removeClass('active');">
                   <div><b>{}</b></div>
                   <div>{}</div>
                   <div class="hidden-field" id="hidden-field-{}-{}">
@@ -287,7 +287,7 @@ class ScheduleShortcode(ShortcodePlugin):
                 <h2>{}</h2>
                 <p>by <a href="/speakers#row-{}" target="_blank">{}</a></p>
                 <p>Format: {} (Duration: {})</p>
-                <p>{}</p>
+                <p><a href="/schedule#schedule-field-{}" target="_blank">{}</a></p>
                 <div class="section" id="abstract">
                     <h3>Abstract</h3>
                     <p>{}</p>
@@ -299,7 +299,7 @@ class ScheduleShortcode(ShortcodePlugin):
               s = schedule[t]
               for talk in s:
                 if not 'format' in talk: continue
-                html += htmlblock.format(talk['specialid'],talk['title'],talk['specialid'],talk['speaker'],talk['format'],talk['dur'],tracks[talk['subcol']],talk['description'])
+                html += htmlblock.format(talk['specialid'],talk['title'],talk['specialid'],talk['speaker'],talk['format'],talk['dur'],talk['specialid'],tracks[talk['subcol']],talk['description'])
             
             html += '</div>'
             
