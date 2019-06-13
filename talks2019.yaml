@@ -1012,7 +1012,7 @@ talks:
   time: "07:30"
   dur: "01:10"
 
-- title: Registration and Welcome Coffee
+- title: Registration Opens
   description: level 6
   day: sat
   track:
@@ -1021,6 +1021,7 @@ talks:
 
 - title: Welcome Speeches
   description: Some words to open PyCon Thailand 2019
+  speaker: Dylan Jay & TDPK
   day: sat
   track: 1
   time: "08:55"
