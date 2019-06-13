@@ -1,12 +1,12 @@
 .. title: Tickets sold out!
 .. slug: tickets-sold-out
 .. date: 2019-06-07 11:20:42 UTC+07:00
-.. tags: 
-.. category: 
-.. link: 
-.. description: 
+.. tags:
+.. category:
+.. link:
+.. description:
 .. type: text
-.. status: draft
+.. status: published
 
 
 ตั๋วหมดแล้ว! เราขอขอบคุณเสียงตอบรับที่มีอย่างล้นหลาม
