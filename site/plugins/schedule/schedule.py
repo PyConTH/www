@@ -109,7 +109,7 @@ class ScheduleShortcode(ShortcodePlugin):
               talk['subcol'] = 5 if type(talk['track']) == list else talk['track']
               talk['colspan'] = 2 if talk['track'] == [1,2,3,4] else 1
               if talk['subcol'] is None: talk['subcol'] = 5
-              if talk['subcol'] == 4: foundtrackfour = True
+              if talk['track'] == 4: foundtrackfour = True
               if talk['subcol']<5:
                 if talk['subcol']<4:
                   talk['format'] = 'Talk'
@@ -134,14 +134,14 @@ class ScheduleShortcode(ShortcodePlugin):
             schedule[key].append(talk)
           
           for talk in s['talks']:
-            if foundtrackfour:
+            if not foundtrackfour:
                 talk['colspan'] = 2
           
           currrow += 1
         
         if mode == "schedule":
 
-            html = '<h1>Schedule</h1><h2>Tracks</h2>'
+            html = '<h2>Tracks</h2>'
 
             for track in tracks:
               if tracks[track] != "": html += '<div class="schedule-item schedule-item-{}">{}</div>'.format(track,tracks[track])
