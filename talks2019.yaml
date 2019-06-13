@@ -966,14 +966,12 @@ talks:
   dur: "01:00"
 
 - title: Morning Tea & Coffee
-  description: >
-    On level 6 you will find out coffee Partner `Connect Cafe <https://m.facebook.com/thewellconnect/>`_ where you can use
+  description: |-
+    On level 6 you will find out coffee Partner `The Well Connect <https://facebook.com/thewellconnect/>`_ where you can use
     you badge to get 1 free coffee or other drink per day. Additional coffee can be
     bought here or at True Coffee also on Level 6.
-
+  speaker: The Well Connect (Level 6)
   bio: |-
-    Connect Cafe
-
     The Well, a project of the Thai Restoration Community Development Foundation, assists
     women and children in need. It began in 2004 by assisting women working in the sex
     industry, but now serves those with diverse poverty-related needs.
@@ -992,23 +990,18 @@ talks:
     Our ultimate desire is to see Thailand become a safer, healthier place for women and
     children, with better safety nets to help them avoid or escape exploitation. To that end we
     seek to build and empower women as agents of social change.
-
-  speaker: Connect Cafe (Level 6)
-  speakerimg:
   day: sat
   track:
   time: "09:50"
   dur: "00:30"
 
 - title: Coffee & Snack
-  description: >
-    On level 6 you will find out coffee Partner `Connect Cafe <https://m.facebook.com/thewellconnect/>`_ where you can use
+  description: |-
+    On level 6 you will find out coffee Partner `The Well Connect <https://facebook.com/thewellconnect/>`_ where you can use
     you badge to get 1 free coffee or other drink per day. Additional coffee can be
     bought here or at True Coffee also on Level 6.
-
+  speaker: The Well Connect (Level 6)
   bio: |-
-    Connect Cafe
-
     The Well, a project of the Thai Restoration Community Development Foundation, assists
     women and children in need. It began in 2004 by assisting women working in the sex
     industry, but now serves those with diverse poverty-related needs.
@@ -1027,9 +1020,6 @@ talks:
     Our ultimate desire is to see Thailand become a safer, healthier place for women and
     children, with better safety nets to help them avoid or escape exploitation. To that end we
     seek to build and empower women as agents of social change.
-
-  speaker: Connect Cafe (Level 6)
-  speakerimg:
   day: sun
   track:
   time: "08:30"
