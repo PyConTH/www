@@ -357,13 +357,16 @@ class ScheduleShortcode(ShortcodePlugin):
             
             talks = sorted(talks,key=lambda t: t['speaker'])
             
-            htmlblock = '''
+            htmlhead = '''
             <style>
                 .profile-img { height: 200px; float:right; border-radius:50%; }
                 @media screen and (max-width: 576px) /* Mobile */ {
                     .profile-img { float: none; }
                 }
             </style>
+            '''
+            
+            htmlblock = '''
             <div class="clearfix section" id="row-{}">
                 <h1>{}</h1>
                 <img alt="{}" class="img-circle img-responsive align-right profile-img" src="{}">
@@ -385,4 +388,4 @@ class ScheduleShortcode(ShortcodePlugin):
             
             html += '</div>'
             
-            return html
+            return htmlhead+html
