@@ -129,6 +129,7 @@ class ScheduleShortcode(ShortcodePlugin):
             if 'twitter' not in talk: talk['twitter'] = ""
             if 'speakerimg' not in talk or str(talk['speakerimg']) == "None": talk['speakerimg'] = "https://secure.gravatar.com/avatar/7ebded1e9171acbf1b8cbf3532e25172?s=500"
             if not '<p>' in talk['bio']: talk['bio'] = publish_parts(talk['bio'].strip(), writer_name="html")['html_body']
+            if not '<p>' in talk['description']: talk['description'] = publish_parts(talk['description'].strip(), writer_name="html")['html_body']
             if 'format' in talk:
                 talk['timeplace'] = day+" "+time+" @ "+tracks[talk['track']]
             else:
