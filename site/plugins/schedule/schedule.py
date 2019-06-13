@@ -94,14 +94,12 @@ class ScheduleShortcode(ShortcodePlugin):
         schedule = {}
         currrow = 1
         
-        
+        foundtrackfour = 0
         for s in sched:
           time = s['time']
           day = s['day']
           key = day+" "+time
           if not key in schedule: schedule[key] = []
-          
-          foundtrackfour = 0
           
           for talk in s['talks']:
             talk['row'] = currrow
