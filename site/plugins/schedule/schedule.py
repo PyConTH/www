@@ -142,10 +142,12 @@ class ScheduleShortcode(ShortcodePlugin):
         
         if mode == "schedule":
 
-            html = '<h2>Tracks</h2>'
+            html = '<h2>Tracks</h2> <div style="display:flex;">'
 
             for track in tracks:
               if tracks[track] != "": html += '<div class="schedule-item schedule-item-{}">{}</div>'.format(track,tracks[track])
+            
+            html += "</div>"
 
             currday = ""
             rowoffset = 0
@@ -274,7 +276,8 @@ class ScheduleShortcode(ShortcodePlugin):
                 background-color: purple;
                 color: white;
                 margin-bottom: 5px;
-                padding: 10px;
+                padding: 5px;
+                padding-left: 10px;
             }
 
             .workshop-item .workshop-text {
