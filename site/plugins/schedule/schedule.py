@@ -22,7 +22,7 @@ class ScheduleShortcode(ShortcodePlugin):
         if c[1]>=60:
             c[0] += c[1]//60
             c[1] %= 60
-        return ":".join(c)
+        return ":".join(map(str,c))
         
     def handler(self, mode="schedule", file="../talks2019.yaml", schedule_page="schedule", talks_page="talks", speakers_page="speakers",                sections=None, slugs=None, post_type='post', type=False,
                 lang=None, template='post_list_directive.tmpl', sort=None,
@@ -295,6 +295,8 @@ class ScheduleShortcode(ShortcodePlugin):
         elif mode=="talks":
             html = '<div>'
             
+            talks = sorted(talks,key=lambda t: t['title'])
+            
             htmlblock = '''
             <div class="clearfix section" id="row-{}">
                 <h2>{}</h2>
@@ -318,6 +320,8 @@ class ScheduleShortcode(ShortcodePlugin):
         
         elif mode=="speakers":
             html = '<div>'
+            
+            talks = sorted(talks,key=lambda t: t['speaker'])
             
             htmlblock = '''
             <div class="clearfix section" id="row-{}">
