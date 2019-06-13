@@ -239,8 +239,9 @@ class ScheduleShortcode(ShortcodePlugin):
                 padding: 5px;
                 padding-left: 10px;
                 color: white;
-                width: calc(100% - 20px);
+                width: 100%;
                 margin-bottom: 5px;
+                margin-right: 5px;
             }
 
             .schedule-item:hover, .workshop-item:hover {
@@ -274,7 +275,6 @@ class ScheduleShortcode(ShortcodePlugin):
                 color: white;
                 margin-bottom: 5px;
                 padding: 10px;
-                margin-right: 5px;
             }
 
             .workshop-item .workshop-text {
@@ -350,7 +350,7 @@ class ScheduleShortcode(ShortcodePlugin):
             htmlblock = '''
             <div class="clearfix section" id="row-{}">
                 <h2>{}</h2>
-                <img alt="{}" class="img-circle img-responsive align-right" src="{}" style="height: 200px;">
+                <img alt="{}" class="img-circle img-responsive align-right" src="{}" style="height: 200px; float:right; border-radius:50%;">
                 <p class="fa fa-twitter fa-fw"><a class="reference external" href="https://twitter.com/{}">{}</a></p>
                 <p>Talk: <a href="/talks#row-{}">{}</a></p>
                 <p><a href="/schedule#schedule-field-{}">From {} to {} at {}</a></p>
