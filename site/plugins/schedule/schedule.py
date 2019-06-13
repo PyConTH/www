@@ -19,10 +19,9 @@ class ScheduleShortcode(ShortcodePlugin):
                 lang=None, template='post_list_directive.tmpl', sort=None,
                 id=None, data=None, state=None, site=None, date=None, filename=None, post=None):
         dep = [file]
-        if mode=="schedule":
-            return self.handle_schedule(file,schedule_page,talks_page,speakers_page), dep
+        return self.handle_schedule(file,schedule_page,talks_page,speakers_page,mode), dep
     
-    def handle_schedule(self,file,schedule_page,talks_page,speakers_page):
+    def handle_schedule(self,file,schedule_page,talks_page,speakers_page,mode):
         """"
         Goal is to talk a yaml file of talks data and produce
         - responsive schedule
@@ -91,6 +90,12 @@ class ScheduleShortcode(ShortcodePlugin):
             if 'track' in talk:
               talk['subcol'] = 5 if type(talk['track']) == list else talk['track']
               talk['colspan'] = 2 if talk['track'] == [1,2,3,4] else 1
+              if talk['subcol'] is None: talk['subcol'] = 5
+              if talk['subcol']<5:
+                if talk['subcol']<4:
+                  talk['format'] = 'Talk'
+                else:
+                  talk['format'] = 'Workshop'
             else:
               talk['subcol'] = 1
               talk['colspan'] = 2
@@ -108,166 +113,193 @@ class ScheduleShortcode(ShortcodePlugin):
             
             specialid += 1
           currrow += 1
-
-        html = '<h1>Schedule</h1><h2>Tracks</h2>'
-
-        for track in tracks:
-          if tracks[track] != "": html += '<div class="schedule-item schedule-item-{}">{}</div>'.format(track,tracks[track])
-
-        currday = ""
-        rowoffset = 0
-
-        for t in schedule:
-          s = schedule[t]
-          if len(s) == 0: continue
-          talk = s[0]
-          if talk['day'] != currday:
-            if currday != "": html += "</div>"
-            html += '<h2>' + talk['day'] + '</h2> <div class="grid-container">'
-            currday = talk['day']
-            rowoffset = talk['row']-1
-          subhtml = '<div class="timeflex" style="grid-row-start: {}; grid-row-end: {}; grid-column-start: {}; grid-column-end: {};"> <div class="timetext"><b>{}</b></div> <div class="schedule-item-container" style="flex-grow:1;">'.format(talk['row']-rowoffset,talk['row']-rowoffset,talk['col'],talk['col']+talk['colspan'],talk['time'])
-          for talk in s:
-            if talk['col'] == 1:
-              subhtml += '''		<div class="schedule-item schedule-item-{}" style="order: {};" onclick="var hid='hidden-field-{}-{}'; if (!$('#'+hid).hasClass('active')) $('#'+hid).fadeIn(250),$('#'+hid).addClass('active'); else $('#'+hid).fadeOut(250),$('#'+hid).removeClass('active');">
-              <div><b>{}</b></div>
-              <div>{}</div>
-              <div class="hidden-field" id="hidden-field-{}-{}">
-                <br>
-                <div><b>Description:</b></div>
-                <div>{}</div>
-                <br>
-                <div><b>Bio:</b></div>
-                <div>{}</div>
-                <br>
-                <div><b>{}</b></div>
-                <br>
-                <a href="/talks#row-{}" target="_blank">View more talks information</a> <br>
-                <a href="/speakers#row-{}" target="_blank">View more speaker information</a>
-              </div>
-            </div>'''.format(talk['subcol'],talk['subcol']-1,talk['row'],talk['specialid'],talk['title'],talk['speaker'],talk['row'],talk['specialid'],talk['description'],talk['bio'],tracks[talk['subcol']],talk['specialid'],talk['specialid'])
-          subhtml += '</div> </div>'
-          for talk in s:
-            if talk['col'] == 2:
-              subhtml += '''	<div class="workshop-item" style="grid-row-start:{}; grid-row-end:{}; grid-column-start: {}; grid-column-end: {};" onclick="var hid='hidden-field-{}-{}'; if (!$('#'+hid).hasClass('active')) $('#'+hid).fadeIn(250),$('#'+hid).addClass('active'); else $('#'+hid).fadeOut(250),$('#'+hid).removeClass('active');">
-            <div class="workshop-text">
-              <b>{}</b><br>{}
-              <div class="hidden-field" id="hidden-field-{}-{}">
-                <br>
-                <div><b>Description:</b></div>
-                <div>{}</div>
-                <br>
-                <div><b>Bio:</b></div>
-                <div>{}</div>
-                <br>
-                <div><b>{}</b></div>
-                <br>
-                <a href="/talks#row-{}">View more talks information</a> <br>
-                <a href="/speakers#row-{}">View more speaker information</a>
-              </div>
-            </div>
-          </div>'''.format(talk['row']-rowoffset,talk['row']-rowoffset+3,talk['col'],talk['col'],talk['row'],talk['subcol'],talk['title'],talk['speaker'],talk['row'],talk['subcol'],talk['description'],talk['bio'],tracks[talk['subcol']],talk['specialid'],talk['specialid'])
-
-          html += subhtml
-
-        #print(html)
-
-        #Generate html file
-        htmlhead = '''
-        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-        <meta name="date" content="2019-06-10 22:28" />
-        <meta name="summary" content="Conference Schedule" />
-
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.js"></script>
-
-        <style>
-        .root-container a {
-            color: white !important;
-        }
         
-        .grid-container {
-            width: 100%;
-            display: grid;
-            grid-template-columns: 60% auto;
-            grid-row-gap: 10px;
-        }
+        if mode == "schedule":
 
-        .timeflex {
-            display: flex;
-            flex-direction: row;
-        }
+            html = '<h1>Schedule</h1><h2>Tracks</h2>'
 
-        @media screen and (max-width: 500px) /* Mobile */ {
+            for track in tracks:
+              if tracks[track] != "": html += '<div class="schedule-item schedule-item-{}">{}</div>'.format(track,tracks[track])
+
+            currday = ""
+            rowoffset = 0
+
+            for t in schedule:
+              s = schedule[t]
+              if len(s) == 0: continue
+              talk = s[0]
+              if talk['day'] != currday:
+                if currday != "": html += "</div>"
+                html += '<h2>' + talk['day'] + '</h2> <div class="grid-container">'
+                currday = talk['day']
+                rowoffset = talk['row']-1
+              subhtml = '<div class="timeflex" style="grid-row-start: {}; grid-row-end: {}; grid-column-start: {}; grid-column-end: {};"> <div class="timetext"><b>{}</b></div> <div class="schedule-item-container" style="flex-grow:1;">'.format(talk['row']-rowoffset,talk['row']-rowoffset,talk['col'],talk['col']+talk['colspan'],talk['time'])
+              for talk in s:
+                if talk['col'] == 1:
+                  subhtml += '''		<div class="schedule-item schedule-item-{}" style="order: {};" onclick="var hid='hidden-field-{}-{}'; if (!$('#'+hid).hasClass('active')) $('#'+hid).fadeIn(250),$('#'+hid).addClass('active'); else $('#'+hid).fadeOut(250),$('#'+hid).removeClass('active');">
+                  <div><b>{}</b></div>
+                  <div>{}</div>
+                  <div class="hidden-field" id="hidden-field-{}-{}">
+                    <br>
+                    <div><b>Description:</b></div>
+                    <div>{}</div>
+                    <br>
+                    <div><b>Bio:</b></div>
+                    <div>{}</div>
+                    <br>
+                    <div><b>{}</b></div>
+                    <br>
+                    <a href="/talks#row-{}" target="_blank">View more talks information</a> <br>
+                    <a href="/speakers#row-{}" target="_blank">View more speaker information</a>
+                  </div>
+                </div>'''.format(talk['subcol'],talk['subcol']-1,talk['row'],talk['specialid'],talk['title'],talk['speaker'],talk['row'],talk['specialid'],talk['description'],talk['bio'],tracks[talk['subcol']],talk['specialid'],talk['specialid'])
+              subhtml += '</div> </div>'
+              for talk in s:
+                if talk['col'] == 2:
+                  subhtml += '''	<div class="workshop-item" style="grid-row-start:{}; grid-row-end:{}; grid-column-start: {}; grid-column-end: {};" onclick="var hid='hidden-field-{}-{}'; if (!$('#'+hid).hasClass('active')) $('#'+hid).fadeIn(250),$('#'+hid).addClass('active'); else $('#'+hid).fadeOut(250),$('#'+hid).removeClass('active');">
+                <div class="workshop-text">
+                  <b>{}</b><br>{}
+                  <div class="hidden-field" id="hidden-field-{}-{}">
+                    <br>
+                    <div><b>Description:</b></div>
+                    <div>{}</div>
+                    <br>
+                    <div><b>Bio:</b></div>
+                    <div>{}</div>
+                    <br>
+                    <div><b>{}</b></div>
+                    <br>
+                    <a href="/talks#row-{}">View more talks information</a> <br>
+                    <a href="/speakers#row-{}">View more speaker information</a>
+                  </div>
+                </div>
+              </div>'''.format(talk['row']-rowoffset,talk['row']-rowoffset+3,talk['col'],talk['col'],talk['row'],talk['subcol'],talk['title'],talk['speaker'],talk['row'],talk['subcol'],talk['description'],talk['bio'],tracks[talk['subcol']],talk['specialid'],talk['specialid'])
+
+              html += subhtml
+
+            #print(html)
+
+            #Generate html file
+            htmlhead = '''
+            <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+            <meta name="date" content="2019-06-10 22:28" />
+            <meta name="summary" content="Conference Schedule" />
+
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.js"></script>
+
+            <style>
+            .root-container a {
+                color: white !important;
+            }
+
+            .grid-container {
+                width: 100%;
+                display: grid;
+                grid-template-columns: 60% auto;
+                grid-row-gap: 10px;
+            }
+
             .timeflex {
+                display: flex;
+                flex-direction: row;
+            }
+
+            @media screen and (max-width: 500px) /* Mobile */ {
+                .timeflex {
+                    flex-direction: column;
+                }
+            }
+
+            .schedule-item-container {
+                display:flex;
                 flex-direction: column;
             }
-        }
 
-        .schedule-item-container {
-            display:flex;
-            flex-direction: column;
-        }
+            .schedule-item {
+                padding: 5px;
+                padding-left: 10px;
+                color: white;
+                width: calc(100% - 20px);
+                margin-bottom: 5px;
+            }
 
-        .schedule-item {
-            padding: 5px;
-            padding-left: 10px;
-            color: white;
-            width: calc(100% - 20px);
-            margin-bottom: 5px;
-        }
+            .schedule-item:hover, .workshop-item:hover {
+              opacity: 0.8;
+              cursor: pointer;
+            }
 
-        .schedule-item:hover, .workshop-item:hover {
-          opacity: 0.8;
-          cursor: pointer;
-        }
+            .schedule-item-1 {
+                background-color: darkblue;
+            }
 
-        .schedule-item-1 {
-            background-color: darkblue;
-        }
+            .schedule-item-2 {
+                background-color: darkgreen;
+            }
 
-        .schedule-item-2 {
-            background-color: darkgreen;
-        }
+            .schedule-item-3 {
+                background-color: darkred;
+            }
 
-        .schedule-item-3 {
-            background-color: darkred;
-        }
+            .schedule-item-5 {
+                background-color: gray;
+            }
 
-        .schedule-item-5 {
-            background-color: gray;
-        }
+            .p-5 {
+                padding: 5px;
+            }
 
-        .p-5 {
-            padding: 5px;
-        }
+            .workshop-item, .schedule-item-4 {
+                grid-column-start:3;
+                background-color: purple;
+                color: white;
+                margin-bottom: 5px;
+                padding: 10px;
+                margin-right: 5px;
+            }
 
-        .workshop-item, .schedule-item-4 {
-            grid-column-start:3;
-            background-color: purple;
-            color: white;
-            margin-bottom: 5px;
-            padding: 10px;
-            margin-right: 5px;
-        }
+            .workshop-item .workshop-text {
 
-        .workshop-item .workshop-text {
+            }
 
-        }
+            .timetext {
+                padding-top: 5px;
+                padding-right: 5px;
+            }
 
-        .timetext {
-            padding-top: 5px;
-            padding-right: 5px;
-        }
+            a {
+              color: white;
+            }
 
-        a {
-          color: white;
-        }
-
-        .hidden-field {
-          display: none;
-        }
-        </style>
-        '''
+            .hidden-field {
+              display: none;
+            }
+            </style>
+            '''
 
 
-        return ''+htmlhead+'<div class="root-container">'+html+'</div>'
+            return ''+htmlhead+'<div class="root-container">'+html+'</div>'
+        
+        elif mode=="talks":
+            html = '<div>'
+            
+            htmlblock = '''
+            <div class="clearfix section" id="row-{}">
+                <h2>{}</h2>
+                <p>by {}</p>
+                <p>Format: {} (Duration: {})</p>
+                <div class="section" id="abstract">
+                    <h3>Abstract</h3>
+                    <p>{}</p>
+                </div>
+            </div>
+            '''
+            
+            for t in schedule:
+              s = schedule[t]
+              for talk in s:
+                if not 'format' in talk: continue
+                html += htmlblock.format(talk['specialid'],talk['title'],talk['speaker'],talk['format'],talk['dur'],talk['description'])
+            
+            html += '</div>'
+            
+            return html
