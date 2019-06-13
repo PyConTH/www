@@ -22,6 +22,8 @@ class ScheduleShortcode(ShortcodePlugin):
         if c[1]>=60:
             c[0] += c[1]//60
             c[1] %= 60
+        c[0] = "%02d"%c[0]
+        c[1] = "%02d"%c[1]
         return ":".join(map(str,c))
         
     def handler(self, mode="schedule", file="../talks2019.yaml", schedule_page="schedule", talks_page="talks", speakers_page="speakers",                sections=None, slugs=None, post_type='post', type=False,
@@ -93,6 +95,7 @@ class ScheduleShortcode(ShortcodePlugin):
           day = s['day']
           key = day+" "+time
           if not key in schedule: schedule[key] = []
+          foundtrackfour = False
           for talk in s['talks']:
             talk['row'] = currrow
             talk['col'] = 1 if talk['track'] != 4 else 2
@@ -100,6 +103,7 @@ class ScheduleShortcode(ShortcodePlugin):
               talk['subcol'] = 5 if type(talk['track']) == list else talk['track']
               talk['colspan'] = 2 if talk['track'] == [1,2,3,4] else 1
               if talk['subcol'] is None: talk['subcol'] = 5
+              if talk['subcol'] == 4: foundtrackfour = True
               if talk['subcol']<5:
                 if talk['subcol']<4:
                   talk['format'] = 'Talk'
@@ -146,7 +150,7 @@ class ScheduleShortcode(ShortcodePlugin):
                 html += '<h2>' + talk['day'] + '</h2> <div class="grid-container">'
                 currday = talk['day']
                 rowoffset = talk['row']-1
-              subhtml = '<div class="timeflex" style="grid-row-start: {}; grid-row-end: {}; grid-column-start: {}; grid-column-end: {};"> <div class="timetext"><b>{}</b><br>To<br><b>{}</b></div> <div class="schedule-item-container" style="flex-grow:1;">'.format(talk['row']-rowoffset,talk['row']-rowoffset,talk['col'],talk['col']+talk['colspan'],talk['time'],talk['timeend'])
+              subhtml = '<div class="timeflex" style="grid-row-start: {}; grid-row-end: {}; grid-column-start: {}; grid-column-end: {};"> <div class="timetext"><b>{}</b> To <b>{}</b></div> <div class="schedule-item-container" style="flex-grow:1;">'.format(talk['row']-rowoffset,talk['row']-rowoffset,talk['col'],talk['col']+talk['colspan'],talk['time'],talk['timeend'])
               for talk in s:
                 if talk['col'] == 1:
                   subhtml += '''		<div class="schedule-item schedule-item-{}" style="order: {};" id="schedule-field-{}" onclick="var hid=$(this).attr('id').replace('schedule-field','hidden-field'); if (!$('#'+hid).hasClass('active')) $('#'+hid).fadeIn(250),$('#'+hid).addClass('active'); else $('#'+hid).fadeOut(250),$('#'+hid).removeClass('active');">
