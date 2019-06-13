@@ -29,7 +29,7 @@ talks:
 - bio: |-
     **Alex Khaerov** is a development lead at `Chainstack <https://chainstack.com>`_, with 9+ years in web services
     development across diverse domains. His main passion is building robust, high-load and distributed service platforms
-    on top of a multi-cloud environment, utilizing all the power of Python and cloud native services. An organized of
+    on top of a multi-cloud environment, utilizing all the power of Python and cloud native services. An organizer of
     `Moscow Python Conf <https://conf.python.ru>`_ and avid activist of
     `Singapore Python User Group <http://pugs.org.sg/>`_, cloud native enthusiast and member of Kubernetes SG
     community. In his spare time, he speaks publicly at tech conferences and secretly codes in Python. Huge fan of
@@ -209,7 +209,10 @@ talks:
   dur: "00:40"
 
 - bio: |-
-    <p>Hello, I am Doni Rubiagatra. I am Software Engineer at <a class="reference external" href="https://kumparan.com">kumparan</a>, co-founder of <a class="reference external" href="https://github.com/surabaya-py,andAdvisorat%5BDataScienceIndonesia%5D(https://datascience.or.id">surabaya.py</a> East Java. I love teaching Python to others and spoke at several PyCon in Asia. I scream for an Ice Cream :D</p>
+    Hello, I am Doni Rubiagatra. I am Software Engineer at `kumparan <https://kumparan.com>`_, co-founder of
+    `surabaya.py <https://github.com/surabaya-py, and Advisor  at
+    [Data Science Indonesia](https://datascience.or.id>`_ East Java. I love teaching Python to others and
+    spoke at several PyCon in Asia. I scream for an Ice Cream :D
   description: "In the interactive visualization world mainly we hear about Tableau\
     \ and Shiny for R. How about Python? Python\u2019s visualization landscape is\
     \ quite complex with many available libraries. In this talk, we will look for\
@@ -223,9 +226,9 @@ talks:
   dur: "00:40"
 
 - bio: |-
-    <p>Drishti is a Computer Engineer at heart and a technology enthusiast. She loves to use technology to help the less fortunate. She believes in democratizing opportunities and brings knowledge of the latest developments in the fast-moving field of technology to deserving students, and keep them up to date and well-equipped for their respective professional careers.
+    Drishti is a Computer Engineer at heart and a technology enthusiast. She loves to use technology to help the less fortunate. She believes in democratizing opportunities and brings knowledge of the latest developments in the fast-moving field of technology to deserving students, and keep them up to date and well-equipped for their respective professional careers.
     She has spoken at 12+ conferences across the globe and is also a social entrepreneur. Her non-profit organisation - Samyak Drishti Foundation works in environment, education and healthcare sectors and operates in 10 cities across India.
-    In her spare time, she likes to paint nature, explore new places and anchor live shows</p>
+    In her spare time, she likes to paint nature, explore new places and anchor live shows
   description: "Have you ever thought of using data visualization to represent data;\
     \ but feel that it is a cumbersome process? Worry not \u2013 Orange is here to\
     \ the rescue!\nCome, dive into the world of this magical open source data mining\
@@ -239,10 +242,13 @@ talks:
   dur: "00:40"
 
 - bio: |-
-    <p>Elisha is passionate about bringing people together to solve important problems.</p>
-    <p>She founded TechLadies - a community for women in Asia to learn technical skills to switch careers into the tech industry. TechLadies has over 3000 members across Asia, taught hundreds of ladies in Singapore and Malaysia how to code that saw tens of them (without any prior programming background) got technical internships or hired as junior software engineers.</p>
-    <p>Elisha enjoys sharing her experiences in tech and the lessons learned. She was featured on various media such as The Straits Times, Her World, e27, and High Net Worth. She has spoken internationally at IWD by Jobs for NSW, Slush Singapore, Google Women Techmakers, MaGIC Academy Symposium, RubyConf Malaysia and Techsauce Summit to name a few, and has mentored at Startup Weekends (San Francisco &amp; Penang) and SPARK Global Acceleration Program.</p>
-    <p>Elisha is based in sunny Singapore and aspires to be a standup comedian.</p>
+    Elisha is passionate about bringing people together to solve important problems.
+
+    She founded TechLadies - a community for women in Asia to learn technical skills to switch careers into the tech industry. TechLadies has over 3000 members across Asia, taught hundreds of ladies in Singapore and Malaysia how to code that saw tens of them (without any prior programming background) got technical internships or hired as junior software engineers.
+
+    Elisha enjoys sharing her experiences in tech and the lessons learned. She was featured on various media such as The Straits Times, Her World, e27, and High Net Worth. She has spoken internationally at IWD by Jobs for NSW, Slush Singapore, Google Women Techmakers, MaGIC Academy Symposium, RubyConf Malaysia and Techsauce Summit to name a few, and has mentored at Startup Weekends (San Francisco & Penang) and SPARK Global Acceleration Program.
+
+    Elisha is based in sunny Singapore and aspires to be a standup comedian.
   description: "There\u2019s much more we could do to improve gender diversity in\
     \ tech. But with so many ideas, how should you get started in tackling this problem?\
     \ How do you measure success? In this talk, I will share the people-centric methodology\
@@ -257,8 +263,8 @@ talks:
 
 
 - bio: |-
-    <p>Application Security Consultant, Skilled in Security Requirement Engineering, Threat Modeling, Static Application Security Testing, Dynamic Application Security Testing,  Secure SDLC, DevSecOps. Hold Certified Ethical Hacker certification, Speaker for several conferences in Jakarta, Kuala Lumpur, Singapore with topic related to application security.
-    Bachelor's Degree focused in Informatics Engineering from Telkom University.</p>
+    Application Security Consultant, Skilled in Security Requirement Engineering, Threat Modeling, Static Application Security Testing, Dynamic Application Security Testing,  Secure SDLC, DevSecOps. Hold Certified Ethical Hacker certification, Speaker for several conferences in Jakarta, Kuala Lumpur, Singapore with topic related to application security.
+    Bachelor’s Degree focused in Informatics Engineering from Telkom University.
   description: >-
     This topic will cover how to find security issue on python code using open source
     Static Analysis Security Testing. So that developer can found & fixed the security
@@ -310,7 +316,7 @@ talks:
   dur: "00:40"
 
 - bio: |-
-    <p>I am a lead engineer working on Android and iOS instrumentations at HeadSpin Inc., a fast-growing mobile testing startup company based in Palo Alto. I have years of writing programs in many languages like Go, Python, Erlang, JavaScript, Ocaml, Java, Kotlin, and Swift, among others. My experience lies in networking for IoTs and interactive applications, compiler, and mobile frameworks. Outside of professional settings, I'm the author of RxGo, a popular open-source library on Github and I have given talks at MakerFaire NYC and Radical Networks in 2015.</p>
+    I am a lead engineer working on Android and iOS instrumentations at HeadSpin Inc., a fast-growing mobile testing startup company based in Palo Alto. I have years of writing programs in many languages like Go, Python, Erlang, JavaScript, Ocaml, Java, Kotlin, and Swift, among others. My experience lies in networking for IoTs and interactive applications, compiler, and mobile frameworks. Outside of professional settings, I'm the author of RxGo, a popular open-source library on Github and I have given talks at MakerFaire NYC and Radical Networks in 2015.
   description: >-
     Fishing in Smali? try Marlin.
 
@@ -384,8 +390,13 @@ talks:
 
 
 - bio: |-
-    <p>I started working as a data scientist in July, 2016. Though I have been using regular expressions to clean data for years, since 1999. I finished an M.Phil in Computer Speech and Language Processing from University of Cambridge, UK.</p>
-    <p>My focus now includes 2 topics: Thai NLP and Google Colaboratory for knowledge sharing. My main contributions are for <a class="reference external" href="https://github.com/PyThaiNLP/pythainlp">PyThaiNLP project</a> and Colab notebooks shared on <a class="reference external" href="https://www.facebook.com/groups/colab.thailand/">Colab Thailand Facebook Group</a></p>
+    I started working as a data scientist in July, 2016. Though I have been using regular expressions to clean data
+    for years, since 1999. I finished an M.Phil in Computer Speech and Language Processing from University of
+    Cambridge, UK.
+
+    My focus now includes 2 topics: Thai NLP and Google Colaboratory for knowledge sharing. My main contributions are
+    for `PyThaiNLP project <https://github.com/PyThaiNLP/pythainlp>`_ and Colab notebooks shared on
+    `Colab Thailand Facebook Group <https://www.facebook.com/groups/colab.thailand/>`_
   description: >-
     Colab or Google Colaboratory is a popular tool to run Jupyter Notebook for free
     on Google Cloud. This talk will cover some advanced uses of Colab, such as %magic,
@@ -445,7 +456,7 @@ talks:
   dur: "00:40"
 
 - bio: |-
-    <p>Mark has worked in IT for over 20 years in Europe and Southeast Asia. His experience spans IT operations, software engineering, data systems, product management and project management. He has worked in top multinationals, SMEs and start-ups.</p>
+    Mark has worked in IT for over 20 years in Europe and Southeast Asia. His experience spans IT operations, software engineering, data systems, product management and project management. He has worked in top multinationals, SMEs and start-ups.
   description: >-
     Production Engineering comes from the belief that operational problems should
     be solved through software solutions. The engineers who are building the software
@@ -454,14 +465,14 @@ talks:
   speaker: Mark Hollow
   speakerimg: https://secure.gravatar.com/avatar/1f9b0b1483c7edc284513caeefa40fb1?s=500
   title: Python in Production Engineering @ Facebook
-  day: sun
+  day: sat
   track: 1
   time: "16:10"
   dur: "00:40"
 
 
 - bio: |-
-    <p>Martin is a Google Developer Expert in Machine Learning based in Singapore - and was doing Neural Networks before the last AI winter...  He's an active contributor in the Singapore data science community, and is the co-host of the Singapore TensorFlow and Deep Learning MeetUp (with now with 3700+ members in Singapore).</p>
+    Martin is a Google Developer Expert in Machine Learning based in Singapore - and was doing Neural Networks before the last AI winter...  He's an active contributor in the Singapore data science community, and is the co-host of the Singapore TensorFlow and Deep Learning MeetUp (with now with 3700+ members in Singapore).
   description: >-
     This talk aims to cover the "something for beginners" part of our tagline - motivating
     the building blocks of CNNs, how they are trained, and how the resulting model
@@ -476,7 +487,7 @@ talks:
   dur: "00:40"
 
 - bio: |-
-    <p>I'm a Full Stack Developer, Developer Evangelist, Auth0 Ambassador, GDG Ranchi Organizer, and Mozilla Representative. I love speaking on Serverless, Authentication &amp; Authorization, Google Technologies, Security, Web Extensions and Virtual Reality at different meet-ups and conferences.</p>
+    I’m a Full Stack Developer, Developer Evangelist, Auth0 Ambassador, GDG Ranchi Organizer, and Mozilla Representative. I love speaking on Serverless, Authentication & Authorization, Google Technologies, Security, Web Extensions and Virtual Reality at different meet-ups and conferences.
   description: >-
     APIs are changing and languages like Python are shifting the paradigm of API consumption.
     We often dedicate a lot of time in crafting powerful APIs but overlook proper
@@ -561,13 +572,13 @@ talks:
   dur: "00:40"
 
 - bio: |-
-    <p>Noah,
+    Noah,
     PyCon Nomad
     Volunteer of FOSSASIA which is a NPO for promoting FOSS and open technologies in Asia,
     volunteer of PyConTW/JP/KR/ID/MY/TH/HK.....and each PyConAPAC since 2015.
     volunteer and speaker of EuroPython 2018.
     Managing member of PSF,
-    my wish is that connect everyone who enjoy Python, and try to promote programming education to young generation or everyone who interested in by teaching basic programming skill using Python and R, like be a mentor of Hour or Code, or Google Summer of Code with FOSSASIA</p>
+    my wish is that connect everyone who enjoy Python, and try to promote programming education to young generation or everyone who interested in by teaching basic programming skill using Python and R, like be a mentor of Hour or Code, or Google Summer of Code with FOSSASIA
   description: >-
     according to PEP 373, we knew Python 2.7 EOL is moved to 2020. in PEP 404, we
     knew Python 2.8 will never come, which means all versions of Python 2 will be
@@ -773,12 +784,11 @@ talks:
 
 - bio: |-
     I am working as a part of the development team of [Tensor]werk, an infrastructure development company focusing on
-    deep learning deployment problems. I and my team focus on building open source tools for setting up a seamless deep
-    learning workflow. I have been programming since 2012 and started using python since 2014 and moved to deep learning
-    in 2015. I am an open source enthusiast and I spend most of my research time on improving interpretability of AI
-    models using <a class="reference external" href="https://turingnetwork.ai">TuringNetwork</a>. I have authored a deep
-    learning book (<a class="reference external" href="https://github.com/hhsecond/HandsOnDeepLearningWithPytorch">yet
-    to publish</a>). I go by hhsecond on internet
+    deep learning deployment problems. I and my team focus on building open source tools for setting up a seamless
+    deep learning workflow. I have been programming since 2012 and started using python since 2014 and moved to deep
+    learning in 2015. I am an open source enthusiast and I spend most of my research time on improving interpretability
+    of AI models using `TuringNetwork <https://turingnetwork.ai>`_. I have authored a deep learning book (`yet to
+    publish <https://github.com/hhsecond/HandsOnDeepLearningWithPytorch>`_). I go by hhsecond on internet
   description: >-
     Managing DL workflow is always a nightmare. Problems include handling the scale,
     efficient resource utilization, version controlling the data. With the highly
