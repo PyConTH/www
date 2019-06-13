@@ -100,7 +100,8 @@ class ScheduleShortcode(ShortcodePlugin):
           day = s['day']
           key = day+" "+time
           if not key in schedule: schedule[key] = []
-          foundtrackfour = False
+          
+          foundtrackfour = 0
           
           for talk in s['talks']:
             talk['row'] = currrow
@@ -109,7 +110,7 @@ class ScheduleShortcode(ShortcodePlugin):
               talk['subcol'] = 5 if type(talk['track']) == list else talk['track']
               talk['colspan'] = 2 if talk['track'] == [1,2,3,4] else 1
               if talk['subcol'] is None: talk['subcol'] = 5
-              if talk['track'] == 4: foundtrackfour = True
+              if talk['track'] == 4: foundtrackfour = 3
               if talk['subcol']<5:
                 if talk['subcol']<4:
                   talk['format'] = 'Talk'
@@ -134,8 +135,10 @@ class ScheduleShortcode(ShortcodePlugin):
             schedule[key].append(talk)
           
           for talk in s['talks']:
-            if not foundtrackfour:
+            if foundtrackfour <= 0:
                 talk['colspan'] = 2
+                
+          foundtrackfour -= 1
           
           currrow += 1
         
