@@ -106,6 +106,8 @@ class ScheduleShortcode(ShortcodePlugin):
             if not 'speaker' in talk or talk['speaker'] is None: talk['speaker'] = ""
             if not 'description' in talk or talk['description'] is None: talk['description'] = ""
             if not 'bio' in talk or talk['bio'] is None: talk['bio'] = ""
+            if 'twitter' not in talk: talk['twitter'] = ""
+            if 'speakerimg' not in talk: talk['speakerimg'] = ""
             if not '<p>' in talk['bio']: talk['bio'] = publish_parts(talk['bio'].strip(), writer_name="html")['html_body']
             talk['specialid'] = specialid
             
@@ -300,6 +302,33 @@ class ScheduleShortcode(ShortcodePlugin):
               for talk in s:
                 if not 'format' in talk: continue
                 html += htmlblock.format(talk['specialid'],talk['title'],talk['specialid'],talk['speaker'],talk['format'],talk['dur'],talk['specialid'],tracks[talk['subcol']],talk['description'])
+            
+            html += '</div>'
+            
+            return html
+        
+        elif mode=="speakers":
+            html = '<div>'
+            
+            htmlblock = '''
+            <div class="clearfix section" id="row-{}">
+                <h2>{}</h2>
+                <img alt="{}" class="img-circle img-responsive align-right" src="{}" style="height: 200px;">
+                <p class="fa fa-twitter fa-fw"><a class="reference external" href="https://twitter.com/{}">{}</a></p>
+                <p>Talk: <a href="/talks#row-{}" target="_blank">{}</a></p>
+                <p><a href="/schedule#schedule-field-{}" target="_blank">{}</a></p>
+                <div class="section" id="biography">
+                  <h3>Biography</h3>
+                  <p>{}</p>
+                </div>
+            </div>
+            '''
+            
+            for t in schedule:
+              s = schedule[t]
+              for talk in s:
+                if not 'format' in talk: continue
+                html += htmlblock.format(talk['specialid'],talk['speaker'],talk['speaker'],talk['speakerimg'],talk['twitter'],talk['twitter'],talk['specialid'],talk['title'],talk['specialid'],tracks[talk['subcol']],talk['bio'])
             
             html += '</div>'
             
