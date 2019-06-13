@@ -285,8 +285,9 @@ class ScheduleShortcode(ShortcodePlugin):
             htmlblock = '''
             <div class="clearfix section" id="row-{}">
                 <h2>{}</h2>
-                <p>by {}</p>
+                <p>by <a href="/speakers#row-{}" target="_blank">{}</a></p>
                 <p>Format: {} (Duration: {})</p>
+                <p>{}</p>
                 <div class="section" id="abstract">
                     <h3>Abstract</h3>
                     <p>{}</p>
@@ -298,7 +299,7 @@ class ScheduleShortcode(ShortcodePlugin):
               s = schedule[t]
               for talk in s:
                 if not 'format' in talk: continue
-                html += htmlblock.format(talk['specialid'],talk['title'],talk['speaker'],talk['format'],talk['dur'],talk['description'])
+                html += htmlblock.format(talk['specialid'],talk['title'],talk['specialid'],talk['speaker'],talk['format'],talk['dur'],tracks[talk['subcol']],talk['description'])
             
             html += '</div>'
             
