@@ -90,6 +90,7 @@ class ScheduleShortcode(ShortcodePlugin):
             if 'track' in talk:
               talk['subcol'] = 5 if type(talk['track']) == list else talk['track']
               talk['colspan'] = 2 if talk['track'] == [1,2,3,4] else 1
+              if talk['subcol'] is None: talk['subcol'] = 5
               if talk['subcol']<5:
                 if talk['subcol']<4:
                   talk['format'] = 'Talk'
