@@ -191,11 +191,12 @@ class ScheduleShortcode(ShortcodePlugin):
                 if talk['col'] == 2:
                   subhtml += '''	<div class="workshop-item" style="grid-row-start:{}; grid-row-end:{}; grid-column-start: {}; grid-column-end: {};" id="schedule-field-{}" onclick="var hid=$(this).attr('id').replace('schedule-field','hidden-field'); if (!$('#'+hid).hasClass('active')) $('#'+hid).fadeIn(250),$('#'+hid).addClass('active'); else $('#'+hid).fadeOut(250),$('#'+hid).removeClass('active');">
                 <div class="workshop-text">
-                  <b>{}</b><br>{}
+                  <b>{}</b><br>
+                  {}<br>
+                  {}
                   <div class="hidden-field" id="hidden-field-{}">
                     <br>
                     <div><b>Description:</b></div>
-                    <div>{}</div>
                     <div>{}</div>
                     <br>
                     <div><b>Bio:</b></div>
@@ -357,9 +358,15 @@ class ScheduleShortcode(ShortcodePlugin):
             talks = sorted(talks,key=lambda t: t['speaker'])
             
             htmlblock = '''
+            <style>
+                .profile-img { height: 200px; float:right; border-radius:50%; }
+                @media screen and (max-width: 576px) /* Mobile */ {
+                    .profile-img { float: none; }
+                }
+            </style>
             <div class="clearfix section" id="row-{}">
                 <h1>{}</h1>
-                <img alt="{}" class="img-circle img-responsive align-right" src="{}" style="height: 200px; float:right; border-radius:50%;">
+                <img alt="{}" class="img-circle img-responsive align-right profile-img" src="{}">
                 {}
                 <p>Talk: <a href="/talks#row-{}">{}</a></p>
                 <p><a href="/schedule#schedule-field-{}">{}</a></p>
