@@ -1,0 +1,12 @@
+[Core]
+name = schedule
+module = schedule
+
+[Nikola]
+PluginCategory = Shortcode
+
+[Documentation]
+author = Chomtana
+version = 0.1
+website = https://th.pycon.org/
+description = Generate schedule code

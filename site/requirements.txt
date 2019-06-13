@@ -1,3 +1,4 @@
 ruamel.yaml
 webassets
 nikola
+pyyaml
