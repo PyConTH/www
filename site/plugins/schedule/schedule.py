@@ -239,7 +239,7 @@ class ScheduleShortcode(ShortcodePlugin):
                 padding: 5px;
                 padding-left: 10px;
                 color: white;
-                width: calc(100% - 20px);
+                width: 100%;
                 margin-bottom: 5px;
             }
 
@@ -310,6 +310,10 @@ class ScheduleShortcode(ShortcodePlugin):
                     display: block;
                 }
             }
+            
+            .rounded-circle {
+                border-radius: 50%!important;
+            }
             </style>
             '''
 
@@ -348,10 +352,15 @@ class ScheduleShortcode(ShortcodePlugin):
             talks = sorted(talks,key=lambda t: t['speaker'])
             
             htmlblock = '''
+            <style>
+                .rounded-circle {
+                    border-radius: 50%!important;
+                }
+            </style>
             <div class="clearfix section" id="row-{}">
                 <h2>{}</h2>
-                <img alt="{}" class="img-circle img-responsive align-right" src="{}" style="height: 200px;">
-                <p class="fa fa-twitter fa-fw"><a class="reference external" href="https://twitter.com/{}">{}</a></p>
+                <img alt="{}" class="img-circle img-responsive align-right rounded-circle" src="{}" style="height: 200px;">
+                {}
                 <p>Talk: <a href="/talks#row-{}">{}</a></p>
                 <p><a href="/schedule#schedule-field-{}">From {} to {} at {}</a></p>
                 <div class="section" id="biography">
@@ -363,7 +372,9 @@ class ScheduleShortcode(ShortcodePlugin):
             
             for talk in talks:
                 if not 'format' in talk: continue
-                html += htmlblock.format(talk['specialid'],talk['speaker'],talk['speaker'],talk['speakerimg'],talk['twitter'],talk['twitter'],talk['specialid'],talk['title'],talk['specialid'],talk['time'],talk['timeend'],tracks[talk['subcol']],talk['bio'])
+                html += htmlblock.format(talk['specialid'],talk['speaker'],talk['speaker'],talk['speakerimg'],
+                                         '<p class="fa fa-twitter fa-fw"><a class="reference external" href="https://twitter.com/{}">{}</a></p>'.format(talk['twitter'],talk['twitter'])
+                                         ,talk['specialid'],talk['title'],talk['specialid'],talk['time'],talk['timeend'],tracks[talk['subcol']],talk['bio'])
             
             html += '</div>'
             
