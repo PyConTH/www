@@ -223,6 +223,7 @@ class ScheduleShortcode(ShortcodePlugin):
                 display: grid;
                 grid-template-columns: 60% auto;
                 grid-row-gap: 10px;
+                grid-column-gap: 5px;
             }
 
             .timeflex {
@@ -241,7 +242,6 @@ class ScheduleShortcode(ShortcodePlugin):
                 color: white;
                 width: 100%;
                 margin-bottom: 5px;
-                margin-right: 5px;
             }
 
             .schedule-item:hover, .workshop-item:hover {
