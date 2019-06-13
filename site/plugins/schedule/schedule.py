@@ -357,6 +357,7 @@ class ScheduleShortcode(ShortcodePlugin):
                     border-radius: 50%!important;
                 }
             </style>
+            
             <div class="clearfix section" id="row-{}">
                 <h2>{}</h2>
                 <img alt="{}" class="img-circle img-responsive align-right rounded-circle" src="{}" style="height: 200px;">
@@ -373,7 +374,7 @@ class ScheduleShortcode(ShortcodePlugin):
             for talk in talks:
                 if not 'format' in talk: continue
                 html += htmlblock.format(talk['specialid'],talk['speaker'],talk['speaker'],talk['speakerimg'],
-                                         '<p class="fa fa-twitter fa-fw"><a class="reference external" href="https://twitter.com/{}">{}</a></p>'.format(talk['twitter'],talk['twitter'])
+                                         '<p class="fa fa-twitter fa-fw"><a class="reference external" href="https://twitter.com/{}">{}</a></p>'.format(talk['twitter'],talk['twitter']) if len(talk['twitter'].strip()) > 0 else ""
                                          ,talk['specialid'],talk['title'],talk['specialid'],talk['time'],talk['timeend'],tracks[talk['subcol']],talk['bio'])
             
             html += '</div>'
