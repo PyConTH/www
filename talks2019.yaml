@@ -213,10 +213,8 @@ talks:
     `surabaya.py <https://github.com/surabaya-py, and Advisor  at
     [Data Science Indonesia](https://datascience.or.id>`_ East Java. I love teaching Python to others and
     spoke at several PyCon in Asia. I scream for an Ice Cream :D
-  description: "In the interactive visualization world mainly we hear about Tableau\
-    \ and Shiny for R. How about Python? Python\u2019s visualization landscape is\
-    \ quite complex with many available libraries. In this talk, we will look for\
-    \ an easy and fun way to build an interactive dashboard using Plotly and Dash"
+  description: >
+    In the interactive visualization world mainly we hear about Tableau and Shiny for R. How about Python? Python’s visualization landscape is quite complex with many available libraries. In this talk, we will look for an easy and fun way to build an interactive dashboard using Plotly and Dash
   speaker: Doni Rubiagatra
   speakerimg: https://secure.gravatar.com/avatar/eed0ef6cc8a0f435d5d8c9a5648f1551?s=500
   title: Interactive Python Dashboards with Plotly and Dash
@@ -229,10 +227,10 @@ talks:
     Drishti is a Computer Engineer at heart and a technology enthusiast. She loves to use technology to help the less fortunate. She believes in democratizing opportunities and brings knowledge of the latest developments in the fast-moving field of technology to deserving students, and keep them up to date and well-equipped for their respective professional careers.
     She has spoken at 12+ conferences across the globe and is also a social entrepreneur. Her non-profit organisation - Samyak Drishti Foundation works in environment, education and healthcare sectors and operates in 10 cities across India.
     In her spare time, she likes to paint nature, explore new places and anchor live shows
-  description: "Have you ever thought of using data visualization to represent data;\
-    \ but feel that it is a cumbersome process? Worry not \u2013 Orange is here to\
-    \ the rescue!\nCome, dive into the world of this magical open source data mining\
-    \ tool that can also be used as a Python library.\nBeginner friendly!"
+  description: >
+    Have you ever thought of using data visualization to represent data; but feel that it is a cumbersome process? Worry not – Orange is here to the rescue!
+    Come, dive into the world of this magical open source data mining tool that can also be used as a Python library.
+    Beginner friendly!
   speaker: Drishti Jain
   speakerimg: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/36129/WhatsApp_Image_2019-04-21_at_8.52.00_PM.jpeg
   title: When life gives you Orange, make data speak volumes!
@@ -249,10 +247,8 @@ talks:
     Elisha enjoys sharing her experiences in tech and the lessons learned. She was featured on various media such as The Straits Times, Her World, e27, and High Net Worth. She has spoken internationally at IWD by Jobs for NSW, Slush Singapore, Google Women Techmakers, MaGIC Academy Symposium, RubyConf Malaysia and Techsauce Summit to name a few, and has mentored at Startup Weekends (San Francisco & Penang) and SPARK Global Acceleration Program.
 
     Elisha is based in sunny Singapore and aspires to be a standup comedian.
-  description: "There\u2019s much more we could do to improve gender diversity in\
-    \ tech. But with so many ideas, how should you get started in tackling this problem?\
-    \ How do you measure success? In this talk, I will share the people-centric methodology\
-    \ that helps you design your diversity programs and initiatives."
+  description: >
+    There’s much more we could do to improve gender diversity in tech. But with so many ideas, how should you get started in tackling this problem? How do you measure success? In this talk, I will share the people-centric methodology that helps you design your diversity programs and initiatives.
   speaker: Elisha Tan
   speakerimg: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/15327/elisha-speaker_copy.png
   title: Program Thinking - How do you design programs for diversity?
