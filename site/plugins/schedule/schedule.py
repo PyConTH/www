@@ -127,8 +127,12 @@ class ScheduleShortcode(ShortcodePlugin):
             if not 'description' in talk or talk['description'] is None: talk['description'] = ""
             if not 'bio' in talk or talk['bio'] is None: talk['bio'] = ""
             if 'twitter' not in talk: talk['twitter'] = ""
-            if 'speakerimg' not in talk: talk['speakerimg'] = ""
+            if 'speakerimg' not in talk: talk['speakerimg'] = "https://secure.gravatar.com/avatar/7ebded1e9171acbf1b8cbf3532e25172?s=500"
             if not '<p>' in talk['bio']: talk['bio'] = publish_parts(talk['bio'].strip(), writer_name="html")['html_body']
+            if 'format' in talk:
+                talk['timeplace'] = day+" "+time+" @ "+tracks[talk['track']]
+            else:
+                talk['timeplace'] = day+" "+time
             
             schedule[key].append(talk)
           
@@ -142,10 +146,12 @@ class ScheduleShortcode(ShortcodePlugin):
         
         if mode == "schedule":
 
-            html = '<h2>Tracks</h2>'
+            html = '<h2>Tracks</h2> <div style="display:flex;">'
 
             for track in tracks:
               if tracks[track] != "": html += '<div class="schedule-item schedule-item-{}">{}</div>'.format(track,tracks[track])
+            
+            html += "</div>"
 
             currday = ""
             rowoffset = 0
@@ -165,6 +171,7 @@ class ScheduleShortcode(ShortcodePlugin):
                   subhtml += '''		<div class="schedule-item schedule-item-{}" style="order: {};" id="schedule-field-{}" onclick="var hid=$(this).attr('id').replace('schedule-field','hidden-field'); if (!$('#'+hid).hasClass('active')) $('#'+hid).fadeIn(250),$('#'+hid).addClass('active'); else $('#'+hid).fadeOut(250),$('#'+hid).removeClass('active');">
                   <div><b>{}</b></div>
                   <div>{}</div>
+                  <div>{}</div>
                   <div class="hidden-field" id="hidden-field-{}">
                     <br>
                     <div><b>Description:</b></div>
@@ -178,7 +185,7 @@ class ScheduleShortcode(ShortcodePlugin):
                     <a href="/talks#row-{}">View more talks information</a> <br>
                     <a href="/speakers#row-{}">View more speaker information</a>
                   </div>
-                </div>'''.format(talk['subcol'],talk['subcol']-1,talk['specialid'],talk['title'],talk['speaker'],talk['specialid'],talk['description'],talk['bio'],tracks[talk['subcol']],talk['specialid'],talk['specialid'])
+                </div>'''.format(talk['subcol'],talk['subcol']-1,talk['specialid'],talk['title'],talk['speaker'],talk['timeplace'],talk['specialid'],talk['description'],talk['bio'],tracks[talk['subcol']],talk['specialid'],talk['specialid'])
               subhtml += '</div> </div>'
               for talk in s:
                 if talk['col'] == 2:
@@ -188,6 +195,7 @@ class ScheduleShortcode(ShortcodePlugin):
                   <div class="hidden-field" id="hidden-field-{}">
                     <br>
                     <div><b>Description:</b></div>
+                    <div>{}</div>
                     <div>{}</div>
                     <br>
                     <div><b>Bio:</b></div>
@@ -199,7 +207,7 @@ class ScheduleShortcode(ShortcodePlugin):
                     <a href="/speakers#row-{}">View more speaker information</a>
                   </div>
                 </div>
-              </div>'''.format(talk['row']-rowoffset,talk['row']-rowoffset+3,talk['col'],talk['col'],talk['specialid'],talk['title'],talk['speaker'],talk['specialid'],talk['description'],talk['bio'],tracks[talk['subcol']],talk['specialid'],talk['specialid'])
+              </div>'''.format(talk['row']-rowoffset,talk['row']-rowoffset+3,talk['col'],talk['col'],talk['specialid'],talk['title'],talk['speaker'],talk['timeplace'],talk['specialid'],talk['description'],talk['bio'],tracks[talk['subcol']],talk['specialid'],talk['specialid'])
 
               html += subhtml
 
@@ -223,6 +231,7 @@ class ScheduleShortcode(ShortcodePlugin):
                 display: grid;
                 grid-template-columns: 60% auto;
                 grid-row-gap: 10px;
+                grid-column-gap: 5px;
             }
 
             .timeflex {
@@ -241,7 +250,6 @@ class ScheduleShortcode(ShortcodePlugin):
                 color: white;
                 width: 100%;
                 margin-bottom: 5px;
-                margin-right: 5px;
             }
 
             .schedule-item:hover, .workshop-item:hover {
@@ -274,7 +282,8 @@ class ScheduleShortcode(ShortcodePlugin):
                 background-color: purple;
                 color: white;
                 margin-bottom: 5px;
-                padding: 10px;
+                padding: 5px;
+                padding-left: 10px;
             }
 
             .workshop-item .workshop-text {
@@ -323,12 +332,12 @@ class ScheduleShortcode(ShortcodePlugin):
             
             htmlblock = '''
             <div class="clearfix section" id="row-{}">
-                <h2>{}</h2>
+                <h1>{}</h1>
                 <p>by <a href="/speakers#row-{}">{}</a></p>
                 <p>Format: {} (Duration: {})</p>
-                <p><a href="/schedule#schedule-field-{}">From {} to {} at {}</a></p>
+                <p><a href="/schedule#schedule-field-{}">{}</a></p>
                 <div class="section" id="abstract">
-                    <h3>Abstract</h3>
+                    <h2>Abstract</h2>
                     <p>{}</p>
                 </div>
             </div>
@@ -336,7 +345,7 @@ class ScheduleShortcode(ShortcodePlugin):
             
             for talk in talks:
                 if not 'format' in talk: continue
-                html += htmlblock.format(talk['specialid'],talk['title'],talk['specialid'],talk['speaker'],talk['format'],talk['dur'],talk['specialid'],talk['time'],talk['timeend'],tracks[talk['subcol']],talk['description'])
+                html += htmlblock.format(talk['specialid'],talk['title'],talk['specialid'],talk['speaker'],talk['format'],talk['dur'],talk['specialid'],talk['timeplace'],talk['description'])
             
             html += '</div>'
             
@@ -349,13 +358,13 @@ class ScheduleShortcode(ShortcodePlugin):
             
             htmlblock = '''
             <div class="clearfix section" id="row-{}">
-                <h2>{}</h2>
+                <h1>{}</h1>
                 <img alt="{}" class="img-circle img-responsive align-right" src="{}" style="height: 200px; float:right; border-radius:50%;">
-                <p class="fa fa-twitter fa-fw"><a class="reference external" href="https://twitter.com/{}">{}</a></p>
+                {}
                 <p>Talk: <a href="/talks#row-{}">{}</a></p>
-                <p><a href="/schedule#schedule-field-{}">From {} to {} at {}</a></p>
+                <p><a href="/schedule#schedule-field-{}">{}</a></p>
                 <div class="section" id="biography">
-                  <h3>Biography</h3>
+                  <h2>Biography</h2>
                   <p>{}</p>
                 </div>
             </div>
@@ -363,7 +372,9 @@ class ScheduleShortcode(ShortcodePlugin):
             
             for talk in talks:
                 if not 'format' in talk: continue
-                html += htmlblock.format(talk['specialid'],talk['speaker'],talk['speaker'],talk['speakerimg'],talk['twitter'],talk['twitter'],talk['specialid'],talk['title'],talk['specialid'],talk['time'],talk['timeend'],tracks[talk['subcol']],talk['bio'])
+                html += htmlblock.format(talk['specialid'],talk['speaker'],talk['speaker'],talk['speakerimg'],
+                                         '<p class="fa fa-twitter fa-fw"><a class="reference external" href="https://twitter.com/{}">{}</a></p>'.format(talk['twitter'],talk['twitter']) if len(talk['twitter'].strip()) > 0 else ""
+                                         ,talk['specialid'],talk['title'],talk['specialid'],talk['timeplace'],talk['bio'])
             
             html += '</div>'
             
