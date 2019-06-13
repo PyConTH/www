@@ -112,6 +112,7 @@ class ScheduleShortcode(ShortcodePlugin):
             if talk['subcol'] is None:
               talk['subcol'] = 5
               talk['colspan'] = 2
+            if not 'dur' in talk: talk['dur'] = "00:00"
             talk['timeend'] = self.timeadd(talk['time'],talk['dur'])
             if not 'speaker' in talk or talk['speaker'] is None: talk['speaker'] = ""
             if not 'description' in talk or talk['description'] is None: talk['description'] = ""
