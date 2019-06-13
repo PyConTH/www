@@ -53,6 +53,11 @@ class ScheduleShortcode(ShortcodePlugin):
         talks = sorted([t for t in data['talks'] if 'day' in t], key=lambda t: (t['day'],t['time'],t['dur'],t['track']))
         tracks_ = data['tracks']
         daylabel_ = data['days']
+        
+        specialid = 1
+        for talk in talks:
+            talk['specialid'] = specialid
+            specialid += 1
 
         tracks = {}
         daylabel = {}
@@ -89,7 +94,7 @@ class ScheduleShortcode(ShortcodePlugin):
         schedule = {}
         currrow = 1
         
-        specialid = 1
+        
         for s in sched:
           time = s['time']
           day = s['day']
@@ -129,11 +134,7 @@ class ScheduleShortcode(ShortcodePlugin):
                 for talk in s['talks']:
                     talk['colspan'] = 2
             
-            talk['specialid'] = specialid
-            
             schedule[key].append(talk)
-            
-            specialid += 1
           currrow += 1
         
         if mode == "schedule":
@@ -286,10 +287,6 @@ class ScheduleShortcode(ShortcodePlugin):
             
             .timetext .timetext-divider {
                 display: none;
-            }
-
-            a {
-              color: white;
             }
 
             .hidden-field {
