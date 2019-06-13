@@ -150,7 +150,7 @@ class ScheduleShortcode(ShortcodePlugin):
                 html += '<h2>' + talk['day'] + '</h2> <div class="grid-container">'
                 currday = talk['day']
                 rowoffset = talk['row']-1
-              subhtml = '<div class="timeflex" style="grid-row-start: {}; grid-row-end: {}; grid-column-start: {}; grid-column-end: {};"> <div class="timetext"><b>{}</b> To <b>{}</b></div> <div class="schedule-item-container" style="flex-grow:1;">'.format(talk['row']-rowoffset,talk['row']-rowoffset,talk['col'],talk['col']+talk['colspan'],talk['time'],talk['timeend'])
+              subhtml = '<div class="timeflex" style="grid-row-start: {}; grid-row-end: {}; grid-column-start: {}; grid-column-end: {};"> <div class="timetext"><div><b>{}</b></div><div class="timetext-divider">&nbsp;-&nbsp;</div><div><b>{}</b></div></div> <div class="schedule-item-container" style="flex-grow:1;">'.format(talk['row']-rowoffset,talk['row']-rowoffset,talk['col'],talk['col']+talk['colspan'],talk['time'],talk['timeend'])
               for talk in s:
                 if talk['col'] == 1:
                   subhtml += '''		<div class="schedule-item schedule-item-{}" style="order: {};" id="schedule-field-{}" onclick="var hid=$(this).attr('id').replace('schedule-field','hidden-field'); if (!$('#'+hid).hasClass('active')) $('#'+hid).fadeIn(250),$('#'+hid).addClass('active'); else $('#'+hid).fadeOut(250),$('#'+hid).removeClass('active');">
@@ -221,12 +221,6 @@ class ScheduleShortcode(ShortcodePlugin):
                 flex-direction: row;
             }
 
-            @media screen and (max-width: 500px) /* Mobile */ {
-                .timeflex {
-                    flex-direction: column;
-                }
-            }
-
             .schedule-item-container {
                 display:flex;
                 flex-direction: column;
@@ -281,6 +275,13 @@ class ScheduleShortcode(ShortcodePlugin):
             .timetext {
                 padding-top: 5px;
                 padding-right: 5px;
+                display: flex;
+                flex-direction: column;
+                justify-content: space-between;
+            }
+            
+            .timetext .timetext-divider {
+                display: none;
             }
 
             a {
@@ -289,6 +290,21 @@ class ScheduleShortcode(ShortcodePlugin):
 
             .hidden-field {
               display: none;
+            }
+            
+            @media screen and (max-width: 576px) /* Mobile */ {
+                .timeflex {
+                    flex-direction: column;
+                }
+                
+                .timetext {
+                    flex-direction: row;
+                    justify-content: flex-start;
+                }
+                
+                .timetext .timetext-divider {
+                    display: block;
+                }
             }
             </style>
             '''
