@@ -191,7 +191,8 @@ class ScheduleShortcode(ShortcodePlugin):
                 if talk['col'] == 2:
                   subhtml += '''	<div class="workshop-item" style="grid-row-start:{}; grid-row-end:{}; grid-column-start: {}; grid-column-end: {};" id="schedule-field-{}" onclick="var hid=$(this).attr('id').replace('schedule-field','hidden-field'); if (!$('#'+hid).hasClass('active')) $('#'+hid).fadeIn(250),$('#'+hid).addClass('active'); else $('#'+hid).fadeOut(250),$('#'+hid).removeClass('active');">
                 <div class="workshop-text">
-                  <b>{}</b><br>{}
+                  <b>{}</b><br>{}<br>
+                  {}
                   <div class="hidden-field" id="hidden-field-{}">
                     <br>
                     <div><b>Description:</b></div>
