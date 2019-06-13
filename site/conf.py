@@ -140,6 +140,7 @@ NAVIGATION_LINKS = {
         (
             (
                 ("/schedule/", "ตารางเวลาการพูด"),
+                ("/layout/", "layout"),
                 ("/#keynotes", "แก่นเรื่อง"),
                 ("/talks/", "สัมมนา"),
                 ("/speakers/", "ผู้บรรยาย"),
@@ -176,6 +177,7 @@ NAVIGATION_LINKS = {
         (
             (
                 ("/en/schedule/", "Schedule"),
+                ("/en/layout/", "Layout"),
                 ("/en/#keynotes", "Keynotes"),
                 ("/en/talks/", "Talks"),
                 ("/en/speakers/", "Speakers"),
