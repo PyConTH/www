@@ -2,10 +2,10 @@ days:
 - sat: "Saturday 15th June"
 - sun: "Sunday 16th June"
 tracks:
-- 1: "Track 1: Auditorium"
-- 2: "Track 2: Forum"
-- 3: "Track 3: Cubiculum"
-- 4: "Track 4: Aquarium"
+- 1: "T1: Auditorium (L6)"
+- 2: "T2: Forum (L7)"
+- 3: "T3: Cubiculum (L7)"
+- 4: "T4: Aquarium (L7)"
 talks:
 - bio: |-
     Hie, I'm Akshat, a Govt. of India recognized Silicon Valley fellow and a Harvard University Conference Scholar.
