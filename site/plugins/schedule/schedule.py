@@ -275,7 +275,6 @@ class ScheduleShortcode(ShortcodePlugin):
                 color: white;
                 margin-bottom: 5px;
                 padding: 10px;
-                margin-right: 5px;
             }
 
             .workshop-item .workshop-text {
