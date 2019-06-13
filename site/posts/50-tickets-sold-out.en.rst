@@ -1,12 +1,12 @@
 .. title: Tickets sold out!
 .. slug: tickets-sold-out
 .. date: 2019-06-07 11:20:42 UTC+07:00
-.. tags:
-.. category:
-.. link:
-.. description:
+.. tags: 
+.. category: 
+.. link: 
+.. description: 
 .. type: text
-.. status: published
+.. status: draft
 
 
 We're all sold out! Massive thanks for the overwhelming response!
