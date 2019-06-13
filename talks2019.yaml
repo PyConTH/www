@@ -1042,7 +1042,7 @@ talks:
   time: "17:45"
   dur: "00:45"
 
-- title: Party
+- title: PyCon Thailand Official Party & Mixer
   speaker: Light entertainment
   description: >
     After everyone has had a big Day 1 at PYCON THAILAND 2019, it will be the perfect time to relax a little and
@@ -1058,7 +1058,7 @@ talks:
     "Party will take place from 6:30pm to 9:00pm on Level 6 and is included in the price of your conference ticket."
   day: sat
   track:
-  time: "16:30"
+  time: "18:30"
   dur: "02:30"
 
 - title: Registration / Welcome Coffee
