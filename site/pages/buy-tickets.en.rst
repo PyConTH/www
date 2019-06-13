@@ -18,7 +18,3 @@ P.S: Kindly note that we will not be able to accept any walk-ins on the event. A
 #pyconth2019 #pycon #pycon2019 #python
 
 .. image:: /sold-out.jpg
-
-.. container:: jumbotron clearfix
-
-    
