@@ -299,6 +299,6 @@ class ScheduleShortcode(ShortcodePlugin):
                 if not 'format' in talk: continue
                 html += htmlblock.format(talk['specialid'],talk['title'],talk['speaker'],talk['format'],talk['dur'],talk['description'])
             
-            html += '</div>
+            html += '</div>'
             
             return html
