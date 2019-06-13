@@ -106,6 +106,8 @@ class ScheduleShortcode(ShortcodePlugin):
             if not 'speaker' in talk or talk['speaker'] is None: talk['speaker'] = ""
             if not 'description' in talk or talk['description'] is None: talk['description'] = ""
             if not 'bio' in talk or talk['bio'] is None: talk['bio'] = ""
+            if 'twitter' not in talk: talk['twitter'] = ""
+            if 'speakerimg' not in talk: talk['speakerimg'] = ""
             if not '<p>' in talk['bio']: talk['bio'] = publish_parts(talk['bio'].strip(), writer_name="html")['html_body']
             talk['specialid'] = specialid
             
@@ -326,7 +328,6 @@ class ScheduleShortcode(ShortcodePlugin):
               s = schedule[t]
               for talk in s:
                 if not 'format' in talk: continue
-                if 'twitter' not in talk: talk['twitter'] = ""
                 html += htmlblock.format(talk['specialid'],talk['speaker'],talk['speaker'],talk['speakerimg'],talk['twitter'],talk['twitter'],talk['specialid'],talk['title'],talk['specialid'],tracks[talk['subcol']],talk['bio'])
             
             html += '</div>'
