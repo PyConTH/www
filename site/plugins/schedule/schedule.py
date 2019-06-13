@@ -130,10 +130,6 @@ class ScheduleShortcode(ShortcodePlugin):
             if 'speakerimg' not in talk: talk['speakerimg'] = ""
             if not '<p>' in talk['bio']: talk['bio'] = publish_parts(talk['bio'].strip(), writer_name="html")['html_body']
             
-            if not foundtrackfour:
-                for talk in s['talks']:
-                    talk['colspan'] = 2
-            
             schedule[key].append(talk)
           currrow += 1
         
