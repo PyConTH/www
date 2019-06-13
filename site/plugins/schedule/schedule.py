@@ -369,6 +369,7 @@ class ScheduleShortcode(ShortcodePlugin):
                   <p>{}</p>
                 </div>
             </div>
+            
             '''
             
             for talk in talks:
