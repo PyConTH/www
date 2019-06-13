@@ -302,7 +302,7 @@ class ScheduleShortcode(ShortcodePlugin):
                 <h2>{}</h2>
                 <p>by <a href="/speakers#row-{}">{}</a></p>
                 <p>Format: {} (Duration: {})</p>
-                <p><a href="/schedule#schedule-field-{}">{}</a></p>
+                <p><a href="/schedule#schedule-field-{}">From {} to {} at {}</a></p>
                 <div class="section" id="abstract">
                     <h3>Abstract</h3>
                     <p>{}</p>
@@ -312,7 +312,7 @@ class ScheduleShortcode(ShortcodePlugin):
             
             for talk in talks:
                 if not 'format' in talk: continue
-                html += htmlblock.format(talk['specialid'],talk['title'],talk['specialid'],talk['speaker'],talk['format'],talk['dur'],talk['specialid'],tracks[talk['subcol']],talk['description'])
+                html += htmlblock.format(talk['specialid'],talk['title'],talk['specialid'],talk['speaker'],talk['format'],talk['dur'],talk['specialid'],talk['time'],talk['timeend'],tracks[talk['subcol']],talk['description'])
             
             html += '</div>'
             
@@ -329,7 +329,7 @@ class ScheduleShortcode(ShortcodePlugin):
                 <img alt="{}" class="img-circle img-responsive align-right" src="{}" style="height: 200px;">
                 <p class="fa fa-twitter fa-fw"><a class="reference external" href="https://twitter.com/{}">{}</a></p>
                 <p>Talk: <a href="/talks#row-{}">{}</a></p>
-                <p><a href="/schedule#schedule-field-{}">{}</a></p>
+                <p><a href="/schedule#schedule-field-{}">From {} to {} at {}</a></p>
                 <div class="section" id="biography">
                   <h3>Biography</h3>
                   <p>{}</p>
@@ -339,7 +339,7 @@ class ScheduleShortcode(ShortcodePlugin):
             
             for talk in talks:
                 if not 'format' in talk: continue
-                html += htmlblock.format(talk['specialid'],talk['speaker'],talk['speaker'],talk['speakerimg'],talk['twitter'],talk['twitter'],talk['specialid'],talk['title'],talk['specialid'],tracks[talk['subcol']],talk['bio'])
+                html += htmlblock.format(talk['specialid'],talk['speaker'],talk['speaker'],talk['speakerimg'],talk['twitter'],talk['twitter'],talk['specialid'],talk['title'],talk['specialid'],talk['time'],talk['timeend'],tracks[talk['subcol']],talk['bio'])
             
             html += '</div>'
             
