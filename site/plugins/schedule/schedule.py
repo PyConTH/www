@@ -101,6 +101,7 @@ class ScheduleShortcode(ShortcodePlugin):
           key = day+" "+time
           if not key in schedule: schedule[key] = []
           foundtrackfour = False
+          
           for talk in s['talks']:
             talk['row'] = currrow
             talk['col'] = 1 if talk['track'] != 4 else 2
@@ -131,6 +132,11 @@ class ScheduleShortcode(ShortcodePlugin):
             if not '<p>' in talk['bio']: talk['bio'] = publish_parts(talk['bio'].strip(), writer_name="html")['html_body']
             
             schedule[key].append(talk)
+          
+          for talk in s['talks']:
+            if foundtrackfour:
+                talk['colspan'] = 2
+          
           currrow += 1
         
         if mode == "schedule":
