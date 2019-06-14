@@ -26,27 +26,27 @@ talks:
   time: "09:50"
   dur: "00:40"
 
-- bio: |-
-    **Alex Khaerov** is a development lead at `Chainstack <https://chainstack.com>`_, with 9+ years in web services
-    development across diverse domains. His main passion is building robust, high-load and distributed service platforms
-    on top of a multi-cloud environment, utilizing all the power of Python and cloud native services. An organizer of
-    `Moscow Python Conf <https://conf.python.ru>`_ and avid activist of
-    `Singapore Python User Group <http://pugs.org.sg/>`_, cloud native enthusiast and member of Kubernetes SG
-    community. In his spare time, he speaks publicly at tech conferences and secretly codes in Python. Huge fan of
-    laptop stickers.
-
-  description: >-
-    You definitely have unit tests. Your code coverage above 80 or 90? Are u still
-    struggling with bugs and wanna increase the quality? What if I say that quarter
-    of your units are non-viable mutants? Yes, it is true and sounds rude. Let's mutate
-    your tests and look what it gets you.
-  speaker: Alex Khaerov
-  speakerimg: https://secure.gravatar.com/avatar/320f3b558c773592bba16c976d1b28d1?s=500
-  title: Kill the mutants, protect your code!
-  day: sat
-  track: 2
-  time: "16:10"
-  dur: "00:40"
+#- bio: |-
+#    **Alex Khaerov** is a development lead at `Chainstack <https://chainstack.com>`_, with 9+ years in web services
+#    development across diverse domains. His main passion is building robust, high-load and distributed service platforms
+#    on top of a multi-cloud environment, utilizing all the power of Python and cloud native services. An organizer of
+#    `Moscow Python Conf <https://conf.python.ru>`_ and avid activist of
+#    `Singapore Python User Group <http://pugs.org.sg/>`_, cloud native enthusiast and member of Kubernetes SG
+#    community. In his spare time, he speaks publicly at tech conferences and secretly codes in Python. Huge fan of
+#    laptop stickers.
+#
+#  description: >-
+#    You definitely have unit tests. Your code coverage above 80 or 90? Are u still
+#    struggling with bugs and wanna increase the quality? What if I say that quarter
+#    of your units are non-viable mutants? Yes, it is true and sounds rude. Let's mutate
+#    your tests and look what it gets you.
+#  speaker: Alex Khaerov
+#  speakerimg: https://secure.gravatar.com/avatar/320f3b558c773592bba16c976d1b28d1?s=500
+#  title: Kill the mutants, protect your code!
+#  day: sat
+#  track: 2
+#  time: "16:10"
+#  dur: "00:40"
 
 - bio: |-
     Studied Math, building systems, loves traveling and puns.
@@ -474,24 +474,26 @@ talks:
   time: "15:45"
   dur: "00:40"
 
-- bio: |-
-    I’m a Full Stack Developer, Developer Evangelist, Auth0 Ambassador, GDG Ranchi Organizer, and Mozilla Representative. I love speaking on Serverless, Authentication & Authorization, Google Technologies, Security, Web Extensions and Virtual Reality at different meet-ups and conferences.
-  description: >-
-    APIs are changing and languages like Python are shifting the paradigm of API consumption.
-    We often dedicate a lot of time in crafting powerful APIs but overlook proper
-    security measures. In this talk, we'll look at the proper way to secure our Python
-    API's with JSON Web Tokens with Moden Identity.
-  speaker: Md Shahbaz Alam
-  speakerimg: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/19104/mdsbzalam.jpg
-  title: Securing your Python APIs with Auth0
-  day: sun
-  track: 3
-  time: "10:40"
-  dur: "00:40"
+#- bio: |-
+#    I’m a Full Stack Developer, Developer Evangelist, Auth0 Ambassador, GDG Ranchi Organizer, and Mozilla Representative. I love speaking on Serverless, Authentication & Authorization, Google Technologies, Security, Web Extensions and Virtual Reality at different meet-ups and conferences.
+#  description: >-
+#    APIs are changing and languages like Python are shifting the paradigm of API consumption.
+#    We often dedicate a lot of time in crafting powerful APIs but overlook proper
+#    security measures. In this talk, we'll look at the proper way to secure our Python
+#    API's with JSON Web Tokens with Moden Identity.
+#  speaker: Md Shahbaz Alam
+#  speakerimg: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/19104/mdsbzalam.jpg
+#  title: Securing your Python APIs with Auth0
+#  day: sun
+#  track: 3
+#  time: "10:40"
+#  dur: "00:40"
 
 - bio: |-
     CEO of Zymple
   description: >-
+    ** Register at the Registration Desk**
+
     This is a workshop for adults such as parents, teachers, community organizers
     and others interested in organizing classes where kids learn how to program Python
     in a peer to peer, collaborative learning environment.
@@ -661,6 +663,8 @@ talks:
     I don't listen to a lot of pop music but I love rock music. Chester from Linkin Park was my favourite. Apart from
     that, I am a solo traveller and love wadering at new places.
   description: >-
+    ** Register at the Registration Desk**
+
     What's the use of machine learning models if we can't interpret them? This session
     will cover recent model interpretability techniques that are essential for Data
     Scientist to have in their toolbox. Attendees will learn how to apply these techniques
@@ -717,6 +721,8 @@ talks:
   dur: "00:40"
 
 - description: >-
+    ** Register at the Registration Desk**
+
     This is a full workshop introducing the concepts of Deep Learning in TensorFlow
     2.0 It would give people a set of basic notebooks that they can run in Google
     Colab outlining the basics of Deep Learning and building models.
@@ -794,6 +800,8 @@ talks:
     as girls learning Python. I am also a co-organiser with Django girls for building a website with Django in Bangkok.
     Apart from my tech life, I'm a dog person. I enjoy singing, dancing and watching a movie and a series.
   description: >-
+    ** Register at the Registration Desk**
+
     Have you ever use a cutie and cool CLI tool? Have you felt that it is very cool
     and makes you feel so excited to use this tool? This workshop will help you learn
     how to build your own CLI using basic Python skill and makes everyone love it.
