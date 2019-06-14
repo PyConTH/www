@@ -1100,14 +1100,14 @@ a {
   text-decoration: underline;
 }
 
-.e-content ol, .e-content ul {
-    list-style: disc outside none;
-     padding-left: 40px;
+.e-content ol,
+.e-content ul {
+  list-style: disc outside none;
+  padding-left: 40px;
 }
 
 /* undo stupid non specific classnames */
 .e-content .contents .first {
-
 }
 
 a:hover {
@@ -1156,11 +1156,11 @@ p {
 }
 
 .sponsors-link {
-  margin-bottom: 1rem;
   background: var(--white);
   box-shadow: 0 5px 5px rgba(0, 0, 0, 0.2);
   padding: 1rem;
   border-radius: 0.5rem;
+  margin: 2rem 4rem;
 }
 
 .sponsors-link--platinum {
@@ -1170,7 +1170,7 @@ p {
 
 .sponsors-link--gold {
   width: 250px;
-  height:250px;
+  height: 250px;
 }
 
 .sponsors-link--silver {
@@ -1312,4 +1312,6 @@ p {
 .features > .item {
   width: 300px;
 }
-.schedule-right > p { margin-bottom: 3rem !important; }
+.schedule-right > p {
+  margin-bottom: 3rem !important;
+}
