@@ -121,8 +121,8 @@ for details.
 .. _Google Maps Directions: https://www.google.com/maps/dir//True+Digital+Park,+101+Sukhumvit+Rd,+Khwaeng+Bang+Chak,+Prakanong+Krung+Thep+Maha+Nakhon+10260/@13.6859721,100.575982,13z/data=!3m1!4b1!4m9!4m8!1m0!1m5!1m1!1s0x30e29ed269181bb1:0x60c3178ba983c76!2m2!1d100.6110016!2d13.6859746!3e3?authuser=1
 
 
-Driving
--------
+Driving & Parking
+-----------------
 
 Parking is free all day at True Digital Park during the conference.
 
