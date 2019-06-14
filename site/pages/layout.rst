@@ -59,6 +59,6 @@ Track 3: Cubiculum
 Track 4: Aquarium
 -----------------
 
-**Capacity: 40**
+**Capacity: 32**
 
-Will hold workshops during most of the conference
+Will hold workshops during most of the conference. Register at registration.

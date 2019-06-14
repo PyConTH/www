@@ -492,6 +492,8 @@ talks:
 - bio: |-
     CEO of Zymple
   description: >-
+    ** Register at the Registration Desk**
+
     This is a workshop for adults such as parents, teachers, community organizers
     and others interested in organizing classes where kids learn how to program Python
     in a peer to peer, collaborative learning environment.
@@ -661,6 +663,8 @@ talks:
     I don't listen to a lot of pop music but I love rock music. Chester from Linkin Park was my favourite. Apart from
     that, I am a solo traveller and love wadering at new places.
   description: >-
+    ** Register at the Registration Desk**
+
     What's the use of machine learning models if we can't interpret them? This session
     will cover recent model interpretability techniques that are essential for Data
     Scientist to have in their toolbox. Attendees will learn how to apply these techniques
@@ -717,6 +721,8 @@ talks:
   dur: "00:40"
 
 - description: >-
+    ** Register at the Registration Desk**
+
     This is a full workshop introducing the concepts of Deep Learning in TensorFlow
     2.0 It would give people a set of basic notebooks that they can run in Google
     Colab outlining the basics of Deep Learning and building models.
@@ -794,6 +800,8 @@ talks:
     as girls learning Python. I am also a co-organiser with Django girls for building a website with Django in Bangkok.
     Apart from my tech life, I'm a dog person. I enjoy singing, dancing and watching a movie and a series.
   description: >-
+    ** Register at the Registration Desk**
+
     Have you ever use a cutie and cool CLI tool? Have you felt that it is very cool
     and makes you feel so excited to use this tool? This workshop will help you learn
     how to build your own CLI using basic Python skill and makes everyone love it.
