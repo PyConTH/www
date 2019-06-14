@@ -345,11 +345,12 @@ talks:
     Kan is an enthusiastic engineer who not only has a scientific mindset, but also a practical approach to software solutions. He is passionate in software engineering, data engineering, and data science. More importantly, he loves Python and uses it every single day at work. When there's any time left to burn Kan likes to improve his skills by taking some courses or contributing to some open-source projects.
   description: >-
     This talk replaces the one initially scheduled, the previous speaker having cancelled.
+    
+    Apache Airflow is an open-source workflow management platform originally developed by Airbnb. We use it to build our data-informed culture. It does change our life for the better and it might change yours too. Therefore, in this session, I'll talk about what it is, why we love it, and how you can take some simple steps to build a simple data pipeline and start democratizing your data.
 
-    To Be Added
   speaker: 	Kan Ouivirach
-  speakerimg: https://secure.gravatar.com/avatar/03886c577a1c4d30efa531b8f85aa80f?s=500
-  title: How We Build a Data-Informed Culture with Apache Airflow (Replacement)
+  speakerimg: https://th.pycon.org/zkan.jpg
+  title: How We Start Building a Data-Informed Culture with Airflow (Replacement)
   day: sat
   track: 2
   time: "10:20"
@@ -654,25 +655,11 @@ talks:
   dur: "00:40"
 
 - bio: |-
-    Rahul Bhatia is a self-taught Data Scientist and Full-stack Web Developer. I have experience in organizing
-    several talks as a Developer Student Club Lead at our campus, which is an initiative by Google Developers,
-    promoting the developer culture at college campuses throughout several countries through the DSC program. I love
-    sharing knowledge with fellow developers and organizing and delivering technical sessions. I am currently a Data
-    Science Intern at Innovaccer, a healthcare company focused on "Righting the wrongs of healthcare technology"
-
-    I don't listen to a lot of pop music but I love rock music. Chester from Linkin Park was my favourite. Apart from
-    that, I am a solo traveller and love wadering at new places.
   description: >-
     ** Register at the Registration Desk**
-
-    What's the use of machine learning models if we can't interpret them? This session
-    will cover recent model interpretability techniques that are essential for Data
-    Scientist to have in their toolbox. Attendees will learn how to apply these techniques
-    in Python on a real-world data science problem.
-  speaker: Rahul Bhatia
+  speaker: 
   speakerimg: https://secure.gravatar.com/avatar/e16d4591c7f44180024093015eec7512?s=500
-  title: Visualize the Black Box - An introduction to Interpretable Machine Learning
-  day: sun
+  title: This workshop has been cancelled.
   track: 4
   time: "13:15"
   dur: "02:20"
