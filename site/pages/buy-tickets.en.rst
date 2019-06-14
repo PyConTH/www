@@ -1,4 +1,4 @@
-.. title: Tickets are available now!
+.. title: SOLD OUT! THANK YOU FOR YOUR SUPPORT!
 .. slug: buy-tickets
 .. date: 2019-04-22 00:00:00 UTC+07:00
 .. tags: 
@@ -9,22 +9,12 @@
 
 
 
-The PyCon Thailand Team and the Thai Programming Association are pleased to announce that `tickets are available for purchase on Ticket Melon <https://www.ticketmelon.com/thaiprogrammer/pycon2019/>`_.
+Due to overwhelming sales, our tickets have been sold out. We thank you for your great support ! Those who have your tickets already, get ready for action on the 15th and 16th June!
 
-Buy your ticket soon! Early bird tickets are limited!
+P.S: Kindly note that we will not be able to accept any walk-ins on the event. All attendees will require pre-purchased tickets.
 
-If you can afford it, we encourage you to purchase a regular ticket as it enables others to attend who can't afford a regular ticket. You'll be helping us build a Python community event that is accessible to more people.
 
-If your company is paying for you, you can only get a tax invoice with the regular ticket.
 
-Purchase tickets via `Ticket Melon <https://www.ticketmelon.com/thaiprogrammer/pycon2019/>`_.
+#pyconth2019 #pycon #pycon2019 #python
 
-.. image:: /earlybirdtickets.png
-
-.. container:: jumbotron clearfix
-
-    Get your tickets now
-
-    .. raw:: html
-
-          <a class="btn btn-primary btn-lg active" href="https://www.ticketmelon.com/thaiprogrammer/pycon2019">Buy Tickets</a>
+.. image:: /sold-out.jpg

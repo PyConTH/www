@@ -2,10 +2,10 @@ days:
 - sat: "Saturday 15th June"
 - sun: "Sunday 16th June"
 tracks:
-- 1: "Track 1: Auditorium"
-- 2: "Track 2: Forum"
-- 3: "Track 3: Cubiculum"
-- 4: "Track 4: Aquarium"
+- 1: "T1: Auditorium (L6)"
+- 2: "T2: Forum (L7)"
+- 3: "T3: Cubiculum (L7)"
+- 4: "T4: Aquarium (L7)"
 talks:
 - bio: |-
     Hie, I'm Akshat, a Govt. of India recognized Silicon Valley fellow and a Harvard University Conference Scholar.
@@ -342,22 +342,14 @@ talks:
   dur: "00:40"
 
 - bio: |-
-    Jorge Torres Is currently Co-founder & CTO of MindsDB and a visiting scholar at UC Berkeley researching machine
-    learning automation and explainability. He has worked for a number of data-intensive start-ups, most recently
-    working with Aneesh Chopra (the first CTO in the US government) building data systems that analyze billions of
-    patients records and lead to highest savings for millions of patients, he started his work on scaling solutions
-    using machine learning in early 2008 while working as first full time engineer at Couchsurfing where he helped
-    grow the company from a few thousand users to a few million. Jorge had degrees in electrical engineering & computer
-    science, including a masters degree in computer systems (with a focus on applied Machine Learning) from the
-    Australian National University.
+    Kan is an enthusiastic engineer who not only has a scientific mindset, but also a practical approach to software solutions. He is passionate in software engineering, data engineering, and data science. More importantly, he loves Python and uses it every single day at work. When there's any time left to burn Kan likes to improve his skills by taking some courses or contributing to some open-source projects.
   description: >-
-    It is crucial to rethink how we build tools so that we can provide Machine Learning
-    capabilities to experts in various disciplines that are not necessarily savvy
-    in machine learning, this talk we talk about our project that allows anyone to
-    create and use sophisticated ML in one line of python code.
-  speaker: Jorge Torres
+    This talk replaces the one initially scheduled, the previous speaker having cancelled.
+
+    To Be Added
+  speaker: 	Kan Ouivirach
   speakerimg: https://secure.gravatar.com/avatar/03886c577a1c4d30efa531b8f85aa80f?s=500
-  title: Machine Learning Democratization with Python
+  title: How We Build a Data-Informed Culture with Apache Airflow (Replacement)
   day: sat
   track: 2
   time: "10:20"
@@ -941,25 +933,143 @@ talks:
   time: "16:35"
   dur: "01:00"
 
-- bio: |-
+- speaker: "#1: Prawns+Pork #2: Pork+Eggplant #3: Chicken+Veges #4: Chicken+Prawns #5: Pork+Chicken"
+  title: Lunch @ Level 6 or 7
+  description: |-
+    Lunchboxes will be served on Level 6 and Level 7. There is free seating throughout the venue.
+
+    Note: If you had indicated a specific dietary requirement, your specially-prepared lunch box will be kept for you on the 6th floor.
+
+    To speed the queue please have your choice in mind
+
+    Set 1
+    -----
+
+    - Deep Fried Baby Corn Kaeng Som Goong
+    - Sour curry with Prawns and mixed vegetables
+    - Grilled Pork Salad with Apple Thai Relish with Vegetables
+    - Butterfly Pea Rice
+    - Thai Dessert
+
+    Set 2
+    -----
+
+    - Deep Fried Baby Corn
+    - Grilled Pork Curry with Pineapple
+    - Sweet Corn Salad with Salted Egg
+    - Stir-fried Eggplants with Bean Paste and Basil
+    - Butterfly Pea Rice
+    - Thai Dessert
+
+    Set 3
+    -----
+
+    - Deep Fried Baby Corn
+    - Chicken in Galangal - Turmeric Coconut Soup
+    - Northeastern Style Spicy Pork Salad with Herbs
+    - Stir-fried Vegetables
+    - Butterfly Pea Rice
+    - Thai Dessert
+
+    Set 4
+    -----
+
+    - Deep Fried Baby Corn
+    - Green Curry With Chicken
+    - Stir-fried Kale with Crispy Pork Belly
+    - Spicy Paco Fern Salad with Shrimp
+    - Butterfly Pea Rice
+    - Thai Dessert
+
+    Set 5
+    -----
+
+    - Deep Fried Baby Corn
+    - Red Curry with Pork
+    - Grilled Aubergine Salad with Prawn
+    - Stir-Fried Green Bean with Shrimp Paste and Minced Chicken
+    - Butterfly Pea Rice
+    - Thai Dessert
+
+    There will be two distribution points on the 7th floor, at the Green Space and the Forum areas.
+
+    There will be one distribution point on the 6th floor, next to the Auditorium.
+
+    If you had indicated a specific dietary requirement when you bought your ticket, your specially-prepared lunch box
+    will be kept for you on the 6th floor.
+  bio: |-
     Catered by Ginger Farm
-  description: >-
-    Lunchboxes will be served on Level 6 and Level 7
-  speaker: Lunchboxes will be served on Level 6 and Level 7
-  speakerimg:
-  title: Lunch
   day: sat
   track:
   time: "12:40"
   dur: "01:00"
 
-- bio: |-
+- speaker: "#1: Prawns+Pork #2: Pork+Eggplant #3: Chicken+Veges #4: Chicken+Prawns #5: Pork+Chicken"
+  title: Lunch @ Level 6 or 7
+  description: |-
+    Lunchboxes will be served on Level 6 and Level 7. There is free seating throughout the venue.
+
+    Note: If you had indicated a specific dietary requirement, your specially-prepared lunch box will be kept for you on the 6th floor.
+
+    To speed the queue please have your choice in mind
+
+    Set 1
+    -----
+
+    - Deep Fried Baby Corn Kaeng Som Goong
+    - Sour curry with Prawns and mixed vegetables
+    - Grilled Pork Salad with Apple Thai Relish with Vegetables
+    - Butterfly Pea Rice
+    - Thai Dessert
+
+    Set 2
+    -----
+
+    - Deep Fried Baby Corn
+    - Grilled Pork Curry with Pineapple
+    - Sweet Corn Salad with Salted Egg
+    - Stir-fried Eggplants with Bean Paste and Basil
+    - Butterfly Pea Rice
+    - Thai Dessert
+
+    Set 3
+    -----
+
+    - Deep Fried Baby Corn
+    - Chicken in Galangal - Turmeric Coconut Soup
+    - Northeastern Style Spicy Pork Salad with Herbs
+    - Stir-fried Vegetables
+    - Butterfly Pea Rice
+    - Thai Dessert
+
+    Set 4
+    -----
+
+    - Deep Fried Baby Corn
+    - Green Curry With Chicken
+    - Stir-fried Kale with Crispy Pork Belly
+    - Spicy Paco Fern Salad with Shrimp
+    - Butterfly Pea Rice
+    - Thai Dessert
+
+    Set 5
+    -----
+
+    - Deep Fried Baby Corn
+    - Red Curry with Pork
+    - Grilled Aubergine Salad with Prawn
+    - Stir-Fried Green Bean with Shrimp Paste and Minced Chicken
+    - Butterfly Pea Rice
+    - Thai Dessert
+
+    There will be two distribution points on the 7th floor, at the Green Space and the Forum areas.
+
+    There will be one distribution point on the 6th floor, next to the Auditorium.
+
+    If you had indicated a specific dietary requirement when you bought your ticket, your specially-prepared lunch box
+    will be kept for you on the 6th floor.
+  bio: |-
     Catered by Ginger Farm
-  description: >-
-    Lunchboxes will be served on Level 6 and Level 7
-  speaker: Lunchboxes will be served on Level 6 and Level 7
-  speakerimg:
-  title: Lunch
   day: sun
   track:
   time: "12:15"
