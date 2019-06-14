@@ -10,6 +10,10 @@
 Level 6
 =======
 
+`How to get there? Click here </venue#getting-there>`_
+
+`จะมาถึงที่จัดงานชั้น 6 นี้ได้ยังไง คลิกเลย </venue#getting-there>`_
+
 .. image:: /floorplanl6.svg
     :width: 100%
     :alt: Floor plan for Level 6

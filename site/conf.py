@@ -154,8 +154,9 @@ NAVIGATION_LINKS = {
         (
             (
                 ("/venue", "สถานที่"),
-                ("/venue#accommodation", "Accommodation"),
-                ("/venue#transportation", "Transportation"),
+                ("/venue#accommodation", "ที่พักอาศัย"),
+                ("/venue#transportation", "ระบบขนส่ง"),
+                ("/venue#getting-there", "วิธีการเข้ามายังบริเวณจัดงาน")
             ),
             "สถานที่"
         ),
@@ -193,6 +194,7 @@ NAVIGATION_LINKS = {
                 ("/en/venue", "Venue"),
                 ("/en/venue#accommodation", "Accommodation"),
                 ("/en/venue#transportation", "Transportation"),
+                ("/venue#getting-there", "Getting There")
             ),
             "Venue"
         ),
