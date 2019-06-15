@@ -473,7 +473,6 @@ talks:
   time: "15:45"
   dur: "00:40"
 
-
 - bio: |-
     A passionate software developer, Sarthak is a core contributor in Expedia's Mobile Team. He weaves the magic in his
     code with Python, Java, Kotlin, Scala, C and  JavaScript. Having mastered these languages all by himself, through
@@ -486,17 +485,17 @@ talks:
     Before joining Expedia, he  co-founded one startup in India and did internship at Samsung R&amp;D, Bengaluru.
     He loves sharing his knowledge and learnings from his adventures in machine learning projects. He has been
     speaking extensively at internal conferences and now want to spread his knowledge in the open.
- description: >-
-  Thank you Sarthak for stepping in at the last moment.
+  description: >-
+    Thank you Sarthak for stepping in at the last moment.
   
-  The tille is the abstract: Kotlin for Pythonista.
- speaker: Sarthak Deshwal
- speakerimg: https://secure.gravatar.com/avatar/ebb0ce50f3e93125e7f5fe4406a78723?s=500
- title: Kotlin for Pythonista
- day: sun
- track: 3
- time: "10:40"
- dur: "00:40"
+    The title is the abstract: Kotlin for Pythonista.
+  speaker: Sarthak Deshwal
+  speakerimg: https://secure.gravatar.com/avatar/ebb0ce50f3e93125e7f5fe4406a78723?s=500
+  title: Kotlin for Pythonista
+  day: sun
+  track: 3
+  time: "10:40"
+  dur: "00:40"
 
 - bio: |-
     CEO of Zymple
