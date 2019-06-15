@@ -1141,6 +1141,9 @@ talks:
   description: >-
     To kick off the 2-day Pycon marathon, join us for a meet and greet breakfast with Women who Code at Starbucks.
 
+    The breakfast is an opportunity for all women (including cis/trans/non-binary) pythonistas to meet.
+    Men as +1s are also welcome to attend.
+
     Even if you're not attending Pycon or did not manage to get a ticket, join us for a free cup of coffee, some
     croissants and chat with WWC members and other Pythonistas.
   speaker: Women Who Code
@@ -1224,6 +1227,16 @@ talks:
   track: 1
   time: "09:05"
   dur: "00:45"
+
+- title: PyCon Thailand Group Photo
+  speaker: All of Us (bottom of Auditorium)
+  description:
+  bio: >
+    Biggest PyCon Thailand selfie ever.
+  day: sat
+  track: 1
+  time: "09:50"
+  dur: "00:05"
 
 - title: PyTorch as a modern scientific computing environment?
   speaker: Adam Paszke

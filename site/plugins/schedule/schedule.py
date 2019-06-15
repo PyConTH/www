@@ -25,6 +25,18 @@ class ScheduleShortcode(ShortcodePlugin):
         c[0] = "%02d"%c[0]
         c[1] = "%02d"%c[1]
         return ":".join(map(str,c))
+    
+    def resolve_room_anchor(self,track):
+        if track==1: return "track-1-auditorium"
+        elif track==2: return "track-2-forum"
+        elif track==3: return "track-3-cubiculum"
+        elif track==4: return "track-4-aquarium"
+        return ""
+    
+    def resolve_floor_anchor(self,track):
+        if track==1: return "level-6"
+        elif track<5: return "level-7"
+        return ""
         
     def handler(self, mode="schedule", file="../talks2019.yaml", schedule_page="schedule", talks_page="talks", speakers_page="speakers",                sections=None, slugs=None, post_type='post', type=False,
                 lang=None, template='post_list_directive.tmpl', sort=None,
@@ -134,6 +146,8 @@ class ScheduleShortcode(ShortcodePlugin):
                 talk['timeplace'] = day+" "+time+" @ "+tracks[talk['track']]
             else:
                 talk['timeplace'] = day+" "+time
+            talk['room_anchor'] = self.resolve_room_anchor(talk['subcol'])
+            talk['floor_anchor'] = self.resolve_floor_anchor(talk['subcol'])
             
             schedule[key].append(talk)
           
@@ -170,11 +184,12 @@ class ScheduleShortcode(ShortcodePlugin):
               for talk in s:
                 if talk['col'] == 1:
                   subhtml += '''		<div class="schedule-item schedule-item-{}" style="order: {};" id="schedule-field-{}" onclick="var hid=$(this).attr('id').replace('schedule-field','hidden-field'); if (!$('#'+hid).hasClass('active')) $('#'+hid).fadeIn(250),$('#'+hid).addClass('active'); else $('#'+hid).fadeOut(250),$('#'+hid).removeClass('active');">
+                  <div class="v-sign">v</div>
                   <div><b>{}</b></div>
                   <div>{}</div>
                   <div class="hidden-field" id="hidden-field-{}">
                     <br>
-                    <div>{}</div>
+                    <div><a href="/layout#{layoutanchor}">{}</a></div>
                     <br>
                     <div><b>Description:</b></div>
                     <div>{}</div>
@@ -187,17 +202,18 @@ class ScheduleShortcode(ShortcodePlugin):
                     <a href="/talks#row-{}">View more talks information</a> <br>
                     <a href="/speakers#row-{}">View more speaker information</a>
                   </div>
-                </div>'''.format(talk['subcol'],talk['subcol']-1,talk['specialid'],talk['title'],talk['speaker'],talk['specialid'],talk['timeplace'],talk['description'],talk['bio'],tracks[talk['subcol']],talk['specialid'],talk['specialid'])
+                </div>'''.format(talk['subcol'],talk['subcol']-1,talk['specialid'],talk['title'],talk['speaker'],talk['specialid'],talk['timeplace'],talk['description'],talk['bio'],tracks[talk['subcol']],talk['specialid'],talk['specialid'],layoutanchor=talk['room_anchor'])
               subhtml += '</div> </div>'
               for talk in s:
                 if talk['col'] == 2:
                   subhtml += '''	<div class="workshop-item" style="grid-row-start:{}; grid-row-end:{}; grid-column-start: {}; grid-column-end: {};" id="schedule-field-{}" onclick="var hid=$(this).attr('id').replace('schedule-field','hidden-field'); if (!$('#'+hid).hasClass('active')) $('#'+hid).fadeIn(250),$('#'+hid).addClass('active'); else $('#'+hid).fadeOut(250),$('#'+hid).removeClass('active');">
                 <div class="workshop-text">
+                  <div class="v-sign">v</div>
                   <b>{}</b><br>
                   {}
                   <div class="hidden-field" id="hidden-field-{}">
                     <br>
-                    <div>{}</div>
+                    <div><a href="/layout#{layoutanchor}">{}</a></div>
                     <br>
                     <div><b>Description:</b></div>
                     <div>{}</div>
@@ -211,7 +227,7 @@ class ScheduleShortcode(ShortcodePlugin):
                     <a href="/speakers#row-{}">View more speaker information</a>
                   </div>
                 </div>
-              </div>'''.format(talk['row']-rowoffset,talk['row']-rowoffset+3,talk['col'],talk['col'],talk['specialid'],talk['title'],talk['speaker'],talk['specialid'],talk['timeplace'],talk['description'],talk['bio'],tracks[talk['subcol']],talk['specialid'],talk['specialid'])
+              </div>'''.format(talk['row']-rowoffset,talk['row']-rowoffset+3,talk['col'],talk['col'],talk['specialid'],talk['title'],talk['speaker'],talk['specialid'],talk['timeplace'],talk['description'],talk['bio'],tracks[talk['subcol']],talk['specialid'],talk['specialid'],layoutanchor=talk['room_anchor'])
 
               html += subhtml
 
@@ -228,6 +244,13 @@ class ScheduleShortcode(ShortcodePlugin):
             <style>
             .root-container a {
                 color: white !important;
+            }
+            
+            .v-sign {
+                float: right;
+                transform: scaleX(2);
+                margin-top: -3px;
+                margin-right: 5px;
             }
 
             .grid-container {

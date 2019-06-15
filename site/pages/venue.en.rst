@@ -10,6 +10,8 @@
 
 .. contents::
 
+* `Step for how to go to the venue  <#getting-there>`_
+
 Bangkok
 =======
 
@@ -65,9 +67,80 @@ You can use cash or buy a travel card, see
 `Getting around Bangkok <http://www.bangkok.com/information-travel-around/bts.htm>`_
 for details.
 
+.. raw:: html
+
+     <div id="getting-there" style="width:100%; height:1px;"></div>
+
+Step for how to go to the venue
+
+1. Coming down from the train at Punnawith Station.
+2. Follow the sign that lead you to Exit 6
+
+.. raw:: html
+
+     <div class="row">
+          <div class="col-12 col-md-6 mb-2"><img src="/venue/getthere1.jpg"></div>
+          <div class="col-12 col-md-6 mb-2"><img src="/venue/getthere2.jpg"></div>
+          <div class="col-12 col-md-6 mb-2"><img src="/venue/getthere3.jpg"></div>
+          <div class="col-12 col-md-6 mb-2"><img src="/venue/getthere4.jpg"></div>
+     </div>
+     <div class="row mb-2">
+          <div class="col-12 col-md-6">
+
+3. You’ll see unicorn that belong to True Digital Park when you walk on skywalk.
+
+.. image:: /venue/getthere5.jpg
+
+.. raw:: html
+
+          </div>
+          <div class="col-12 col-md-6">
+
+4. Then go straight and find the sign that lead you to inside of building.
+
+.. image:: /venue/getthere6.jpg
+
+.. raw:: html
+
+          </div>
+     </div>
+     <d6iv class="row mb-2">
+          <div class="col-12 col-md-6">
+
+5. Take the escalator down until you see the pycon direction banner.
+
+.. image:: /venue/getthere7.jpg
+
+.. raw:: html
+
+          </div>
+          <div class="col-12 col-md-6">
+
+6. Follow the banner until you found the entrance of event.
+
+.. image:: /venue/getthere8.jpg
+
+.. raw:: html
+
+          </div>
+     </div>
+
+This Banner will show once you arrive at the escalator. Follow the banner to arrive at the entrance.
+
+.. image:: /venue/getthere9.jpg
+
+
 `Google Maps Directions`_ works well for navigating public transport.
 
 .. _Google Maps Directions: https://www.google.com/maps/dir//True+Digital+Park,+101+Sukhumvit+Rd,+Khwaeng+Bang+Chak,+Prakanong+Krung+Thep+Maha+Nakhon+10260/@13.6859721,100.575982,13z/data=!3m1!4b1!4m9!4m8!1m0!1m5!1m1!1s0x30e29ed269181bb1:0x60c3178ba983c76!2m2!1d100.6110016!2d13.6859746!3e3?authuser=1
+
+Driving & Parking
+-----------------
+
+Parking is free all day at True Digital Park during the conference.
+
+`Google Maps Directions`_.
+
 
 Taxis in Bangkok
 ----------------
