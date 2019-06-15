@@ -273,8 +273,8 @@ talks:
     </div>
   description: ""
   speaker: Kan Ouivirach
-  speakerimg: https://secure.gravatar.com/avatar/03886c577a1c4d30efa531b8f85aa80f?s=500
-  title: How We Build a Data-Informed Culture with Apache Airflow (Replacement)
+  speakerimg: https://th.pycon.org/zkan.jpg
+  title: How We Start Building a Data-Informed Culture with Airflow (Replacement)
 - bio: |-
     <p></p>
     <div class="document">
@@ -389,6 +389,15 @@ talks:
   speaker: Elisha Tan
   speakerimg: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/15327/elisha-speaker_copy.png
   title: Program Thinking - How do you design programs for diversity?
+- bio: |-
+    <p></p>
+    <div class="document">
+    <p>Biggest PyCon Thailand selfie ever.</p>
+    </div>
+  description: ""
+  speaker: All of Us (bottom of Auditorium)
+  speakerimg: https://secure.gravatar.com/avatar/7ebded1e9171acbf1b8cbf3532e25172?s=500
+  title: PyCon Thailand Group Photo
 - bio: "<p></p>\n<div class=\"document\">\n<p>Adam Paszke is an author and maintainer\
     \ of PyTorch Despite being early in his career he already has a few years of experience\
     \ working with large organizations like Facebook AI Research and NVIDIA. Currently,\
@@ -650,21 +659,6 @@ talks:
   speakerimg: https://secure.gravatar.com/avatar/7ebded1e9171acbf1b8cbf3532e25172?s=500
   title: 'Unlocking the power of natural language by machine translation: how python
     could serve my purpose?'
-- bio: |-
-    <p></p>
-    <div class="document">
-    <p>Rahul Bhatia is a self-taught Data Scientist and Full-stack Web Developer. I have experience in organizing
-    several talks as a Developer Student Club Lead at our campus, which is an initiative by Google Developers,
-    promoting the developer culture at college campuses throughout several countries through the DSC program. I love
-    sharing knowledge with fellow developers and organizing and delivering technical sessions. I am currently a Data
-    Science Intern at Innovaccer, a healthcare company focused on "Righting the wrongs of healthcare technology"</p>
-    <p>I don't listen to a lot of pop music but I love rock music. Chester from Linkin Park was my favourite. Apart from
-    that, I am a solo traveller and love wadering at new places.</p>
-    </div>
-  description: ""
-  speaker: Rahul Bhatia
-  speakerimg: https://secure.gravatar.com/avatar/e16d4591c7f44180024093015eec7512?s=500
-  title: Visualize the Black Box - An introduction to Interpretable Machine Learning
 - bio: |-
     <p></p>
     <div class="document">
