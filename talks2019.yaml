@@ -473,20 +473,29 @@ talks:
   time: "15:45"
   dur: "00:40"
 
-#- bio: |-
-#    I’m a Full Stack Developer, Developer Evangelist, Auth0 Ambassador, GDG Ranchi Organizer, and Mozilla Representative. I love speaking on Serverless, Authentication & Authorization, Google Technologies, Security, Web Extensions and Virtual Reality at different meet-ups and conferences.
-#  description: >-
-#    APIs are changing and languages like Python are shifting the paradigm of API consumption.
-#    We often dedicate a lot of time in crafting powerful APIs but overlook proper
-#    security measures. In this talk, we'll look at the proper way to secure our Python
-#    API's with JSON Web Tokens with Moden Identity.
-#  speaker: Md Shahbaz Alam
-#  speakerimg: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/19104/mdsbzalam.jpg
-#  title: Securing your Python APIs with Auth0
-#  day: sun
-#  track: 3
-#  time: "10:40"
-#  dur: "00:40"
+- bio: |-
+    A passionate software developer, Sarthak is a core contributor in Expedia's Mobile Team. He weaves the magic in his
+    code with Python, Java, Kotlin, Scala, C and  JavaScript. Having mastered these languages all by himself, through
+    self projects and open source contributions, he knows what it takes to not just write code but write code that is
+    readable, efficient and maintainable.
+
+    His current adventure involves developing solutions in android ecosystem, internal API(s) and machine learning to
+    help our users have the best experience.
+
+    Before joining Expedia, he  co-founded one startup in India and did internship at Samsung R&amp;D, Bengaluru.
+    He loves sharing his knowledge and learnings from his adventures in machine learning projects. He has been
+    speaking extensively at internal conferences and now want to spread his knowledge in the open.
+  description: >-
+    Thank you Sarthak for stepping in at the last moment.
+  
+    The title is the abstract: Kotlin for Pythonista.
+  speaker: Sarthak Deshwal
+  speakerimg: https://secure.gravatar.com/avatar/ebb0ce50f3e93125e7f5fe4406a78723?s=500
+  title: Kotlin for Pythonista
+  day: sun
+  track: 3
+  time: "10:40"
+  dur: "00:40"
 
 - bio: |-
     CEO of Zymple
