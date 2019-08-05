@@ -79,6 +79,7 @@ talks:
   time: 09:50
   dur: 00:40
 
+  youtube_url: https://www.youtube.com/watch?v=-M-qNo-dvdw
 - bio: |-
     - Currently, working as a Platform Software Engineer at Bigbasket, India (India's largest online food and grocery store).
     - MSc in Advanced Computing (Machine Learning, Artifical Intelligence, Robotics, Cloud Computing, and Computational Neuroscience), University of Bristol, United Kingdom.
@@ -108,6 +109,7 @@ talks:
   time: 13:40
   dur: 00:40
 
+  youtube_url: https://www.youtube.com/watch?v=cFOqd4UwZW4
 - bio: |-
     I am always fascinated about programming languages. In particular, I have long advocated for the use of functional
     programming over object-oriented programming and a declarative style over an imperative one. Despite having used
@@ -427,6 +429,7 @@ talks:
   dur: 00:40
 
 
+  youtube_url: https://www.youtube.com/watch?v=KNzI5Jg_SfI
 - bio: |-
     I'm a serial online entrepreneur who is always looking to add useful products to the world – both open source and paid. My standard toolbox includes Python and Django (and sometimes WordPress) on the backend and Vue.js on the frontend. I also do data wrangling and some machine learning in Jupyter, Pandas and Keras.
 
@@ -535,6 +538,10 @@ talks:
     real impact at this level.
 
     This talk will go through:
+
+    - The translation problems, purposes of machine translation in industry, Entertainment Industry as an example (movies subtitles and TV contents)
+    - How to build a machine translation with a higher quality of translation output.
+    - NLP tools around machine translation and the advantages of python in the development process.
   speaker: Mohamed Ali SOLA (Dali SOLA)
   title: 'Unlocking the power of natural language by machine translation: how python
     could serve my purpose?'
