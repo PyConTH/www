@@ -3,11 +3,13 @@ from nikola.packages.datecond import date_in_range
 from nikola.plugin_categories import ShortcodePlugin
 from docutils.core import publish_parts
 
-import yaml
-try:
-    from yaml import CLoader as Loader, CDumper as Dumper
-except ImportError:
-    from yaml import Loader, Dumper
+# import yaml
+# try:
+#     from yaml import CLoader as Loader, CDumper as Dumper
+# except ImportError:
+#     from yaml import Loader, Dumper
+
+import ruamel.yaml
 
 class ScheduleShortcode(ShortcodePlugin):
     def set_site(self, site):
@@ -60,7 +62,8 @@ class ScheduleShortcode(ShortcodePlugin):
 
 
         with open(file) as f:
-            data = yaml.load(f, Loader=Loader)
+            #data = yaml.load(f, Loader=Loader)
+            data = ruamel.yaml.load(f, ruamel.yaml.RoundTripLoader)
 
         talks = sorted([t for t in data['talks'] if 'day' in t], key=lambda t: (t['day'],t['time'],t['dur'],t['track']))
         tracks_ = data['tracks']

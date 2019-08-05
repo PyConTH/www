@@ -1,11 +1,11 @@
 days:
-- sat: "Saturday 15th June"
-- sun: "Sunday 16th June"
+- sat: Saturday 15th June
+- sun: Sunday 16th June
 tracks:
-- 1: "T1: Auditorium (L6)"
-- 2: "T2: Forum (L7)"
-- 3: "T3: Cubiculum (L7)"
-- 4: "T4: Aquarium (L7)"
+- 1: 'T1: Auditorium (L6)'
+- 2: 'T2: Forum (L7)'
+- 3: 'T3: Cubiculum (L7)'
+- 4: 'T4: Aquarium (L7)'
 talks:
 - bio: |-
     Hie, I'm Akshat, a Govt. of India recognized Silicon Valley fellow and a Harvard University Conference Scholar.
@@ -13,7 +13,7 @@ talks:
     (visit: inSessionApp.com) to manage my calls and acknowledging callers while I sleep. I've previously worked at
     a Thailand based and a California based company. This summers, I'm working with an India based startup as a Software
     Engineer. Above all this, I love to empower people in my connection.
-  description: >-
+  description: |-
     Python helped me fulfill my teenage dream to visit silicon valley before turning
     20. I won an intercollege hackathon for building a Vision app using python, which
     got selected me for silicon valley and eminent Harvard Conf. A senior from my
@@ -23,8 +23,8 @@ talks:
   title: Python made my dream come true
   day: sun
   track: 3
-  time: "09:50"
-  dur: "00:40"
+  time: 09:50
+  dur: 00:40
 
 #- bio: |-
 #    **Alex Khaerov** is a development lead at `Chainstack <https://chainstack.com>`_, with 9+ years in web services
@@ -35,7 +35,7 @@ talks:
 #    community. In his spare time, he speaks publicly at tech conferences and secretly codes in Python. Huge fan of
 #    laptop stickers.
 #
-#  description: >-
+#  description: |-
 #    You definitely have unit tests. Your code coverage above 80 or 90? Are u still
 #    struggling with bugs and wanna increase the quality? What if I say that quarter
 #    of your units are non-viable mutants? Yes, it is true and sounds rude. Let's mutate
@@ -48,9 +48,10 @@ talks:
 #  time: "16:10"
 #  dur: "00:40"
 
+  youtube_url: https://www.youtube.com/watch?v=SJY2FLHsWqM
 - bio: |-
     Studied Math, building systems, loves traveling and puns.
-  description: >-
+  description: |-
     Python is now a crucial foundation in our org, with its dynamicity, user friendliness,
     and community-backed frameworks complementing the firepower we already had from
     Scala.
@@ -59,13 +60,13 @@ talks:
   title: 'From 0 to Awesome: How we got Python to supercharge our ML stack'
   day: sun
   track: 1
-  time: "14:05"
-  dur: "00:40"
+  time: 14:05
+  dur: 00:40
 
 - bio: |-
     CEO of DycodeX - the AIoT enabler in Indonesia. Microsoft Most Valuable Professional (MVP) of Microsoft Azure.
     15 years as entrepreneur. A developer, hardware maker, and public speaker.
-  description: >-
+  description: |-
     AI + IoT = AIoT is the latest advancement of AI and IoT. Let's move beyond buzzword
     and seeing it in action. This session will show how to use MicroPython superpower
     to make Machine Learning (ML) inference runs right on the low power Microcontroller
@@ -75,10 +76,10 @@ talks:
   title: 'AIoT: Intelligence on Low Power Microcontroller, with MicroPython'
   day: sun
   track: 2
-  time: "09:50"
-  dur: "00:40"
+  time: 09:50
+  dur: 00:40
 
-- bio: >
+- bio: |-
     - Currently, working as a Platform Software Engineer at Bigbasket, India (India's largest online food and grocery store).
     - MSc in Advanced Computing (Machine Learning, Artifical Intelligence, Robotics, Cloud Computing, and Computational Neuroscience), University of Bristol, United Kingdom.
     - International Tech Speaker (spoke at numerous National and International Conferences).
@@ -92,7 +93,7 @@ talks:
     - A Microsoft Certified Professional, Microsoft Technology Associate, IBM Certified Web Developer, and Hewlett Packard Certified Developer.
     - Former Software Developer Intern at IBM & an ALL STACK DEVELOPER capable of designing and developing solutions for Mobile, Web, Embedded Systems, and Desktop. Areas of interest are Computational Neuroscience, Deep Learning, and Cloud Computing.
 
-  description: >-
+  description: |-
     Generative Adversarial Networks are one of the latest advancements in Deep Learning.
     Interested in knowing how to generate content (images, music, and much more) instead
     of classifying one into categories? Let's dive into the details of GANs: One of
@@ -104,8 +105,8 @@ talks:
     of the BIGGEST Breakthroughs in the Deep Learning Revolution'
   day: sat
   track: 3
-  time: "13:40"
-  dur: "00:40"
+  time: 13:40
+  dur: 00:40
 
 - bio: |-
     I am always fascinated about programming languages. In particular, I have long advocated for the use of functional
@@ -118,7 +119,7 @@ talks:
     packages to Indonesian companies. My interest lies in the use of technology and data-driven approaches correctly
     to drive growth. In a business climate where it is easy to get sucked into the AI hype, I advocate a pragmatic
     and no-nonsense approach to introducing such technologies into already-running businesses.
-  description: >-
+  description: |-
     In this talk, I argue that Python is not quite a functional programming language.
     We draw examples from Haskell and Clojure to highlight the importance of immutability,
     functional core and reusable data. We look into writing idiomatic Python, whilst
@@ -128,15 +129,16 @@ talks:
   title: 'Functional Programming in Python: Lessons from Haskell and Clojure'
   day: sun
   track: 3
-  time: "13:15"
-  dur: "00:40"
+  time: 13:15
+  dur: 00:40
 
+  youtube_url: https://www.youtube.com/watch?v=UgnCnEDrMM8
 - bio: |-
     I am currently researching in the field of NLP and information retrieval as a project assistant at IIT Delhi. I am a recent graduate, and had been conferred with a degree of Bachelors in technology in Computer Science, in August 2018.
     I got introduced to the wonders of computer science while pursuing my undergraduate degree, and oh, boy! It was diverse. I was amazed with the profusion of avenues that it opened for me. From natural language chatbots, to  biometrics recognition systems, path-planning robots, I found it ever-so encouraging just to be in the game, and with a curious eye, was ready to unearth it all.
     I can program in multiple languages, Python, C/C++, R, Matlab, Chapel, GoLang, Java , Python being my first love since freshman days!.  Recently I have started programming in GoLang, and it happens to be new found love. I am interested in the fields of NLP, ML, AI, having studied them during my senior year, and I wish to work on  enhancing healthcare with AI. More specifically  I want to work towards making technology come to the the aid of unfortunately or differently abled people, so that they can lead healthy lives. I am inspired by the advancing developments in making computers imitate and understand human language, vision and intelligence and so much more, which I feel can be used to solve challenges that the differently abled people face.
     I am an avid reader, an eloquent writer, and love to share my experiences with others as well as learn from others. I do love to talk a lot too. A cup of hot chocolate, my laptop and a problem to code on, is what my daily routine sounds like.
-  description: >
+  description: |-
     "Ok Google, Tell me how do you work?" Have you ever wondered, what goes behind asking a voice assistant to perform
     a particular action to having the output being delivered to you? Using open source NLP libraries like NLTK, and
     Spacy, we will learn concepts that form the heart of conversational AI.
@@ -145,8 +147,8 @@ talks:
   title: Demystifying Conversational AI with Python
   day: sat
   track: 3
-  time: "11:10"
-  dur: "00:40"
+  time: 11:10
+  dur: 00:40
 
 
 - bio: |-
@@ -156,7 +158,7 @@ talks:
     i can currently i'm studying robotics engineer at the pensylavania university online in Robotics Engineer Master degree
     Currently i'm trying to make my own company in robotics field to serve humanity as much as possible to eleminate
     the time that we need to spend on unneccessary thing.
-  description: >-
+  description: |-
     This talk is about a project that was designed to test the ML A.I research and
     robotics opensource. The aim is to improve the robot's ability at human interaction
     and develop various applications for the robot. Right now this robot is an early
@@ -167,8 +169,8 @@ talks:
   title: How to build an open source catbot with Python, a 3D printer and a microcontroller
   day: sun
   track: 3
-  time: "15:45"
-  dur: "00:40"
+  time: 15:45
+  dur: 00:40
 
 - bio: |-
     My name is Charin Polpanumas and I am a data scientist with over five years of track records in Southeast Asia,
@@ -177,25 +179,26 @@ talks:
     contributors to `pyThaiNLP <https://github.com/PyThaiNLP/pythainlp>`_, the most starred Thai NLP library,
     and the author of `thai2fit (formerly thai2vec) <https://github.com/cstorm125/thai2fit>`_, the first and current
     state-of-the-art transfer learning text classification model based on `ULMFit <https://arxiv.org/abs/1801.06146>`_.
-  description: >-
+  description: |-
     Google's TPU-trained BERT made the headlines when it claimed state-of-the-art
     text classification results in multiple languages, but not Thai. This is the story
     of how our rag-tag group of open-source coders managed to outperform Google with
     our very own Thai text classification model, thai2fit.
   speaker: Charin
   speakerimg: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/45031/profile.jpg
-  title: 'How pyThaiNLP''s thai2fit Outperforms Google''s BERT: State-of-the-Art Thai
-    Text Classification and Beyond'
+  title: "How pyThaiNLP's thai2fit Outperforms Google's BERT: State-of-the-Art Thai\
+    \ Text Classification and Beyond"
   day: sat
   track: 1
-  time: "13:40"
-  dur: "00:40"
+  time: 13:40
+  dur: 00:40
 
+  youtube_url: https://www.youtube.com/watch?v=7ieyWlTHmdk
 - bio: |-
     Chie Hayashida is a Software Engineer from Japan. She is working at Cookpad.Inc which is the worldwide recipe sharing
     service. She loves programming and computer science. She is highly skilled with DWH architecture and ML pipelines.
     She is a contributor to Apache Spark, Tensorflow, Apache Airflow and so on.
-  description: >-
+  description: |-
     There are several ways and libraries for distributed processing using Python.
     We need to understand the concepts and features of these libraries for efficient
     usage of computing resources. In this session, I will discuss how to be good to
@@ -205,29 +208,29 @@ talks:
   title: Understanding of distributed processing in Python
   day: sun
   track: 1
-  time: "13:15"
-  dur: "00:40"
+  time: 13:15
+  dur: 00:40
 
 - bio: |-
     Hello, I am Doni Rubiagatra. I am Software Engineer at `kumparan <https://kumparan.com>`_, co-founder of
     `surabaya.py <https://github.com/surabaya-py, and Advisor  at
     [Data Science Indonesia](https://datascience.or.id>`_ East Java. I love teaching Python to others and
     spoke at several PyCon in Asia. I scream for an Ice Cream :D
-  description: >
+  description: |-
     In the interactive visualization world mainly we hear about Tableau and Shiny for R. How about Python? Python’s visualization landscape is quite complex with many available libraries. In this talk, we will look for an easy and fun way to build an interactive dashboard using Plotly and Dash
   speaker: Doni Rubiagatra
   speakerimg: https://secure.gravatar.com/avatar/eed0ef6cc8a0f435d5d8c9a5648f1551?s=500
   title: Interactive Python Dashboards with Plotly and Dash
   day: sat
   track: 1
-  time: "10:20"
-  dur: "00:40"
+  time: 10:20
+  dur: 00:40
 
 - bio: |-
     Drishti is a Computer Engineer at heart and a technology enthusiast. She loves to use technology to help the less fortunate. She believes in democratizing opportunities and brings knowledge of the latest developments in the fast-moving field of technology to deserving students, and keep them up to date and well-equipped for their respective professional careers.
     She has spoken at 12+ conferences across the globe and is also a social entrepreneur. Her non-profit organisation - Samyak Drishti Foundation works in environment, education and healthcare sectors and operates in 10 cities across India.
     In her spare time, she likes to paint nature, explore new places and anchor live shows
-  description: >
+  description: |-
     Have you ever thought of using data visualization to represent data; but feel that it is a cumbersome process? Worry not – Orange is here to the rescue!
     Come, dive into the world of this magical open source data mining tool that can also be used as a Python library.
     Beginner friendly!
@@ -236,9 +239,10 @@ talks:
   title: When life gives you Orange, make data speak volumes!
   day: sat
   track: 3
-  time: "16:10"
-  dur: "00:40"
+  time: 16:10
+  dur: 00:40
 
+  youtube_url: https://www.youtube.com/watch?v=hivXxGIvo5U
 - bio: |-
     Elisha is passionate about bringing people together to solve important problems.
 
@@ -247,21 +251,22 @@ talks:
     Elisha enjoys sharing her experiences in tech and the lessons learned. She was featured on various media such as The Straits Times, Her World, e27, and High Net Worth. She has spoken internationally at IWD by Jobs for NSW, Slush Singapore, Google Women Techmakers, MaGIC Academy Symposium, RubyConf Malaysia and Techsauce Summit to name a few, and has mentored at Startup Weekends (San Francisco & Penang) and SPARK Global Acceleration Program.
 
     Elisha is based in sunny Singapore and aspires to be a standup comedian.
-  description: >
+  description: |-
     There’s much more we could do to improve gender diversity in tech. But with so many ideas, how should you get started in tackling this problem? How do you measure success? In this talk, I will share the people-centric methodology that helps you design your diversity programs and initiatives.
   speaker: Elisha Tan
   speakerimg: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/15327/elisha-speaker_copy.png
   title: Program Thinking - How do you design programs for diversity?
   day: sat
   track: 1
-  time: "15:20"
-  dur: "00:40"
+  time: 15:20
+  dur: 00:40
 
 
+  youtube_url: https://www.youtube.com/watch?v=zLwGJ3GyBxI
 - bio: |-
     Application Security Consultant, Skilled in Security Requirement Engineering, Threat Modeling, Static Application Security Testing, Dynamic Application Security Testing,  Secure SDLC, DevSecOps. Hold Certified Ethical Hacker certification, Speaker for several conferences in Jakarta, Kuala Lumpur, Singapore with topic related to application security.
     Bachelor’s Degree focused in Informatics Engineering from Telkom University.
-  description: >-
+  description: |-
     This topic will cover how to find security issue on python code using open source
     Static Analysis Security Testing. So that developer can found & fixed the security
     issue since on development stage, without waiting for penetration testing stage
@@ -270,9 +275,10 @@ talks:
   title: Security Issues on your Python Code
   day: sun
   track: 2
-  time: "10:40"
-  dur: "00:40"
+  time: 10:40
+  dur: 00:40
 
+  youtube_url: https://www.youtube.com/watch?v=tOJVlDBLwaU
 - bio: |-
     My name is Jiranun Jiratrakanvong. You can call me **"Jiranun"**.
 
@@ -299,7 +305,7 @@ talks:
     - Running (mini marathon)
     - Scuba Diving
     - Traveling
-  description: >
+  description: |-
     If you think about a Data Science Project, what are you thinking about? Machine learning? Deep learning? AI?
     Correct! But it’s usually ~20% of the whole project. Let's forget about ML, and I will tell you what we have
     faced as a Data Science Company, and how we use Python to solve almost everything!
@@ -308,12 +314,12 @@ talks:
   title: Python for Data Science Projects at Coraline
   day: sun
   track: 2
-  time: "13:15"
-  dur: "00:40"
+  time: 13:15
+  dur: 00:40
 
 - bio: |-
     I am a lead engineer working on Android and iOS instrumentations at HeadSpin Inc., a fast-growing mobile testing startup company based in Palo Alto. I have years of writing programs in many languages like Go, Python, Erlang, JavaScript, Ocaml, Java, Kotlin, and Swift, among others. My experience lies in networking for IoTs and interactive applications, compiler, and mobile frameworks. Outside of professional settings, I'm the author of RxGo, a popular open-source library on Github and I have given talks at MakerFaire NYC and Radical Networks in 2015.
-  description: >-
+  description: |-
     Fishing in Smali? try Marlin.
 
     Marlin is a Smali parser / VM that maps Smali classes to Python classes. It basically
@@ -324,43 +330,45 @@ talks:
   title: 'Marlin: A Smali to Python Transpiler for Android Hacking'
   day: sat
   track: 2
-  time: "14:30"
-  dur: "00:40"
+  time: 14:30
+  dur: 00:40
 
+  youtube_url: https://www.youtube.com/watch?v=w9uFXxX5Dyo
 - bio: |-
     I love to develop software using Python/Django, and manage e-commerce website in Korea.
 
     I lived in Thailand for 4 years, and I taught some CS subjects in Naresuan University for 2 years.
-  description: >-
+  description: |-
     I run my own business using Django/Python in Korea.
   speaker: Jonghwa Seo
   speakerimg: https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/45418/pincoin-logo-A2.png
   title: E-commerce for Django
   day: sat
   track: 2
-  time: "13:40"
-  dur: "00:40"
+  time: 13:40
+  dur: 00:40
 
+  youtube_url: https://www.youtube.com/watch?v=wPh76RSXgMs
 - bio: |-
     Kan is an enthusiastic engineer who not only has a scientific mindset, but also a practical approach to software solutions. He is passionate in software engineering, data engineering, and data science. More importantly, he loves Python and uses it every single day at work. When there's any time left to burn Kan likes to improve his skills by taking some courses or contributing to some open-source projects.
-  description: >-    
+  description: |-
     Apache Airflow is an open-source workflow management platform originally developed by Airbnb. We use it to build our data-informed culture. It does change our life for the better and it might change yours too. Therefore, in this session, I'll talk about what it is, why we love it, and how you can take some simple steps to build a simple data pipeline and start democratizing your data.
-
-  speaker: 	Kan Ouivirach
+  speaker: Kan Ouivirach
   speakerimg: https://th.pycon.org/zkan.jpg
   title: How We Start Building a Data-Informed Culture with Airflow (Replacement)
   day: sat
   track: 2
-  time: "10:20"
-  dur: "00:40"
+  time: 10:20
+  dur: 00:40
 
+  youtube_url: https://www.youtube.com/watch?v=Li5zatNMe5g
 - bio: |-
     **Joshua Arvin Lat** is the **Chief Technology Officer** (CTO) of **Complete Business Online**. He previously
     served as the **Director for Software Development and Engineering** for multiple startups which allowed him to
     see the bigger picture and be more effective as a professional and leader. For the past couple of years, he has
     been sharing his knowledge in several conferences around the country to discuss practical strategies for companies
     and professionals.
-  description: >-
+  description: |-
     Over the past couple of years, several companies around the world have started
     to embrace the Serverless movement to design and build modern applications. In
     this talk, I will bridge the gap between reality and expectations when dealing
@@ -372,10 +380,11 @@ talks:
     Python
   day: sat
   track: 1
-  time: "12:00"
-  dur: "00:40"
+  time: 12:00
+  dur: 00:40
 
 
+  youtube_url: https://www.youtube.com/watch?v=GMG0a_9-AzU
 - bio: |-
     I started working as a data scientist in July, 2016. Though I have been using regular expressions to clean data
     for years, since 1999. I finished an M.Phil in Computer Speech and Language Processing from University of
@@ -384,7 +393,7 @@ talks:
     My focus now includes 2 topics: Thai NLP and Google Colaboratory for knowledge sharing. My main contributions are
     for `PyThaiNLP project <https://github.com/PyThaiNLP/pythainlp>`_ and Colab notebooks shared on
     `Colab Thailand Facebook Group <https://www.facebook.com/groups/colab.thailand/>`_
-  description: >-
+  description: |-
     Colab or Google Colaboratory is a popular tool to run Jupyter Notebook for free
     on Google Cloud. This talk will cover some advanced uses of Colab, such as %magic,
     forms, Python-JavaScript communication, adding a kernel, using conda, displaying
@@ -394,8 +403,8 @@ talks:
   title: Advanced Google Colaboratory
   day: sat
   track: 2
-  time: "15:20"
-  dur: "00:40"
+  time: 15:20
+  dur: 00:40
 
 
 - bio: |-
@@ -405,7 +414,7 @@ talks:
     I exchanged contact information with Pythonista who are active overseas so that I can cooperate with them.
     Additionary, as a staff member of Pyladies Tokyo, I did a community activity spreading Python, and did Python Boot Camp which helps Python beginners and spreads Python as Saitama and Fukushima local staff. Python Boot Camp in Fukushima, activities such as preparing the venue as well as taking up local newspapers were underway.
     In addition, I am participating in the Python related community and am doing activities to improve self-study and day-to-day technology.
-  description: >
+  description: |
     I’m Japanese(Tokyo) Pyladies staff. I'll talk in the Python woman's community and talk about what I thought.
     I think small communities are also important. And I also hope that we want everyone in the small community to have
     the skills that lead to Asia and the world.
@@ -414,8 +423,8 @@ talks:
   title: Pyladies and Importance of community participation
   day: sun
   track: 2
-  time: "14:05"
-  dur: "00:40"
+  time: 14:05
+  dur: 00:40
 
 
 - bio: |-
@@ -430,7 +439,7 @@ talks:
     - invoice2data: extract structured data from PDF invoices https://github.com/invoice-x/invoice2data
     - upodder: command line podcast downloader https://github.com/m3nu/upodder
 
-  description: >-
+  description: |-
     GraphQL is the new standard for client-server API communication, replacing REST
     in many newer projects. This talk shows you how to quickly add GraphQL to your
     Django project, test and use it in a simple Vue.js app. Sample code provided.
@@ -439,12 +448,12 @@ talks:
   title: Adding a GraphQL API to Django (with Vue.js frontend)
   day: sun
   track: 1
-  time: "14:55"
-  dur: "00:40"
+  time: 14:55
+  dur: 00:40
 
 - bio: |-
     Mark has worked in IT for over 20 years in Europe and Southeast Asia. His experience spans IT operations, software engineering, data systems, product management and project management. He has worked in top multinationals, SMEs and start-ups.
-  description: >-
+  description: |-
     Production Engineering comes from the belief that operational problems should
     be solved through software solutions. The engineers who are building the software
     are the best people to operate that software in production. This talk will introduce
@@ -454,13 +463,13 @@ talks:
   title: Python in Production Engineering @ Facebook
   day: sat
   track: 1
-  time: "16:10"
-  dur: "00:40"
+  time: 16:10
+  dur: 00:40
 
 
 - bio: |-
     Martin is a Google Developer Expert in Machine Learning based in Singapore - and was doing Neural Networks before the last AI winter...  He's an active contributor in the Singapore data science community, and is the co-host of the Singapore TensorFlow and Deep Learning MeetUp (with now with 3700+ members in Singapore).
-  description: >-
+  description: |-
     This talk aims to cover the "something for beginners" part of our tagline - motivating
     the building blocks of CNNs, how they are trained, and how the resulting model
     can be applied to different datasets. Code examples will be provided in Colab
@@ -470,9 +479,10 @@ talks:
   title: 'First steps in Deep Learning with TensorFlow 2.0 : CNNs'
   day: sun
   track: 1
-  time: "15:45"
-  dur: "00:40"
+  time: 15:45
+  dur: 00:40
 
+  youtube_url: https://www.youtube.com/watch?v=dpE4LSW7eN8
 - bio: |-
     A passionate software developer, Sarthak is a core contributor in Expedia's Mobile Team. He weaves the magic in his
     code with Python, Java, Kotlin, Scala, C and  JavaScript. Having mastered these languages all by himself, through
@@ -485,21 +495,22 @@ talks:
     Before joining Expedia, he  co-founded one startup in India and did internship at Samsung R&amp;D, Bengaluru.
     He loves sharing his knowledge and learnings from his adventures in machine learning projects. He has been
     speaking extensively at internal conferences and now want to spread his knowledge in the open.
-  description: >-
+  description: |-
     Thank you Sarthak for stepping in at the last moment.
-  
+
     The title is the abstract: Kotlin for Pythonista.
   speaker: Sarthak Deshwal
   speakerimg: https://secure.gravatar.com/avatar/ebb0ce50f3e93125e7f5fe4406a78723?s=500
   title: Kotlin for Pythonista
   day: sun
   track: 3
-  time: "10:40"
-  dur: "00:40"
+  time: 10:40
+  dur: 00:40
 
+  youtube_url: https://www.youtube.com/watch?v=kJiteaPkTXs
 - bio: |-
     CEO of Zymple
-  description: >-
+  description: |-
     ** Register at the Registration Desk**
 
     This is a workshop for adults such as parents, teachers, community organizers
@@ -509,28 +520,30 @@ talks:
   title: Teaching Coding To Kids
   day: sun
   track: 4
-  time: "09:00"
-  dur: "02:20"
+  time: 09:00
+  dur: 02:20
 
-- bio: >
+- bio: |-
     Dali SOLA is a Data science enthusiast with experience in various aspects of NLP and machine translation.
     Dali had an engineer degree from at TEK-UP University in Tunisia and studied two Master degree in
     Business Intelligence and Innovation management. His core interest lies in “NLP”, ”Deep learning”,
     “Machine Learning”, ”Machine Translation” and "IA". In 2017 he get rewarded from ATB BANK  for  his solution "smart-HR",
     a human resource solution that deal with talents hiring issue, using NLP and IA .
-  description: >-
+  description: |-
     With more than 7000 languages spoken across the world, it becomes more and more
     important to connect people and cultures together; Machine translation shows a
     real impact at this level.
 
     This talk will go through:
   speaker: Mohamed Ali SOLA (Dali SOLA)
-  title: 'Unlocking the power of natural language by machine translation: how python could serve my purpose?'
+  title: 'Unlocking the power of natural language by machine translation: how python
+    could serve my purpose?'
   day: sun
   track: 2
-  time: "14:55"
-  dur: "00:40"
+  time: 14:55
+  dur: 00:40
 
+  youtube_url: https://www.youtube.com/watch?v=6iI5X4-ado8
 - bio: |-
     **Nithiroj Tripatarasit**
 
@@ -554,7 +567,7 @@ talks:
     - `Deep Learning Workshops by Google Developer Experts <https://drive.google.com/file/d/1A0CTi9OCQ9MenLBXZ14bp0K-WsF1JEPt/view?usp=sharing>`_
     - `Big Data with Hadoop by DEPA <https://drive.google.com/file/d/18ulagdP4U2J8mcAnDZPFuE_nKc9c72Dz/view?usp=sharing>`_
 
-  description: >-
+  description: |-
     Detecting facial keypoints is a very challenging problem. It can be used as a
     building block in several application such as tracking faces in images and video,
     analyzing facial expression, face recognition, etc. This talk will walk you through
@@ -564,9 +577,10 @@ talks:
   title: Facial Keypoints Detection with PyTorch
   day: sat
   track: 3
-  time: "15:20"
-  dur: "00:40"
+  time: 15:20
+  dur: 00:40
 
+  youtube_url: https://www.youtube.com/watch?v=wbu94CbBkCs
 - bio: |-
     Noah,
     PyCon Nomad
@@ -575,26 +589,27 @@ talks:
     volunteer and speaker of EuroPython 2018.
     Managing member of PSF,
     my wish is that connect everyone who enjoy Python, and try to promote programming education to young generation or everyone who interested in by teaching basic programming skill using Python and R, like be a mentor of Hour or Code, or Google Summer of Code with FOSSASIA
-  description: >-
+  description: |-
     according to PEP 373, we knew Python 2.7 EOL is moved to 2020. in PEP 404, we
     knew Python 2.8 will never come, which means all versions of Python 2 will be
     end of official bugfix and support at EOL.
 
     2019, the last year of Python2. let's review how glory memories is in history
     of Python.
-  speaker: Noah
+  speaker: Noah Chen
   speakerimg: https://secure.gravatar.com/avatar/f84b4128e61163fad7751e4dd8ebac50?s=500
   title: Ready to say goodbye to Python 2.7 ! ?
   day: sun
   track: 3
-  time: "09:00"
-  dur: "00:40"
+  time: 09:00
+  dur: 00:40
 
+  youtube_url: https://www.youtube.com/watch?v=g07jCZ_WcUA
 - bio: |-
     Noah Kantrowitz is a web developer turned infrastructure automation enthusiast, and all around engineering
     rabble-rouser. By day he runs an infrastructure team at Ridecell and by night he makes candy and stickers.
     He is an active member of the DevOps community, and enjoys merge commits, cat pictures, and beards.
-  description: >-
+  description: |-
     Everyone is talking about Kubernetes, but migrating existing applications is often
     easier said than done. This talk will cover the tale of migrating our main Django
     application to Kubernetes, and all the problems and solutions we ran into along
@@ -604,15 +619,15 @@ talks:
   title: 'Forklifting Django: Migrating A Complex Django App To Kubernetes'
   day: sun
   track: 1
-  time: "10:40"
-  dur: "00:40"
+  time: 10:40
+  dur: 00:40
 
 - bio: |-
     Pisuth turns himself into a blockchain developer with extensive skills on IoT and Chatbot since 2017. Prior
     that time, he was working in media industry for 8 years in Thailand experienced using Python on system monitoring
     and systems integration.  He also won 7 blockchain competition/hackathon in the past 2 years include ETHSingapore,
     Binance and NEO and has strong passion on blockchain technology and distributed economy.
-  description: >-
+  description: |-
     Raiden network is an open source project aims to bring several advantages like
     better privacy, speed, and lower fees to the Ethereum blockchain. This talk would
     focus on how to install, use cases, integration and its underlying technology.
@@ -621,16 +636,17 @@ talks:
   title: Raiden Network for instant crypto payment & lower fees
   day: sat
   track: 2
-  time: "11:10"
-  dur: "00:40"
+  time: 11:10
+  dur: 00:40
 
+  youtube_url: https://www.youtube.com/watch?v=hr_cPSvE8Ao
 - bio: |-
     I am a Data Scientist (First Senior Vice President) at Siam Commercial Bank PCL. Beside Python, I'm also into
     Mathematica, and did my doctorate entirely in C++. Beside Data Science, I'm involved in Quantitative Analytics
     in general, Financial Engineering and Risk Management in particular (although much less so these days). Beside
     Machine Learning, my research interest span to Graph-Theoretic/Network Model, Copula Functional, Cybernetics,
     and (obviously) Fuzzy Multi-Criteria Decision Model.
-  description: >-
+  description: |-
     Today's sophisticated investors/fund managers require more flexibility/sophistication
     than traditional risk/return bi-criteria analysis. The talk introduces Python-based,
     highly-customisable Fuzzy Multi-Criteria Portfolio Optimisation framework and
@@ -641,15 +657,16 @@ talks:
     bit of Mathematica)
   day: sun
   track: 1
-  time: "09:00"
-  dur: "00:40"
+  time: 09:00
+  dur: 00:40
 
-- bio: >
+  youtube_url: https://www.youtube.com/watch?v=gN3WIx6DYfw
+- bio: |-
     Rae Knowler is a web developer at Liip in Zürich, where they develop product data APIs and work on Open
     Data projects. They are interested in the fascinating, comical and sometimes tragic results of attempting to
     cram the complexity of life and society into computer systems. In their spare time they read a lot of science
     fiction and hug cats.
-  description: >-
+  description: |-
     We all know we should be writing tests, but coming up with tests for every edge
     case is hard work and you will inevitably miss some. In this talk, I'll show you
     how to use Hypothesis in your projects to find more bugs than you would imagine.
@@ -658,18 +675,19 @@ talks:
   title: 'Hypothesis: Property-Based Testing for Python'
   day: sun
   track: 3
-  time: "14:05"
-  dur: "00:40"
+  time: 14:05
+  dur: 00:40
 
-- bio: |-
-  description: >-
+  youtube_url: https://www.youtube.com/watch?v=hNlredWSQ0U
+- bio: |
+  description: |-
     ** Register at the Registration Desk**
-  speaker: 
+  speaker:
   speakerimg: https://secure.gravatar.com/avatar/e16d4591c7f44180024093015eec7512?s=500
   title: This workshop has been cancelled.
   track: 4
-  time: "13:15"
-  dur: "02:20"
+  time: 13:15
+  dur: 02:20
 
 - bio: |-
     Robert Owen worked for Oracle as Program Director for Asia-Pacific. Before that he worked for Ericsson
@@ -678,7 +696,7 @@ talks:
     his dummy at the amount of work Oracle expected him to do, resigned and enrolled for a PhD at the University of
     Melbourne, Australia. He expects to complete his PhD computer modelling infectious animal diseases later this
     year.
-  description: >-
+  description: |-
     Models are used to simulate the spread of diseases in populations. Scientists
     often cannot base their decisions on past events but must take action quickly
     to halt their spread. Computer modelling in Python using random processes can
@@ -688,10 +706,10 @@ talks:
   title: The Buzz about Bees
   day: sat
   track: 2
-  time: "12:00"
-  dur: "00:40"
+  time: 12:00
+  dur: 00:40
 
-- bio: >
+- bio: |-
     Sam is a Google Developer Expert for Machine Learning and is a co-founder
     of Red Dragon AI a deep tech company based in Singapore. He has extensive experience
     in startups and mobile applications and is helping developers and companies
@@ -702,7 +720,7 @@ talks:
     group.
 
     แซมพูดและอ่านภาษาไทยได้
-  description: >-
+  description: |-
     How to get started quickly and plot your own path to learning Deep Learning in
     the fastest way possible. This will examples of Deep Learning, how they work and
     what the key components are to get started to creating AI based apps.
@@ -711,10 +729,11 @@ talks:
   title: The Fastest Path to Deep Learning
   day: sun
   track: 1
-  time: "09:50"
-  dur: "00:40"
+  time: 09:50
+  dur: 00:40
 
-- description: >-
+  youtube_url: https://www.youtube.com/watch?v=0hFzAO8Zypk
+- description: |-
     ** Register at the Registration Desk**
 
     This is a full workshop introducing the concepts of Deep Learning in TensorFlow
@@ -724,14 +743,14 @@ talks:
   title: Deep Learning Introductory Workshop with TensorFlow 2.0
   day: sat
   track: 4
-  time: "13:40"
-  dur: "02:20"
+  time: 13:40
+  dur: 02:20
 
 - bio: |-
     Sara is a seasoned software engineer and a data science enthusiast. She is currently undergoing a master in
     data science in the UK, and a research in deep learning for medical imaging. When she is not coding, she
     spends her free time baking sweet treats and watching Rick and Morty.
-  description: >-
+  description: |-
     Creating a machine learning model with an imbalanced dataset can give you misleading
     results. Get to know the common techniques to address the class imbalance problem
     in datasets that can help you to deliver better performance.
@@ -740,8 +759,8 @@ talks:
   title: Addressing class imbalance in Machine Learning
   day: sat
   track: 1
-  time: "14:30"
-  dur: "00:40"
+  time: 14:30
+  dur: 00:40
 
 - bio: |-
     A passionate software developer, Sarthak is a core contributor in Expedia's Mobile Team. He weaves the magic in his
@@ -755,7 +774,7 @@ talks:
     Before joining Expedia, he  co-founded one startup in India and did internship at Samsung R&amp;D, Bengaluru.
     He loves sharing his knowledge and learnings from his adventures in machine learning projects. He has been
     speaking extensively at internal conferences and now want to spread his knowledge in the open.
-  description: >-
+  description: |-
     Haystack is an Expedia-backed open source distributed tracing project to facilitate
     detection and remediation of problems in microservices and websites. We will talk
     about how to set it up on internal infrastructure and monitor micro-services using
@@ -765,8 +784,8 @@ talks:
   title: A resilient, scalable tracing and analysis system for micro-services - HayStack
   day: sun
   track: 3
-  time: "14:55"
-  dur: "00:40"
+  time: 14:55
+  dur: 00:40
 
 - bio: |-
     I am working as a part of the development team of [Tensor]werk, an infrastructure development company focusing on
@@ -775,7 +794,7 @@ talks:
     learning in 2015. I am an open source enthusiast and I spend most of my research time on improving interpretability
     of AI models using `TuringNetwork <https://turingnetwork.ai>`_. I have authored a deep learning book (`yet to
     publish <https://github.com/hhsecond/HandsOnDeepLearningWithPytorch>`_). I go by hhsecond on internet
-  description: >-
+  description: |-
     Managing DL workflow is always a nightmare. Problems include handling the scale,
     efficient resource utilization, version controlling the data. With the highly
     optimized RedisAI, super flexible PyTorch and heavily organized Hangar, all the
@@ -785,15 +804,16 @@ talks:
   title: Production-ize deep learning with PyTorch, RedisAI and Hangar
   day: sat
   track: 1
-  time: "11:10"
-  dur: "00:40"
+  time: 11:10
+  dur: 00:40
 
+  youtube_url: https://www.youtube.com/watch?v=aSCKqFwPtjY
 - bio: |-
     Hi there! I am a software engineer who uses vim at Pronto Tools and also a GirlsWhoDev organizer for around 4 years.
     I have organized many tech events for girls who want to learn coding even if they are not in the tech industry such
     as girls learning Python. I am also a co-organiser with Django girls for building a website with Django in Bangkok.
     Apart from my tech life, I'm a dog person. I enjoy singing, dancing and watching a movie and a series.
-  description: >-
+  description: |-
     ** Register at the Registration Desk**
 
     Have you ever use a cutie and cool CLI tool? Have you felt that it is very cool
@@ -804,8 +824,8 @@ talks:
   title: Python for beginners
   day: sat
   track: 4
-  time: "10:20"
-  dur: "02:20"
+  time: 10:20
+  dur: 02:20
 
 - bio: |-
     I am a pre final student at The LNM Institute of Information Technology pursuing B-Tech in Computer Science
@@ -814,7 +834,7 @@ talks:
     Information Retrieval as an academic course and my my interest in this field grew from there. In this talk I will
     elaborate on my project where I used TWEEPY library of python to extract and evaluate tweets. I believe Information
     Retrieval is a interesting topic and will attract audience from all the field and all experience levels.
-  description: >-
+  description: |-
     I will talk about NLP at first and introduce the concept of NLP, algorithms for
     Lexicon Normalization, Entity Parsing etc. Then I will talk about Python Libraries
     like NLTK, TextBlob, GenSim, spaCy & the functionalities they provide. Lastly,
@@ -824,8 +844,8 @@ talks:
   title: Developing Natural Language Processing Applications Using Python
   day: sun
   track: 2
-  time: "09:00"
-  dur: "00:40"
+  time: 09:00
+  dur: 00:40
 
 - bio: |-
     Takanori is a Vice Chairperson of PyCon JP Committee(www.pycon.jp).
@@ -834,7 +854,7 @@ talks:
     Currently he teaches Python to beginners as a lecturer at Python Boot Camp(pycamp.pycon.jp) all over Japan.
     In addition, he published several Python books.
     Tananori plays trumpet, climbs boulder, loves Lego, ferrets and beer
-  description: >-
+  description: |-
     Today, there are many tasks to repeat in the community.
 
     We often use chat such for daily communication.
@@ -848,9 +868,10 @@ talks:
   title: Automate the Boring Stuff with Slackbot
   day: sat
   track: 3
-  time: "12:00"
-  dur: "00:40"
+  time: 12:00
+  dur: 00:40
 
+  youtube_url: https://www.youtube.com/watch?v=4Cn59IXrtdk
 - bio: |-
     I work at an Application Security company (we45) and have a unique perspective of developing secure and
     deliberately insecure apps in Python and NodeJS. I have contributed to the development of several
@@ -860,7 +881,7 @@ talks:
     Correlation and Aggregation product. I have over 7 years of development experience and continue to work as a
     full-stack developer. And also I have presented talk in DjangoCon 2018, ISACA Meetup, also gave a workshop about
     container orchestration and Serverless in Lascon, Recently gave a talk in DevSecCon Singapore 2019.
-  description: >-
+  description: |-
     Microservices are taking over the world. Rest-framework is accelerating this because
     of its ease and flexibility.
 
@@ -872,24 +893,26 @@ talks:
   title: Unique ways to Hack into a Python Web Service
   day: sat
   track: 3
-  time: "10:20"
-  dur: "00:40"
+  time: 10:20
+  dur: 00:40
 
+  youtube_url: https://www.youtube.com/watch?v=bqycRG1W_pI
 - bio: |-
     Shane is CEO at Gummy Bear Tech Recruitment. He has over 30 years international experience in IT, and has
     been based in Thailand for the last 17 years where he’s been focusing on technical recruitment.  Strong interest
     in SaaS applications, cloud technologies, and Linux desktops.
 
-  description: >-
+  description: |-
     Wonder if your skills are in demand or if you need to change direction? This session will give context to the
     current tech skills market in Thailand, and which web development skills are most in demand now.  We’ll see how
     Python compares to other languages, and what future prospects might be for Python Developers.
   speaker: Shane Torr
-  title: "Tech Skills: What's Hot and Whats Not. How does Python stack-up against the rest?"
+  title: "Tech Skills: What's Hot and Whats Not. How does Python stack-up against\
+    \ the rest?"
   day: sat
   track: 3
-  time: "14:30"
-  dur: "00:40"
+  time: 14:30
+  dur: 00:40
 
 - bio: |-
     I'm a computer scientist with a passion for programming languages, and have been working as a software engineer
@@ -900,7 +923,7 @@ talks:
     family,  work, and open source, I'm a captain of a competitive Overwatch team.
 
     Ask me about the biggest outage I've ever caused ;) See you at the conference!
-  description: >-
+  description: |-
     Are linters telling you how to write code? Stop wasting time and let the computer
     do the work!
   speaker: Zsolt Dollenstein
@@ -908,34 +931,35 @@ talks:
   title: Any Code Formatter You Like - As Long As It's Black
   day: sun
   track: 2
-  time: "15:45"
-  dur: "00:40"
+  time: 15:45
+  dur: 00:40
 
 - bio: |-
     Anyone can signup at registration
-  description: >-
+  description: |-
     5 min timed talks by anyone who signs up at registration
   speaker: Signup
   speakerimg:
   title: Lightning Talks
   day: sat
   track: 1
-  time: "17:00"
-  dur: "00:45"
+  time: 17:00
+  dur: 00:45
 
 - bio: |-
     Anyone can signup at registration
-  description: >-
+  description: |-
     5 min timed talks by anyone who signs up at registration
   speaker: Signup
   speakerimg:
   title: Lightning Talks
   day: sun
   track: 1
-  time: "16:35"
-  dur: "01:00"
+  time: 16:35
+  dur: 01:00
 
-- speaker: "#1: Prawns+Pork #2: Pork+Eggplant #3: Chicken+Veges #4: Chicken+Prawns #5: Pork+Chicken"
+- speaker: '#1: Prawns+Pork #2: Pork+Eggplant #3: Chicken+Veges #4: Chicken+Prawns
+    #5: Pork+Chicken'
   title: Lunch @ Level 6 or 7
   description: |-
     Lunchboxes will be served on Level 6 and Level 7. There is free seating throughout the venue.
@@ -1003,10 +1027,11 @@ talks:
     Catered by Ginger Farm
   day: sat
   track:
-  time: "12:40"
-  dur: "01:00"
+  time: 12:40
+  dur: 01:00
 
-- speaker: "#1: Prawns+Pork #2: Pork+Eggplant #3: Chicken+Veges #4: Chicken+Prawns #5: Pork+Chicken"
+- speaker: '#1: Prawns+Pork #2: Pork+Eggplant #3: Chicken+Veges #4: Chicken+Prawns
+    #5: Pork+Chicken'
   title: Lunch @ Level 6 or 7
   description: |-
     Lunchboxes will be served on Level 6 and Level 7. There is free seating throughout the venue.
@@ -1074,8 +1099,8 @@ talks:
     Catered by Ginger Farm
   day: sun
   track:
-  time: "12:15"
-  dur: "01:00"
+  time: 12:15
+  dur: 01:00
 
 - title: Morning Tea & Coffee
   description: |-
@@ -1104,8 +1129,8 @@ talks:
     seek to build and empower women as agents of social change.
   day: sat
   track:
-  time: "09:50"
-  dur: "00:30"
+  time: 09:50
+  dur: 00:30
 
 - title: Coffee & Snack
   description: |-
@@ -1134,11 +1159,11 @@ talks:
     seek to build and empower women as agents of social change.
   day: sun
   track:
-  time: "08:30"
-  dur: "00:30"
+  time: 08:30
+  dur: 00:30
 
 - title: Breakfast @ Starbucks with Women who Code and Pycon Thailand
-  description: >-
+  description: |-
     To kick off the 2-day Pycon marathon, join us for a meet and greet breakfast with Women who Code at Starbucks.
 
     The breakfast is an opportunity for all women (including cis/trans/non-binary) pythonistas to meet.
@@ -1159,13 +1184,13 @@ talks:
   speakerimg:
   day: sat
   track:
-  time: "07:30"
-  dur: "01:10"
+  time: 07:30
+  dur: 01:10
 
 - title: Registration Opens
   speaker: PyCon Registration Desk Level 6
   twitter: pyconthailand
-  description: >
+  description: |-
     Bring a copy of your ticket or show the ticket in your phone. In case of student tickets, keep your student ID
     card or university acceptance letter in-hand.
 
@@ -1173,16 +1198,16 @@ talks:
     or our volunteers to pass the security check point.
 
     Take elevator to level 6, our registration desk staff will assist you with the process.
-  bio: >
+  bio: |-
     Registration desk is on Level 6 near the lifts. It's completely staffed by volunteers. Please be patient with us!
   day: sat
   track:
-  time: "08:00"
-  dur: "00:55"
+  time: 08:00
+  dur: 00:55
 
 - title: Registration Opens
   speaker: PyCon Registration Desk Level 6
-  description: >
+  description: |-
     Bring a copy of your ticket or show the ticket in your phone. In case of student tickets, keep your student ID
     card or university acceptance letter in-hand.
 
@@ -1190,13 +1215,13 @@ talks:
     or our volunteers to pass the security check point.
 
     Take elevator to level 6, our registration desk staff will assist you with the process.
-  bio: >
+  bio: |-
     Registration desk is on Level 6 near the lifts. It's completely staffed by volunteers. Please be patient with us!
   twitter: pyconthailand
   day: sun
   track:
-  time: "08:00"
-  dur: "01:00"
+  time: 08:00
+  dur: 01:00
 
 
 - title: Welcome Speeches
@@ -1204,13 +1229,13 @@ talks:
   speaker: Dylan Jay & TDPK
   day: sat
   track: 1
-  time: "08:55"
-  dur: "00:10"
+  time: 08:55
+  dur: 00:10
 
 - title: How to meaningfully contribute to Python without being very good at programming
   speaker: David Cournapeau
   description:
-  bio: >
+  bio: |-
     David Cournapeau is a data scientist. He is the original author of the scikit-learn package, an open source machine
     learning library in the Python programming language.
 
@@ -1225,34 +1250,34 @@ talks:
     and SciPy.
   day: sat
   track: 1
-  time: "09:05"
-  dur: "00:45"
+  time: 09:05
+  dur: 00:45
 
 - title: PyCon Thailand Group Photo
   speaker: All of Us (bottom of Auditorium)
   description:
-  bio: >
+  bio: |-
     Biggest PyCon Thailand selfie ever.
   day: sat
   track: 1
-  time: "09:50"
-  dur: "00:05"
+  time: 09:50
+  dur: 00:05
 
 - title: PyTorch as a modern scientific computing environment?
   speaker: Adam Paszke
-  bio: >
+  bio: |-
     Adam Paszke is an author and maintainer of PyTorch Despite being early in his career he already has a few years of
     experience working with large organizations like Facebook AI Research and NVIDIA. Currently, he pursues two majors
     — Computer Science and Mathematics — at the University of Warsaw. His general interests include graph theory,
     programming languages, algorithmics and machine learning.
   day: sat
   track: 1
-  time: "17:45"
-  dur: "00:45"
+  time: 17:45
+  dur: 00:45
 
 - title: PyCon Thailand Official Party & Mixer
   speaker: Light entertainment (Level 6)
-  description: >
+  description: |-
     After everyone has had a big Day 1 at PYCON THAILAND 2019, it will be the perfect time to relax a little and
     reflect on the first day of the conference.
 
@@ -1266,14 +1291,14 @@ talks:
     "Party will take place from 6:30pm to 9:00pm on Level 6 and is included in the price of your conference ticket."
   day: sat
   track:
-  time: "18:30"
-  dur: "02:30"
+  time: 18:30
+  dur: 02:30
 
 
 - title: Python Everywhere?
   speaker: Russell Keith-Magee
   description:
-  bio: >
+  bio: |-
     Dr Russell Keith-Magee is the founder of the BeeWare project, developing GUI tools and libraries to support the
     development of Python software on desktop and mobile platforms. He is also a 13 year veteran of the Django core
     team, and for 5 years, was President of the Django Software Foundation. In his day job, he wrangles data pipelines
@@ -1284,13 +1309,14 @@ talks:
     otherwise known as Perth, Western Australia.
   day: sun
   track: 1
-  time: "11:30"
-  dur: "00:45"
+  time: 11:30
+  dur: 00:45
 
+  youtube_url: https://www.youtube.com/watch?v=22EI9uQE_ZM
 - title: How Python Can Excel
   speaker: Katie McLaughlin
   description:
-  bio: >
+  bio: |-
     Katie has worn many different hats over the years. She has been a software developer for many programming languages,
     systems administrator for multiple operating systems, and speaker on many different topics.
 
@@ -1303,17 +1329,18 @@ talks:
     application stacks handle emoji.
   day: sun
   track: 1
-  time: "17:45"
-  dur: "00:45"
+  time: 17:45
+  dur: 00:45
 
 - title: Closing
   speaker: PyCon Thailand Team
-  description: A few words to wrap up what was an amazing event and thank everyone who worked so hard to make it happen
+  description: A few words to wrap up what was an amazing event and thank everyone
+    who worked so hard to make it happen
   bio:
   day: sun
   track: 1
-  time: "18:20"
-  dur: "00:10"
+  time: 18:20
+  dur: 00:10
 
 
 
