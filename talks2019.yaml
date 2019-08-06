@@ -319,6 +319,7 @@ talks:
   time: 13:15
   dur: 00:40
 
+  youtube_url: https://www.youtube.com/watch?v=rQHvvA-_Wr4
 - bio: |-
     I am a lead engineer working on Android and iOS instrumentations at HeadSpin Inc., a fast-growing mobile testing startup company based in Palo Alto. I have years of writing programs in many languages like Go, Python, Erlang, JavaScript, Ocaml, Java, Kotlin, and Swift, among others. My experience lies in networking for IoTs and interactive applications, compiler, and mobile frameworks. Outside of professional settings, I'm the author of RxGo, a popular open-source library on Github and I have given talks at MakerFaire NYC and Radical Networks in 2015.
   description: |-
@@ -855,6 +856,7 @@ talks:
   time: 09:00
   dur: 00:40
 
+  youtube_url: https://www.youtube.com/watch?v=5I2S4xyJquM
 - bio: |-
     Takanori is a Vice Chairperson of PyCon JP Committee(www.pycon.jp).
     He is also a director of BeProud Inc.(www.beproud.jp), and his title is "Python Climber".
