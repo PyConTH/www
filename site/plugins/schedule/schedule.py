@@ -3,13 +3,109 @@ from nikola.packages.datecond import date_in_range
 from nikola.plugin_categories import ShortcodePlugin
 from docutils.core import publish_parts
 
-# import yaml
-# try:
-#     from yaml import CLoader as Loader, CDumper as Dumper
-# except ImportError:
-#     from yaml import Loader, Dumper
+import re
+
+import yaml
+try:
+    from yaml import CLoader as Loader, CDumper as Dumper
+except ImportError:
+    from yaml import Loader, Dumper
+    
+YOUTUBE_URL_KEY = "youtube_url"
 
 import ruamel.yaml
+
+youtube_script = '''
+<script>
+    ( function() {
+
+        var youtube = document.querySelectorAll( ".youtube" );
+
+        for (var i = 0; i < youtube.length; i++) {
+
+            var source = "https://i.ytimg.com/vi/"+ youtube[i].dataset.embed +"/hqdefault.jpg";
+
+            var image = new Image();
+            image.src = source;
+            image.addEventListener( "load", function() {
+                youtube[ i ].appendChild( image );
+            }( i ) );
+
+            youtube[i].addEventListener( "click", function(event) {
+
+                var iframe = document.createElement( "iframe" );
+
+                iframe.setAttribute( "frameborder", "0" );
+                iframe.setAttribute( "allowfullscreen", "" );
+                iframe.setAttribute( "src", "https://www.youtube.com/embed/"+ this.dataset.embed +"?rel=0&showinfo=0&autoplay=1" );
+                iframe.setAttribute( "allow" , "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" );
+
+                this.innerHTML = "";
+                this.appendChild( iframe );
+                
+                event.stopPropagation();
+            } );    
+        };
+
+    } )();
+</script>
+'''
+
+youtube_style = '''
+    <style>
+        .youtube {
+            background-color: #000;
+            margin-bottom: 30px;
+            position: relative;
+            padding-top: 56.25%;
+            overflow: hidden;
+            cursor: pointer;
+        }
+        .youtube img {
+            width: 100%;
+            top: -16.84%;
+            left: 0;
+            opacity: 0.7;
+        }
+        .youtube .play-button {
+            width: 90px;
+            height: 60px;
+            background-color: #333;
+            box-shadow: 0 0 30px rgba( 0,0,0,0.6 );
+            z-index: 1;
+            opacity: 0.8;
+            border-radius: 6px;
+        }
+        .youtube .play-button:before {
+            content: "";
+            border-style: solid;
+            border-width: 15px 0 15px 26.0px;
+            border-color: transparent transparent transparent #fff;
+        }
+        .youtube img,
+        .youtube .play-button {
+            cursor: pointer;
+        }
+        .youtube img,
+        .youtube iframe,
+        .youtube .play-button,
+        .youtube .play-button:before {
+            position: absolute;
+        }
+        .youtube .play-button,
+        .youtube .play-button:before {
+            top: 50%;
+            left: 50%;
+            transform: translate3d( -50%, -50%, 0 );
+        }
+        .youtube iframe {
+            height: 100%;
+            width: 100%;
+            top: 0;
+            left: 0;
+        }
+    </style>
+'''
 
 class ScheduleShortcode(ShortcodePlugin):
     def set_site(self, site):
@@ -39,6 +135,9 @@ class ScheduleShortcode(ShortcodePlugin):
         if track==1: return "level-6"
         elif track<5: return "level-7"
         return ""
+    
+    def youtube_id(self, url):
+        return re.findall(r"^(.*)/(.*)(&|$)", url)[0][1].replace('watch?v=','')
         
     def handler(self, mode="schedule", file="../talks2019.yaml", schedule_page="schedule", talks_page="talks", speakers_page="speakers",                sections=None, slugs=None, post_type='post', type=False,
                 lang=None, template='post_list_directive.tmpl', sort=None,
@@ -84,6 +183,7 @@ class ScheduleShortcode(ShortcodePlugin):
         #print(daylabel)
 
         for talk in talks:
+          talk['day_raw'] = talk['day']
           talk['day'] = daylabel[talk['day']]
 
 
@@ -151,6 +251,9 @@ class ScheduleShortcode(ShortcodePlugin):
                 talk['timeplace'] = day+" "+time
             talk['room_anchor'] = self.resolve_room_anchor(talk['subcol'])
             talk['floor_anchor'] = self.resolve_floor_anchor(talk['subcol'])
+            #talk[YOUTUBE_URL_KEY] = "https://www.youtube.com/watch?v=5cOOKMU0Ztw&feature=youtu.be" #For testing
+            if YOUTUBE_URL_KEY in talk: talk["youtube_id"] = self.youtube_id(talk[YOUTUBE_URL_KEY])
+            #talk.setdefault(YOUTUBE_URL_KEY,"https://www.youtube.com/watch?v=5cOOKMU0Ztw&feature=youtu.be")
             
             schedule[key].append(talk)
           
@@ -186,11 +289,25 @@ class ScheduleShortcode(ShortcodePlugin):
               subhtml = '<div class="timeflex" style="grid-row-start: {}; grid-row-end: {}; grid-column-start: {}; grid-column-end: {};"> <div class="timetext"><div><b>{}</b></div><div class="timetext-divider">&nbsp;-&nbsp;</div><div><b>{}</b></div></div> <div class="schedule-item-container" style="flex-grow:1;">'.format(talk['row']-rowoffset,talk['row']-rowoffset,talk['col'],talk['col']+talk['colspan'],talk['time'],talk['timeend'])
               for talk in s:
                 if talk['col'] == 1:
-                  subhtml += '''		<div class="schedule-item schedule-item-{}" style="order: {};" id="schedule-field-{}" onclick="var hid=$(this).attr('id').replace('schedule-field','hidden-field'); if (!$('#'+hid).hasClass('active')) $('#'+hid).fadeIn(250),$('#'+hid).addClass('active'); else $('#'+hid).fadeOut(250),$('#'+hid).removeClass('active');">
+                  subhtml += '''		<div class="schedule-item schedule-item-{}" style="order: {};" data-special-id="{}" id="{id}" onclick="var hid='hidden-field-'+$(this).data('special-id'); if (!$('#'+hid).hasClass('active')) $('#'+hid).fadeIn(250),$('#'+hid).addClass('active'); else $('#'+hid).fadeOut(250),$('#'+hid).removeClass('active');">
                   <div class="v-sign">v</div>
                   <div><b>{}</b></div>
                   <div>{}</div>
                   <div class="hidden-field" id="hidden-field-{}">
+                    <br>
+                    <div style="display:{youtube_display};">
+                        <a href="{youtube_url}" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1280px-YouTube_full-color_icon_%282017%29.svg.png" style="height:18px; display: inline;"> WATCH IN YOUTUBE</a>
+                        
+                        <div style="margin-top: 5px;">
+                            <!-- (1) video wrapper -->
+                            <div class="youtube" data-embed="{youtube_id}"> 
+
+                                <!-- (2) the "play" button -->
+                                <div class="play-button"></div> 
+
+                            </div>
+                        </div>
+                    </div>
                     <br>
                     <div><a href="/layout#{layoutanchor}">{}</a></div>
                     <br>
@@ -202,20 +319,39 @@ class ScheduleShortcode(ShortcodePlugin):
                     <br>
                     <div><b>{}</b></div>
                     <br>
-                    <a href="/talks#row-{}">View more talks information</a> <br>
-                    <a href="/speakers#row-{}">View more speaker information</a>
+                    <a href="/talks#{id}">View more talks information</a> <br>
+                    <a href="/speakers#{id}">View more speaker information</a>
                   </div>
-                </div>'''.format(talk['subcol'],talk['subcol']-1,talk['specialid'],talk['title'],talk['speaker'],talk['specialid'],talk['timeplace'],talk['description'],talk['bio'],tracks[talk['subcol']],talk['specialid'],talk['specialid'],layoutanchor=talk['room_anchor'])
+                </div>'''.format(talk['subcol'],talk['subcol']-1,talk['specialid'],talk['title'],talk['speaker'],talk['specialid'],talk['timeplace'],talk['description'],talk['bio'],tracks[talk['subcol']],layoutanchor=talk['room_anchor'], 
+                                 youtube_display = "block" if YOUTUBE_URL_KEY in talk else "none",
+                                 youtube_url=talk[YOUTUBE_URL_KEY] if YOUTUBE_URL_KEY in talk else '',
+                                 youtube_id=talk['youtube_id'] if 'youtube_id' in talk else '',
+                                 id=str(talk['day_raw']) + "-" + str(talk['track']) + "-" + str(talk['time'])
+                                )
               subhtml += '</div> </div>'
               for talk in s:
                 if talk['col'] == 2:
-                  subhtml += '''	<div class="workshop-item" style="grid-row-start:{}; grid-row-end:{}; grid-column-start: {}; grid-column-end: {};" id="schedule-field-{}" onclick="var hid=$(this).attr('id').replace('schedule-field','hidden-field'); if (!$('#'+hid).hasClass('active')) $('#'+hid).fadeIn(250),$('#'+hid).addClass('active'); else $('#'+hid).fadeOut(250),$('#'+hid).removeClass('active');">
+                  subhtml += '''	<div class="workshop-item" style="grid-row-start:{}; grid-row-end:{}; grid-column-start: {}; grid-column-end: {};" data-special-id="{}" id="{id}" onclick="var hid='hidden-field-'+$(this).data('special-id'); if (!$('#'+hid).hasClass('active')) $('#'+hid).fadeIn(250),$('#'+hid).addClass('active'); else $('#'+hid).fadeOut(250),$('#'+hid).removeClass('active');">
                 <div class="workshop-text">
                   <div class="v-sign">v</div>
                   <b>{}</b><br>
                   {}
                   <div class="hidden-field" id="hidden-field-{}">
                     <br>
+                    <div style="display:{youtube_display};">
+                        <a href="{youtube_url}" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1280px-YouTube_full-color_icon_%282017%29.svg.png" style="height:18px; display: inline;"> WATCH IN YOUTUBE</a>
+                        
+                        <div style="margin-top: 5px;">
+                            <!-- (1) video wrapper -->
+                            <div class="youtube" data-embed="{youtube_id}"> 
+
+                                <!-- (2) the "play" button -->
+                                <div class="play-button"></div> 
+
+                            </div>
+                        </div>
+                    </div>
+                    <br>
                     <div><a href="/layout#{layoutanchor}">{}</a></div>
                     <br>
                     <div><b>Description:</b></div>
@@ -226,11 +362,16 @@ class ScheduleShortcode(ShortcodePlugin):
                     <br>
                     <div><b>{}</b></div>
                     <br>
-                    <a href="/talks#row-{}">View more talks information</a> <br>
-                    <a href="/speakers#row-{}">View more speaker information</a>
+                    <a href="/talks#{id}">View more talks information</a> <br>
+                    <a href="/speakers#{id}">View more speaker information</a>
                   </div>
                 </div>
-              </div>'''.format(talk['row']-rowoffset,talk['row']-rowoffset+3,talk['col'],talk['col'],talk['specialid'],talk['title'],talk['speaker'],talk['specialid'],talk['timeplace'],talk['description'],talk['bio'],tracks[talk['subcol']],talk['specialid'],talk['specialid'],layoutanchor=talk['room_anchor'])
+              </div>'''.format(talk['row']-rowoffset,talk['row']-rowoffset+3,talk['col'],talk['col'],talk['specialid'],talk['title'],talk['speaker'],talk['specialid'],talk['timeplace'],talk['description'],talk['bio'],tracks[talk['subcol']],layoutanchor=talk['room_anchor'],
+                                 youtube_display = "block" if YOUTUBE_URL_KEY in talk else "none",
+                                 youtube_url=talk[YOUTUBE_URL_KEY] if YOUTUBE_URL_KEY in talk else '',
+                                 youtube_id=talk['youtube_id'] if 'youtube_id' in talk else '',
+                                 id=str(talk['day_raw']) + "-" + str(talk['track']) + "-" + str(talk['time'])
+                              )
 
               html += subhtml
 
@@ -350,22 +491,33 @@ class ScheduleShortcode(ShortcodePlugin):
                 }
             }
             </style>
-            '''
+            ''' + youtube_style
 
 
-            return ''+htmlhead+'<div class="root-container">'+html+'</div>'
+            return ''+htmlhead+'<div class="root-container">'+html+'</div>'+youtube_script
         
         elif mode=="talks":
             html = '<div>'
             
             talks = sorted(talks,key=lambda t: t['title'])
             
+            htmlhead = youtube_style
+            
             htmlblock = '''
-            <div class="clearfix section" id="row-{}">
+            <div class="clearfix section" id="{id}">
                 <h1>{}</h1>
-                <p>by <a href="/speakers#row-{}">{}</a></p>
+                <p>by <a href="/speakers#{id}">{}</a></p>
+                <div style="display:{youtube_display};">
+                    <!-- (1) video wrapper -->
+                    <div class="youtube" data-embed="{youtube_id}"> 
+
+                        <!-- (2) the "play" button -->
+                        <div class="play-button"></div> 
+
+                    </div>
+                </div>
                 <p>Format: {} (Duration: {})</p>
-                <p><a href="/schedule#schedule-field-{}">{}</a></p>
+                <p><a href="/schedule#{id}">{}</a></p>
                 <div class="section" id="abstract">
                     <h2>Abstract</h2>
                     <p>{}</p>
@@ -375,11 +527,15 @@ class ScheduleShortcode(ShortcodePlugin):
             
             for talk in talks:
                 if not 'format' in talk: continue
-                html += htmlblock.format(talk['specialid'],talk['title'],talk['specialid'],talk['speaker'],talk['format'],talk['dur'],talk['specialid'],talk['timeplace'],talk['description'])
+                html += htmlblock.format(talk['title'],talk['speaker'],talk['format'],talk['dur'],talk['timeplace'],talk['description'], 
+                                         youtube_display = "block" if YOUTUBE_URL_KEY in talk else "none",
+                                         youtube_id=talk['youtube_id'] if 'youtube_id' in talk else '',
+                                         id=str(talk['day_raw']) + "-" + str(talk['track']) + "-" + str(talk['time'])
+                                        )
             
             html += '</div>'
             
-            return html
+            return htmlhead + html + youtube_script
         
         elif mode=="speakers":
             html = '<div>'
@@ -396,12 +552,12 @@ class ScheduleShortcode(ShortcodePlugin):
             '''
             
             htmlblock = '''
-            <div class="clearfix section" id="row-{}">
+            <div class="clearfix section" id="{id}">
                 <h1>{}</h1>
                 <img alt="{}" class="img-circle img-responsive align-right profile-img" src="{}">
                 {}
-                <p>Talk: <a href="/talks#row-{}">{}</a></p>
-                <p><a href="/schedule#schedule-field-{}">{}</a></p>
+                <p>Talk: <a href="/talks#{id}">{}</a></p>
+                <p><a href="/schedule#{id}">{}</a></p>
                 <div class="section" id="biography">
                   <h2>Biography</h2>
                   <p>{}</p>
@@ -411,9 +567,10 @@ class ScheduleShortcode(ShortcodePlugin):
             
             for talk in talks:
                 if not 'format' in talk: continue
-                html += htmlblock.format(talk['specialid'],talk['speaker'],talk['speaker'],talk['speakerimg'],
+                html += htmlblock.format(talk['speaker'],talk['speaker'],talk['speakerimg'],
                                          '<p class="fa fa-twitter fa-fw"><a class="reference external" href="https://twitter.com/{}">{}</a></p>'.format(talk['twitter'],talk['twitter']) if len(talk['twitter'].strip()) > 0 else ""
-                                         ,talk['specialid'],talk['title'],talk['specialid'],talk['timeplace'],talk['bio'])
+                                         ,talk['title'],talk['timeplace'],talk['bio'],
+                                        id=str(talk['day_raw']) + "-" + str(talk['track']) + "-" + str(talk['time']))
             
             html += '</div>'
             
