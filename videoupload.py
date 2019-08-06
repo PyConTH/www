@@ -241,8 +241,7 @@ def update_youtube(youtube, videos):
 
 Speaker Bio - {}:
 
-{}
-""".format(video['speaker'],
+{}""".format(video['speaker'],
            date.strftime("%a %d %b"),
            url,
            reST_to_text(video['description'] or '').strip('\n'),
@@ -257,7 +256,7 @@ Speaker Bio - {}:
                 title=title,
                 description=description,
                 tags=tags,
-                categoryId=28
+                categoryId='28'
             ),
             recordingDetails= {
                 "location": {
@@ -267,6 +266,18 @@ Speaker Bio - {}:
                 "recordingDate": date.astimezone(pytz.utc).isoformat().replace('+00:00','.000Z')
             }
         )
+
+        def same(x,y):
+            # Stupid tags come back in random order
+            if type(x) == list:
+                return set(x) == set(y)
+            else:
+                return x == y
+
+        if all([same(body['snippet'][key],video['snippet'][key]) for key in body['snippet']]):
+            # nothing needs updating
+            continue
+
         print(video['snippet'])
         print(body)
 

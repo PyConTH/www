@@ -716,6 +716,7 @@ talks:
   time: 12:00
   dur: 00:40
 
+  youtube_url: https://www.youtube.com/watch?v=BvlRwm_GjZw
 - bio: |-
     Sam is a Google Developer Expert for Machine Learning and is a co-founder
     of Red Dragon AI a deep tech company based in Singapore. He has extensive experience
@@ -941,6 +942,7 @@ talks:
   time: 15:45
   dur: 00:40
 
+  youtube_url: https://www.youtube.com/watch?v=Jr_pD3_wBbk
 - bio: |-
     Anyone can signup at registration
   description: |-
