@@ -418,7 +418,7 @@ def get_talks(file):
     with open(file, encoding="utf8") as f:
         data = ruamel.yaml.load(f, ruamel.yaml.RoundTripLoader)
         for t in data['talks']:
-            if t.get('speaker'):
+            if t.get('speaker') and t.get('track'):
                 yield t
 
 def update_talks(file, videos):
@@ -558,20 +558,15 @@ def do_upload(youtube, videos):
 
 
 if __name__ == '__main__':
-    argparser.add_argument("--driveurl", required=True, help="share url for the videos")
+    argparser.add_argument("--driveurl", required=False, help="share url for the videos")
     argparser.add_argument("--talks", required=True, help="Talks.yaml file")
     argparser.add_argument("--channelid", default="UCtHekbmBXtp5AYSVARFQQiw")
     argparser.add_argument("--no_upload", default=False, action='store_true')
-    #argparser.add_argument("--title", help="Video title", default="Test Title")
-    # argparser.add_argument("--description", help="Video description",
-    #                        default="Test Description")
     # argparser.add_argument("--category", default="22",
     #                        help="Numeric video category. " +
     #                             "See https://developers.google.com/youtube/v3/docs/videoCategories/list")
     # argparser.add_argument("--keywords", help="Video keywords, comma separated",
     #                        default="")
-    # argparser.add_argument("--privacyStatus", choices=VALID_PRIVACY_STATUSES,
-    #                        default=VALID_PRIVACY_STATUSES[0], help="Video privacy status.")
     args = argparser.parse_args()
     #
     # if not os.path.exists(args.file):
@@ -588,25 +583,29 @@ if __name__ == '__main__':
     channel = get_channel(youtube, args.channelid)
     #channel = dict([('Do you know what Pycon Thailand is all about?', {'id': 'UExY3mb-CkA', 'filename': 'pycon2018.mp4', 'title': 'Do you know what Pycon Thailand is all about?', 'publishedAt': '2019-05-15T07:46:52.000Z', 'channelId': 'UCtHekbmBXtp5AYSVARFQQiw', 'description': "Wonder what Pycon is all about? Here's a video on what happened last year. With more attendees, more booths, and more keynote speakers this year, we're ...", 'thumbnails': {'default': {'url': 'https://i.ytimg.com/vi/UExY3mb-CkA/default.jpg', 'width': 120, 'height': 90}, 'medium': {'url': 'https://i.ytimg.com/vi/UExY3mb-CkA/mqdefault.jpg', 'width': 320, 'height': 180}, 'high': {'url': 'https://i.ytimg.com/vi/UExY3mb-CkA/hqdefault.jpg', 'width': 480, 'height': 360}}, 'channelTitle': 'PyCon Thailand', 'liveBroadcastContent': 'none'}), ('Introduction to serverless Python with AWS Lambda', {'id': 'NPsp_MwhUiI', 'filename': 'unknown', 'title': 'Introduction to serverless Python with AWS Lambda', 'publishedAt': '2018-08-09T04:08:48.000Z', 'channelId': 'UCtHekbmBXtp5AYSVARFQQiw', 'description': 'PyCon Thailand: https://2018.th.pycon.org/ Introduction to serverless Python with AWS Lambda Speaker: Murat Knecht https://twitter.com/muratknecht ...', 'thumbnails': {'default': {'url': 'https://i.ytimg.com/vi/NPsp_MwhUiI/default.jpg', 'width': 120, 'height': 90}, 'medium': {'url': 'https://i.ytimg.com/vi/NPsp_MwhUiI/mqdefault.jpg', 'width': 320, 'height': 180}, 'high': {'url': 'https://i.ytimg.com/vi/NPsp_MwhUiI/hqdefault.jpg', 'width': 480, 'height': 360}}, 'channelTitle': 'PyCon Thailand', 'liveBroadcastContent': 'none'}), ('Graph-Theoretic Computation in Python', {'id': '1-aSxYDiyZM', 'filename': 'unknown', 'title': 'Graph-Theoretic Computation in Python', 'publishedAt': '2018-08-08T12:54:45.000Z', 'channelId': 'UCtHekbmBXtp5AYSVARFQQiw', 'description': 'PyCon Thailand: https://2018.th.pycon.org/ Graph-Theoretic Computation in Python Speaker: Poomjai Nacaskul, PhD, DIC, CFA ------------ Description: Playing ...', 'thumbnails': {'default': {'url': 'https://i.ytimg.com/vi/1-aSxYDiyZM/default.jpg', 'width': 120, 'height': 90}, 'medium': {'url': 'https://i.ytimg.com/vi/1-aSxYDiyZM/mqdefault.jpg', 'width': 320, 'height': 180}, 'high': {'url': 'https://i.ytimg.com/vi/1-aSxYDiyZM/hqdefault.jpg', 'width': 480, 'height': 360}}, 'channelTitle': 'PyCon Thailand', 'liveBroadcastContent': 'none'}), ('Python for Self-Trackers: How to Visualize and Better Understand Your Life in Data', {'id': 'wHuHC1VflZ8', 'filename': 'unknown', 'title': 'Python for Self-Trackers: How to Visualize and Better Understand Your Life in Data', 'publishedAt': '2018-08-08T12:02:27.000Z', 'channelId': 'UCtHekbmBXtp5AYSVARFQQiw', 'description': 'PyCon Thailand: https://2018.th.pycon.org/ Python for Self-Trackers: How to Visualize and Better Understand Your Life in Data Speaker: Mark Koester ...', 'thumbnails': {'default': {'url': 'https://i.ytimg.com/vi/wHuHC1VflZ8/default.jpg', 'width': 120, 'height': 90}, 'medium': {'url': 'https://i.ytimg.com/vi/wHuHC1VflZ8/mqdefault.jpg', 'width': 320, 'height': 180}, 'high': {'url': 'https://i.ytimg.com/vi/wHuHC1VflZ8/hqdefault.jpg', 'width': 480, 'height': 360}}, 'channelTitle': 'PyCon Thailand', 'liveBroadcastContent': 'none'})])
 
-    merged, no_matched, to_upload = join(channel, talks,
+    merged, no_matched, no_video = join(channel, talks,
                                          lambda i: i['title'].lower().replace('_',' '),
                                          lambda i: ' - '.join([i['title'],i['speaker']]).lower(),
                                          lambda l,r: dict(youtubeid=l['id'], snippet=l['snippet'], youtubetitle=l['title'], **r))
-    print("unmatched")
+    print("Youtube videos - unmatched")
     for item in no_matched:
-        print(item['title'])
-    print("matched")
-    for item in merged:
-        print(item['youtubetitle'])
-        print(item['title'])
+        print(" - ", item['title'])
+    print("Talks with no video")
+    for item in no_video:
+        print(" - ", item['title'], " - ", item['speaker'])
+
+    # print("matched")
+    # for item in merged:
+    #     print(item['youtubetitle'])
+    #     print(item['title'])
 
     update_talks(args.talks, merged)
     # TODO: Update title and description on youtube if different
     update_youtube(youtube, merged)
 
-    if not args.no_upload:
+    if not args.no_upload and args.driveurl:
         to_upload, no_drive, no_talks = join(get_videos(drive, args.driveurl),
-                                          to_upload,
+                                          no_video,
                                           key_drive,
                                           key_yaml,
                                           lambda l, r: dict([('drive_id', l['id'])] + list(r.items())))

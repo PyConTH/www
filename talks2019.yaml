@@ -63,6 +63,7 @@ talks:
   time: 14:05
   dur: 00:40
 
+  youtube_url: https://www.youtube.com/watch?v=tv2GNIRA9_E
 - bio: |-
     CEO of DycodeX - the AIoT enabler in Indonesia. Microsoft Most Valuable Professional (MVP) of Microsoft Azure.
     15 years as entrepreneur. A developer, hardware maker, and public speaker.
@@ -174,6 +175,7 @@ talks:
   time: 15:45
   dur: 00:40
 
+  youtube_url: https://www.youtube.com/watch?v=keAeVmYPpz4
 - bio: |-
     My name is Charin Polpanumas and I am a data scientist with over five years of track records in Southeast Asia,
     Japan, and China. I have delivered data products that save millions USD annually at the region's largest
@@ -228,6 +230,7 @@ talks:
   time: 10:20
   dur: 00:40
 
+  youtube_url: https://www.youtube.com/watch?v=Jhp5RPTHStQ
 - bio: |-
     Drishti is a Computer Engineer at heart and a technology enthusiast. She loves to use technology to help the less fortunate. She believes in democratizing opportunities and brings knowledge of the latest developments in the fast-moving field of technology to deserving students, and keep them up to date and well-equipped for their respective professional careers.
     She has spoken at 12+ conferences across the globe and is also a social entrepreneur. Her non-profit organisation - Samyak Drishti Foundation works in environment, education and healthcare sectors and operates in 10 cities across India.
@@ -1264,6 +1267,7 @@ talks:
   time: 09:05
   dur: 00:45
 
+  youtube_url: https://www.youtube.com/watch?v=ajW0JaxLK44
 - title: PyCon Thailand Group Photo
   speaker: All of Us (bottom of Auditorium)
   description:
@@ -1343,6 +1347,7 @@ talks:
   time: 17:45
   dur: 00:45
 
+  youtube_url: https://www.youtube.com/watch?v=RpVtXCaeT_Q
 - title: Closing
   speaker: PyCon Thailand Team
   description: A few words to wrap up what was an amazing event and thank everyone
