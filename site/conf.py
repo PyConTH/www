@@ -22,7 +22,7 @@ BLOG_AUTHOR = {"en": "PyCon Thailand team", "th": "PyCon Thailand team"}  # (tra
 BLOG_TITLE = {"en":"PyCon Thailand", "th": "PyCon Thailand"}  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://th.pycon.org/"
+SITE_URL = "https://2019.th.pycon.org/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://th.pycon.org/"
